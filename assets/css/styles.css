@@ -7,7 +7,6 @@ body {
 nav {
     /* background-color: rgb(128, 0, 0); */
     background-color: rgba(155, 0, 0, 1);
-
     z-index: 999;
     padding: 20px 4%;
     text-align: right;
@@ -20,12 +19,23 @@ nav {
     display: block;
 }
 
-nav>a {
+nav ul {
+    list-style: none;
+    display: inline;
+}
+
+nav li {
+    display: inline;
+}
+
+
+nav a {
     padding: 0 0 0 60px;
     color: whitesmoke;
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Metamorphous', cursive;
+    font-size: 0.9rem;
 }
 
 nav a:hover {
@@ -122,9 +132,9 @@ nav a:hover {
 }
 
 #index h2 {
-    line-height: 1.1;
+    line-height: 1;
     font-family: 'Jim Nightshade', cursive;
-    color: slategrey;
+    color: rgb(77, 76, 76);
     font-size: 2rem;
     font-weight: 500;
     padding: 10px;
@@ -136,7 +146,7 @@ nav a:hover {
 #index .site_description p {
     font-family: 'Montserrat', 'Verdana', sans-serif;
     font-size: 1rem;
-    color: slategray;
+    color: rgb(77, 76, 76);
     line-height: 1.5;
 }
 
