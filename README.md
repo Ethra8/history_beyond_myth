@@ -42,8 +42,6 @@ Edna Torres Munill
     * I want to know if there is any interesting event around Europe related to early middle ages, or the Arthurian legends.
     * I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
 
-
-
 ### User Profiles
 
 1. Malia is interested in early middle ages' history and myths, and wants to learn more about curious coincidences found between academically recognised history facts and medieval myths such as the well-known Arthurian legends.
@@ -51,3 +49,7 @@ Edna Torres Munill
 2. Sarah is a curious being and likes attending expositions of all sorts, including Middle Ages topic-related cultural gatherings. 
 
 3. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian legends.
+
+## DESIGN CHOICES
+
+### Colors
