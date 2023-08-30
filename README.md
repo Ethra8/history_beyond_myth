@@ -28,19 +28,19 @@ Edna Torres Munill
 
 ### User Stories
 1. As a first-time visitor,
-* I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
-* I want to get information on how to receive follow ups in the investigation, social events, and how to become a member to get the monthly newsletter.
-* I want to find the social media links to see their following and to look at photos from past events.
+    * I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
+    * I want to get information on how to receive follow ups in the investigation, social events, and how to become a member to get the monthly newsletter.
+    * I want to find the social media links to see their following and to look at photos from past events.
 
 2. As a returning visitor,
-* I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
-* I want to sign up as a new member after considering my decision, to receive new updates and possible new curious findings of the ongoing investigation.
-* I want to sign up as a new member after a conscient decision, to receive information on new events related to early middle ages history and/or medieval myths including the Arthurian legends.
+    * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
+    * I want to sign up as a new member after considering my decision, to receive new updates and possible new curious findings of the ongoing investigation.
+    * I want to sign up as a new member after a conscient decision, to receive information on new events related to early middle ages history and/or medieval myths including the Arthurian legends.
 
 3. As member,
-* I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
-* I want to know if there is any interesting event around Europe related to early middle ages, or the Arthurian legends.
-* I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
+    * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
+    * I want to know if there is any interesting event around Europe related to early middle ages, or the Arthurian legends.
+    * I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
 
 
 
