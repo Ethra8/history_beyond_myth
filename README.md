@@ -48,6 +48,6 @@ Edna Torres Munill
 
 1. Malia is interested in early middle ages' history and myths, and wants to learn more about curious coincidences found between academically recognised history facts and medieval myths such as the well-known Arthurian legends.
 
-2. Sarah is curious and likes attending expositions of all sorts and cultural gatherings. 
+2. Sarah is a curious being and likes attending expositions of all sorts, including Middle Ages topic-related cultural gatherings. 
 
 3. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian legends.
