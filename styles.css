@@ -5,7 +5,9 @@ body {
 }
 
 nav {
-    background-color: rgb(128, 0, 0);
+    /* background-color: rgb(128, 0, 0); */
+    background-color: rgba(155, 0, 0, 1);
+
     z-index: 999;
     padding: 20px 4%;
     text-align: right;
@@ -100,17 +102,12 @@ nav a:hover {
 }
 
 #one {
-    padding: 0 5px;
+    padding: 0;
     position: relative;
     background-attachment: fixed;
-    width: 100%;
+    width: 99%;
     display: flex;
     flex-wrap: nowrap;
-}
-
-.one {
-    position: absolute;
-    display: block;
 }
 
 #index .site_description {
