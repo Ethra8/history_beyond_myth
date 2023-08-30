@@ -17,6 +17,10 @@ nav {
     left: 0;
     max-width: 100%;
     display: block;
+    border-bottom: rgb(56, 1, 1);
+    border-style: solid;
+    border-width: 0 0 5px 0;
+    /* box-shadow: 0 5px 0 rgba(71, 71, 71, 0.4); */
 }
 
 nav ul {
@@ -53,7 +57,7 @@ nav .active {
     padding: 120px 7% 30px;
     min-height: 8rem;
     max-height: 50rem;
-    background-color: rgb(128, 0, 0);
+    background-color: #8f0303;
     margin-top: 0;
 }
 
@@ -156,23 +160,21 @@ nav .active {
 
 #dark-ages {
     background-color: black;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 
 #dark-ages header {
     padding: 80px 4% 20px 4%;
     min-height: fit-content;
     max-height: 14rem;
-    background-color: rgba(155, 0, 0, 1);
+    background-color: #8f0303;
     margin-top: 0;
     z-index: 900;
     /* width: 100%; */
     display: block;
     position: relative;
     border-style: solid;
-    border-bottom-width: 40px;
-    border-left: none;
-    border-right: none;
+    border-width: 0 0 40px 0;
     border-color: black;
 }
 
