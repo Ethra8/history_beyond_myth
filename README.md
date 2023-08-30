@@ -12,12 +12,12 @@ Edna Torres Munill
 
 ## TABLE OF CONTENTS
 - [HISTORY BEYOND MYTHS](#history-beyond-myths)
-* [Author](#Author)
-* [Project Overview](#project-overview)
-* [UX](#UX)
-+ [Project Goal](#project-goal)
-+ [User Stories](#user-stories)
-+ [User Profiles](#user-profiles)
+    * [Author](#Author)
+    * [Project Overview](#project-overview)
+    * [UX](#UX)
+        + [Project Goal](#project-goal)
+        + [User Stories](#user-stories)
+        + [User Profiles](#user-profiles)
 
 ## UX
 
