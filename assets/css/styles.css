@@ -165,11 +165,11 @@ nav .active {
 /*** ARTHUR I **************/
 
 
-#dark-ages {
+#arthur {
     background-color: black;
 }
 
-#dark-ages header {
+#arthur header {
     padding: 80px 4% 20px 4%;
     min-height: fit-content;
     max-height: 14rem;
@@ -184,7 +184,7 @@ nav .active {
     border-color: black;
 }
 
-header img {
+#arthur header img {
     position: relative;
     left: 0;
     margin-right: 50px;
@@ -197,7 +197,7 @@ header img {
     box-shadow: 0 0 10px rgb(88, 88, 88);
 }
 
-#dark-ages header>.left {
+#arthur header>.left {
     display: inline-block;
     width: 50%;
     text-align: left;
@@ -205,7 +205,7 @@ header img {
     bottom: 3rem;
 }
 
-#dark-ages header>.right {
+#arthur header>.right {
     width: 50%;
     text-align: right;
     position: relative;
@@ -215,7 +215,7 @@ header img {
     display: inline-block;
 }
 
-#dark-ages header>.right>.vl {
+#arthur header>.right>.vl {
     position: relative;
     left: 190px;
     bottom: 3rem;
@@ -229,7 +229,7 @@ header img {
 
 }
 
-#dark-ages header .right p {
+#arthur header .right p {
     margin-bottom: 0;
     padding-bottom: 0;
     font-size: 1.8rem;
@@ -237,12 +237,12 @@ header img {
     bottom: 10rem;
 }
 
-#dark-ages header .left p {
+#arthur header .left p {
     margin-top: -10px;
     padding-bottom: 0;
 }
 
-#dark-ages h1 {
+#arthur h1 {
     font-family: 'Metamorphous', cursive;
     font-size: 2.2rem;
     margin: 0 auto;
@@ -251,14 +251,14 @@ header img {
     text-shadow: 0 0 20px rgb(88, 88, 88);
 }
 
-#dark-ages h1 .capital {
+#arthur h1 .capital {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 6.5rem;
     color: rgb(216, 214, 214);
     -webkit-text-stroke: 0.05px rgb(66, 66, 66);
 }
 
-#dark-ages header p {
+#arthur header p {
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
     font-size: 2rem;
@@ -267,7 +267,7 @@ header img {
     text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
-#dark-ages h2 {
+#arthur h2 {
     line-height: 1.1;
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
@@ -280,7 +280,7 @@ header img {
 }
 
 #index h2>span,
-#dark-ages h2>span {
+#arthur h2>span {
     font-family: 'Fleur De Leah', cursive;
     font-size: 3.8rem;
     line-height: 0.9;
@@ -288,7 +288,7 @@ header img {
     position: relative;
 }
 
-#dark-ages>.background img {
+#arthur>.background img {
     z-index: 1;
     position: fixed;
     left: 0;
@@ -449,13 +449,13 @@ footer .fa-envelope {
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
 
     #index header,
-    #dark-ages header {
+    #arthur header {
         min-height: fit-content;
         max-height: fit-content;
         padding: 100px 5% 15px;
     }
 
-    #dark-ages header>.left {
+    #arthur header>.left {
         text-align: center;
         width: 100%;
         position: relative;
@@ -466,7 +466,7 @@ footer .fa-envelope {
         z-index: 900;
     }
 
-    #dark-ages header>.right {
+    #arthur header>.right {
         display: none;
     }
 
@@ -522,7 +522,7 @@ footer .fa-envelope {
         padding: 0 10px;
     }
 
-    #dark-ages header {
+    #arthur header {
         padding: 100px 30px 20px 0;
     }
 
@@ -535,11 +535,11 @@ footer .fa-envelope {
     }
 
     #index img,
-    #dark-ages>.background img {
+    #arthur>.background img {
         max-width: 100%;
     }
 
-    #dark-ages header>.left {
+    #arthur header>.left {
         text-align: left;
         width: 100%;
         position: relative;
@@ -550,24 +550,24 @@ footer .fa-envelope {
         z-index: 900;
     }
 
-    #dark-ages header>.right {
+    #arthur header>.right {
         display: none;
     }
 
     #index h1,
-    #dark-ages h1 {
+    #arthur h1 {
         font-size: 2rem;
         padding: 0;
     }
 
     #index h1 .capital,
-    #dark-ages h1 .capital {
+    #arthur h1 .capital {
         font-size: 4.5rem;
         -webkit-text-stroke: 0.05px rgb(66, 66, 66);
     }
 
     #index header p,
-    #dark-ages header p {
+    #arthur header p {
         font-size: 1.8rem;
         padding: 0 25px 0;
     }
@@ -577,7 +577,7 @@ footer .fa-envelope {
         border-width: 7px;
     }
 
-    #dark-ages>.background img {
+    #arthur>.background img {
         margin: 0;
         max-width: 100%;
         left: 0;
@@ -649,13 +649,13 @@ footer .fa-envelope {
     }
 
     #index h1,
-    #dark-ages h1 {
+    #arthur h1 {
         padding: 20px 15px 15px;
         font-size: 1.7rem;
     }
 
     #index header,
-    #dark-ages header {
+    #arthur header {
         padding-right: 15px;
         padding-left: 15px;
         line-height: 1;
@@ -664,7 +664,7 @@ footer .fa-envelope {
         margin: 0 auto;
     }
 
-    #dark-ages header>.left {
+    #arthur header>.left {
         text-align: center;
         width: 100%;
         position: relative;
@@ -675,15 +675,15 @@ footer .fa-envelope {
         z-index: 900;
     }
 
-    #dark-ages header>.left p {
+    #arthur header>.left p {
         padding-bottom: 0;
     }
 
-    #dark-ages header>.right {
+    #arthur header>.right {
         display: none;
     }
 
-    #dark-ages header img {
+    #arthur header img {
         float: none;
         margin: 20px auto 0;
         padding-right: 0;
@@ -693,7 +693,7 @@ footer .fa-envelope {
     }
 
     #index header .capital,
-    #dark-ages header .capital {
+    #arthur header .capital {
         font-size: 3.5rem;
     }
 
@@ -701,7 +701,7 @@ footer .fa-envelope {
         font-size: 2rem;
     }
 
-    #dark-ages>.background img {
+    #arthur>.background img {
         margin: 0;
         float: none;
         left: 0;
