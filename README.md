@@ -66,12 +66,16 @@ Edna Torres Munill
     -webkit-text-stroke: 0.05px rgb(66, 66, 66) to bring volume, inspired by the metal from medieval armours and swords.
  
  ### Typography
- - The logo and the headers' h1 1st letters of main words use UnifrakturMaguntia, the rest of all headings' h1 use Metamorphous, and headings' p use Jim Nightshade, all with a fall-back font of cursive. 
+ - The logo, to the left of the navigation bar, and as a favicon in each page meta title, is a single "h" from "history", using UnifrakturMaguntia font.
+  <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
+ - The 1st letters of main words in headers use UnifrakturMaguntia, and the remaining h1 text in headers use Metamorphous. All headers' paragraph (p) use Jim Nightshade, all these with a fall-back font of cursive. 
  - The word "beyond" in the main page header is the only one to use Reenie Beanie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
 
  <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
- - The navigation bar also uses Metamorphous in capital letters, which gives a very readable mediavel style to the site.
+ - The navigation bar also uses Metamorphous in capital letters, which gives a very readable medieval style to the site.
+  <img width="500" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/navbar.png">
+
  - The 1st letter of all sections' titles and h2 in general use Fleur De Leah, which recreate the 1st letters of paragraphas from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
  - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
