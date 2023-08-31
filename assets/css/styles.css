@@ -103,33 +103,40 @@ nav .active {
     text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
-#one a {
-    margin: 0 -5px 0 0;
+#index .title_images a {
+    margin: 0;
     padding: 0;
     background-attachment: fixed;
 }
 
-#one img {
+#index .title_images img {
     margin: 0;
     padding: 0;
 }
 
-#one {
+#index .title_images {
     padding: 0;
     position: relative;
     background-attachment: fixed;
-    width: 99%;
+    width: 100%;
     display: flex;
     flex-wrap: nowrap;
+    overflow: hidden;
+
 }
 
 #index .site_description {
-    background: url('../images/manuscript_background.png') repeat-y;
+    background: url('../images/manuscript_background.png') repeat-y center center;
+    overflow: hidden;
+    font-family: 'Montserrat', 'Verdana', sans-serif;
+    font-size: 1.1rem;
+    color: rgb(77, 76, 76);
+    line-height: 1.5;
 }
 
 #black_transparency {
     background-color: rgba(0, 0, 0, 0.75);
-    padding: 50px;
+    padding: 30px;
 }
 
 #black_transparency div {
@@ -137,7 +144,7 @@ nav .active {
     padding: 5%;
     border-radius: 10px;
     box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.9);
-    width: 60%;
+    width: 65%;
     margin: 80px auto;
 }
 
@@ -153,12 +160,6 @@ nav .active {
     text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 
-#index .site_description p {
-    font-family: 'Montserrat', 'Verdana', sans-serif;
-    font-size: 1rem;
-    color: rgb(77, 76, 76);
-    line-height: 1.5;
-}
 
 
 /*** ARTHUR I **************/
@@ -366,6 +367,65 @@ figcaption {
     visibility: hidden;
 }
 
+
+/*** FOOTER  *****/
+
+footer #contact {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    padding: 30px 5% 10px;
+}
+
+footer #contact h2 {
+    color: antiquewhite;
+    font-weight: 500;
+}
+
+footer #contact a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1.2rem;
+    display: inline-flex;
+}
+
+footer #contact a:hover {
+    font-weight: 500;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+footer .fab {
+    color: whitesmoke;
+    /* width: 60px;
+    align-items: center; */
+}
+
+footer .social-media {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    font-size: 1.7rem;
+}
+
+footer .social-media a:hover {
+    font-size: 1.9rem;
+    color: white;
+    font-size: 2rem;
+}
+
+footer .fa-envelope {
+    margin-right: 15px;
+}
+
+
 @media only screen and (max-width: 1024px) {
 
     #henry_II {
@@ -451,30 +511,6 @@ figcaption {
 
 }
 
-
-/* @media only screen and (min-width: 768px) and (max-width: 820px) {
-
-    figure#richard {
-        position: relative;
-        display: inline-block;
-        visibility: visible;
-        width: 45%;
-        margin: 40px 10px 0;
-    }
-
-    #richard img {
-        width: 223px;
-        height: 275px;
-        margin-left: 50%;
-    }
-
-    #richard .figcaption {
-        width: 210px;
-        max-width: 223px;
-        margin-left: 50%;
-    }
-
-} */
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
