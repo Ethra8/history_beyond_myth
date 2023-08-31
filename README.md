@@ -66,8 +66,8 @@ Edna Torres Munill
     -webkit-text-stroke: 0.05px rgb(66, 66, 66) to bring volume, inspired by the metal from medieval armours and swords.
  
  ### Typography
- - The logo and the headings' 1st letters of main words in h1 use UnifrakturMaguntia, the rest of all headings' h1 use Metamorphous, and headings' p use Jim Nightshade, all with a fall-back font of cursive. 
- - The word "beyond" in the main page header is the only one to use Reenie Beabie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
+ - The logo and the headers' h1 1st letters of main words use UnifrakturMaguntia, the rest of all headings' h1 use Metamorphous, and headings' p use Jim Nightshade, all with a fall-back font of cursive. 
+ - The word "beyond" in the main page header is the only one to use Reenie Beanie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
 
  <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
