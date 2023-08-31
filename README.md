@@ -21,6 +21,7 @@ Edna Torres Munill
     * [DESIGN CHOICES](#design-choices)
         + [Colors](#colors)
         + [Typography](#typography)
+        + [Images](#images)
 
 ## UX
 
@@ -70,3 +71,12 @@ Edna Torres Munill
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
  - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
  - The headings decrease in size to ensure full responsiveness of the website.
+
+ ### Images
+ - The home page has a background image which is a caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi). The chapter explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard the Lionheart, being his rightful heir by birth right. The text calls Arthur "King of Brittany". The depiction of this page of the manuscript shows King Philip II of France arriving to Arthur's castle in Brittany after Richard's death, where Arthur is wearing a crown, and gives homage to Philip in return for Philip's support to Arthur's claim to the throne of England.
+ - The home page has a series of small images put in line underneath the heading, which most reappear in subsequent pages, and are all related to the Arthurian cycle:
+    + an early medieval [map of Britain](https://www.webarchive.org.uk/wayback/archive/20210603114310/http://www.bl.uk/onlinegallery/onlineex/unvbrit/m/001cotclad00006u00012v00.html) dated 1250, from author Matthew Paris, taken from the National British Library.
+    + [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons(https://commons.wikimedia.org/wiki/Main_Page)], heir to Richard I "the Lionheart" by birth right, originally taken from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+    + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction has been taken from page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
+    + Portrait of King Richard "the Lionheart", taken from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+    + [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), as stated in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript "Brief Abridgement of the Chronicles of England" attributed to Matthew Paris, dated 1255-1259 kept in the National British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
