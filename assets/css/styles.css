@@ -124,15 +124,21 @@ nav .active {
 }
 
 #index .site_description {
-    padding: 80px 14%;
+    background: url('../images/manuscript_background.png') repeat-y;
 }
 
-#index .site_description>div {
-    background-color: rgba(255, 255, 252, 1);
+#black_transparency {
+    background-color: rgba(0, 0, 0, 0.75);
     padding: 50px;
+}
+
+#black_transparency div {
+    background-color: rgba(255, 255, 252, 1);
+    padding: 5%;
     border-radius: 10px;
-    margin-bottom: 40px;
     box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.9);
+    width: 60%;
+    margin: 80px auto;
 }
 
 #index h2 {
