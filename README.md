@@ -68,5 +68,5 @@ Edna Torres Munill
  - The navigation bar also uses Metamorphous in capital letters, which gives a very readable mediavel style to the site.
  - The 1st letter of all sections' titles and h2 in general use Fleur De Leah, which recreate the 1st letters of paragraphas from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
- - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&display=swap)
+ - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&&family=Montserrat&display=swap)
  - The headings decrease in size to ensure full responsiveness of the website.
