@@ -1,4 +1,4 @@
-# HISTORY BEYOND MYTHS
+# HISTORY BEYOND MYTH
 
 ## Author
 Edna Torres Munill
@@ -11,7 +11,7 @@ Edna Torres Munill
 - The users of this site who have already signed up will also be able to share any findings of their own, by sending a file of their choice through the form provided in the contact page.
 
 ## TABLE OF CONTENTS
-- [HISTORY BEYOND MYTHS](#history-beyond-myths)
+- [HISTORY BEYOND MYTH](#history-beyond-myth)
     * [Author](#Author)
     * [Project Overview](#project-overview)
     * [UX](#UX)
