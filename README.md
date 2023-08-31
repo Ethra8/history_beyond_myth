@@ -4,7 +4,7 @@
 Edna Torres Munill
 
 ## Project Overview
-- History Beyond Myth is a website that aims at providing the curious reader with true history facts that bear curious coincidences with some of the aspects of well-known myths, such as the Arthurian legends.
+- History Beyond Myth is a website that aims at providing the curious reader with true history facts that bear curious coincidences with some of the aspects of a well-known myth, such as the Arthurian legends.
 - The historical investigation stated in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on these matters.
 - This site is useful for anyone who might be interested in history, and/or in myths and legends in general.
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting events sorrounding myths and/or history around Europe.
