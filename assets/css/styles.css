@@ -54,7 +54,6 @@ nav a:hover {
 
 
 #index {
-    background-color: #8f0303;
     position: relative;
 }
 
@@ -133,7 +132,8 @@ nav a:hover {
 }
 
 #index .site_description {
-    background: url('../images/full_manuscript_background.png') no-repeat center center;
+    background: url('../images/full_manuscript_background.png') repeat-y center center;
+    margin: -30px auto;
     overflow: hidden;
     font-family: 'Montserrat', 'Verdana', sans-serif;
     font-size: 1.2rem;

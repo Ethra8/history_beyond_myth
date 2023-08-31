@@ -22,9 +22,9 @@ Edna Torres Munill
 ## UX
 
 ### Project Goal
-* The project is aimed at providing the user with curious coincidences between true historic facts stated in well-preserved manuscripts and academic studies, and a well-known myth such as the Arthuriam Legend.
-* Members can share any findings of their own, which might contribute to this ever-on-going historical investigation.
-* Members can be aware of any interesting event related to early middle ages' history, and/or myths around Europe, and eventually build social networks with shared interests.
+* The project is aimed at providing the user with curious coincidences between academicaqlly recognised historic facts stated in well-preserved manuscripts and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
+* Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
+* Members can be aware of any interesting event related to history from the early middle ages, and/or myths around Europe, and eventually build social networks with shared interests.
 
 ### User Stories
 1. As a first-time visitor,
@@ -53,3 +53,9 @@ Edna Torres Munill
 ## DESIGN CHOICES
 
 ### Colors
+- Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of red #B30502 for the headers.
+- The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using #1b1b1b also in order to favour contrast with the colorful captions taken from the illuminated manuscripts.
+- The tone whitesmoke has been used for the fonts, to ensure clear contrast and readability for the user.
+- Headings's 1st letters are in metal-like color rgb(216, 214, 214) including
+    -webkit-text-stroke: 0.05px rgb(66, 66, 66), inspired by the metal from medieval armours and swords
+ 
