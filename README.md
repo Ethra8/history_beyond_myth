@@ -71,13 +71,18 @@ Edna Torres Munill
  - The 1st letters of main words in headers use UnifrakturMaguntia, and the remaining h1 text in headers use Metamorphous. All headers' paragraph (p) use Jim Nightshade, all these with a fall-back font of cursive. 
  - The word "beyond" in the main page header is the only one to use Reenie Beanie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
 
- <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
+
+  <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
  - The navigation bar also uses Metamorphous in capital letters, which gives a very readable medieval style to the site.
+
   <img width="900" alt="navbar" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/navbar.png">
 
- - The 1st letter of all sections' titles and h2 in general use Fleur De Leah, which recreate the 1st letters of paragraphas from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
+ - Only the 1st letter of all sections' titles (h2) use Fleur De Leah, which recreate the 1st letters of paragraphs from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
+
+  <img width="700" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
+
  - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
  - The headings decrease in size to ensure full responsiveness of the website.
 
