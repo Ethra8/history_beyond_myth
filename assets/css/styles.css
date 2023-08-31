@@ -58,13 +58,13 @@ nav a:hover {
     position: relative;
 }
 
-#index header {
+#index header,
+#avalon header {
     text-align: center;
-    padding: 120px 7% 30px;
+    padding: 120px 7% 50px;
     min-height: 8rem;
-    max-height: 50rem;
+    max-height: 12rem;
     background-color: #B30502;
-    margin-top: 40px;
 }
 
 #index h1 {
@@ -84,7 +84,8 @@ nav a:hover {
 
 }
 
-#index h1 .capital {
+#index h1 .capital,
+#avalon h1 .capital {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 6.5rem;
     color: rgb(216, 214, 214);
@@ -187,11 +188,10 @@ nav a:hover {
 }
 
 #arthur header {
-    padding: 80px 4% 20px 4%;
+    padding: 120px 4% 20px;
     min-height: fit-content;
     max-height: 14rem;
     background-color: #B30502;
-    margin-top: 50px;
     z-index: 900;
     /* width: 100%; */
     display: block;
@@ -259,7 +259,8 @@ nav a:hover {
     padding-bottom: 0;
 }
 
-#arthur h1 {
+#arthur h1,
+#avalon h1 {
     font-family: 'Metamorphous', cursive;
     font-size: 2.2rem;
     margin: 0 auto;
@@ -386,6 +387,7 @@ figcaption {
 
 
 /*** FOOTER  *****/
+
 footer {
     background-color: #8f0303;
     position: relative;
@@ -403,6 +405,12 @@ footer #contact {
 footer #contact h2 {
     color: antiquewhite;
     font-weight: 500;
+}
+
+footer #contact h2 span {
+    font-family: 'Metamorphous', cursive;
+    font-size: 1.5rem;
+    font-variant: small-caps;
 }
 
 footer #contact p {
@@ -446,8 +454,29 @@ footer .social-media {
     align-items: center;
     padding: 0;
     font-size: 1.7rem;
+    margin: 0 0 0px;
 }
 
+
+/**** CONTACT / SIGN-UP *******/
+
+#contact header {
+    text-align: center;
+    padding: 120px 7% 0;
+    min-height: 5rem;
+    max-height: 12rem;
+    background-color: #B30502;
+    line-height: 1.7;
+}
+
+#contact h1 {
+    font-family: 'Metamorphous', cursive;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding-bottom: 0;
+    color: rgb(243, 241, 241);
+    text-shadow: 0 0 20px rgb(88, 88, 88);
+}
 
 
 @media only screen and (max-width: 1024px) {
