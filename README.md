@@ -69,8 +69,8 @@ Edna Torres Munill
  - The logo and the headings' 1st letters of main words in h1 use UnifrakturMaguntia, the rest of all headings' h1 use Metamorphous, and headings' p use Jim Nightshade, all with a fall-back font of cursive. 
  - The word "beyond" in the main page header is the only one to use Reenie Beabie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
 
- <img width="500" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_heqader.png">
- 
+ <img width="500" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
+
  - The navigation bar also uses Metamorphous in capital letters, which gives a very readable mediavel style to the site.
  - The 1st letter of all sections' titles and h2 in general use Fleur De Leah, which recreate the 1st letters of paragraphas from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
