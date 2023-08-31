@@ -25,6 +25,9 @@ nav #logo {
 
 nav ul {
     list-style: none;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 nav li {
@@ -400,6 +403,11 @@ footer #contact {
 footer #contact h2 {
     color: antiquewhite;
     font-weight: 500;
+}
+
+footer #contact p {
+    margin-top: 0;
+    font-size: 1rem;
 }
 
 footer #contact a {
