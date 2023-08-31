@@ -67,10 +67,11 @@ Edna Torres Munill
  
  ### Typography
  - The logo, to the left of the navigation bar, and as a favicon in each page meta title, is a single "h" from "history", using UnifrakturMaguntia font.
+
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
+  
  - The 1st letters of main words in headers use UnifrakturMaguntia, and the remaining h1 text in headers use Metamorphous. All headers' paragraph (p) use Jim Nightshade, all these with a fall-back font of cursive. 
  - The word "beyond" in the main page header is the only one to use Reenie Beanie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
-
 
   <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
