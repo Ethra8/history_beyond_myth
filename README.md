@@ -58,6 +58,6 @@ Edna Torres Munill
 - Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of red #B30502 for the headers.
 - The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using #1b1b1b also in order to favour contrast with the colorful captions taken from the illuminated manuscripts.
 - The tone whitesmoke has been used for the fonts, to ensure clear contrast and readability for the user.
-- Headings's 1st letters are in color rgb(216, 214, 214) with
-    -webkit-text-stroke: 0.05px rgb(66, 66, 66) to give it a metal-like appearance, inspired by the metal from medieval armours and swords.
+- Headings's 1st letters are in color rgb(216, 214, 214) to give it a metal-like appearance, with contours of
+    -webkit-text-stroke: 0.05px rgb(66, 66, 66) to bring volume, inspired by the metal from medieval armours and swords.
  
