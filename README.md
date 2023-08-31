@@ -20,6 +20,7 @@ Edna Torres Munill
         + [User Profiles](#user-profiles)
     * [DESIGN CHOICES](#design-choices)
         + [Colors](#colors)
+        + [Typography](#typography)
 
 ## UX
 
@@ -57,7 +58,15 @@ Edna Torres Munill
 ### Colors
 - Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of red #B30502 for the headers.
 - The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using #1b1b1b also in order to favour contrast with the colorful captions taken from the illuminated manuscripts.
-- The tone whitesmoke has been used for the fonts, to ensure clear contrast and readability for the user.
-- Headings's 1st letters are in color rgb(216, 214, 214) to give it a metal-like appearance, with contours of
+- The tone whitesmoke has been used for fonts, to ensure clear contrast and readability for the user.
+- The headings' 1st letters are in color rgb(216, 214, 214) to give it a metal-like appearance, with contours of
     -webkit-text-stroke: 0.05px rgb(66, 66, 66) to bring volume, inspired by the metal from medieval armours and swords.
  
+ ### Typography
+ - The logo and the headings' 1st letters of main words in h1 use UnifrakturMaguntia, the rest of all headings' h1 use Metamorphous, and headings' p use Jim Nightshade, all with a fall-back font of cursive. 
+ - The word "beyond" in the main page header is the only one to use Reenie Beabie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
+ - The navigation bar also uses Metamorphous in capital letters, which gives a very readable mediavel style to the site.
+ - The 1st letter of all sections' titles and h2 in general use Fleur De Leah, which recreate the 1st letters of paragraphas from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
+ - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
+ - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&display=swap)
+ - The headings decrease in size to ensure full responsiveness of the website.
