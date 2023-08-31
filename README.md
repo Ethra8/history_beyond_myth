@@ -10,6 +10,8 @@ Edna Torres Munill
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting events sorrounding myths and/or history from the Early Middle Ages around Europe.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
+[image test](https://github.com/Ethra8/History_Beyond_Myth/blob/media/full_manuscript_background.png)
+
 ## TABLE OF CONTENTS
 - [HISTORY BEYOND MYTH](#history-beyond-myth)
     * [Author](#Author)
@@ -73,6 +75,8 @@ Edna Torres Munill
  - The headings decrease in size to ensure full responsiveness of the website.
 
  ### Images
+ - NAVIGATION BAR:
+    + Includes the logo, fixed to the left.
  - HOMEPAGE:
     + Background image: Caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi). It belongs to Chapter XVIII, which explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard "the Lionheart", being his rightful heir by birth right. The text calls Arthur "King of Brittany". The depiction of this page of the manuscript shows King Philip II of France arriving to Arthur's castle in Brittany after Richard's death, where Arthur is wearing a crown, and gives homage to Philip in return for Philip's support to his claim to the throne of England.
     + Small images put in line underneath the heading, all related to the Arthurian cycle. Most reappear in subsequent pages:
