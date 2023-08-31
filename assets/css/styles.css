@@ -405,11 +405,8 @@ footer #contact {
 footer #contact h2 {
     color: antiquewhite;
     font-weight: 500;
-}
-
-footer #contact h2 span {
     font-family: 'Metamorphous', cursive;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-variant: small-caps;
 }
 
@@ -523,7 +520,6 @@ footer .social-media {
         display: none;
     }
 
-
     #henry_II {
         display: none;
         visibility: hidden;
@@ -552,9 +548,7 @@ footer .social-media {
 
 
     #richard img {
-        width: 223px;
-        height: 275px;
-        left: 25%;
+        left: 50%;
     }
 
     #richard .figcaption {
@@ -676,6 +670,8 @@ footer .social-media {
         height: 275px;
         bottom: -275px;
         z-index: 995;
+        left: 20%;
+        right: 20%;
     }
 
 
