@@ -72,9 +72,16 @@ nav .sign_up a:hover {
     background-color: whitesmoke;
 }
 
+/* .navbar-toggler-icon,
+.navbar-toggler {
+    display: none;
+    visibility: hidden;
+} */
+
 p {
     font-family: 'Montserrat', 'Verdana', sans-serif;
     line-height: 1.5;
+    font-size: 1rem;
 }
 
 #index {
@@ -105,7 +112,6 @@ p {
     color: rgb(243, 241, 241);
     text-shadow: none;
     text-shadow: 0 0 20px rgb(255, 255, 255);
-
 }
 
 #index h1 .capital,
@@ -936,6 +942,22 @@ footer .social-media {
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
+    /* .navbar-toggler-icon,
+    .navbar-toggler {
+        display: block;
+        visibility: visible;
+        float: right;
+    } */
+
+    .navbar-toggler {
+        background-color: #8f0303;
+    }
+
+    .fa-list,
+    .fab {
+        color: #CCCCCC;
+    }
+
 
     .hidden_large_devices {
         display: block;
@@ -1066,6 +1088,14 @@ footer .social-media {
 
 @media only screen and (max-width: 540px) {
 
+    /* .navbar-toggler-icon,
+    .navbar-toggler {
+        display: block;
+        visibility: visible;
+        float: right;
+    }
+ */
+
     nav {
         padding: 20px;
         text-align: center;
@@ -1183,7 +1213,6 @@ footer .social-media {
         display: block;
         position: absolute;
         bottom: -325px;
-
         width: 210px;
         max-width: 223px;
         /* margin-left: 10%; */

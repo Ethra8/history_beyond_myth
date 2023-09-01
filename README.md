@@ -24,6 +24,8 @@ Edna Torres Munill
         + [Colors](#colors)
         + [Typography](#typography)
         + [Images](#images)
+        + [Animations](#animations)
+        + [Responsiveness](#responsiveness)
 
 ## UX
 
@@ -118,3 +120,7 @@ Edna Torres Munill
         + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
 - PAGE: AVALON
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
+
+### Animations
+
+### Responsiveness
