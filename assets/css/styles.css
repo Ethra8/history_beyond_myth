@@ -878,7 +878,7 @@ footer .social-media {
 
 
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
 
     .hidden_large_devices {
         display: block;
@@ -945,6 +945,63 @@ footer .social-media {
 
 }
 
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    #arthur header {
+        padding: 100px 30px 20px 0;
+    }
+
+    header img {
+        margin-top: 0;
+        margin-bottom: 50px;
+        margin-right: 25px;
+        max-width: 150px;
+        max-height: 175px;
+    }
+
+    #arthur header {
+        /* padding-right: 15px;
+        padding-left: 15px; */
+        line-height: 1;
+        max-height: fit-content;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    #arthur header {
+        padding: 100px 30px 20px 0;
+    }
+
+    #arthur header>.left {
+        text-align: center;
+        width: 100%;
+        position: relative;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        display: block;
+        z-index: 900;
+    }
+
+    #arthur header>.left p {
+        padding-bottom: 0;
+    }
+
+    #arthur header>.right {
+        display: none;
+    }
+
+    #arthur header img {
+        float: none;
+        margin: 20px auto 0;
+        padding-right: 0;
+        max-width: 130px;
+        max-height: 155px;
+        display: block;
+    }
+
+}
+
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
@@ -994,19 +1051,41 @@ footer .social-media {
         max-width: 100%;
     }
 
+    #arthur header {
+        padding-right: 15px;
+        padding-left: 15px;
+        line-height: 1;
+        max-height: fit-content;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
     #arthur header>.left {
-        text-align: left;
+        text-align: center;
         width: 100%;
         position: relative;
-        bottom: 2rem;
+        bottom: 0;
         right: 0;
         left: 0;
         display: block;
         z-index: 900;
     }
 
+    #arthur header>.left p {
+        padding-bottom: 0;
+    }
+
     #arthur header>.right {
         display: none;
+    }
+
+    #arthur header img {
+        float: none;
+        margin: 20px auto 0;
+        padding-right: 0;
+        max-width: 130px;
+        max-height: 155px;
+        display: block;
     }
 
     #index h1,
