@@ -1005,22 +1005,14 @@ footer .social-media {
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
-    /* .navbar-toggler-icon,
-    .navbar-toggler {
-        display: block;
-        visibility: visible;
-        float: right;
-    } */
 
-    .navbar-toggler {
-        background-color: #8f0303;
+    #guernsey_coast .content,
+    #abalone_shell .content,
+    #strategic_location .content {
+        display: flex;
+        flex-direction: column-reverse;
+        /* flex-wrap: wrap; */
     }
-
-    .fa-list,
-    .fab {
-        color: #CCCCCC;
-    }
-
 
     .hidden_large_devices {
         display: block;
