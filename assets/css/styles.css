@@ -89,8 +89,7 @@ p {
     background-color: rgba(0, 0, 0, 0.75);
 }
 
-#index header,
-#avalon header {
+#index header {
     text-align: center;
     padding: 120px 7% 50px;
     min-height: 8rem;
@@ -237,7 +236,8 @@ p {
     background-color: black;
 }
 
-#arthur header {
+#arthur header,
+#avalon header {
     padding: 120px 4% 20px;
     min-height: fit-content;
     max-height: 14rem;
@@ -251,8 +251,9 @@ p {
     border-color: black;
 }
 
-#arthur header img {
-    position: relative;
+#arthur header img,
+#avalon header img {
+    position: flex;
     left: 0;
     margin-right: 50px;
     float: left;
@@ -264,7 +265,8 @@ p {
     box-shadow: 0 0 10px rgb(88, 88, 88);
 }
 
-#arthur header>.left {
+#arthur header>.left,
+#avalon header>.left {
     display: inline-block;
     width: 50%;
     text-align: left;
@@ -272,7 +274,8 @@ p {
     bottom: 3rem;
 }
 
-#arthur header>.right {
+#arthur header>.right,
+#avalon header>.right {
     width: 50%;
     text-align: right;
     position: relative;
@@ -282,7 +285,8 @@ p {
     display: inline-block;
 }
 
-#arthur header>.right>.vl {
+#arthur header>.right>.vl,
+#avalon header>.right>.vl {
     position: relative;
     left: 190px;
     bottom: 4rem;
@@ -296,7 +300,8 @@ p {
 
 }
 
-#arthur header .right p {
+#arthur header .right p,
+#avalon header .right p {
     margin-bottom: 0;
     padding-bottom: 0;
     font-size: 1.8rem;
@@ -304,7 +309,8 @@ p {
     bottom: 10rem;
 }
 
-#arthur header .left p {
+#arthur header .left p,
+#avalon header .left p {
     margin-top: -10px;
     padding-bottom: 0;
 }
@@ -326,7 +332,8 @@ p {
     -webkit-text-stroke: 0.05px rgb(66, 66, 66);
 }
 
-#arthur header p {
+#arthur header p,
+#avalon header p {
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
     font-size: 2rem;
@@ -404,6 +411,7 @@ p {
 }
 
 #genealogy_britain a sup,
+#abalone_frenchPronunciation a sup,
 #abalone_value a sup,
 #guernsey_mists a sup,
 #abalone_jewelry a sup,
@@ -547,26 +555,33 @@ footer .social-media {
     max-height: 14rem;
 }
 
-#guernsey_mists,
+#avalon header img {
+    margin-top: 20px;
+}
+
+#abalone_frenchPronunciation,
 #abalone_value,
 #abalone_jewelry,
 #abalone_seaTruffle,
+#guernsey_mists,
 #guernsey_strategicLocation {
     padding: 40px 7%;
     background-color: #424242;
     margin: 40px auto;
 }
 
-#guernsey_mists .content,
+#abalone_frenchPronunciation .content,
 #abalone_value .content,
 #abalone_jewelry .content,
 #abalone_seaTruffle .content,
+#guernsey_mists .content,
 #guernsey_strategicLocation .content {
     position: relative;
     display: inline-flex;
     /* flex-wrap: wrap; */
 }
 
+#abalone_frenchPronunciation h2,
 #guernsey_mists h2,
 #abalone_value h2,
 #abalone_jewelry h2,
@@ -586,6 +601,7 @@ footer .social-media {
     text-shadow: 0 0 10px rgb(2, 2, 2);
 }
 
+#abalone_frenchPronunciation p,
 #guernsey_mists p,
 #abalone_value p,
 #abalone_jewelry p,
@@ -594,6 +610,7 @@ footer .social-media {
     text-shadow: 0 0 10px rgb(2, 2, 2);
 }
 
+#abalone_frenchPronunciation p a,
 #guernsey_mists p a,
 #abalone_value p a,
 #abalone_jewelry p a,
@@ -621,6 +638,7 @@ footer .social-media {
     font-weight: 600;
 }
 
+#abalone_frenchPronunciation iframe,
 #abalone_seaTruffle iframe {
     margin-right: 40px;
     margin-left: 40px;
@@ -1050,7 +1068,7 @@ footer .social-media {
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
-
+    #abalone_frenchPronunciation .content,
     #guernsey_mists .content,
     #abalone_value .content,
     #abalone_jewelry .content,
@@ -1325,6 +1343,7 @@ footer .social-media {
         /* margin-right: 10%; */
     }
 
+    #abalone_frenchPronunciation .content,
     #guernsey_mists .content,
     #abalone_value .content,
     #abalone_jewelry .content,
