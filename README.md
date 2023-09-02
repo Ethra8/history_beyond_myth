@@ -10,7 +10,7 @@ Edna Torres Munill
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting events sorrounding myths and/or history from the Early Middle Ages around Europe.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
-[image test](https://github.com/Ethra8/History_Beyond_Myth/blob/media/full_manuscript_background.png?raw=true)
+You can view the deployed site [here](https://englishgrows.com/History_Beyond_Myth/avalon.html)
 
 ## TABLE OF CONTENTS
 - [HISTORY BEYOND MYTH](#history-beyond-myth)
