@@ -30,9 +30,10 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
 ## UX
 
 ### Project Goal
-* The project is aimed at providing the user with curious coincidences between academicaqlly recognised historic facts stated in well-preserved manuscripts and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
+* The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
 * Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
-* Members can be aware of any interesting event related to history from the early middle ages, and/or myths around Europe, and eventually build social networks with shared interests.
+* Members are informed of interesting events related to history from the early middle ages, and/or myths around Europe, and eventually build social networks with shared interests.
+* Members can participate in organised visits, scheduled once in a while, to places that bear these curious coincidences between history and myth.
 
 ### User Stories
 1. As a first-time visitor,
