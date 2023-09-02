@@ -129,15 +129,24 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
 ## Deployment
 
 ### Production
-1. Click **Settings** tab
+1. Click **Settings** tab:
+   
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/b05a629e-a3bc-4a65-ace1-c9a69aad35c3)
-2. In the left-hand menu, click on the **Pages** link
+   
+2. In the left-hand menu, click on the **Pages** link:
+   
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/c93123a2-5b17-486c-8645-b8bf6d400a8a)
-3. In **Build and Deployment** section, selected **main** as the branch
+   
+3. In the **Build and Deployment** section, select **Branch**. Click on the dropdown menu and select **main**:
+        
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/e4df05ef-4570-49b6-9c1e-965e39dac0ab)
-4. Click **save**
+
+4. Click **Save**:
+   
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/afe2aba8-0d95-4b3f-bf2c-df4864363923)
-5. Wait about 3 minutes, refresh the page, and thelink to the deployed site will show up like this
+   
+5. Wait about 3 minutes, and refresh the page. Then the link to the deployed site will show up like this:
+      
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/a85b79f7-7bb4-4e5e-bc1a-b09a1a37161a)
 
 
