@@ -348,8 +348,7 @@ p {
     text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 
-#arthur h2,
-#avalon h2 {
+#arthur h2 {
     line-height: 1.1;
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
@@ -407,6 +406,8 @@ p {
 #genealogy_britain a sup,
 #abalone_shell a sup,
 #guernsey_coast a sup,
+#abalone_jewelry a sup,
+#abalone_michelin a sup,
 #strategic_location a sup {
     text-decoration: none;
     color: goldenrod;
@@ -544,11 +545,12 @@ footer .social-media {
 
 #avalon header {
     max-height: 14rem;
-
 }
 
 #guernsey_coast,
 #abalone_shell,
+#abalone_jewelry,
+#abalone_michelin,
 #strategic_location {
     padding: 40px 7%;
     background-color: #424242;
@@ -557,43 +559,80 @@ footer .social-media {
 
 #guernsey_coast .content,
 #abalone_shell .content,
+#abalone_jewelry .content,
+#abalone_michelin .content,
 #strategic_location .content {
     position: relative;
     display: inline-flex;
     /* flex-wrap: wrap; */
 }
 
-#guernsey_coast .content h2,
-#abalone_shell .content h2,
-#strategic_location .content h2 {
-    position: fixed;
-    display: block;
-    margin-left: 40px;
+#guernsey_coast h2,
+#abalone_shell h2,
+#abalone_jewelry h2,
+#abalone_michelin h2,
+#strategic_location h2 {
+    position: relative;
+    display: inline-block;
+    margin-left: 0;
+    line-height: 1.1;
+    font-family: 'Jim Nightshade', cursive;
+    color: rgba(243, 241, 241, 0.966);
+    font-size: 2.3rem;
+    font-weight: 500;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-shadow: 0 0 10px rgb(2, 2, 2);
+}
+
+#guernsey_coast p,
+#abalone_shell p,
+#abalone_jewelry p,
+#abalone_michelin p,
+#strategic_location p {
+    text-shadow: 0 0 10px rgb(2, 2, 2);
+
 }
 
 #guernsey_coast figure,
 #abalone_shell figure,
+#abalone_jewelry figure,
 #strategic_location figure {
-    position: relative;
-    display: inline;
+    /* position: relative;
+    display: inline; */
 }
 
+#abalone_shell img {
+    margin-top: 25%;
+}
+
+#guernsey_coast img,
+#strategic_location img {}
+
 #guernsey_coast figcaption,
+#abalone_jewelry figcaption,
 #abalone_shell figcaption {
     width: 286px;
     display: flex;
 }
 
-#guernsey_coast figcaption a {
+#guernsey_coast figcaption a,
+#abalone_jewelry figcaption a {
     text-decoration: none;
     color: whitesmoke;
 }
 
-#guernsey_coast figcaption a:hover {
+#guernsey_coast figcaption a:hover,
+#abalone_jewelry figcaption a:hover,
+#abalone_michelin figcaption a:hover {
     font-weight: 600;
 }
 
-
+#abalone_michelin iframe {
+    margin-right: 40px;
+    margin-left: 40px;
+}
 
 /**** CONTACT / SIGN-UP *******/
 
@@ -1021,6 +1060,8 @@ footer .social-media {
 
     #guernsey_coast .content,
     #abalone_shell .content,
+    #abalone_jewelry .content,
+    #abalone_michelin .content,
     #strategic_location .content {
         display: flex;
         flex-direction: column-reverse;
@@ -1293,6 +1334,8 @@ footer .social-media {
 
     #guernsey_coast .content,
     #abalone_shell .content,
+    #abalone_jewelry .content,
+    #abalone_michelin .content,
     #strategic_location .content {
         display: flex;
         flex-direction: column-reverse;
