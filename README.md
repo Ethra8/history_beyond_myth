@@ -149,6 +149,23 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
       
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/a85b79f7-7bb4-4e5e-bc1a-b09a1a37161a)
 
+### Update after Deployment
+- Changed original site name **History_Beyond_Myth** to lower cases:
+     + Go to **Settings**:
+       
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1a9566e0-dda2-47f1-9ed5-7a4bb7278b79)
+     + In the **General** section, update the name and click on **Rename**:
+       
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/12bb14d0-3655-42fb-b3ad-66df19517220)
+
+     + Add **description** and **topics** when saving, which now show on the **About** on the right hand, with the updated name of the 
+       site in lower cases:  
+
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
+
+
+
+
 
 
 
