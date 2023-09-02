@@ -64,7 +64,7 @@ Edna Torres Munill
 - Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of Turkey Red #B30502 for the headers, and a slighly darker tone Dark Red #8f0303 for the footer.
 - The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using Eerie Black #1b1b1b, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts.
 - The tone White Smoke #F5F5F5 has been used for fonts, to ensure clear contrast and readability for the user.
-- The headings' 1st letters are in Silver #CCCCCC to give it a metal-like appearance, with contours of Onyx #424242 which bring volume, inspired by the metal from medieval armours and swords.
+- The headers' 1st letters are in Silver #CCCCCC to give it a metal-like appearance, with contours of Onyx #424242 which bring volume, inspired by the metal from medieval armours and swords.
 
   <img width="400" alt="color palette" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/color_palette.png">
 
