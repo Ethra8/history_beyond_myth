@@ -592,23 +592,15 @@ footer .social-media {
 #abalone_michelin p,
 #strategic_location p {
     text-shadow: 0 0 10px rgb(2, 2, 2);
-
 }
 
-#guernsey_coast figure,
-#abalone_shell figure,
-#abalone_jewelry figure,
-#strategic_location figure {
-    /* position: relative;
-    display: inline; */
+#guernsey_coast p a,
+#abalone_shell p a,
+#abalone_jewelry p a,
+#abalone_michelin p a,
+#strategic_location p a {
+    text-shadow: none;
 }
-
-#abalone_shell img {
-    margin-top: 25%;
-}
-
-#guernsey_coast img,
-#strategic_location img {}
 
 #guernsey_coast figcaption,
 #abalone_jewelry figcaption,
@@ -632,6 +624,7 @@ footer .social-media {
 #abalone_michelin iframe {
     margin-right: 40px;
     margin-left: 40px;
+    margin-top: 20px;
 }
 
 /**** CONTACT / SIGN-UP *******/
