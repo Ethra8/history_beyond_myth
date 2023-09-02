@@ -335,12 +335,25 @@ p {
     text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
+#arthur header h2,
+#avalon header h2 {
+    line-height: 1.1;
+    font-family: 'Jim Nightshade', cursive;
+    color: rgba(243, 241, 241, 0.966);
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+}
+
 #arthur h2,
 #avalon h2 {
     line-height: 1.1;
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
-    font-size: 2rem;
+    font-size: 2.3rem;
     font-weight: 500;
     padding: 10px;
     margin-top: 0;
@@ -391,10 +404,10 @@ p {
     text-justify: inter-word;
 }
 
-#genealogy_britain a,
-#abalone_shell a,
-#guernsey_coast a,
-#strategic_location a {
+#genealogy_britain a sup,
+#abalone_shell a sup,
+#guernsey_coast a sup,
+#strategic_location a sup {
     text-decoration: none;
     color: goldenrod;
 }
@@ -562,7 +575,7 @@ footer .social-media {
 #abalone_shell figure,
 #strategic_location figure {
     position: relative;
-    /* display: inline-flex; */
+    display: inline;
 }
 
 #guernsey_coast figcaption,
@@ -1135,12 +1148,6 @@ footer .social-media {
         right: 10%;
     }
 
-    /* #richard img {
-        width: 223px;
-        height: 275px;
-
-    } */
-
     #richard img {
         display: block;
         position: absolute;
@@ -1160,18 +1167,11 @@ footer .social-media {
         /* margin-right: 10%; */
     }
 
-
 }
+
 
 @media only screen and (max-width: 540px) {
 
-    /* .navbar-toggler-icon,
-    .navbar-toggler {
-        display: block;
-        visibility: visible;
-        float: right;
-    }
- */
 
     nav {
         padding: 20px;
@@ -1267,14 +1267,9 @@ footer .social-media {
         display: flex;
         visibility: visible;
         width: 223px;
-        /* margin: 40px 10px 0; */
-        /* padding: 0 10%; */
         margin: 40px auto 0;
         align-items: center;
         justify-content: center;
-        /* left: 15%;
-        right: 10%; */
-
     }
 
     #richard img {
@@ -1296,5 +1291,11 @@ footer .social-media {
         /* margin-right: 10%; */
     }
 
+    #guernsey_coast .content,
+    #abalone_shell .content,
+    #strategic_location .content {
+        display: flex;
+        flex-direction: column-reverse;
+    }
 
 }
