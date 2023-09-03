@@ -922,26 +922,7 @@ footer .social-media {
 
 
 /*** MEDIA QUERY: MAX. 1024px ***/
-@media only screen and (max-width: 1024px) {
-
-    #henry_II {
-        display: none;
-        visibility: hidden;
-    }
-
-    figure#richard {
-        position: relative;
-        display: inline-block;
-        visibility: visible;
-        width: 45%;
-        margin: 40px 10px 0;
-    }
-
-    .hidden_large_devices {
-        display: block;
-    }
-
-}
+@media only screen and (max-width: 1024px) {}
 
 
 /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
@@ -986,6 +967,14 @@ footer .social-media {
         width: 45%;
         margin: 40px 0 0 10px;
         left: 3%;
+    }
+
+    figure#richard {
+        position: relative;
+        display: inline-block;
+        visibility: visible;
+        width: 45%;
+        margin: 40px 10px 0;
     }
 
     #richard img,
