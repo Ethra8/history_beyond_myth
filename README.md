@@ -26,6 +26,9 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
         + [Images](#images)
         + [Animations](#animations)
         + [Responsiveness](#responsiveness)
+     
+    * [TESTING]
+       + [Sign-up Form](sign-up-form)
 
 ## UX
 
@@ -164,6 +167,9 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
 
 
+## TESTING
+- SIGN-UP FORM
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ec15a114-dcf2-4ec4-89bb-6bb78d04c373)
 
 
 
