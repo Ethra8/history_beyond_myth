@@ -247,7 +247,6 @@ p {
 #arthur header img,
 #avalon header img {
     display: flex;
-    left: 0;
     margin-right: 50px;
     float: left;
     max-width: 175px;
@@ -1132,11 +1131,13 @@ footer .social-media {
 
     #arthur header>.left,
     #avalon header>.left {
-        text-align: left;
+        text-align: center;
         width: 100%;
         position: relative;
         display: block;
         z-index: 900;
+        padding-left: 0;
+        padding-right: 0;
     }
 
     #arthur header>.left p,
