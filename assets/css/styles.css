@@ -143,7 +143,8 @@ p {
 #index .title_images a {
     margin: 0;
     padding: 0;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
+    background-repeat: repeat-x;
 }
 
 #index .title_images img {
@@ -162,7 +163,7 @@ p {
 }
 
 #index .site_description {
-    background: url('../images/full_manuscript_background.png') repeat-y center center;
+    background: url('../images/full_manuscript_background.png') repeat-y center center fixed;
     margin: -35px auto;
     overflow: hidden;
     font-family: 'Montserrat', 'Verdana', sans-serif;
@@ -411,7 +412,7 @@ p {
 }
 
 #genealogy_britain a sup,
-#abalone_frenchPronunciation a sup,
+#french_kings a sup,
 #abalone_value a sup,
 #guernsey_mists a sup,
 #abalone_jewelry a sup,
@@ -558,7 +559,28 @@ footer .social-media {
     margin-top: 20px;
 }
 
-#abalone_frenchPronunciation,
+#abalone_frenchPronunciation {
+    display: flex;
+    gap: 40px;
+    /* padding: 30px 12%; */
+}
+
+#abalone_frenchPronunciation h2 {
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+
+#frenchPronunciation_audio {
+    text-align: left;
+    /* align-items: center; */
+    /* margin: 20px 35%; */
+    display: inline-block;
+    /* position: relative; */
+    padding-left: 7%;
+}
+
+#french_kings,
 #abalone_value,
 #abalone_jewelry,
 #abalone_seaTruffle,
@@ -569,7 +591,7 @@ footer .social-media {
     margin: 40px auto;
 }
 
-#abalone_frenchPronunciation .content,
+#french_kings .content,
 #abalone_value .content,
 #abalone_jewelry .content,
 #abalone_seaTruffle .content,
@@ -580,7 +602,7 @@ footer .social-media {
     /* flex-wrap: wrap; */
 }
 
-#abalone_frenchPronunciation h2,
+#french_kings h2,
 #guernsey_mists h2,
 #abalone_value h2,
 #abalone_jewelry h2,
@@ -600,7 +622,7 @@ footer .social-media {
     text-shadow: 0 0 10px rgb(2, 2, 2);
 }
 
-#abalone_frenchPronunciation p,
+#french_kings p,
 #guernsey_mists p,
 #abalone_value p,
 #abalone_jewelry p,
@@ -609,7 +631,7 @@ footer .social-media {
     text-shadow: 0 0 10px rgb(2, 2, 2);
 }
 
-#abalone_frenchPronunciation p a,
+#french_kings p a,
 #guernsey_mists p a,
 #abalone_value p a,
 #abalone_jewelry p a,
@@ -637,7 +659,7 @@ footer .social-media {
     font-weight: 600;
 }
 
-#abalone_frenchPronunciation iframe,
+#french_kings iframe,
 #abalone_seaTruffle iframe {
     margin-right: 40px;
     margin-left: 40px;
@@ -1067,7 +1089,7 @@ footer .social-media {
 
 @media only screen and (min-width: 541px) and (max-width: 767px) {
 
-    #abalone_frenchPronunciation .content,
+    #french_kings .content,
     #guernsey_mists .content,
     #abalone_value .content,
     #abalone_jewelry .content,
@@ -1342,7 +1364,7 @@ footer .social-media {
         /* margin-right: 10%; */
     }
 
-    #abalone_frenchPronunciation .content,
+    #french_kings .content,
     #guernsey_mists .content,
     #abalone_value .content,
     #abalone_jewelry .content,
