@@ -140,26 +140,21 @@ p {
     text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
-#index .title_images a {
-    margin: 0;
-    padding: 0;
-    /* background-attachment: fixed; */
-    background-repeat: repeat-x;
-}
-
-#index .title_images img {
-    margin: 0;
-    padding: 0;
-}
-
 #index .title_images {
     padding: 0;
     position: relative;
     background-attachment: fixed;
+    background-repeat: repeat-x;
     width: 100%;
     display: flex;
     flex-wrap: nowrap;
     overflow: hidden;
+}
+
+#index .title_images a,
+#index .title_images img {
+    margin: 0;
+    padding: 0;
 }
 
 #index .site_description {
@@ -173,7 +168,7 @@ p {
 }
 
 .black_transparency {
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.55);
     padding: 50px;
 }
 
@@ -231,7 +226,6 @@ p {
 
 
 /*** ARTHUR I **************/
-
 #arthur {
     background-color: black;
 }
@@ -463,7 +457,7 @@ figcaption {
 }
 
 
-/*** FOOTER  *****/
+/****** FOOTER  *****/
 footer {
     background-color: #8f0303;
     position: relative;
@@ -534,7 +528,6 @@ footer .social-media {
 
 
 /**** AVALON *****************/
-
 #avalon {
     position: relative;
     color: whitesmoke;
@@ -542,7 +535,7 @@ footer .social-media {
 
 #avalon header {
     max-height: 14rem;
-    border-style: none;
+    border-bottom-width: 1px;
 }
 
 #avalon header img {
@@ -559,10 +552,11 @@ footer .social-media {
     padding: 20px 30px 40px;
     text-align: center;
     display: block;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: #1B1B1B;
     width: 50%;
     margin: 40px auto 0;
     border-radius: 10px;
+    box-shadow: inset 0px 0px 20px rgba(163, 162, 162, 0.9);
 }
 
 #abalone_frenchPronunciation h2 {
@@ -577,10 +571,11 @@ footer .social-media {
 #abalone_seaTruffle,
 #guernsey_mists,
 #guernsey_strategicLocation {
-    padding: 60px 7%;
-    background-color: rgba(0, 0, 0, 0.7);
+    padding: 80px 7%;
+    background-color: #1B1B1B;
     margin: 100px auto;
     border-radius: 10px;
+    box-shadow: inset 0px 0px 20px rgba(238, 238, 238, 0.9);
 }
 
 #french_kings .content,
@@ -657,8 +652,8 @@ footer .social-media {
     margin-top: 20px;
 }
 
-/**** CONTACT / SIGN-UP *******/
 
+/**** CONTACT / SIGN-UP *******/
 #contact {
     background-color: #1B1B1B;
 }
@@ -733,7 +728,6 @@ footer .social-media {
     display: flex;
     text-align: justify;
     text-justify: inter-word;
-
 }
 
 #social_events figure {
@@ -791,7 +785,6 @@ footer .social-media {
 #cultural_events .picture {
     position: absolute;
     background-color: antiquewhite;
-    /* left: 220; */
     width: 200px;
     max-height: 300px;
     border-top-left-radius: 10px;
@@ -861,8 +854,8 @@ footer .social-media {
     font-weight: 600;
 }
 
-/* SIGN-UP FORM **/
 
+/*** SIGN-UP FORM ***/
 #sign_up_form {
     width: 40%;
     position: absolute;
@@ -919,7 +912,6 @@ footer .social-media {
 
 #sign_up_form button:hover {
     background-color: whitesmoke;
-
 }
 
 #contact footer {
@@ -929,7 +921,7 @@ footer .social-media {
 }
 
 
-
+/*** MEDIA QUERY: MAX. 1024px ***/
 @media only screen and (max-width: 1024px) {
 
     #henry_II {
@@ -952,13 +944,12 @@ footer .social-media {
 }
 
 
-
+/*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
 @media only screen and (min-width: 992px) and (max-width: 1199.99px) {
 
     .hidden_large_devices {
         display: block;
     }
-
 
     #index header,
     #arthur header,
@@ -1020,6 +1011,7 @@ footer .social-media {
 
 }
 
+/*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
 @media only screen and (min-width: 768px) and (max-width: 991.99px) {
 
     header img {
@@ -1073,6 +1065,7 @@ footer .social-media {
 }
 
 
+/*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
 @media only screen and (min-width: 576px) and (max-width: 767.99px) {
 
     #french_kings .content,
@@ -1083,30 +1076,17 @@ footer .social-media {
     #guernsey_strategicLocation .content {
         display: flex;
         flex-direction: column-reverse;
-        /* flex-wrap: wrap; */
     }
 
     .hidden_large_devices {
         display: block;
     }
 
-    nav {
-        text-align: center;
+    nav a,
+    nav a .avalon {
+        margin: 0 0 0 20px;
     }
 
-    nav a {
-        padding: 0 10px;
-    }
-
-    /* header img {
-        margin-top: 0;
-        margin-bottom: 50px;
-        margin-right: 25px;
-        max-width: 150px;
-        max-height: 175px;
-    } */
-
-    #index img,
     #arthur>.background img {
         max-width: 100%;
     }
@@ -1166,7 +1146,6 @@ footer .social-media {
     #arthur header p,
     #avalon header p {
         font-size: 1.8rem;
-        /* padding: 0 25px 0; */
     }
 
     #index header hr {
@@ -1228,6 +1207,7 @@ footer .social-media {
 }
 
 
+/*** MEDIA QUERY: MAX. 575.99px ***/
 @media only screen and (max-width: 575.99px) {
 
 
@@ -1237,8 +1217,9 @@ footer .social-media {
         line-height: 1.7;
     }
 
-    nav a {
-        padding: 20px 10px;
+    nav a,
+    nav a .avalon {
+        margin: 0 0 0 20px;
     }
 
     #index h1,
