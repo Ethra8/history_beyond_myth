@@ -1012,7 +1012,7 @@ footer .social-media {
 }
 
 /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
-@media only screen and (min-width: 768px) and (max-width: 991.99px) {
+@media only screen and (min-width: 767px) and (max-width: 991.99px) {
 
     header img {
         margin-top: 0;
@@ -1086,7 +1086,7 @@ footer .social-media {
 
 
 /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
-@media only screen and (min-width: 576px) and (max-width: 767.99px) {
+@media only screen and (min-width: 576px) and (max-width: 766.99px) {
 
     #avalon .content {
         display: flex;
