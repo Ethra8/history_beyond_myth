@@ -671,10 +671,11 @@ footer .social-media {
 #contact h1 {
     font-family: 'Metamorphous', cursive;
     font-size: 1.2rem;
+    font-weight: 400;
     margin: 0 auto;
     padding-bottom: 0;
     color: rgb(243, 241, 241);
-    text-shadow: 0 0 20px rgb(88, 88, 88);
+    text-shadow: 0 0 20px rgb(54, 54, 54);
 }
 
 #social_events>div {
@@ -858,9 +859,10 @@ footer .social-media {
 /*** SIGN-UP FORM ***/
 #sign_up_form {
     width: 40%;
-    position: absolute;
+    position: relative;
+    display: inline-flex;
     margin-left: 60%;
-    margin-top: -360px;
+    margin-top: -460px;
     right: 40px;
 }
 
@@ -875,6 +877,8 @@ footer .social-media {
     border-style: outset;
     border-width: 2px;
     border-color: #CCCCCC;
+    /* margin-bottom: 200px; DOES NOT WORK W ABSOLUTE PARENT*/
+    position: relative;
 }
 
 #sign_up_form h2 {
@@ -885,14 +889,34 @@ footer .social-media {
     font-variant: small-caps;
 }
 
-#sign_up_form input,
-#sign_up_form select {
+#sign_up_form input {
     margin: 10px auto 20px;
     width: 100%;
     height: 2rem;
     border-radius: 5px;
     font-size: 1rem;
     font-family: 'Montserrat', 'Verdana', sans-serif;
+}
+
+#sign_up_form input[type=radio] {
+    width: 15px;
+    /* margin: 0 auto -30px; */
+    height: 1rem;
+}
+
+#sign_up_form .radio label {
+    padding-right: 20px;
+}
+
+#sing_up_form .radio {
+    margin-top: 50px;
+}
+
+#yes,
+#no,
+#maybe {
+    margin-bottom: 0;
+
 }
 
 #sign_up_form button {
