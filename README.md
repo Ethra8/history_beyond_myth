@@ -26,7 +26,10 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
         + [Images](#images)
         + [Animations](#animations)
         + [Responsiveness](#responsiveness)
-     
+
+    * [DEPLOYMENT](#deployment)
+         + [Production](#production)
+
     * [TESTING](#testing)
        + [Manual Testing](#manual-testing)
 
