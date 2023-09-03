@@ -27,7 +27,7 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
         + [Animations](#animations)
         + [Responsiveness](#responsiveness)
      
-    * [TESTING]
+    * [TESTING](#testing)
        + [Sign-up Form](sign-up-form)
 
 ## UX
