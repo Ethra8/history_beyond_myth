@@ -92,8 +92,8 @@ p {
 #index header {
     text-align: center;
     padding: 120px 7% 50px;
-    min-height: 8rem;
-    max-height: 12rem;
+    min-height: fit-content;
+    max-height: fit-content;
     background-color: #B30502;
 }
 
@@ -109,8 +109,8 @@ p {
 #index h1 .beyond {
     font-family: 'Reenie Beanie', cursive;
     color: rgb(243, 241, 241);
-    text-shadow: none;
     text-shadow: 0 0 20px rgb(255, 255, 255);
+    font-size: 3.8rem;
 }
 
 #index h1 .capital,
@@ -125,7 +125,7 @@ p {
     border-style: outset;
     border-width: 8px;
     border-color: rgb(214, 214, 214);
-    max-width: 700px;
+    max-width: 900px;
     width: 80%;
     border-radius: 50%;
     box-shadow: 8px 15px 5px rgba(71, 71, 71, 0.4);
@@ -136,7 +136,7 @@ p {
     color: rgba(243, 241, 241, 0.966);
     font-size: 2.5rem;
     padding: 15px 0;
-    margin-top: 0;
+    margin: 0;
     text-shadow: 0 0 20px rgb(255, 255, 255);
 }
 
@@ -1145,12 +1145,12 @@ footer .social-media {
     #index header p,
     #arthur header p,
     #avalon header p {
-        font-size: 1.8rem;
+        font-size: 2.2rem;
     }
 
     #index header hr {
         max-width: 90%;
-        border-width: 7px;
+        border-width: 6px;
     }
 
     #arthur>.background img {
@@ -1196,7 +1196,6 @@ footer .social-media {
         right: 20%;
     }
 
-
     #richard .figcaption {
         width: 210px;
         max-width: 223px;
@@ -1209,7 +1208,6 @@ footer .social-media {
 
 /*** MEDIA QUERY: MAX. 575.99px ***/
 @media only screen and (max-width: 575.99px) {
-
 
     nav {
         padding: 20px;
@@ -1227,6 +1225,17 @@ footer .social-media {
         padding: 20px 15px 15px;
         font-size: 1.7rem;
         display: block;
+    }
+
+    #index header hr {
+        max-width: 90%;
+        border-width: 5px;
+    }
+
+    #index header p,
+    #arthur header p,
+    #avalon header p {
+        font-size: 2.2rem;
     }
 
     #index header,
@@ -1279,7 +1288,7 @@ footer .social-media {
     }
 
     #index header .beyond {
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     #arthur>.background img {
