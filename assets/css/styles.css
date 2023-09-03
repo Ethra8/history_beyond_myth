@@ -137,7 +137,7 @@ p {
     font-size: 2.5rem;
     padding: 15px 0;
     margin: 0;
-    text-shadow: 0 0 20px rgb(255, 255, 255);
+    text-shadow: 0 0 20px rgb(48, 48, 48);
 }
 
 #index .title_images {
@@ -158,7 +158,7 @@ p {
 }
 
 #index .site_description {
-    background: url('../images/full_manuscript_background.png') repeat-y center center fixed;
+    background: url('../images/full_manuscript_background_AVI.avif') repeat-y center center fixed;
     margin: -35px auto;
     overflow: hidden;
     font-family: 'Montserrat', 'Verdana', sans-serif;
@@ -197,7 +197,7 @@ p {
     cursor: pointer;
 }
 
-#index h2 {
+#index .site_description h2 {
     line-height: 1;
     font-family: 'Jim Nightshade', cursive;
     color: rgb(77, 76, 76);
@@ -206,7 +206,6 @@ p {
     padding: 10px;
     margin-top: 0;
     margin-bottom: 0;
-    text-shadow: 0 0 10px rgb(255, 255, 255);
 }
 
 #index ol {
@@ -323,7 +322,7 @@ p {
     font-size: 2rem;
     padding-top: 0;
     margin-top: 0;
-    text-shadow: 0 0 20px rgb(255, 255, 255);
+    text-shadow: 0 0 20px rgb(29, 29, 29);
 }
 
 #arthur header h2,
@@ -336,7 +335,7 @@ p {
     padding: 10px;
     margin-top: 0;
     margin-bottom: 20px;
-    text-shadow: 0 0 10px rgb(255, 255, 255);
+    text-shadow: 0 0 10px rgb(29, 29, 29);
 }
 
 #arthur h2 {
@@ -388,7 +387,6 @@ p {
     font-family: 'Montserrat', 'Verdana', sans-serif;
     margin-top: 0;
     line-height: 1.5;
-    text-align: justify;
     color: antiquewhite;
     text-align: justify;
     text-justify: inter-word;
@@ -544,7 +542,7 @@ footer .social-media {
 }
 
 #avalon .background_image {
-    background: url('../images/full_manuscript_background.png') center center fixed;
+    background: url('../images/full_manuscript_background_AVI.avif') center center fixed;
     margin: -40px auto;
     overflow: hidden;
 }
@@ -572,7 +570,7 @@ footer .social-media {
 #abalone_seaTruffle,
 #guernsey_mists,
 #guernsey_strategicLocation {
-    padding: 80px 7%;
+    padding: 60px 7%;
     background-color: #1B1B1B;
     margin: 100px auto;
     border-radius: 10px;
@@ -616,6 +614,8 @@ footer .social-media {
 #abalone_seaTruffle p,
 #guernsey_strategicLocation p {
     text-shadow: 0 0 10px rgb(2, 2, 2);
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 #french_kings p a,
@@ -1063,20 +1063,45 @@ footer .social-media {
         display: block;
     }
 
+    .black_transparency {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #french_kings,
+    #abalone_value,
+    #abalone_jewelry,
+    #abalone_seaTruffle,
+    #guernsey_mists,
+    #guernsey_strategicLocation {
+        padding: 80px 35px;
+        background-color: #1B1B1B;
+        margin: 100px auto;
+        border-radius: 10px;
+        box-shadow: inset 0px 0px 20px rgba(238, 238, 238, 0.9);
+        text-align: justify;
+    }
+
+
 }
 
 
 /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
 @media only screen and (min-width: 576px) and (max-width: 767.99px) {
 
-    #french_kings .content,
-    #guernsey_mists .content,
-    #abalone_value .content,
-    #abalone_jewelry .content,
-    #abalone_seaTruffle .content,
-    #guernsey_strategicLocation .content {
+    #avalon .content {
         display: flex;
         flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .black_transparency {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #abalone_frenchPronunciation {
+        width: 90%;
     }
 
     .hidden_large_devices {
@@ -1092,12 +1117,17 @@ footer .social-media {
         max-width: 100%;
     }
 
+    #index header,
     #arthur header,
     #avalon header {
-        padding: 100px 40px 20px;
+        padding-right: 15px;
+        padding-left: 15px;
         line-height: 1;
         max-height: fit-content;
         max-width: 100%;
+        margin: 0 auto;
+        display: block;
+        position: relative;
     }
 
     #arthur header>.left,
@@ -1122,7 +1152,7 @@ footer .social-media {
     #arthur header img,
     #avalon header img {
         float: none;
-        margin: 20px 40px 0 0;
+        margin: 20px auto;
         padding-right: 0;
         max-width: 130px;
         max-height: 155px;
@@ -1133,7 +1163,8 @@ footer .social-media {
     #arthur h1,
     #avalon h1 {
         font-size: 2rem;
-        padding: 0;
+        padding-bottom: 20px;
+        text-align: center;
     }
 
     #index h1 .capital,
@@ -1147,6 +1178,7 @@ footer .social-media {
     #arthur header p,
     #avalon header p {
         font-size: 2.2rem;
+        text-align: center;
     }
 
     #index header hr {
@@ -1161,10 +1193,15 @@ footer .social-media {
         float: none;
     }
 
+    #french_kings iframe,
+    #abalone_seaTruffle iframe,
+    #avalon .content figure {
+        margin: 10px auto;
+    }
+
     #genealogy_britain {
         padding: 0 0 50px 15%;
     }
-
 
     #genealogy_britain>div {
         margin: 80px auto 60px;
@@ -1222,8 +1259,9 @@ footer .social-media {
     }
 
     #index h1,
-    #arthur h1 {
-        padding: 20px 15px 15px;
+    #arthur h1,
+    #avalon h1 {
+        padding: 20px 15px 25px;
         font-size: 1.7rem;
         display: block;
     }
@@ -1299,6 +1337,24 @@ footer .social-media {
         right: 0;
     }
 
+    #avalon .content {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 95%;
+    }
+
+    .black_transparency {
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    #abalone_frenchPronunciation {
+        width: 90%;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+
     #genealogy_britain {
         padding-right: 0;
         padding-left: 0;
@@ -1325,7 +1381,7 @@ footer .social-media {
         width: 223px;
         margin: 40px auto 0;
         align-items: center;
-        justify-content: center;
+        /* justify-content: center; */
     }
 
     #richard img {
@@ -1347,6 +1403,17 @@ footer .social-media {
         /* margin-right: 10%; */
     }
 
+    #french_kings,
+    #guernsey_mists,
+    #abalone_value,
+    #abalone_jewelry,
+    #abalone_seaTruffle,
+    #guernsey_strategicLocation {
+        padding-left: 25px;
+        padding-right: 25px;
+
+    }
+
     #french_kings .content,
     #guernsey_mists .content,
     #abalone_value .content,
@@ -1355,6 +1422,16 @@ footer .social-media {
     #guernsey_strategicLocation .content {
         display: flex;
         flex-direction: column-reverse;
+        width: 100%;
     }
 
+    #guernsey_mists .content img,
+    #abalone_value .content img,
+    #abalone_jewelry .content img,
+    #guernsey_mists .content figure,
+    #abalone_value .content figure,
+    #abalone_jewelry .content figure {
+        width: 250px;
+        margin: 20px auto;
+    }
 }
