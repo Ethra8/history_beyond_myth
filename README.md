@@ -179,7 +179,8 @@ You can view the deployed site [here](https://englishgrows.com/History_Beyond_My
 ### Manual Testing
 - **Sign-up Form**
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6a7b8a24-bf3e-4222-8654-673e1155b9d5)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
+
 
 
 
