@@ -429,6 +429,7 @@ p {
     text-align: center;
     border-radius: 6px;
     padding: 5px;
+    min-width: 150px !important;
 }
 
 #genealogy_britain sup:hover .tooltiptext,
