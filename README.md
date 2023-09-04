@@ -20,11 +20,10 @@ EDNA TORRES MUNILL
 
 
 ## TABLE OF CONTENTS
-[HISTORY BEYOND MYTH](#history-beyond-myth)
-    * [Author](#Author)
+[HISTORY BEYOND MYTH](#history-beyond-myth)    
     * [Live Site](#live-site)
     * [Repository](#repository)
-    * [Project Overview](#project-overview)
+    * [Author](#Author)
 
 - [UX](#UX)
     * [Traget Audience](#target-audience)
