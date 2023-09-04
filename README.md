@@ -1,5 +1,6 @@
 # HISTORY BEYOND MYTH
 
+## Project Overview
 - History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle.
 - The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
 - This site is useful for anyone who might be interested in history, more precisely from the European early Middle Ages, or also in myths and legends in general.
@@ -20,10 +21,11 @@ EDNA TORRES MUNILL
 
 
 ## TABLE OF CONTENTS
-[HISTORY BEYOND MYTH](#history-beyond-myth)    
-    * [Live Site](#live-site)
-    * [Repository](#repository)
-    * [Author](#Author)
+[HISTORY BEYOND MYTH](#history-beyond-myth)  
+    * [Project Overview](#project-overview)  
+    * [Live Site](#live-site)  
+    * [Repository](#repository)  
+    * [Author](#Author)  
 
 - [UX](#UX)
     * [Traget Audience](#target-audience)
