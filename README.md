@@ -205,22 +205,22 @@ EDNA TORRES MUNILL
   
 **HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
     
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3794778e-aba1-4e9d-8dfe-02bee703bf4f)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3794778e-aba1-4e9d-8dfe-02bee703bf4f)  
 
   
 **PAGE: ARTHUR I** - [**arthur_I.html**](https://englishgrows.com/history_beyond_myth/arthur_I.html):  
 
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bf48fe58-6db4-4fb9-9161-e4fdf34ad7b2)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bf48fe58-6db4-4fb9-9161-e4fdf34ad7b2)  
 
   
 **PAGE: AVALON** - [**avalon.html**](https://englishgrows.com/history_beyond_myth/avalon.html):  
 
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b82366d0-540d-47b9-a84a-f187b5bd4083)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b82366d0-540d-47b9-a84a-f187b5bd4083)  
   
 
 **PAGE: SIGN-UP** - [**contact.html**](https://englishgrows.com/history_beyond_myth/contact.html):   
 
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8092b0ea-3da0-441c-8ad8-2a936ec49adb)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8092b0ea-3da0-441c-8ad8-2a936ec49adb)  
 
 
 ### Manual Testing
