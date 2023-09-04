@@ -706,19 +706,22 @@ footer .social-media {
 
 #contact_flex {
     display: flex;
-    padding: 90px 0;
+    padding: 120px 0;
 }
 
 #contact_flex .events {
-    width: 50%;
+    width: 55%;
     padding: 0;
     margin-bottom: 0;
 }
 
 #social_events>div {
+    /*vertically align*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*end*/
     position: relative;
-    display: inline-flex;
-    /* width: 45%; */
     min-width: 400px;
     margin: 0 auto 90px 60px;
     background-color: antiquewhite;
@@ -818,8 +821,11 @@ footer .social-media {
 
 #cultural_events>div {
     position: relative;
-    display: inline-flex;
-    /* width: 45%; */
+    /*vertically align*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*end*/
     min-width: 400px;
     margin: 0 auto 0 60px;
     background-color: antiquewhite;
@@ -853,7 +859,7 @@ footer .social-media {
 
 /*** SIGN-UP FORM ***/
 #sign_up_form {
-    width: 40%;
+    width: 45%;
     position: relative;
     display: flex;
     padding: 0 60px;
@@ -997,14 +1003,22 @@ footer .social-media {
         background: url('../images/castle-4509080_1280.jpg') right top 50px fixed repeat-x;
     }
 
-    #social_events>div,
-    #cultural_events>div {
+    #social_events>div {
         margin: 0 auto 90px 30px;
+    }
+
+    #cultural_events>div {
+        margin: 0 auto 0 30px;
     }
 
     #sign_up_form {
         padding: 0 30px 90px 60px;
     }
+
+    #sign_up_form form {
+        padding: 30px;
+    }
+
 }
 
 /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
@@ -1128,7 +1142,7 @@ footer .social-media {
 
     #contact_flex {
         display: flex;
-        padding: 20px 12% 90px;
+        padding: 120px 12% 90px;
         flex-direction: column-reverse;
     }
 
@@ -1139,20 +1153,25 @@ footer .social-media {
         padding: 0;
     }
 
-    #social_events>div,
+    #social_events>div {
+        margin: 0 auto 90px 30px;
+    }
+
     #cultural_events>div {
-        margin: 0 auto 70px;
+        margin: 0 auto 0 30px;
     }
 
     #sign_up_form {
         display: block;
         width: auto;
-        padding: 70px 0;
+        padding: 0 30px 90px;
     }
 
     #sign_up_form form {
         width: 400px;
         margin: 0 auto 40px;
+        padding: 30px;
+
     }
 
 
@@ -1316,14 +1335,24 @@ footer .social-media {
 
     #contact_flex {
         display: flex;
-        padding: 20px 0 90px;
+        padding: 120px 5% 90px;
         flex-direction: column-reverse;
+    }
+
+    #social_events>div {
+        margin: 0 auto 90px;
+        padding-left: 0;
+    }
+
+    #cultural_events>div {
+        margin: 0 auto;
+        padding-left: 0;
     }
 
     #sign_up_form {
         display: block;
         width: auto;
-        padding-top: 70px;
+        padding: 0 5% 70px;
     }
 
     #sign_up_form form {
@@ -1542,16 +1571,14 @@ footer .social-media {
 
     #contact_flex {
         display: flex;
-        padding: 20px 0 90px;
+        padding: 120px 0 90px;
         flex-direction: column-reverse;
     }
-
-
 
     #sign_up_form {
         display: block;
         width: auto;
-        padding: 70px 2% 0;
+        padding: 0 2% 70px;
     }
 
     #sign_up_form form {
@@ -1578,20 +1605,22 @@ footer .social-media {
     #social_events,
     #cultural_events {
         width: fit-content;
-
     }
 
-    #social_events>div,
-    #cultural_events>div {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    #social_events>div {
         width: 100%;
         min-width: fit-content;
         margin: 0 auto 70px;
-        background-color: antiquewhite;
         padding-left: 0;
-        border-radius: 10px;
+        max-height: 550px;
+        height: 320px;
+    }
+
+    #cultural_events>div {
+        width: 100%;
+        min-width: fit-content;
+        margin: 0 auto;
+        padding-left: 0;
         max-height: 550px;
         height: 320px;
     }
