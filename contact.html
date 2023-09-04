@@ -56,92 +56,105 @@
         <h1>BECOME PART OF OUR VIBRANT COMMUNITY</h1>
     </header>
 
-    <div id="contact_flex">
-        <!-- DISPLAY DIV -->
-        <div class="events">
-            <!-- SECTION: SOCIAL EVENTS -->
-            <section id="social_events">
-                <div>
-                    <!-- FIGURE: SOCIAL EVENTS -->
-                    <div class="picture">
-                        <figure>
-                            <img src="./assets/images/medium-shot-man-posing-as-medieval-soldier.avif"
-                                alt="man dressed as medieval knight" srcset="" width="200">
-                            <figcaption>Image by
-                                <!-- LINK TO IMAGE SOURCE -->
-                                <a href="https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais"
-                                    target="_blank" aria-label="redirect to image source at freepik website on new tab">
-                                    Freepik</a>
-                            </figcaption>
-                        </figure>
-                    </div>
+    <div class="bg_img">
+        <div id="contact_flex" class="black_transparency">
+            <!-- DISPLAY DIV -->
+            <div class="events">
+                <!-- SECTION: SOCIAL EVENTS -->
+                <section id="social_events">
+                    <div>
+                        <!-- FIGURE: SOCIAL EVENTS -->
+                        <div class="picture">
+                            <figure>
+                                <img src="./assets/images/medium-shot-man-posing-as-medieval-soldier.avif"
+                                    alt="man dressed as medieval knight" srcset="" width="200">
+                                <figcaption>Image by
+                                    <!-- LINK TO IMAGE SOURCE -->
+                                    <a href="https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais"
+                                        target="_blank"
+                                        aria-label="redirect to image source at freepik website on new tab">
+                                        Freepik</a>
+                                </figcaption>
+                            </figure>
+                        </div>
 
-                    <!-- TEXT -->
-                    <div class="text">
-                        <h2>Social Events</h2>
-                        <p>Receive updates on events around Europe related to the Middle Ages. Medieval music concerts,
-                            jousts, historical recreations, medieval parties, dancing, gatherings, markets, etc.</p>
+                        <!-- TEXT -->
+                        <div class="text">
+                            <!-- div so -->
+                            <div>
+                                <h2>Social Events</h2>
+                                <p>Receive updates on events around Europe related to the Middle Ages. Concerts,
+                                    historical recreations, parties, markets, etc.</p>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                </section>
+
+                <!-- SECTION: CULTURAL EVENTS, SIGHT SEEING -->
+                <section id="cultural_events">
+                    <div>
+                        <!-- FIGURE: SEASCAPE IN GUERNSEY-->
+                        <div class="picture">
+                            <figure>
+                                <img class="floatImage"
+                                    src="./assets/images/long-exposure-shot-seascape-guernsey-during-sunset.jpg"
+                                    alt="man dressed as medieval knight" srcset="" width="200">
+                                <figcaption> Seascape in Guernsey,
+                                    <!-- LINK TO IMAGE SOURCE-->
+                                    <a href="https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm#query=guernsey&position=3&from_view=search&track=sph"
+                                        target="_blank"
+                                        aria-label="redirect to image source at freepik website on new tab">
+                                        by wirestock</a> on Freepik
+                            </figure>
+                        </div>
+
+                        <!-- TEXT -->
+                        <div class="text">
+                            <div>
+                                <h2>Sight Seeing</h2>
+                                <p>Receive updates on scheduled visits to emblematic sights related to the
+                                    curious coincidences found in our research.</p>
+                            </div>
+                        </div>
+                </section>
+
+            </div>
+
+            <!-- SECTION: SIGN-UP FORM -->
+            <section id="sign_up_form">
+                <form action="https://formdump.codeinstitute.net/" method="post" target="_blank"
+                    enctype="multipart/form-data">
+                    <h2>sign up form</h2>
+                    <label for="fname">First Name</label><br>
+                    <input type="text" name="fname" id="fname" autofocus required><br>
+                    <label for="lname">Last Name</label><br>
+                    <input type="text" name="lname" id="lname" required><br>
+                    <label for="email">Email</label><br>
+                    <input type="email" name="email" id="email" placeholder="example@youremail.com" required>
+                    <br><br>
+                    <label for="sightSeeing">Do you like travelling and sight seeing?</label><br>
+                    <div class="radio">
+                        <input type="radio" name="sightSeeing" id="yes" value="yes">
+                        <label for="yes">Yes!</label>
+                        <input type="radio" id="maybe" name="sightSeeing" value="maybe">
+                        <label for="maybe">Maybe... </label>
+                        <input type="radio" name="sightSeeing" id="nope" value="no">
+                        <label for="nope">Nope</label>
+                    </div>
+                    <br>
+                    <label for="file">Want to share any finding?</label>
+                    <input type="file" id="file" name="file"
+                        accept="image/png, image/jpeg, .avif, .doc, .docx, .pdf," />
+                    <button type="submit">SIGN UP</button>
+                </form>
             </section>
 
-            <!-- SECTION: CULTURAL EVENTS, SIGHT SEEING -->
-            <section id="cultural_events">
-                <div>
-                    <!-- FIGURE: SEASCAPE IN GUERNSEY-->
-                    <div class="picture">
-                        <figure>
-                            <img class="floatImage"
-                                src="./assets/images/long-exposure-shot-seascape-guernsey-during-sunset.jpg"
-                                alt="man dressed as medieval knight" srcset="" width="200">
-                            <figcaption> Seascape in Guernsey,
-                                <!-- LINK TO IMAGE SOURCE-->
-                                <a href="https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm#query=guernsey&position=3&from_view=search&track=sph"
-                                    target="_blank" aria-label="redirect to image source at freepik website on new tab">
-                                    by wirestock</a> on Freepik
-                        </figure>
-                    </div>
-
-                    <!-- TEXT -->
-                    <div class="text">
-                        <h2>Sight Seeing</h2>
-                        <p>Sign up to receive updates on scheduled visits to emblematic sights related to the curious
-                            coincidences found in our research.</p>
-                    </div>
-            </section>
 
         </div>
 
-        <!-- SECTION: SIGN-UP FORM -->
-        <section id="sign_up_form">
-            <form action="https://formdump.codeinstitute.net/" method="post" target="_blank"
-                enctype="multipart/form-data">
-                <h2>sign up form</h2>
-                <label for="fname">First Name</label><br>
-                <input type="text" name="fname" id="fname" autofocus required><br>
-                <label for="lname">Last Name</label><br>
-                <input type="text" name="lname" id="lname" required><br>
-                <label for="email">Email</label><br>
-                <input type="email" name="email" id="email" placeholder="example@youremail.com" required>
-                <br><br>
-                <label for="sightSeeing">Do you like travelling and sight seeing?</label><br>
-                <div class="radio">
-                    <input type="radio" name="sightSeeing" id="yes" value="yes">
-                    <label for="yes">Yes!</label>
-                    <input type="radio" id="maybe" name="sightSeeing" value="maybe">
-                    <label for="maybe">Maybe... </label>
-                    <input type="radio" name="sightSeeing" id="nope" value="no">
-                    <label for="nope">Nope</label>
-                </div>
-                <br>
-                <label for="file">Want to share any finding?</label>
-                <input type="file" id="file" name="file" accept="image/png, image/jpeg, .avif, .doc, .docx, .pdf," />
-                <button type="submit">SIGN UP</button>
-            </form>
-        </section>
-
 
     </div>
+
 
 
     <!-- FOOTER -->
@@ -187,3 +200,11 @@
 </body>
 
 </html>
+
+
+<!--  CASTLE PORTRAIT SIZE BACKGROUND IMG ATTRIBUTION
+    Image by <a href="https://pixabay.com/users/vrolanas-7124588/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4270853">Rolanas Valionis</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4270853">Pixabay</a>
+
+MEDIEVAL POINTED STONE ARCHS ATTRIBUTION
+Image by <a href="https://pixabay.com/users/jazella-1930366/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3995114">Jazella</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3995114">Pixabay</a>
+-->

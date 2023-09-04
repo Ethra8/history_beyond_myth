@@ -676,7 +676,7 @@ footer .social-media {
 
 /**** CONTACT / SIGN-UP *******/
 #contact {
-    background-color: #1B1B1B;
+    background-color: #a50000;
 }
 
 #contact header {
@@ -686,7 +686,7 @@ footer .social-media {
     max-height: 12rem;
     background-color: #B30502;
     line-height: 1.7;
-    margin-bottom: 90px;
+    margin-bottom: 0;
 }
 
 #contact h1 {
@@ -699,14 +699,19 @@ footer .social-media {
     text-shadow: 0 0 20px rgb(54, 54, 54);
 }
 
+#contact .bg_img {
+    background: url('../images/castle-4509080_1920.jpg') right top 50px fixed repeat-x;
+    display: fixed;
+}
+
 #contact_flex {
     display: flex;
-    padding: 20px 0 90px;
+    padding: 90px 0;
 }
 
 #contact_flex .events {
     width: 50%;
-    padding: 0 40px;
+    padding: 0 20px 0 40px;
 }
 
 #social_events>div,
@@ -715,19 +720,27 @@ footer .social-media {
     display: inline-flex;
     /* width: 45%; */
     min-width: 400px;
-    margin: 0 auto 50px 2%;
+    margin: 0 auto 70px 2%;
     background-color: antiquewhite;
     padding-left: 0;
     border-radius: 10px;
+    border-style: outset;
+    border-color: whitesmoke;
+    border-width: 1px;
 }
 
-#social_events .text {
+#social_events .text,
+#cultural_events .text {
     display: inline;
     background-color: antiquewhite;
     height: 300px;
     max-height: fit-content;
     border-radius: 10px;
-    /* vertical-align: middle; */
+    /* align vertically*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*end align vertically*/
 }
 
 #social_events .picture,
@@ -744,7 +757,7 @@ footer .social-media {
     text-align: left;
     font-size: 2.5rem;
     padding: 15px 35px 10px;
-    margin-bottom: 15px;
+    margin-bottom: 0;
     margin-top: 15px;
     font-family: 'Jim Nightshade', cursive;
     display: flex;
@@ -803,17 +816,16 @@ footer .social-media {
     font-weight: 600;
 }
 
-#cultural_events .text {
-    display: inline;
+/* {
+    position: relative;
+    display: inline-flex;
+    /* width: 45%; */
+/* min-width: 400px;
+    margin: 0 auto 0 2%;
     background-color: antiquewhite;
-    height: 300px;
+    padding-left: 0;
     border-radius: 10px;
-    /* vertical-align: middle; */
-}
-
-#cultura_events img {
-    height: 300px !important;
-}
+} */
 
 #cultural_events img {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
@@ -822,6 +834,7 @@ footer .social-media {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     margin-top: -16px;
+    height: 300px;
 }
 
 #cultural_events figcaption {
@@ -976,6 +989,11 @@ footer .social-media {
         margin-right: auto;
     }
 
+    #contact .bg_img {
+        background: url('../images/castle-4509080_1280.jpg') right top 50px fixed repeat-x;
+
+    }
+
 
 }
 
@@ -1078,10 +1096,6 @@ footer .social-media {
         margin-right: auto;
     }
 
-    /* #richard img {
-        left: 50%;
-    } */
-
     #french_kings,
     #abalone_value,
     #abalone_jewelry,
@@ -1094,6 +1108,40 @@ footer .social-media {
         border-radius: 10px;
         box-shadow: inset 0px 0px 20px rgba(238, 238, 238, 0.9);
         text-align: justify;
+    }
+
+    /*** SIGN-UP ***/
+
+    #contact .bg_img {
+        background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x cover;
+    }
+
+    #contact_flex {
+        display: flex;
+        padding: 20px 12% 90px;
+        flex-direction: column-reverse;
+    }
+
+    #contact_flex .events {
+        display: block;
+        width: 100%;
+        margin: 40px auto 0;
+        padding: 0;
+    }
+
+    #social_events>div,
+    #cultural_events>div {
+        margin: 0 auto 70px;
+    }
+
+    #sign_up_form {
+        display: block;
+        width: auto;
+    }
+
+    #sign_up_form form {
+        width: 400px;
+        margin: 0 auto 40px;
     }
 
 
@@ -1186,7 +1234,6 @@ footer .social-media {
     }
 
     /**** ARTHUR ****/
-
     .hidden_large_devices {
         display: block;
     }
@@ -1233,7 +1280,6 @@ footer .social-media {
         margin-right: auto;
     }
 
-
     /** AVALON ******/
     #abalone_frenchPronunciation {
         width: 90%;
@@ -1251,6 +1297,34 @@ footer .social-media {
         margin: 10px auto;
     }
 
+    /*** SIGN-UP ***/
+
+    #contact .bg_img {
+        background: url('../images/castle_britain_867x1280px.jpg') top fixed cover;
+    }
+
+    #contact_flex {
+        display: flex;
+        padding: 20px 0 90px;
+        flex-direction: column-reverse;
+    }
+
+    #sign_up_form {
+        display: block;
+        width: auto;
+        padding-top: 70px;
+    }
+
+    #sign_up_form form {
+        width: 400px;
+        margin: 0 auto 40px;
+    }
+
+    #contact_flex .events {
+        display: block;
+        width: auto;
+        margin: 40px auto 0;
+    }
 
 }
 
@@ -1427,7 +1501,6 @@ footer .social-media {
     #guernsey_strategicLocation {
         padding-left: 25px;
         padding-right: 25px;
-
     }
 
     #french_kings .content,
@@ -1449,5 +1522,85 @@ footer .social-media {
     #abalone_jewelry .content figure {
         width: 250px;
         margin: 20px auto;
+    }
+
+    /*** SIGN-UP ***/
+    #contact .bg_img {
+        background: url('../images/castle_britain_867x1280px.jpg') center fixed repeat-x cover;
+    }
+
+    #contact_flex {
+        display: flex;
+        padding: 20px 0 90px;
+        flex-direction: column-reverse;
+    }
+
+
+
+    #sign_up_form {
+        display: block;
+        width: auto;
+        padding: 70px 2% 0;
+    }
+
+    #sign_up_form form {
+        width: 90%;
+        max-width: fit-content;
+        margin: 0 auto 40px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    #social_events .picture,
+    #cultural_events .picture {
+        display: none;
+        /* width: auto;
+        margin: 40px auto 0;
+        flex-direction: column; */
+    }
+
+    #contact_flex .events {
+        width: fit-content;
+        padding: 20px 2% 40px;
+    }
+
+    #social_events,
+    #cultural_events {
+        width: fit-content;
+
+    }
+
+    #social_events>div,
+    #cultural_events>div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        min-width: fit-content;
+        margin: 0 auto 70px;
+        background-color: antiquewhite;
+        padding-left: 0;
+        border-radius: 10px;
+        max-height: 550px;
+        height: 320px;
+    }
+
+    #social_events .text,
+    #cultural_events .text {
+        /* align vertically*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /*end align vertically*/
+        background-color: antiquewhite;
+        min-height: 250px;
+        max-height: fit-content;
+        border-radius: 10px;
+        /* vertical-align: middle; */
+    }
+
+    #social_events .text h2,
+    #cultural_events .text h2 {
+        margin-bottom: 0;
     }
 }
