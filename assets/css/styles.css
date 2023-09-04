@@ -487,8 +487,9 @@ footer #contact_us {
     color: whitesmoke;
     text-align: center;
     font-family: 'Montserrat', 'Verdana', sans-serif;
-    padding: 30px 5% 10px;
-    background-color: #8f0303;
+    padding: 15px 5% 10px;
+    /*#8f0303 = rgb(143, 3, 3)*/
+    background-color: rgba(143, 3, 3, 1);
 
 }
 
