@@ -361,7 +361,7 @@ p {
 }
 
 #arthur_genealogy.background_image {
-    background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left top fixed no-repeat, url('../images/manuscript_background.avif') right top 100px fixed repeat-x;
+    background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left top fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 480px top -150px fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 960px top -320px fixed no-repeat;
     /* margin: 0; */
     overflow: hidden;
 }
@@ -384,7 +384,7 @@ p {
 #arthur_genealogy>section {
     position: relative;
     z-index: 800;
-    background-color: rgba(27, 27, 27, 0.8);
+    background-color: rgba(27, 27, 27, 0.9);
     /* rgba = #1B1B1B */
     padding: 50px 12% 30px;
     margin-bottom: 90px;
@@ -702,6 +702,11 @@ footer .social-media {
 #contact .bg_img {
     background: url('../images/castle-4509080_1920.jpg') right top 50px fixed repeat-x;
     display: fixed;
+}
+
+#contact .black_transparency {
+    background-color: rgba(0, 0, 0, 0.7);
+
 }
 
 #contact_flex {
