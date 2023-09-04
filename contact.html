@@ -69,7 +69,7 @@
                         <div class="picture">
                             <figure>
                                 <img src="./assets/images/medium-shot-man-posing-as-medieval-soldier.avif"
-                                    alt="man dressed as medieval knight" srcset="" width="200">
+                                    alt="man dressed as medieval knight" width="200">
                                 <figcaption>Image by
                                     <!-- LINK TO IMAGE SOURCE -->
                                     <a href="https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais"
@@ -100,13 +100,14 @@
                             <figure>
                                 <img class="floatImage"
                                     src="./assets/images/long-exposure-shot-seascape-guernsey-during-sunset.jpg"
-                                    alt="man dressed as medieval knight" srcset="" width="200">
+                                    alt="man dressed as medieval knight" width="200">
                                 <figcaption> Seascape in Guernsey,
                                     <!-- LINK TO IMAGE SOURCE-->
                                     <a href="https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm#query=guernsey&position=3&from_view=search&track=sph"
                                         target="_blank"
                                         aria-label="redirect to image source at freepik website on new tab">
                                         by wirestock</a> on Freepik
+                                </figcaption>
                             </figure>
                         </div>
 
@@ -118,6 +119,8 @@
                                     curious coincidences found in our research.</p>
                             </div>
                         </div>
+
+                    </div>
                 </section>
 
             </div>
@@ -133,8 +136,8 @@
                     <input type="text" name="lname" id="lname" required><br>
                     <label for="email">Email</label><br>
                     <input type="email" name="email" id="email" placeholder="example@youremail.com" required>
-                    <br><br>
-                    <label for="sightSeeing">Do you like travelling and sight seeing?</label><br>
+                    <br>
+                    <p style="padding-bottom: 0;margin-bottom: 5px;">Do you like travelling and sight seeing?</p>
                     <div class="radio">
                         <input type="radio" name="sightSeeing" id="yes" value="yes">
                         <label for="yes">Yes!</label>
@@ -145,8 +148,7 @@
                     </div>
                     <br>
                     <label for="file">Want to share any finding?</label>
-                    <input type="file" id="file" name="file"
-                        accept="image/png, image/jpeg, .avif, .doc, .docx, .pdf," />
+                    <input type="file" id="file" name="file" accept=".png, .jpg, .avif, .doc, .docx, .pdf">
                     <button type="submit">SIGN UP</button>
                 </form>
             </section>
