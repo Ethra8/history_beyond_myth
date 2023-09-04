@@ -431,7 +431,7 @@ p {
     position: absolute;
     right: -30px;
     bottom: 20px;
-    z-index: 999;
+    z-index: 1;
     visibility: hidden;
     background-color: whitesmoke;
     color: slategrey;
@@ -1137,10 +1137,6 @@ footer .social-media {
         margin: 0 0 0 20px;
     }
 
-    /* #arthur>.background_image {
-        max-width: 100%;
-    } */
-
     #index header,
     #arthur header,
     #avalon header {
@@ -1212,12 +1208,12 @@ footer .social-media {
         border-width: 6px;
     }
 
-    #arthur .background_image {
+    /* #arthur .background_image {
         margin: 0;
         max-width: 100%;
         left: 0;
         float: none;
-    }
+    } */
 
     #french_kings iframe,
     #abalone_seaTruffle iframe,
