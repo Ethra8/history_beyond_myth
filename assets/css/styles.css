@@ -104,23 +104,22 @@ p {
     padding-bottom: 0;
     color: rgb(243, 241, 241);
     text-shadow: 0 0 20px rgb(88, 88, 88);
+    font-weight: 400;
 }
 
 #index h1 .beyond {
     font-family: 'Reenie Beanie', cursive;
     color: rgb(243, 241, 241);
     text-shadow: 0 0 20px rgb(255, 255, 255);
-    font-size: 3.8rem;
+    font-size: 4rem;
 }
 
-#index h1 .capital,
-#avalon h1 .capital {
+#index .capital,
+#avalon .capital {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 6.5rem;
     color: rgb(216, 214, 214);
-    /* text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66); */
-    /* -webkit-text-stroke: 0.05px rgb(66, 66, 66); */
-    text-rendering: 100px white solid;
+    text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
 }
 
 #index header hr {
@@ -136,7 +135,7 @@ p {
 #index header p {
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     padding: 15px 0;
     margin: 0;
     text-shadow: 0 0 20px rgb(48, 48, 48);
@@ -263,7 +262,7 @@ p {
 #arthur header img,
 #avalon header img {
     display: flex;
-    margin-right: 50px;
+    margin-right: 40px;
     float: left;
     max-width: 175px;
     max-height: 195px;
@@ -273,14 +272,14 @@ p {
     box-shadow: 0 0 10px rgb(88, 88, 88);
 }
 
-#arthur header>.left,
-#avalon header>.left {
+#arthur .left,
+#avalon .left {
     display: flex;
     width: 50%;
 }
 
-#arthur header>.right,
-#avalon header>.right {
+#arthur .right,
+#avalon .right {
     width: 50%;
     text-align: right;
     position: relative;
@@ -288,8 +287,8 @@ p {
     flex-direction: row;
 }
 
-#arthur header>.right>.vl,
-#avalon header>.right>.vl {
+#arthur .right>.vl,
+#avalon .right>.vl {
     border-left: 5px outset rgb(207, 209, 207);
     border-right: 5px outset rgb(214, 214, 214);
     border-radius: 50%;
@@ -298,8 +297,8 @@ p {
     box-shadow: 5px 15px 5px rgba(71, 71, 71, 0.7);
 }
 
-#arthur header .right p,
-#avalon header .right p {
+#arthur .right p,
+#avalon .right p {
     position: absolute;
     top: 50%;
     right: 0;
@@ -307,8 +306,8 @@ p {
     text-align: right;
 }
 
-#arthur header .left p,
-#avalon header .left p {
+#arthur .left p,
+#avalon .left p {
     margin-top: -10px;
     padding-bottom: 0;
 }
@@ -316,32 +315,35 @@ p {
 #arthur h1,
 #avalon h1 {
     font-family: 'Metamorphous', cursive;
-    font-size: 1.7rem;
+    font-size: 2rem;
+    font-weight: 500;
     margin: 0 auto;
     padding-bottom: 0;
     color: rgb(243, 241, 241);
     text-shadow: 0 0 20px rgb(88, 88, 88);
 }
 
-#arthur h1 .capital {
+#arthur .capital,
+#avalon .capital {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 6rem;
+    font-weight: 300;
     color: rgb(216, 214, 214);
-    -webkit-text-stroke: 0.05px rgb(66, 66, 66);
+    text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
 }
 
 #arthur header p,
 #avalon header p {
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
-    font-size: 2rem;
+    font-size: 2.3rem;
     padding-top: 0;
     margin-top: 0;
     text-shadow: 0 0 20px rgb(29, 29, 29);
 }
 
-#arthur header h2,
-#avalon header h2 {
+/* #arthur header p,
+#avalon header p {
     line-height: 1.1;
     font-family: 'Jim Nightshade', cursive;
     color: rgba(243, 241, 241, 0.966);
@@ -351,7 +353,7 @@ p {
     margin-top: 0;
     margin-bottom: 20px;
     text-shadow: 0 0 10px rgb(29, 29, 29);
-}
+} */
 
 #arthur h2 {
     line-height: 1.1;
@@ -712,12 +714,12 @@ footer .social-media {
 
 #contact h1 {
     font-family: 'Metamorphous', cursive;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     margin: 0 auto;
     padding-bottom: 0;
     color: rgb(243, 241, 241);
-    text-shadow: 0 0 20px rgb(54, 54, 54);
+    text-shadow: 0 0 20px rgb(27, 27, 27), 0 0 20px rgb(27, 27, 27);
 }
 
 #contact .bg_img {
@@ -1264,11 +1266,10 @@ footer .social-media {
         text-align: center;
     }
 
-    #index h1 .capital,
-    #arthur h1 .capital,
-    #avalon h1 .capital {
+    #index .capital,
+    #arthur .capital,
+    #avalon .capital {
         font-size: 4.5rem;
-        -webkit-text-stroke: 0.05px rgb(66, 66, 66);
     }
 
     #index header p,
