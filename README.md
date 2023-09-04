@@ -199,8 +199,15 @@ EDNA TORRES MUNILL
 ## Validation Testing
 
 ### CSS Validation
+- No errors nor warnings were returned when passing the CSS Validation Test.
+- Used CSS Validator at [Jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator)
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/01c403d5-4608-448f-b24f-ea4d020884fc)
+
+- Link to Test Results [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### HTML Validation  
+- No errors nor warnings were returned when passing the HTML Validation Test.
 - Used [HTML Validator](https://validator.w3.org/) to validate all this website pages:
   
 **HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
