@@ -483,7 +483,7 @@ footer {
     padding-bottom: 30px;
 }
 
-footer #contact {
+footer #contact_us {
     color: whitesmoke;
     text-align: center;
     font-family: 'Montserrat', 'Verdana', sans-serif;
@@ -492,7 +492,7 @@ footer #contact {
 
 }
 
-footer #contact h2 {
+footer #contact_us h2 {
     color: antiquewhite;
     font-weight: 500;
     font-family: 'Metamorphous', cursive;
@@ -500,19 +500,19 @@ footer #contact h2 {
     font-variant: small-caps;
 }
 
-footer #contact p {
+footer #contact_us p {
     margin-top: 0;
     font-size: 1rem;
 }
 
-footer #contact a {
+footer #contact_us a {
     text-decoration: none;
     color: whitesmoke;
     font-size: 1.2rem;
     display: inline-flex;
 }
 
-footer #contact a:hover {
+footer #contact_us a:hover {
     font-weight: 500;
 }
 
