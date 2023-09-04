@@ -118,7 +118,9 @@ p {
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 6.5rem;
     color: rgb(216, 214, 214);
-    -webkit-text-stroke: 0.05px rgb(66, 66, 66);
+    /* text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66); */
+    /* -webkit-text-stroke: 0.05px rgb(66, 66, 66); */
+    text-rendering: 100px white solid;
 }
 
 #index header hr {
