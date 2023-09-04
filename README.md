@@ -203,7 +203,7 @@ EDNA TORRES MUNILL
 ### HTML Validation  
 - Used [HTML Validator](https://validator.w3.org/) to validate all this website pages:
   
-  * [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):
+  * **HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):
     
  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2147196d-aa02-4595-97dc-c31c5c3db755)
 
