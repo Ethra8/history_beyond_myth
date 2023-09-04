@@ -229,11 +229,14 @@ EDNA TORRES MUNILL
 
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cec9b322-4acd-4139-9200-c4184c217b24)
   
+## Compatibility and Responsive Testing
 
+## Manual Testing
+-  For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
-### Manual Testing
-- **Sign-up Form**
-
+  - **Sign-up Form**
+     - [x] submit goes to code institute data dump page in new tab:
+  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
 
 
