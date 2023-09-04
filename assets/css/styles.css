@@ -698,48 +698,61 @@ footer .social-media {
     text-shadow: 0 0 20px rgb(54, 54, 54);
 }
 
-#social_events>div {
-    width: 80%;
-    margin: 0 auto;
+#contact_flex {
+    display: flex;
+    padding: 20px 0 90px;
+}
+
+#contact_flex .events {
+    width: 50%;
+    padding: 0 40px;
+}
+
+#social_events>div,
+#cultural_events>div {
+    position: relative;
+    display: inline-flex;
+    /* width: 45%; */
+    min-width: 400px;
+    margin: 0 auto 50px 2%;
     background-color: antiquewhite;
     padding-left: 0;
     border-radius: 10px;
 }
 
 #social_events .text {
-    position: absolute;
-    background-color: antiquewhite;
-    /* left: 100; */
-    width: 40%;
-    height: 300px;
-    border-radius: 10px;
     display: inline;
-    vertical-align: middle;
+    background-color: antiquewhite;
+    height: 300px;
+    max-height: fit-content;
+    border-radius: 10px;
+    /* vertical-align: middle; */
 }
 
-#social_events .picture {
-    position: absolute;
+#social_events .picture,
+#cultural_events .picture {
     background-color: antiquewhite;
-    /* left: 220; */
     width: 200px;
-    max-height: 300px;
+    height: 300px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
-#social_events h2 {
+#social_events h2,
+#cultural_events h2 {
     text-align: left;
     font-size: 2.5rem;
-    padding: 0 0 0 230px;
+    padding: 15px 35px 10px;
     margin-bottom: 15px;
     margin-top: 15px;
     font-family: 'Jim Nightshade', cursive;
     display: flex;
 }
 
-#social_events p {
+#social_events p,
+#cultural_events p {
     text-align: left;
-    padding: 0 35px 0 230px;
+    padding: 0 35px;
     margin-top: 0;
     font-family: 'Montserrat', 'Verdana', sans-serif;
     color: #424242;
@@ -751,14 +764,15 @@ footer .social-media {
     text-justify: inter-word;
 }
 
-#social_events figure {
+#social_events figure,
+#cultural_events figure {
     margin-left: 0;
     z-index: 899;
     position: relative;
     display: inline-block;
 }
 
-#social_events .floatImage {
+#social_events img {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
     z-index: -1;
     position: relative;
@@ -771,83 +785,36 @@ footer .social-media {
     width: 186px;
     margin-left: 0;
     margin-top: -2.6em;
-    background-color: rgba(48, 48, 48, 0.8);
+    background-color: rgba(48, 48, 48, 0.7);
     z-index: 1;
     position: relative;
     border-bottom-left-radius: 10px;
 }
 
-#social_events figcaption a {
+#social_events figcaption a,
+#cultural_events figcaption a {
     color: whitesmoke;
     text-decoration: none;
 }
 
-#social_events figcaption a:hover {
+#social_events figcaption a:hover,
+#cultural_events figcaption a:hover {
     font-weight: 600;
 }
 
-#cultural_events>div {
-    width: 80%;
-    margin: 450px auto;
-    background-color: antiquewhite;
-    padding-left: 0;
-    border-radius: 10px;
-}
-
 #cultural_events .text {
-    position: absolute;
+    display: inline;
     background-color: antiquewhite;
-    left: 220;
-    width: 40%;
     height: 300px;
     border-radius: 10px;
-}
-
-#cultural_events .picture {
-    position: absolute;
-    background-color: antiquewhite;
-    width: 200px;
-    max-height: 300px;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
+    /* vertical-align: middle; */
 }
 
 #cultura_events img {
     height: 300px !important;
 }
 
-#cultural_events h2 {
-    text-align: left;
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding: 0 0 0 230px;
-    font-family: 'Jim Nightshade', cursive;
-    display: flex;
-}
-
-#cultural_events p {
-    text-align: left;
-    padding: 0 20px 0 230px;
-    margin-top: 0;
-    font-family: 'Montserrat', 'Verdana', sans-serif;
-    color: #424242;
-    line-height: 1.5;
-    font-size: 1rem;
-    font-weight: 600;
-    display: flex;
-    text-align: justify;
-    text-justify: distribute;
-}
-
-#cultural_events figure {
-    margin-left: 0;
-    z-index: 899;
-    position: relative;
-    display: inline-block;
-}
-
-#cultural_events .floatImage {
+#cultural_events img {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
     z-index: -1;
     position: relative;
@@ -866,29 +833,18 @@ footer .social-media {
     border-bottom-left-radius: 10px;
 }
 
-#cultural_events figcaption a {
-    color: whitesmoke;
-    text-decoration: none;
-}
-
-#cultural_events figcaption a:hover {
-    font-weight: 600;
-}
-
 
 /*** SIGN-UP FORM ***/
 #sign_up_form {
     width: 40%;
     position: relative;
-    display: inline-flex;
-    margin-left: 60%;
-    margin-top: -460px;
-    right: 40px;
+    display: flex;
+    padding: 0 60px;
 }
 
 #sign_up_form form {
     background-color: #8f0303;
-    padding: 0 50px 30px;
+    padding: 30px 50px;
     font-family: 'Montserrat', 'Verdana', sans-serif;
     color: whitesmoke;
     font-size: 1.1rem;
@@ -919,7 +875,6 @@ footer .social-media {
 
 #sign_up_form input[type=radio] {
     width: 15px;
-    /* margin: 0 auto -30px; */
     height: 1rem;
 }
 
@@ -931,6 +886,7 @@ footer .social-media {
     margin-top: 50px;
 }
 
+/** Radio input**/
 #yes,
 #no,
 #maybe {
@@ -955,13 +911,6 @@ footer .social-media {
 #sign_up_form button:hover {
     background-color: whitesmoke;
 }
-
-#contact footer {
-    bottom: -580px;
-    position: absolute;
-    width: 100%;
-}
-
 
 
 /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
