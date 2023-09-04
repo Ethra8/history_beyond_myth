@@ -44,6 +44,9 @@ EDNA TORRES MUNILL
 
 ## UX
 
+### Target Audience
+* 
+
 ### Project Goal
 * The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
 * Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
@@ -185,8 +188,23 @@ EDNA TORRES MUNILL
 
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
 
+# Features
 
-## TESTING
+## Implemented Features
+
+## Future Features
+
+## Testing
+
+## Validation Testing
+
+### CSS Validation
+
+### HTML Validation
+    * Used [HTML Validator](https://validator.w3.org/) to validate all this website pages.
+      - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
+     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2147196d-aa02-4595-97dc-c31c5c3db755)
+
 
 ### Manual Testing
 - **Sign-up Form**
