@@ -158,9 +158,8 @@ p {
 }
 
 #index .site_description {
-    background: url('../images/full_manuscript_background_AVI.avif') repeat-y center center fixed;
-    margin: -35px auto;
-    overflow: hidden;
+    background: url('../images/full_manuscript_background_AVI.avif') repeat-x center top -100px fixed;
+    margin: 0 auto;
     font-family: 'Montserrat', 'Verdana', sans-serif;
     font-weight: 600;
     color: rgb(77, 76, 76);
@@ -170,6 +169,7 @@ p {
 .black_transparency {
     background-color: rgba(0, 0, 0, 0.55);
     padding: 50px;
+    z-index: 300;
 }
 
 #index .black_transparency>div {
@@ -360,9 +360,9 @@ p {
     position: relative;
 }
 
-#arthur .background_image {
-    background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left fixed no-repeat;
-    margin: 0 auto;
+#arthur_genealogy.background_image {
+    background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left top fixed no-repeat, url('../images/manuscript_background.avif') right top 100px fixed repeat-x;
+    /* margin: 0; */
     overflow: hidden;
 }
 
@@ -381,13 +381,13 @@ p {
     padding: 0 0 50px 30%;
 }
 
-#arthur_genealogy>div,
-#heir_richard {
+#arthur_genealogy>section {
     position: relative;
     z-index: 800;
     background-color: rgba(27, 27, 27, 0.8);
     /* rgba = #1B1B1B */
-    padding: 80px 12% 30px;
+    padding: 50px 12% 30px;
+    margin-bottom: 90px;
 }
 
 .hidden_large_devices {
@@ -460,10 +460,18 @@ figcaption {
     margin: 50px 0 0;
 }
 
+#henry_II img {
+    width: 100%;
+}
+
 #richard,
 #geoffrey {
     display: none;
     visibility: hidden;
+}
+
+#phillip img {
+    width: 100%;
 }
 
 
@@ -553,7 +561,7 @@ footer .social-media {
 }
 
 #avalon .background_image {
-    background: url('../images/full_manuscript_background_AVI.avif') center center fixed;
+    background: url('../images/full_manuscript_background_AVI.avif') center center fixed repeat-x;
     margin: -40px auto;
     overflow: hidden;
 }
@@ -955,9 +963,6 @@ footer .social-media {
 }
 
 
-/*** MEDIA QUERY: MAX. 1024px ***/
-@media only screen and (max-width: 1024px) {}
-
 
 /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
 @media only screen and (min-width: 992px) and (max-width: 1199.99px) {
@@ -1080,6 +1085,10 @@ footer .social-media {
         padding-left: 20px;
     }
 
+    #arthur_genealogy>section {
+        margin-bottom: 120px;
+    }
+
     #henry_II {
         display: none;
         visibility: hidden;
@@ -1114,15 +1123,14 @@ footer .social-media {
     #richard figcaption,
     #geoffrey figcaption {
         width: 178px;
-        /* max-width: 185px; */
         display: block;
         margin-left: auto;
         margin-right: auto;
     }
 
-    #richard img {
+    /* #richard img {
         left: 50%;
-    }
+    } */
 
     #french_kings,
     #abalone_value,
@@ -1228,6 +1236,7 @@ footer .social-media {
     }
 
     /**** ARTHUR ****/
+
     .hidden_large_devices {
         display: block;
     }
@@ -1236,9 +1245,13 @@ footer .social-media {
         padding: 0 0 50px 15%;
     }
 
-    #arthur_genealogy>div {
-        margin: 80px auto 60px;
-        padding: 40px 12%;
+    #arthur_genealogy.background_image {
+        background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_768x1643px.avif') center fixed;
+    }
+
+    #arthur_genealogy>section {
+        margin-bottom: 120px;
+        padding: 50px 12%;
     }
 
     #henry_II,
@@ -1253,42 +1266,21 @@ footer .social-media {
         visibility: visible;
         width: 100%;
         margin: 40px auto 0;
-        /* left: 15%;
-        right: 10%; */
     }
 
     #richard img {
+        width: 60%;
+        margin: 0 auto;
         display: block;
-        /* position: absolute; */
-        margin: auto;
-        max-width: 223px;
-        height: 275px;
-        bottom: -275px;
-        z-index: 995;
-        /* left: 25%;
-        right: 25%; */
+        margin-left: auto;
+        margin-right: auto;
     }
 
     #richard figcaption {
         display: block;
-        /* position: absolute; */
-        margin: auto;
-
-        z-index: 995;
-        /* left: 25%;
-        right: 25%;
-        top: 235px; */
-        width: 210px;
-        max-width: 223px;
-    }
-
-    #heir_richard {
-        padding-left: 30px;
-        padding-right: 30px;
-        background-color: rgba(27, 27, 27, 0.8);
-        top: 60px;
-        margin-bottom: 80px;
-        padding-bottom: 355px;
+        width: 57%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
 
@@ -1316,6 +1308,7 @@ footer .social-media {
 /*** MEDIA QUERY: MAX. 575.99px ***/
 @media only screen and (max-width: 575.99px) {
 
+    /*** NAVBAR ***/
     nav {
         padding: 20px;
         text-align: center;
@@ -1327,6 +1320,7 @@ footer .social-media {
         margin: 0 0 0 20px;
     }
 
+    /*** HEADERS ***/
     #index h1,
     #arthur h1,
     #avalon h1 {
@@ -1399,21 +1393,70 @@ footer .social-media {
         font-size: 2.5rem;
     }
 
-    #arthur .background_image {
+    /*** INDEX ***/
+    #index .black_transparency>div {
+        padding: 50px 30px;
+        max-width: 90%;
+        width: 85%;
+    }
+
+    /*** ARTHUR ***/
+    #arthur_genealogy.background_image {
         background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') center fixed;
-        /* overflow: visible;
-        background-size:cover; */
     }
 
     .black_transparency {
-        padding-right: 5%;
-        padding-left: 5%;
+        padding-right: 2%;
+        padding-left: 2%;
     }
 
     .hidden_large_devices {
         display: block;
     }
 
+    #arthur_genealogy {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    #arthur_genealogy>section {
+        padding: 50px 40px;
+        margin-bottom: 120px;
+        /*#1B1B1B = rgba*/
+        background-color: rgba(27, 27, 27, 0.85);
+    }
+
+    #henry_II {
+        display: none;
+        visibility: hidden;
+    }
+
+    figure#richard {
+        position: relative;
+        display: inline-block;
+        visibility: visible;
+        width: 100%;
+        margin: 40px auto 0;
+    }
+
+    #richard img {
+        width: 60%;
+        min-width: 180px;
+        margin: 0 auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #richard figcaption {
+        display: block;
+        width: 57.5%;
+        min-width: 165px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /*** AVALON ***/
     #avalon .content {
         display: flex;
         flex-direction: column-reverse;
@@ -1424,60 +1467,6 @@ footer .social-media {
         width: 90%;
         padding-right: 5%;
         padding-left: 5%;
-    }
-
-    #arthur_genealogy {
-        padding-right: 0;
-        padding-left: 0;
-    }
-
-    #arthur_genealogy>div {
-        padding-left: 30px;
-        padding-right: 30px;
-        background-color: rgba(27, 27, 27, 0.8);
-        top: 60px;
-        margin-bottom: 150px;
-        padding-bottom: 50px;
-    }
-
-    #heir_richard {
-        padding-left: 30px;
-        padding-right: 30px;
-        background-color: rgba(27, 27, 27, 0.8);
-        top: 60px;
-        margin-bottom: 80px;
-        padding-bottom: 355px;
-    }
-
-    #henry_II {
-        display: none;
-        visibility: hidden;
-    }
-
-    figure#richard {
-        position: relative;
-        display: flex;
-        visibility: visible;
-        width: 223px;
-        margin: 40px auto 0;
-        align-items: center;
-    }
-
-    #richard img {
-        display: block;
-        position: absolute;
-        max-width: 223px;
-        height: 275px;
-        bottom: -275px;
-        z-index: 995;
-    }
-
-    #richard figcaption {
-        display: block;
-        position: absolute;
-        bottom: -325px;
-        width: 210px;
-        max-width: 223px;
     }
 
     #french_kings,
