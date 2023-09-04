@@ -1,7 +1,14 @@
 # HISTORY BEYOND MYTH
 
 ## Author
-Edna Torres Munill
+EDNA TORRES MUNILL
+
+## Live Site
+- You can view the deployed site [here](https://englishgrows.com/History_Beyond_Myth/index.html)
+
+## Repository
+- You can check the Github repository [here](https://github.com/Ethra8/history_beyond_myth)
+
 
 ## Project Overview
 - History Beyond Myth is a website that aims at providing the curious reader with academically recognised history facts that bear curious coincidences with some of the aspects of a well-known myth, such as the Arthurian cycle.
@@ -10,11 +17,11 @@ Edna Torres Munill
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting events sorrounding myths and/or history from the Early Middle Ages around Europe.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
-You can view the deployed site [here](https://englishgrows.com/History_Beyond_Myth/index.html)
-
 ## TABLE OF CONTENTS
 - [HISTORY BEYOND MYTH](#history-beyond-myth)
     * [Author](#Author)
+    * [Live Site](#live-site)
+    * [Repository](#repository)
     * [Project Overview](#project-overview)
     * [UX](#UX)
         + [Project Goal](#project-goal)
