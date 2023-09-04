@@ -711,16 +711,16 @@ footer .social-media {
 
 #contact_flex .events {
     width: 50%;
-    padding: 0 20px 0 40px;
+    padding: 0;
+    margin-bottom: 0;
 }
 
-#social_events>div,
-#cultural_events>div {
+#social_events>div {
     position: relative;
     display: inline-flex;
     /* width: 45%; */
     min-width: 400px;
-    margin: 0 auto 70px 2%;
+    margin: 0 auto 90px 60px;
     background-color: antiquewhite;
     padding-left: 0;
     border-radius: 10px;
@@ -756,9 +756,9 @@ footer .social-media {
 #cultural_events h2 {
     text-align: left;
     font-size: 2.5rem;
+    line-height: 1;
     padding: 15px 35px 10px;
-    margin-bottom: 0;
-    margin-top: 15px;
+    margin: 15px 0 7px;
     font-family: 'Jim Nightshade', cursive;
     display: flex;
 }
@@ -816,16 +816,19 @@ footer .social-media {
     font-weight: 600;
 }
 
-/* {
+#cultural_events>div {
     position: relative;
     display: inline-flex;
     /* width: 45%; */
-/* min-width: 400px;
-    margin: 0 auto 0 2%;
+    min-width: 400px;
+    margin: 0 auto 0 60px;
     background-color: antiquewhite;
     padding-left: 0;
     border-radius: 10px;
-} */
+    border-style: outset;
+    border-color: whitesmoke;
+    border-width: 1px;
+}
 
 #cultural_events img {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
@@ -989,12 +992,19 @@ footer .social-media {
         margin-right: auto;
     }
 
+    /*** SIGN UP ***/
     #contact .bg_img {
         background: url('../images/castle-4509080_1280.jpg') right top 50px fixed repeat-x;
-
     }
 
+    #social_events>div,
+    #cultural_events>div {
+        margin: 0 auto 90px 30px;
+    }
 
+    #sign_up_form {
+        padding: 0 30px 90px 60px;
+    }
 }
 
 /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
@@ -1137,6 +1147,7 @@ footer .social-media {
     #sign_up_form {
         display: block;
         width: auto;
+        padding: 70px 0;
     }
 
     #sign_up_form form {
@@ -1316,7 +1327,7 @@ footer .social-media {
     }
 
     #sign_up_form form {
-        width: 400px;
+        width: 350px;
         margin: 0 auto 40px;
     }
 
