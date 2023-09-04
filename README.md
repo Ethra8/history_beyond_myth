@@ -21,8 +21,8 @@ EDNA TORRES MUNILL
 
 
 ## TABLE OF CONTENTS
-[HISTORY BEYOND MYTH](#history-beyond-myth)  
-    * [Project Overview](#project-overview)  
+  
+- [Project Overview](#project-overview)  
     * [Live Site](#live-site)  
     * [Repository](#repository)  
     * [Author](#Author)  
