@@ -20,7 +20,7 @@ EDNA TORRES MUNILL
 
 
 ## TABLE OF CONTENTS
-- [HISTORY BEYOND MYTH](#history-beyond-myth)
+[HISTORY BEYOND MYTH](#history-beyond-myth)
     * [Author](#Author)
     * [Live Site](#live-site)
     * [Repository](#repository)
