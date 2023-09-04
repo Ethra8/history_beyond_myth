@@ -1,11 +1,13 @@
 # HISTORY BEYOND MYTH
 
 ## Project Overview
-- History Beyond Myth is a website that aims at providing the curious reader with academically recognised history facts that bear curious coincidences with some of the aspects of a well-known myth, such as the Arthurian cycle.
+- History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle.
 - The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
-- This site is useful for anyone who might be interested in history, and/or in myths and legends in general, and most particularly, the Matter of Britain and the Arthurian cycle.
-- The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting events sorrounding myths and/or history from the Early Middle Ages around Europe.
+- This site is useful for anyone who might be interested in history, more precisely from the European early Middle Ages, or also in myths and legends in general.
+- The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages.
+- The users of this page who have already signed up will be informed of organized visits to sites related to the curious coincidences stated in the site.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
+
 ## Author
 EDNA TORRES MUNILL
 
@@ -20,10 +22,10 @@ EDNA TORRES MUNILL
 
 ## TABLE OF CONTENTS
 - [HISTORY BEYOND MYTH](#history-beyond-myth)
+   * [Project Overview](#project-overview)
     * [Author](#Author)
     * [Live Site](#live-site)
     * [Repository](#repository)
-    * [Project Overview](#project-overview)
     * [UX](#UX)
         + [Project Goal](#project-goal)
         + [User Stories](#user-stories)
