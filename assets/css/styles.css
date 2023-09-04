@@ -1344,6 +1344,11 @@ footer .social-media {
         font-size: 2.5rem;
     }
 
+    .black_transparency {
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
     #arthur>.background img {
         margin: 0;
         float: none;
@@ -1351,15 +1356,14 @@ footer .social-media {
         right: 0;
     }
 
+    .hidden_large_devices {
+        display: block;
+    }
+
     #avalon .content {
         display: flex;
         flex-direction: column-reverse;
         width: 95%;
-    }
-
-    .black_transparency {
-        padding-right: 5%;
-        padding-left: 5%;
     }
 
     #abalone_frenchPronunciation {
