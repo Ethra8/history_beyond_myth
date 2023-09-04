@@ -220,7 +220,8 @@ EDNA TORRES MUNILL
 
 **PAGE: SIGN-UP** - [**contact.html**](https://englishgrows.com/history_beyond_myth/contact.html):   
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8092b0ea-3da0-441c-8ad8-2a936ec49adb)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cec9b322-4acd-4139-9200-c4184c217b24)
+  
 
 
 ### Manual Testing
