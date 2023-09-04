@@ -720,7 +720,6 @@ footer .social-media {
 
 #contact .bg_img {
     background: url('../images/castle-4509080_1920.jpg') right top 50px fixed repeat-x;
-    display: fixed;
 }
 
 #contact .black_transparency {
@@ -1161,7 +1160,7 @@ footer .social-media {
     /*** SIGN-UP ***/
 
     #contact .bg_img {
-        background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x cover;
+        background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
     }
 
     #contact_flex {
@@ -1354,7 +1353,7 @@ footer .social-media {
     /*** SIGN-UP ***/
 
     #contact .bg_img {
-        background: url('../images/castle-4509080_1280.jpg') top fixed cover;
+        background: url('../images/castle-4509080_1280.jpg') top fixed;
     }
 
     #contact_flex {
@@ -1590,7 +1589,7 @@ footer .social-media {
 
     /*** SIGN-UP ***/
     #contact .bg_img {
-        background: url('../images/castle-4509080_640.jpg') center fixed repeat-x cover;
+        background: url('../images/castle-4509080_640.jpg') center fixed repeat-x;
     }
 
     #contact_flex {
