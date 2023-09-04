@@ -203,17 +203,20 @@ EDNA TORRES MUNILL
 ### HTML Validation  
 - Used [HTML Validator](https://validator.w3.org/) to validate all this website pages:
   
-**HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):
+**HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
     
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2147196d-aa02-4595-97dc-c31c5c3db755)  
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3794778e-aba1-4e9d-8dfe-02bee703bf4f)  
 
+  
 **PAGE: ARTHUR I** - [**arthur_I.html**](https://englishgrows.com/history_beyond_myth/arthur_I.html):  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e71c69ae-ebb7-4921-a2b1-dd002a70e670)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bf48fe58-6db4-4fb9-9161-e4fdf34ad7b2)  
 
+  
 **PAGE: AVALON** - [**avalon.html**](https://englishgrows.com/history_beyond_myth/avalon.html):  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab470ee1-e8b1-48b0-b295-799847562666)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b82366d0-540d-47b9-a84a-f187b5bd4083)  
+  
 
 **PAGE: SIGN-UP** - [**contact.html**](https://englishgrows.com/history_beyond_myth/contact.html):   
 
