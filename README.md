@@ -26,6 +26,7 @@ EDNA TORRES MUNILL
     * [Repository](#repository)
     * [Project Overview](#project-overview)
     * [UX](#UX)
+        + [Traget Audience](#target-audience)
         + [Project Goal](#project-goal)
         + [User Stories](#user-stories)
         + [User Profiles](#user-profiles)
@@ -34,13 +35,47 @@ EDNA TORRES MUNILL
         + [Typography](#typography)
         + [Images](#images)
         + [Animations](#animations)
-        + [Responsiveness](#responsiveness)
-
-    * [DEPLOYMENT](#deployment)
-         + [Production](#production)
+        + [Site Structure](#site-structure)
+        + [Design Elements](#design-elements)
+        + [Wireframes](#wireframes)
+            + [Mobile Wireframes](#mobile-wireframes)
+            + [Tablet Wireframes](#tablet-wireframes)
+            + [Desktop Wireframes](#desktop-wireframes)
+   
+    * [FEATURES](#features)
+        + [Implemented Features](#implemented-features)
+        + [Future Features](#future-features)
 
     * [TESTING](#testing)
-       + [Manual Testing](#manual-testing)
+        + [Validation Testing](#validation-testing)
+            + [CSS Validation](#css-validation)
+            + [HTML Validation](#html-validation)
+        + [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+        + [Manual Testing](#manual-testing)
+        + [Defect Tracking](#defect-tracking)
+        + [Defects of Note](#defects-of-note)
+        + [Outstanding Defects](#outstanding-defects)
+        + [Core Web Vitals](#core-web-vitals)
+        + [Accessibility Testing](#accessibility-testing)
+            + [Accesibility Audits](#accessibility-audits)
+            + [Keyboard Navigation](#keyboard-navigation)
+            + [Chrome Vox Reader](#chrome-vox-reader)
+  
+    * [TECHNOLOGIES USED](#technologies-used)
+        + [Languages](#languages)
+        + [Frameworks, Libraries & Programs](#frameworks,-libraries-&-programs)
+    
+    * [DEPLOYMENT](#deployment)
+        + [Deploy to Github Pages](#deploy-to-github-pages)
+            + [Production](#production)
+        + [Forking the Repository](#forking-the-repository)
+        + [Run Locally with Github](#run-locally-with-github)
+
+    * [CREDITS](#credits)
+        + [Content](#content)
+        + [Media](#media)
+        + [Acknowledgements](#acknowledgements)
+
 
 ## UX
 
@@ -118,75 +153,53 @@ EDNA TORRES MUNILL
  - The headings decrease in size to ensure full responsiveness of the website.
 
  ### Images
- - NAVIGATION BAR:
+ - **NAVIGATION BAR:**
     + Includes the logo, fixed to the left.
- - HOMEPAGE:
+ - **HOMEPAGE:**
     + Background image: Caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi). It belongs to Chapter XVIII, which explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard "the Lionheart", being his rightful heir by birth right. The text calls Arthur "King of Brittany". The depiction of this page of the manuscript shows King Philip II of France arriving to Arthur's castle in Brittany after Richard's death, where Arthur is wearing a crown, and gives homage to Philip in return for Philip's support to his claim to the throne of England.
-    + Small images put in line underneath the heading, all related to the Arthurian cycle. Most reappear in subsequent pages:
+
+    + **Small images put in line underneath the heading**, all related to the Arthurian cycle. Most reappear in subsequent pages:
         + An early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris. Original source is manuscript Cotton MS Claudius D VI, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
         + [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
-        + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
-        + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+        + [Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page f.361v of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
+        + [Portrait of King Richard "the Lionheart"](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r): Its original source is the 6th membrane of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
         + [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), as stated in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript "Brief Abridgement of the Chronicles of England" attributed to Matthew Paris, dated 1255-1259 kept in the National British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
-- PAGE: ARTHUR I
+
+- **PAGE: ARTHUR I**
     + Header image: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, and nephew and rightful heir to King Richard "the Lionheart". Its source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi). The 6th membrane includes Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany.
     + Background image fixed on the left: Genealogy of the Kings of England, including Henry II to John Lacklang [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
-    + Screens of a minimum width of 1025px (laptops):   
+  
+  * **Screens of a minimum width of 1200px (desktops):**   
         + Zoom-in caption of the latter membrane, including King Henry II descendants. 
         + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
         + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
-    + Screens of a minimum width of 768px & max-width of 1024px (tablets):
+    
+    + **Screens of a minimum width of 768px & max-width of 1199.99px (large tablets and small laptops):**
         + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
         + Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, as one of King Henry's sons, being Richard's younger brother, and Arthur's father.
         + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
         + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
-    + Screens of a maximum width of 767 px (phones and smaller tablets):
+    + **Screens of a maximum width of 767 px (phones and smaller tablets):**
         + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
         + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
         + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
-- PAGE: AVALON
+  
+- **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
 ### Animations
 
-### Responsiveness
+## Site Structure
 
-## Deployment
+## Design Elements
 
-### Production
-1. Click **Settings** tab:
-   
-   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/b05a629e-a3bc-4a65-ace1-c9a69aad35c3)
-   
-2. In the left-hand menu, click on the **Pages** link:
-   
-   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/c93123a2-5b17-486c-8645-b8bf6d400a8a)
-   
-3. In the **Build and Deployment** section, select **Branch**. Click on the dropdown menu and select **main**:
-        
-   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/e4df05ef-4570-49b6-9c1e-965e39dac0ab)
+## Wireframes
 
-4. Click **Save**:
-   
-   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/afe2aba8-0d95-4b3f-bf2c-df4864363923)
-   
-5. Wait about 3 minutes, and refresh the page. Then the link to the deployed site will show up like this:
-      
-   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/a85b79f7-7bb4-4e5e-bc1a-b09a1a37161a)
+### Mobile Wireframes
 
-### Update after Deployment
-- Changed original site name **History_Beyond_Myth** to lower cases:
-     + Go to **Settings**:
-       
-       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1a9566e0-dda2-47f1-9ed5-7a4bb7278b79)
-     + In the **General** section, update the name and click on **Rename**:
-       
-       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/12bb14d0-3655-42fb-b3ad-66df19517220)
+### Tablet Wireframes
 
-     + Add **description** and **topics** when saving, which now show on the **About** on the right hand, with the updated name of the 
-       site in lower cases:  
-
-       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
+### Desktop Wireframes
 
 # Features
 
@@ -238,6 +251,96 @@ EDNA TORRES MUNILL
      - [x] submit goes to code institute data dump page in new tab:
   
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
+
+## Defect Tracking 
+
+## Defects of Note
+
+## Outstandign Defects
+
+## Core Web Vitals
+
+## Accessibility Testing
+
+## Accessibility Audits
+
+### Keyboard NAvigation
+
+### Chrome Vox Reader
+
+# Technologies Used
+
+## Languages
+- To code this project the following languages have been used:
+  + HTML
+  + CSS
+ 
+## Frameworks, Libraries & Programs Used
+- The following have been used:
+  + Visual Studio Code
+  + Balsamiq
+  + Font Awesome
+  + Google Fonts
+  + Github
+  + Coolors.co
+  + Amiresponsive
+
+
+# Deployment
+
+## Deploy to Github Pages
+- I started coding from **Visual Studio Code**, as I had been using it to code my freelancer website as a teacher of English as a second language. My freelance website is [englishgrows.com](https://englishgrows.com) , and I'm the owner of the Google Domain emglishgrows.com, which is linked to my Github account EdnaTMunill, with nickname [Ethra8](https://github.com/Ethra8) . 
+
+### Production
+1. Click **Settings** tab:
+   
+   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/b05a629e-a3bc-4a65-ace1-c9a69aad35c3)
+   
+2. In the left-hand menu, click on the **Pages** link:
+   
+   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/c93123a2-5b17-486c-8645-b8bf6d400a8a)
+   
+3. In the **Build and Deployment** section, select **Branch**. Click on the dropdown menu and select **main**:
+        
+   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/e4df05ef-4570-49b6-9c1e-965e39dac0ab)
+
+4. Click **Save**:
+   
+   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/afe2aba8-0d95-4b3f-bf2c-df4864363923)
+   
+5. Wait about 3 minutes, and refresh the page. Then the link to the deployed site will show up like this:
+      
+   ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/a85b79f7-7bb4-4e5e-bc1a-b09a1a37161a)
+
+### Update after Deployment
+- Changed original site name **History_Beyond_Myth** to lower cases:
+     + Go to **Settings**:
+       
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1a9566e0-dda2-47f1-9ed5-7a4bb7278b79)
+     + In the **General** section, update the name and click on **Rename**:
+       
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/12bb14d0-3655-42fb-b3ad-66df19517220)
+
+     + Add **description** and **topics** when saving, which now show on the **About** on the right hand, with the updated name of the 
+       site in lower cases:  
+
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
+
+## Forking the Repository
+
+## Run Locally with GitPod
+
+# Credits
+
+## Content
+
+## Media
+
+## Acknowledgements
+
+
+
+
 
 
 
