@@ -205,7 +205,18 @@ EDNA TORRES MUNILL
   
   * **HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):
     
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2147196d-aa02-4595-97dc-c31c5c3db755)
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2147196d-aa02-4595-97dc-c31c5c3db755)  
+
+ * **PAGE: ARTHUR I** - [**arthur_I.html**](https://englishgrows.com/history_beyond_myth/arthur_I.html):
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e71c69ae-ebb7-4921-a2b1-dd002a70e670)
+
+ * **PAGE: AVALON** - [**avalon.html**](https://englishgrows.com/history_beyond_myth/avalon.html):
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab470ee1-e8b1-48b0-b295-799847562666)
+
+* **PAGE: SIGN-UP** - [**contact.html**](https://englishgrows.com/history_beyond_myth/contact.html):
+
 
 
 ### Manual Testing
