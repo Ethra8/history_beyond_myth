@@ -106,9 +106,8 @@ p {
     font-size: 4rem;
 }
 
-#index .capital,
-#avalon .capital {
-    font-family: 'UnifrakturMaguntia', cursive;
+#index .capital {
+    font-family: 'UnifrakturCook', cursive;
     font-size: 6.5rem;
     color: rgb(216, 214, 214);
     text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
@@ -317,7 +316,7 @@ p {
 
 #arthur .capital,
 #avalon .capital {
-    font-family: 'UnifrakturMaguntia', cursive;
+    font-family: 'UnifrakturCook', cursive;
     font-size: 6rem;
     font-weight: 300;
     color: rgb(216, 214, 214);
