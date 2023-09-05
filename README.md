@@ -137,15 +137,16 @@ I have created the color palette myself, and the Coolor.co website has only been
 ## Typography  
 - I found in [Google Fonts](https://fonts.google.com/) styles that match the Medieval topic of the website.
 - The headings decrease in size to ensure full responsiveness of the website.
-- Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
+- Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Montserrat:wght@400;500;600;700&family=Reenie+Beanie&family=UnifrakturCook:wght@700&display=swap))
  
 ### Fonts Used 
-1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-cases which are very readable. Fall-back font to cursive.  
-2. **Metamorphous**: Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
-3. **Jim Nightshade**: Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
-4. **Reenie Beanie**: Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
-5. **Fleur De Leah**: Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
-6. **Montserrat**: Modern sans-serif very readable font for main content.   
+1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
+2. **UnifrakturCook**: Very similar to the previous, but upper-case are more readable, even if only availablein bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
+3. **Metamorphous**: Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
+4. **Jim Nightshade**: Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
+5. **Reenie Beanie**: Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
+6. **Fleur De Leah**: Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
+7. **Montserrat**: Modern sans-serif very readable font for main content.   
 
 ### Rationale of Use
  - **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
@@ -158,10 +159,11 @@ I have created the color palette myself, and the Coolor.co website has only been
       * All headers' extra text (p) use **Jim Nightshade**.
       * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d8fa3063-50f2-4d41-8e29-04939ca58807)
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f3fb7ba3-debd-49a0-a081-8d898f598ad7)
+
 
 - **HEADERS (CONTENT PAGES)**:
-      * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
+      * Use of **UnifrakturCook** (lower case) only for the *1st letters of main words* of main heading of each page.
       * The remaining text in headings use **Metamorphous** (upper case).
       * All headers' extra text (p) use **Jim Nightshade**.
 
