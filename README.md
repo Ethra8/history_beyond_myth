@@ -134,36 +134,42 @@ EDNA TORRES MUNILL
  
 ## Typography  
 - I found in [Google Fonts](https://fonts.google.com/) styles that match the Medieval topic of the website.
+- The headings decrease in size to ensure full responsiveness of the website.
  
 ### Fonts Used 
-1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-cases which are very readable.  
-2. **Metamorphous**: Medieval font, very readable upper & lower cases  
-3. **Jim Nightshade**  
-4. **Reenie Beanie**  
-5. **Fleur De Leah**
-6. **Montserrat**  
+1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-cases which are very readable. Fall-back font to cursive.  
+2. **Metamorphous**: Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
+3. **Jim Nightshade**: Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
+4. **Reenie Beanie**: Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
+5. **Fleur De Leah**: Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
+6. **Montserrat**: Modern sans-serif very readable font for main content.   
 
 ### Rationale of Use
- - **LOGO**: Situated to the left of the navigation bar, and as a favicon in each page meta title, is a single *"h"* from "history", using **UnifrakturMaguntia** font.
+ - **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
- - **HEADERS**: The 1st letters of main words use **UnifrakturMaguntia**, and the remaining h1 text in headers use **Metamorphous**. All headers' paragraph (p) use **Jim Nightshade**, all these with a fall-back font of cursive. 
-    + The word *"beyond"* in the main page header is the only one to use **Reenie Beanie** font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
+ - **HEADERS**:
+      * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
+      * The remaining text in headings use **Metamorphous** (upper case).
+      * All headers' extra text (p) use **Jim Nightshade**.
+      * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
   <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
- - **NAVIGATION BAR**: Also uses **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
+ - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
   <img width="900" alt="navbar" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/navbar.png">
 
- - Only the 1st letter of all sections' titles (h2) use **Fleur De Leah**, which recreate the 1st letters of paragraphs from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
- - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
+ - **SECTION HEADINGS** (h2):
+      * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
+      * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
+ - **MAIN CONTENT**
+      * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
   <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
 
- - The choice of UnifrakturMaguntia, Reenie Beanie, Metamorphous, Jim Nightshade, Fleur De Leah, and Montserrat were selected using [Google Fonts](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
- - The headings decrease in size to ensure full responsiveness of the website.
+ - Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
 
  ### Images
  - **NAVIGATION BAR:**
