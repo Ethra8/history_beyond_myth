@@ -91,9 +91,9 @@ EDNA TORRES MUNILL
 * Members can participate in organised visits, scheduled once in a while, to places that bear these curious coincidences between history and myth.
 
 ## User Stories
-**1. As a first-time visitor:**
-    * I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
-    * I want to get information on how to receive follow ups in the investigation, cultural and social events, and how to become a member to get the monthly newsletter.
+**1. As a first-time visitor:**  
+    + I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
+    + I want to get information on how to receive follow ups in the investigation, cultural and social events, and how to become a member to get the monthly newsletter.
     * I want to find the social media links to see the website profile, to look at photos from past events, and maybe follow.
     * I want to know if they organize visits to emblematic sites related to the ongoing investigation, or interesting medieval sites.
 
