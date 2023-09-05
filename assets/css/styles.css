@@ -391,7 +391,7 @@
 
  #arthur .right,
  #avalon .right {
-     width: 50%;
+     width: 40%;
      text-align: right;
      position: relative;
      display: flex;
@@ -404,7 +404,7 @@
      border-right: 5px outset rgb(214, 214, 214);
      border-radius: 50%;
      height: 180px;
-     margin-left: 100px;
+     margin-left: 30px;
      box-shadow: 5px 15px 5px rgba(71, 71, 71, 0.7);
  }
 
@@ -413,6 +413,7 @@
      position: absolute;
      top: 50%;
      right: 0;
+     line-height: 1.5;
      font-size: 1.8rem;
      text-align: right;
  }
