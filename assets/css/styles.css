@@ -369,14 +369,15 @@
      /*end*/
  }
 
- #arthur header img {
+ #arthur .portrait {
+     background-image: url('../images/Arthur-I_of_Brittany_150x175px.avif');
      display: flex;
      margin: 0 40px 0 0;
      float: left;
-     width: 150px;
-     max-width: 214px;
+     width: 100%;
+     max-width: 150px;
      height: 175px;
-     max-height: 215px;
+     max-height: 175px;
      border-style: outset;
      border-width: 2px;
      border-color: rgb(88, 88, 88);
@@ -1141,6 +1142,10 @@
          margin-left: 0;
      }
 
+     #arthur .portrait,
+     #avalon .portrait {
+         width: 100%;
+     }
 
      /*** ARTHUR ***/
      .hidden_large_devices {
@@ -1258,11 +1263,12 @@
          font-size: 1.8rem;
      }
 
-     #arthur header img,
+     #arthur .portrait,
      #avalon header img {
          float: none;
          margin: 0 40px 0 auto;
          padding-right: 0;
+         width: 100%;
          /* max-width: 130px;
          max-height: 155px;
          display: block; */
@@ -1417,7 +1423,7 @@
          display: none;
      }
 
-     #arthur header img {
+     #arthur .portrait {
          float: none;
          margin: 20px auto 40px;
          padding-right: 0;
@@ -1656,7 +1662,8 @@
          display: none;
      }
 
-     #arthur header img {
+     #arthur .portrait {
+        background-image: url('../images/Artur_I_of_Brittany_130x143px.avif');
          float: none;
          margin: 20px auto;
          padding-right: 0;
