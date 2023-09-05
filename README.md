@@ -160,7 +160,7 @@ EDNA TORRES MUNILL
 
  - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3c3ca37a-ca3d-4d73-a296-5d7a687bed29)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bd336a72-a4d7-471c-b3bd-60cfa170a935)
 
 
  - **SECTION HEADINGS** (h2):
@@ -173,9 +173,13 @@ EDNA TORRES MUNILL
 
  - Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
 
- ### Images
+ ## Images
  - **NAVIGATION BAR:**
-    + Includes the logo, fixed to the left.
+    + Includes the logo, fixed to the left.  
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3c3ca37a-ca3d-4d73-a296-5d7a687bed29)  
+
+  
  - **HOMEPAGE:**
     + Background image: Caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi). It belongs to Chapter XVIII, which explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard "the Lionheart", being his rightful heir by birth right. The text calls Arthur "King of Brittany". The depiction of this page of the manuscript shows King Philip II of France arriving to Arthur's castle in Brittany after Richard's death, where Arthur is wearing a crown, and gives homage to Philip in return for Philip's support to his claim to the throne of England.
 
