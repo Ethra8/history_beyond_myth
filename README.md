@@ -141,7 +141,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
     + **Rationale**: To favour contrast with the colorful captions embeded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
 - ***Onyx*** **#424242** / **RGB(66,66,66)**:
     + **Use**: Fonts that have a background of *White Smoke*, in the *home page description section*, and the *sign-up page sections*.
-    + **Rationale**: inspired by the metal from medieval armours and swords.
+    + **Rationale**: To gain clear contrast, and ensure users' readability, with a softer tone of dark grey.
 - ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
     + **Use**: The navigation bar background color.
     + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot sorrounding this site investigation, full of shadows and blood.
