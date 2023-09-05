@@ -286,24 +286,55 @@ EDNA TORRES MUNILL
 ## Manual Testing
 -  For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
-  - **Sign-up Form**
-
-
-     - [x] submit goes to code institute data dump page in new tab:  
-
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
+### Sign-up Form
+  + **Required Fields**: 
+    1. First Name
+    2. Last Name
+    3. Email
+  + **Optional Fields**:
+    4. *Do you like travelling and sight seeing?*
+    5. *Want to share any findings?*
+  
     
-     - [x] Try to submit empty form and check that an error message appears on the required empty field:  
+  - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name & Last Name)**:   
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
-
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
      
-     - [ ] 
-     - [ ] 
+  - [x] **Try to submit the form with an invalid email address and verify that a relevant error message appears**:  
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
+
+ 
+  - [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
+
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
+
+
+  - [x] **Submit goes to code institute data dump page in new tab**:  
+
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
+
    
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6ec7ebf1-12fa-420c-8e78-8a52853a6336)
+  - [x] **Looks good on mobile**:  
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fd609ead-70d4-4d7e-aae2-a1a4fd686bb0)
+
+          
+  - [x] **Looks good on tablet**:  
+
+    + **Horizontal Layout**
+
+         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e0e6273e-dc80-45ba-8b75-2094e6319fae)
+
+    + **Vertical Layout**
+
+       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/056de14c-cb93-4fab-a429-8b170ba8adc6)
 
   
+  - [x] **looks good on desktop**:
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
 
 
 ## Defect Tracking 
