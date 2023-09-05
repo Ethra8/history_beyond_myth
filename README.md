@@ -226,7 +226,7 @@ EDNA TORRES MUNILL
 - **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
-### Animations
+## Animations
 
 ## Site Structure
 
