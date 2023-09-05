@@ -292,7 +292,7 @@ EDNA TORRES MUNILL
     2. Last Name
     3. Email
   
-  + **Optional Fields**:
+  + **Optional Fields**:  
     4. *Do you like travelling and sight seeing?*  
     5. *Want to share any findings?*  
   
