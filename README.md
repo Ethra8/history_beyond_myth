@@ -125,12 +125,29 @@ EDNA TORRES MUNILL
 
 ## Colors
 I have created the color palette myself, and the Coolor.co website has only been used to display all the colors beautifilly for the screenshot below. The colors selected are as follows:
-- ***Turkey Red*** **#B30502**: Used as all headers' background color. The selection of this tone is due to two main factors. The 1st point is that it is the background color of the [coat of arms](https://commons.wikimedia.org/wiki/File:Blason_maison_Plantagen%C3%AAt.svg) of the [Plantagenet dynasty](https://en.wikipedia.org/wiki/House_of_Plantagenet), which was the dynasty ruling England (1154-1485), and to which all the main characters of the website belonged. The 2nd factor is that it is also the predominant color found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, and more precisely the [roll genealogy of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) dated c.1300 where our main characters' portraits are depicted. 
-- ***Dark Red*** **#8F0303**: A slighly darker tone than the former is used as the footer background color. This darker tone ressembles bloodish red, remindind of the fatal ending of our main character, Arthur I of Brittany, who battled against John Lackland for the succession to the throne of England after King Richard "the Lionheart" died.
-- ***Eerie Black*** **#1B1B1B**: Used for tha backgrounds, in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired this selction, and it also reminds of the shadows and obscurity that still cover the early Middle Ages and its myths. History and myths are still full of shadows to unveil.
-- ***White Smoke*** **#F5F5F5**: Used for fonts, to ensure clear contrast and readability for the user. Also, white smoke is the sign of the Vatican when a new Pope is selected. The church was all-mighty back in the Middle ages, so it also brings that to mind.
+- ***Turkey Red*** **#B30502** / **RGB(179,5,2)**:
+    + **Use**: All headers' background color.
+    + **Rationale**: The selection of this tone is due to two main factors.
+        + The 1st point is that it is the background color of the [coat of arms](https://commons.wikimedia.org/wiki/File:Blason_maison_Plantagen%C3%AAt.svg) of the [Plantagenet dynasty](https://en.wikipedia.org/wiki/House_of_Plantagenet), which was the dynasty ruling England (1154-1485), and to which all the main characters of the website belonged.
+        + The 2nd factor is that it is also the predominant color found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, and more precisely the [roll genealogy of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) dated c.1300 where our main characters' portraits are depicted. 
+- ***Dark Red*** **#8F0303** / **RGB(143,3,3)**:
+    + **Use**: Background color for the *footer*, and the *sign-up form*.
+    + **Rationale**: A slighly darker tone than the former which ressembles bloodish red, reminding of the tragic and fatal ending of our main character, Arthur I of Brittany, who battled against John Lackland for the succession to the throne of England after King Richard "the Lionheart" died, and supposedly captured and murdered when he was only 16 years old by his opponent, who finally ruled.
+- ***White Smoke*** **#F5F5F5** / **RGB(245,245,245)**:
+    + **Use**: Fonts that are on an *Eerie Black* background.
+    + **Rationale**: To ensure clear contrast and readability for the user. Also, its name *White Smoke* is the signal from the Vatican when a new Pope is selected. The church was all-mighty, and its power had no boundaries back in the Middle ages, so it also brings that to mind.
+- ***Eerie Black*** **#1B1B1B** / **RGB(27,27,27)**:
+    + **Use**: Backgrounds of content pages as *Arthur* and *Avalon*.
+    + **Rationale**: To favour contrast with the colorful captions embeded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
+- ***Onyx*** **#424242** / **RGB(66,66,66)**:
+    + **Use**: Fonts that have a background of *White Smoke*, in the *home page description section*, and the *sign-up page sections*.
+    + **Rationale**: inspired by the metal from medieval armours and swords.
+- ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
+    + **Use**: The navigation bar background color.
+    + **Rationale**:  and it also reminds of the shadows and obscurity that still cover the early Middle Ages and its myths. History and myths are still full of shadows to unveil.
+
 - ***Timberwolf*** **#D6D6D6**: Used in the *headers' 1st letters*, the *vertical or horizontal lines in the headers* that ressemble a spear or sword, and for the *button to the sign-up page* in the navigation bar. The reason for this selection is to give a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron... armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval ustensils.  
-- ***Onyx*** **#424242** ***Onyx*** **#424242** is used for the background, inspired by the metal from medieval armours and swords.
+
 
 ![image](https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)
 
