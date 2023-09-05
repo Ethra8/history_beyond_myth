@@ -297,14 +297,17 @@ EDNA TORRES MUNILL
     5. *Want to share any findings?*  
   
     
-  - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name & Last Name)**:   
+  - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
      
   - [x] **Try to submit the form with an invalid email address and verify that a relevant error message appears**:  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
+
 
  
   - [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
