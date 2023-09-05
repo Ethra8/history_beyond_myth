@@ -131,14 +131,14 @@ EDNA TORRES MUNILL
 
  
 ## Typography  
-I found in [Google Fonts]([https://](https://fonts.google.com) styles that match the Medieval topic of the website.  
+- I found in [Google Fonts](https://fonts.google.com) styles that match the Medieval topic of the website.  
 ### Fonts  
-**1. UnifrakturMaguntia**
-**2. Metamorphous**
-**3. Jim Nightshade**
-**4. Reenie Beanie**
-**5. Fleur De Leah**
-**6. Montserrat**
+**1. UnifrakturMaguntia**  
+**2. Metamorphous**  
+**3. Jim Nightshade**  
+**4. Reenie Beanie**  
+**5. Fleur De Leah**  
+**6. Montserrat**  
 
  - **LOGO**: Situated to the left of the navigation bar, and as a favicon in each page meta title, is a single *"h"* from "history", using **UnifrakturMaguntia** font.
 
