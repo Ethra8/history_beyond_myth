@@ -155,7 +155,8 @@ EDNA TORRES MUNILL
       * All headers' extra text (p) use **Jim Nightshade**.
       * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
-  <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d8fa3063-50f2-4d41-8e29-04939ca58807)
+
 
  - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
