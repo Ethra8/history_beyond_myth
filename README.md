@@ -131,7 +131,7 @@ EDNA TORRES MUNILL
 
  
 ## Typography  
-I found in [Google Fonts]([https://](https://fonts.google.com/) styles that match the Medieval topic of the website.  
+I found in [Google Fonts]([https://](https://fonts.google.com) styles that match the Medieval topic of the website.  
 ### Fonts  
 **1. UnifrakturMaguntia**
 **2. Metamorphous**
