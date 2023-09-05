@@ -160,7 +160,8 @@ EDNA TORRES MUNILL
 
  - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
-  <img width="900" alt="navbar" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/navbar.png">
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3c3ca37a-ca3d-4d73-a296-5d7a687bed29)
+
 
  - **SECTION HEADINGS** (h2):
       * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
