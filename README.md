@@ -159,7 +159,7 @@ I have created the color palette myself, and the Coolor.co website has only been
       * All headers' extra text (p) use **Jim Nightshade**.
       * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f3fb7ba3-debd-49a0-a081-8d898f598ad7)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a9646efb-2cb5-4b6a-b8a0-5d7f5157d1e8)
 
 
 - **HEADERS (CONTENT PAGES)**:
@@ -167,7 +167,9 @@ I have created the color palette myself, and the Coolor.co website has only been
       * The remaining text in headings use **Metamorphous** (upper case).
       * All headers' extra text (p) use **Jim Nightshade**.
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8d8ecba-5736-45f4-810a-6ffffd87a29b)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b94b29a8-8fdf-48eb-97d3-4e7a49b46f00)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/88525684-0b9d-479b-95dd-e9e4b93d7620)
+
 
 - **HEADER SIGN-UP PAGE**:
       * Use of **Metamorphous** (upper case).
