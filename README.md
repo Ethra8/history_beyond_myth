@@ -77,37 +77,37 @@ EDNA TORRES MUNILL
     * [Acknowledgements](#acknowledgements)
 
 
-## UX
+# UX
 
-### Target Audience
+## Target Audience
 * 
 
-### Project Goal
+## Project Goal
 * The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
 * Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
 * Members are informed of interesting events related to history from the early middle ages, and/or myths around Europe, and eventually build social networks with shared interests.
 * Members can participate in organised visits, scheduled once in a while, to places that bear these curious coincidences between history and myth.
 
-### User Stories
-1. As a first-time visitor,
+## User Stories
+**1. As a first-time visitor:**
     * I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
     * I want to get information on how to receive follow ups in the investigation, cultural and social events, and how to become a member to get the monthly newsletter.
     * I want to find the social media links to see the website profile, to look at photos from past events, and maybe follow.
     * I want to know if they organize visits to emblematic sites related to the ongoing investigation, or interesting medieval sites.
 
-2. As a returning visitor,
+**2. As a returning visitor**
     * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
     * I want to sign up as a new member after considering my decision, to receive new updates on possible new curious findings of the ongoing investigation.
     * I want to sign up as a new member after a conscient decision, to receive information on new social or cultural events related to history from the Middle Ages, and/or medieval myths including the Arthurian cycle.
     * I want to sign up to be informed of organized visits to emblematic places related to the ongoing investigation, or medieval sites in general.
 
-3. As member,
+**3. As member**
     * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian mythos.
     * I want to know if there is any interesting cultural or social event around Europe related to early middle ages, or the Arthurian legends.
     * I want to check if they have uploaded any new information on future visits to emblematic places related to the investigation.
     * I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
 
-### User Profiles
+## User Profiles
 
 1. Malia is interested in early middle ages' history and myths, and wants to learn more about curious coincidences found between academically recognised history facts and medieval myths such as the well-known Arthurian legends.
 
@@ -119,9 +119,9 @@ EDNA TORRES MUNILL
 
 5. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian legends.
 
-## DESIGN CHOICES
+# DESIGN CHOICES
 
-### Colors
+## Colors
 - Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of Turkey Red #B30502 for the headers, and a slighly darker tone Dark Red #8f0303 for the footer.
 - The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using Eerie Black #1b1b1b, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts.
 - The tone White Smoke #F5F5F5 has been used for fonts, to ensure clear contrast and readability for the user.
@@ -130,21 +130,30 @@ EDNA TORRES MUNILL
   <img width="400" alt="color palette" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/color_palette.png">
 
  
- ### Typography
- - The logo, to the left of the navigation bar, and as a favicon in each page meta title, is a single "h" from "history", using UnifrakturMaguntia font.
+## Typography  
+I found in [Google Fonts]([https://](https://fonts.google.com/) styles that match the Medieval topic of the website.  
+### Fonts  
+**1. UnifrakturMaguntia**
+**2. Metamorphous**
+**3. Jim Nightshade**
+**4. Reenie Beanie**
+**5. Fleur De Leah**
+**6. Montserrat**
+
+ - **LOGO**: Situated to the left of the navigation bar, and as a favicon in each page meta title, is a single *"h"* from "history", using **UnifrakturMaguntia** font.
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
- - The 1st letters of main words in headers use UnifrakturMaguntia, and the remaining h1 text in headers use Metamorphous. All headers' paragraph (p) use Jim Nightshade, all these with a fall-back font of cursive. 
- - The word "beyond" in the main page header is the only one to use Reenie Beanie font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
+ - **HEADERS**: The 1st letters of main words use **UnifrakturMaguntia**, and the remaining h1 text in headers use **Metamorphous**. All headers' paragraph (p) use **Jim Nightshade**, all these with a fall-back font of cursive. 
+    + The word *"beyond"* in the main page header is the only one to use **Reenie Beanie** font, seeking a clear contrast between history, myth, and modern contemporary studies which precisely seek to go beyond that, bringing a modern and fresh approach.
 
   <img width="900" alt="index header" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/index_header.png">
 
- - The navigation bar also uses Metamorphous in capital letters, which gives a very readable medieval style to the site.
+ - **NAVIGATION BAR**: Also uses **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
   <img width="900" alt="navbar" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/navbar.png">
 
- - Only the 1st letter of all sections' titles (h2) use Fleur De Leah, which recreate the 1st letters of paragraphs from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
+ - Only the 1st letter of all sections' titles (h2) use **Fleur De Leah**, which recreate the 1st letters of paragraphs from medieval manuscripts. The rest of h2 use Jim Nightshade, to ensure readability, but keeping the medieval spirit alive, all with a cursive fall-back font.
  - Montserrat font has been used for all texts, excluding h1 and h2, as stated above, to ensure optimal readability of the content.
 
   <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
