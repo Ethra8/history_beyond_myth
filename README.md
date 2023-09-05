@@ -124,10 +124,11 @@ EDNA TORRES MUNILL
 # DESIGN CHOICES
 
 ## Colors
-- Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of Turkey Red #B30502 for the headers, and a slighly darker tone Dark Red #8f0303 for the footer.
-- The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using Eerie Black #1b1b1b, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts.
-- The tone White Smoke #F5F5F5 has been used for fonts, to ensure clear contrast and readability for the user.
-- The headers' 1st letters are in Silver #CCCCCC to give it a metal-like appearance, with contours of Onyx #424242 which bring volume, inspired by the metal from medieval armours and swords.
+- Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of ***Turkey Red*** **#B30502** for the headers, and a slighly darker tone ***Dark Red*** **#8F0303** for the footer.
+- The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using ***Eerie Black*** **#1B1B1B**, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts.
+- The tone ***White Smoke*** **#F5F5F5** has been used for fonts, to ensure clear contrast and readability for the user.
+- The headers' 1st letters are in ***Silver*** **#CCCCCC** to give it a metal-like appearance, with a strong ***black*** shadow to give it volume.
+- For the *vertical line in the headers* that ressembles a spear or sword, and for the *button to the sign-up page* in the navigation bar, ***Onyx*** **#424242** is used for the background, inspired by the metal from medieval armours and swords.
 
   <img width="400" alt="color palette" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/color_palette.png">
 
@@ -135,6 +136,7 @@ EDNA TORRES MUNILL
 ## Typography  
 - I found in [Google Fonts](https://fonts.google.com/) styles that match the Medieval topic of the website.
 - The headings decrease in size to ensure full responsiveness of the website.
+- Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
  
 ### Fonts Used 
 1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-cases which are very readable. Fall-back font to cursive.  
@@ -184,7 +186,6 @@ EDNA TORRES MUNILL
 
   <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
 
- - Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Reenie+Beanie&family=UnifrakturMaguntia&family=Montserrat&display=swap)
 
  ## Images
  - **NAVIGATION BAR:**
