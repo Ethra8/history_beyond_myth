@@ -92,22 +92,22 @@ EDNA TORRES MUNILL
 
 ## User Stories
 **1. As a first-time visitor:**  
-    + I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
-    + I want to get information on how to receive follow ups in the investigation, cultural and social events, and how to become a member to get the monthly newsletter.
-    * I want to find the social media links to see the website profile, to look at photos from past events, and maybe follow.
-    * I want to know if they organize visits to emblematic sites related to the ongoing investigation, or interesting medieval sites.
+* I want to learn about curious coincidences found between academically recognised historic facts and the Arthurian legends.
+* I want to get information on how to receive follow ups in the investigation, cultural and social events, and how to become a member to get the monthly newsletter.
+* I want to find the social media links to see the website profile, to look at photos from past events, and maybe follow.
+* I want to know if they organize visits to emblematic sites related to the ongoing investigation, or interesting medieval sites.
 
 **2. As a returning visitor**
-    * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
-    * I want to sign up as a new member after considering my decision, to receive new updates on possible new curious findings of the ongoing investigation.
-    * I want to sign up as a new member after a conscient decision, to receive information on new social or cultural events related to history from the Middle Ages, and/or medieval myths including the Arthurian cycle.
-    * I want to sign up to be informed of organized visits to emblematic places related to the ongoing investigation, or medieval sites in general.
+* I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian legends.
+* I want to sign up as a new member after considering my decision, to receive new updates on possible new curious findings of the ongoing investigation.
+* I want to sign up as a new member after a conscient decision, to receive information on new social or cultural events related to history from the Middle Ages, and/or medieval myths including the Arthurian cycle.
+* I want to sign up to be informed of organized visits to emblematic places related to the ongoing investigation, or medieval sites in general.
 
 **3. As member**
-    * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian mythos.
-    * I want to know if there is any interesting cultural or social event around Europe related to early middle ages, or the Arthurian legends.
-    * I want to check if they have uploaded any new information on future visits to emblematic places related to the investigation.
-    * I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
+* I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian mythos.
+* I want to know if there is any interesting cultural or social event around Europe related to early middle ages, or the Arthurian legends.
+* I want to check if they have uploaded any new information on future visits to emblematic places related to the investigation.
+* I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
 
 ## User Profiles
 
