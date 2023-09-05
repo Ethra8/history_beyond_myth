@@ -124,10 +124,11 @@ EDNA TORRES MUNILL
 # DESIGN CHOICES
 
 ## Colors
-- Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of ***Turkey Red*** **#B30502** for the headers, and a slighly darker tone ***Dark Red*** **#8F0303** for the footer.
-- The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using ***Eerie Black*** **#1B1B1B**, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts.
-- The tone ***White Smoke*** **#F5F5F5** has been used for fonts, to ensure clear contrast and readability for the user.
-- The headers' 1st letters are in ***Silver*** **#CCCCCC** to give it a metal-like appearance, with a strong ***black*** shadow to give it volume.
+I have created the color palette myself, and the Coolor.co website has only been used to display all the colors beautifilly for the screenshot below. The colors selected are as follows:
+- Red color predominantly found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, has inspired the use of ***Turkey Red*** **#B30502** for the headers, and a slighly darker tone ***Dark Red*** **#8F0303** for the footer. Red is also the color of passion, and the darker tone reminds of blood red. The early Middle Ages bear those two features intrinsically: Passion and battle.
+- The ink used in those early medieval manuscripts, mostly made from insects and ashes, has inspired the background tone, using ***Eerie Black*** **#1B1B1B**, also in order to favour contrast with the colorful captions embeded, taken from the illuminated manuscripts. Also, this very dark grey, close to black, reminds of the shadows and obscurity of the veil that still covers the early Middle Ages, and its myths. History is still full of shadow to unveil.
+- The tone ***White Smoke*** **#F5F5F5** has been used for fonts, to ensure clear contrast and readability for the user. Also, white smoke is the sign of the Vatican when a new Pope is selected. The church was all-mighty back in the Middle ages, so it also brings that to mind.
+- The headers' 1st letters are in ***Silver*** **#CCCCCC** to give it a metal-like appearance, with a strong ***black*** shadow to give it volume. Middle Ages were full of iron... armours, shields, spears, swords, etc. But also used for cups, and all king of everyday ustensils.
 - For the *vertical line in the headers* that ressembles a spear or sword, and for the *button to the sign-up page* in the navigation bar, ***Onyx*** **#424242** is used for the background, inspired by the metal from medieval armours and swords.
 
   <img width="400" alt="color palette" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/color_palette.png">
