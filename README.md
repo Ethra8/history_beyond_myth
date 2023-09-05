@@ -322,18 +322,22 @@ EDNA TORRES MUNILL
    
   - [x] **Looks good on mobile**:  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fd609ead-70d4-4d7e-aae2-a1a4fd686bb0)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
 
-          
+
   - [x] **Looks good on tablet**:  
 
     + **Horizontal Layout**
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c59a6e7c-0a6c-4801-97f3-881dfa448ad7)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ad4ca3a2-38f4-4817-972b-6b4f4520ecc2)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d9358877-141d-4df4-866c-e9511336a2ca)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/72d04e8e-8af2-4565-8e6b-fbac50de0668)
 
-         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e0e6273e-dc80-45ba-8b75-2094e6319fae)
 
     + **Vertical Layout**
 
-       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/056de14c-cb93-4fab-a429-8b170ba8adc6)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
 
   
   - [x] **looks good on desktop**:
