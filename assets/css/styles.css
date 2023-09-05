@@ -948,6 +948,11 @@ footer .social-media {
     background-color: whitesmoke;
 }
 
+#w3s_css_test_success {
+    text-align: right;
+    margin: 40px 20px 0;
+}
+
 
 /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
 @media only screen and (min-width: 992px) and (max-width: 1199.99px) {
