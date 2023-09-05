@@ -141,7 +141,7 @@ I have created the color palette myself, and the Coolor.co website has only been
  
 ### Fonts Used 
 1. [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=unifrak): Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
-2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only availablein bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
+2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only available in bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
 3. [Metamorphous](https://fonts.google.com/specimen/Metamorphous?query=metamor): Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
 4. [Jim Nightshade](https://fonts.google.com/specimen/Jim+Nightshade?query=jim+night): Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
 5. [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie?query=reeni): Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
