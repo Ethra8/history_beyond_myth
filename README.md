@@ -124,7 +124,7 @@ EDNA TORRES MUNILL
 # DESIGN CHOICES
 
 ## Colors
-I have created the color palette myself, and the Coolor.co website has only been used to display all the colors beautifilly for the screenshot below. The colors selected are as follows:
+I have created the color palette myself, and the [Coolor.co](https://coolors.co/) website has only been used to display all the colors beautifilly for the screenshot below. The colors selected are as follows:
 - ***Turkey Red*** **#B30502** / **RGB(179,5,2)**:
     + **Use**: All headers' background color.
     + **Rationale**: The selection of this tone is due to two main factors.
@@ -144,10 +144,10 @@ I have created the color palette myself, and the Coolor.co website has only been
     + **Rationale**: inspired by the metal from medieval armours and swords.
 - ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
     + **Use**: The navigation bar background color.
-    + **Rationale**:  and it also reminds of the shadows and obscurity that still cover the early Middle Ages and its myths. History and myths are still full of shadows to unveil.
-
-- ***Timberwolf*** **#D6D6D6**: Used in the *headers' 1st letters*, the *vertical or horizontal lines in the headers* that ressemble a spear or sword, and for the *button to the sign-up page* in the navigation bar. The reason for this selection is to give a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron... armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval ustensils.  
-
+    + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot sorrounding this site investigation, full of shadows and blood.
+- ***Timberwolf*** **#D6D6D6** / **RGB(214,214,214)**:
+    + **Use**: The *headers' 1st letters*, the *vertical or horizontal lines in the headers* that ressemble a spear or sword, and for the background of the *button to the sign-up page* in the navigation bar.
+    + **Rationale**: Gives a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron: armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval ustensils were made of metal.  
 
 ![image](https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)
 
