@@ -33,6 +33,8 @@ EDNA TORRES MUNILL
 - [DESIGN CHOICES](#design-choices)
     * [Colors](#colors)
     * [Typography](#typography)
+        + [Fonts Used](#fonts-used)
+        + [Rationale of Use](#rationale-of-use)
     * [Images](#images)
     * [Animations](#animations)
     * [Site Structure](#site-structure)
@@ -131,15 +133,17 @@ EDNA TORRES MUNILL
 
  
 ## Typography  
-- I found in [Google Fonts](https://fonts.google.com) styles that match the Medieval topic of the website.  
-### Fonts  
-**1. UnifrakturMaguntia**  
-**2. Metamorphous**  
-**3. Jim Nightshade**  
-**4. Reenie Beanie**  
-**5. Fleur De Leah**  
-**6. Montserrat**  
+- I found in [Google Fonts](https://fonts.google.com/) styles that match the Medieval topic of the website.
+ 
+### Fonts Used 
+1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-cases which are very readable.  
+2. **Metamorphous**: Medieval font, very readable upper & lower cases  
+3. **Jim Nightshade**  
+4. **Reenie Beanie**  
+5. **Fleur De Leah**
+6. **Montserrat**  
 
+### Rationale of Use
  - **LOGO**: Situated to the left of the navigation bar, and as a favicon in each page meta title, is a single *"h"* from "history", using **UnifrakturMaguntia** font.
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
