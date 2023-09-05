@@ -322,7 +322,7 @@ EDNA TORRES MUNILL
    
   - [x] **Looks good on mobile**:  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
 
 
