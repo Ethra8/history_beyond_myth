@@ -140,13 +140,13 @@ I have created the color palette myself, and the Coolor.co website has only been
 - Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Montserrat:wght@400;500;600;700&family=Reenie+Beanie&family=UnifrakturCook:wght@700&display=swap))
  
 ### Fonts Used 
-1. **UnifrakturMaguntia**: Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
-2. **UnifrakturCook**: Very similar to the previous, but upper-case are more readable, even if only availablein bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
-3. **Metamorphous**: Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
-4. **Jim Nightshade**: Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
-5. **Reenie Beanie**: Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
-6. **Fleur De Leah**: Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
-7. **Montserrat**: Modern sans-serif very readable font for main content.   
+1. [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=unifrak): Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
+2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only availablein bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
+3. [Metamorphous](https://fonts.google.com/specimen/Metamorphous?query=metamor): Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
+4. [Jim Nightshade](https://fonts.google.com/specimen/Jim+Nightshade?query=jim+night): Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
+5. [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie?query=reeni): Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
+6. [Fleur De Leah](https://fonts.google.com/specimen/Fleur+De+Leah?query=fleur): Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
+7. [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse): Modern sans-serif very readable font for main content.   
 
 ### Rationale of Use
  - **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
