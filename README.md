@@ -287,9 +287,24 @@ EDNA TORRES MUNILL
 -  For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
   - **Sign-up Form**
-     - [x] submit goes to code institute data dump page in new tab:
+
+
+     - [x] submit goes to code institute data dump page in new tab:  
+
+     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
+    
+     - [x] Try to submit empty form and check that an error message appears on the required empty field:  
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
+
+     
+     - [ ] 
+     - [ ] 
+   
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6ec7ebf1-12fa-420c-8e78-8a52853a6336)
+
   
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aca5bcfe-9211-4284-9c50-115e84928a6e)
+
 
 ## Defect Tracking 
 
