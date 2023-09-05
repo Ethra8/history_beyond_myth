@@ -99,7 +99,7 @@ p {
     font-weight: 400;
 }
 
-#index h1 .beyond {
+#index .beyond {
     font-family: 'Reenie Beanie', cursive;
     color: rgb(243, 241, 241);
     text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -107,8 +107,8 @@ p {
 }
 
 #index .capital {
-    font-family: 'UnifrakturCook', cursive;
-    font-size: 6.5rem;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 6rem;
     color: rgb(216, 214, 214);
     text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
 }
@@ -314,11 +314,10 @@ p {
     text-shadow: 0 0 20px rgb(88, 88, 88);
 }
 
-#arthur .capital,
-#avalon .capital {
+#arthur h1 span,
+#avalon h1 span {
     font-family: 'UnifrakturCook', cursive;
-    font-size: 6rem;
-    font-weight: 300;
+    font-size: 3.5rem;
     color: rgb(216, 214, 214);
     text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
 }
