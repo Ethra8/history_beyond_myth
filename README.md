@@ -164,8 +164,13 @@ EDNA TORRES MUNILL
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8d8ecba-5736-45f4-810a-6ffffd87a29b)
 
-  
- - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
+- **HEADER SIGN-UP PAGE**:
+      * Use of **Metamorphous** (upper case).
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4d6ca3f7-517f-4241-b592-956dc5cc30a1)
+
+
+- **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bd336a72-a4d7-471c-b3bd-60cfa170a935)
 
