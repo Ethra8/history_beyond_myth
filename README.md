@@ -149,7 +149,7 @@ EDNA TORRES MUNILL
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
- - **HEADERS**:
+ - **HEADER (HOME PAGE)**:
       * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
       * The remaining text in headings use **Metamorphous** (upper case).
       * All headers' extra text (p) use **Jim Nightshade**.
@@ -157,7 +157,14 @@ EDNA TORRES MUNILL
 
  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d8fa3063-50f2-4d41-8e29-04939ca58807)
 
+- **HEADERS (CONTENT PAGES)**:
+      * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
+      * The remaining text in headings use **Metamorphous** (upper case).
+      * All headers' extra text (p) use **Jim Nightshade**.
 
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8d8ecba-5736-45f4-810a-6ffffd87a29b)
+
+  
  - **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bd336a72-a4d7-471c-b3bd-60cfa170a935)
