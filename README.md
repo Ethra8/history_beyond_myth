@@ -178,6 +178,7 @@ EDNA TORRES MUNILL
  - **SECTION HEADINGS** (h2):
       * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
       * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
+ 
  - **MAIN CONTENT**
       * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
