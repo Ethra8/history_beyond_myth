@@ -132,7 +132,7 @@ I have created the color palette myself, and the Coolor.co website has only been
 - ***Timberwolf*** **#D6D6D6**: Used in the *headers' 1st letters*, the *vertical or horizontal lines in the headers* that ressemble a spear or sword, and for the *button to the sign-up page* in the navigation bar. The reason for this selection is to give a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron... armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval ustensils.  
 - ***Onyx*** **#424242** ***Onyx*** **#424242** is used for the background, inspired by the metal from medieval armours and swords.
 
-  <img width="400" alt="color palette" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/color_palette_history_beyond_myth.png">
+(https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)">
 
  
 ## Typography  
