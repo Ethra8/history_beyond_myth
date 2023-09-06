@@ -303,17 +303,17 @@
 
  .black_transparency {
      background-color: rgba(0, 0, 0, 0.55);
-     padding: 50px;
+     /* padding: 50px; */
      z-index: 300;
  }
 
  #index .black_transparency>div {
      background-color: rgba(255, 255, 252, 1);
-     padding: 60px;
+     padding: 60px 7%;
      border-radius: 10px;
      box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.9);
      width: 65%;
-     margin: 80px auto;
+     margin: 0 auto;
  }
 
  #reasons-to-sign-up {
@@ -735,7 +735,7 @@
 
  #avalon .black_transparency {
      background-color: rgba(0, 0, 0, 0.2);
-     padding: 50px;
+     padding: 7%;
      z-index: 300;
  }
 
@@ -1778,6 +1778,10 @@
          display: flex;
          flex-direction: column-reverse;
          width: 95%;
+     }
+
+     #avalon .black_transparency {
+         padding: 60px 5%;
      }
 
      #abalone_frenchPronunciation {
