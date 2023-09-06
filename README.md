@@ -82,10 +82,10 @@ EDNA TORRES MUNILL
 # UX
 You will find in the points stated below a brief study aiming at providing the user with the best possible experience when visiting this site. 
 ## Target Audience
-* Any person interested in unsolved mysteries.
-* Any person who, regardless of their age, is interested in medieval history.
+* Any person interested in unsolved mysteries in general.
+* Any person who, regardless of their age, is interested in medieval history and/or myths.
 * Adults and young adults in general who love traveling and discovering new interesting places and facts.
-* Scholars, graduates, and undersgraduates in Medieval History studies who might want to push this line of investigation further.
+* Scholars, graduates, and undergraduates in Medieval History studies who might want to push this line of investigation further.
 * Adults, young adults and teenagers who are interested in the *Matter of Britain* (called *Matter of Brittany* in French), and the *Arthurian cycle*.
 * Parents and couples in search of fun social family gatherings to spend quality time on weekends. 
 * People interested in art and culture in general.
@@ -93,7 +93,7 @@ You will find in the points stated below a brief study aiming at providing the u
 ## Project Goal
   1. The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
   2. Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
-  3. Members are informed of interesting events related to history from the early middle ages, and/or myths around Europe, and can eventually build social networks with shared interests.
+  3. Members are informed through our monthly newsletter of interesting cultural and social events related to history from the early middle ages, and/or myths around Europe, and can eventually build social networks with shared interests.
   4. Members can participate in organised visits, scheduled once in a while, to places that hold these curious coincidences between history and myth.
 
 ## User Stories
@@ -123,9 +123,11 @@ You will find in the points stated below a brief study aiming at providing the u
 
 3. Sarah is an art-lover, and likes attending expositions of all sorts, including Middle Ages topic-related cultural events.
 
-4. Mara is a fun-lover mother who enjoys family-friendly social gatherings, to spend time on weekends and holidays.
+4. Mara and Peter are fun-loving parents who enjoys family-friendly social gatherings to spend quality time ith their children of all ages on weekends and holidays.
 
-5. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian legends.
+5. Alice and Marc are a couple that enjoy social gatherings, and all types of cultural events.
+
+6. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian mythos.
 
 # DESIGN CHOICES
 
