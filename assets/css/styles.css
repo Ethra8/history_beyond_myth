@@ -291,6 +291,8 @@
      font-size: 1.5rem;
      list-style: lower-roman;
      font-weight: 600;
+     list-style-position: outside;
+
  }
 
  #index ol p {
@@ -303,8 +305,8 @@
 
  .black_transparency {
      background-color: rgba(0, 0, 0, 0.55);
-     /* padding: 50px; */
      z-index: 300;
+     padding: 70px 12%;
  }
 
  #index .black_transparency>div {
@@ -312,8 +314,10 @@
      padding: 60px 7%;
      border-radius: 10px;
      box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.9);
-     width: 65%;
-     margin: 0 auto;
+     margin: 70px auto;
+     text-align: justify;
+     text-justify: newspaper;
+     -ms-text-justify: auto;
  }
 
  #reasons-to-sign-up {
@@ -331,7 +335,7 @@
      border-color: #8f0303;
      font-family: 'Metamorphous', cursive;
      font-size: 1.2rem;
-     margin-top: 30px;
+     margin-top: 60px;
      cursor: pointer;
  }
 
@@ -371,11 +375,11 @@
      /*end*/
  }
 
- #arthur .portrait {
+ #arthur header .image {
      background-image: url('../images/Arthur-I_of_Brittany_150x175px.avif');
      display: flex;
      margin: 0 40px 0 0;
-     float: left;
+     /* float: left; */
      width: 100%;
      max-width: 150px;
      height: 175px;
@@ -714,13 +718,15 @@
      border-bottom-width: 1px;
  }
 
- #avalon header img {
+ #avalon header .image {
+     background-image: url('../images/abalone-152x123px.avif');
      display: flex;
      margin-right: 40px;
      /* margin-top: 20px; */
-     float: left;
-     width: 150px;
-     height: 150px;
+     /* float: left; */
+     width: 100%;
+     max-width: 150px;
+     height: 123px;
      border-style: outset;
      border-width: 2px;
      border-color: rgb(88, 88, 88);
@@ -1162,7 +1168,7 @@
          margin-left: 0;
      }
 
-     #arthur .portrait,
+     #arthur header .image,
      #avalon .portrait {
          width: 100%;
      }
@@ -1283,9 +1289,8 @@
          font-size: 1.8rem;
      }
 
-     #arthur .portrait,
-     #avalon header img {
-         float: none;
+     #arthur header .image,
+     #avalon header .image {
          margin: 0 40px 0 auto;
          padding-right: 0;
          width: 100%;
@@ -1295,8 +1300,7 @@
      }
 
      .black_transparency {
-         padding-right: 20px;
-         padding-left: 20px;
+         padding: 70px 7%;
      }
 
      #arthur_genealogy>section {
@@ -1443,35 +1447,35 @@
          display: none;
      }
 
-     #arthur .portrait {
+     #arthur header .image,
+     #avalon header .image {
          float: none;
          margin: 20px auto 40px;
          padding-right: 0;
          display: block;
      }
 
-     #avalon header img {
-         float: none;
-         margin: 20px auto;
-         padding-right: 0;
-         max-width: 155px;
-         max-height: 155px;
-         display: block;
-     }
-
-     #index h1,
-     #arthur h1,
-     #avalon h1 {
-         font-size: 2rem;
+     #index h1 {
+         font-size: 2.2rem;
          padding-bottom: 20px;
          text-align: center;
      }
 
-     /* #index .capital,
-     #arthur .capital,
-     #avalon .capital {
-         font-size: 4.5rem;
-     } */
+     #arthur h1,
+     #avalon h1 {
+         font-size: 1.8rem;
+         padding-bottom: 20px;
+         text-align: center;
+     }
+
+     #index .capital {
+         font-size: 5rem;
+     }
+
+     #arthur h1 span,
+     #avalon h1 span {
+         font-size: 4rem;
+     }
 
      #index header p,
      #arthur header p,
@@ -1495,8 +1499,7 @@
      }
 
      .black_transparency {
-         padding-right: 20px;
-         padding-left: 20px;
+         padding: 70px 5%;
      }
 
      /**** ARTHUR ****/
@@ -1621,39 +1624,11 @@
      }
 
      /*** HEADERS ***/
-     #index h1,
-     #arthur h1,
-     #avalon h1 {
-         padding: 20px 15px 25px;
-         font-size: 1.7rem;
-         display: block;
-     }
-
-     #index header hr {
-         max-width: 90%;
-         border-width: 5px;
-     }
-
-     #arthur header hr,
-     #avalon header hr {
-         display: block;
-         visibility: visible;
-         max-width: 90%;
-         border-width: 5px;
-         margin-top: 0;
-     }
-
-     #index header p,
-     #arthur header p,
-     #avalon header p {
-         font-size: 2.2rem;
-     }
 
      #index header,
      #arthur header,
      #avalon header {
-         padding-right: 15px;
-         padding-left: 15px;
+         padding: 120px 15px 20px;
          line-height: 1;
          max-height: fit-content;
          max-width: 100%;
@@ -1682,9 +1657,54 @@
          display: none;
      }
 
-     #arthur .portrait {
+     #index h1 {
+         padding: 20px 0 25px;
+         font-size: 2.5rem;
+     }
+
+     #arthur h1,
+     #avalon h1 {
+         padding: 20px 25px;
+         font-size: 1.8rem;
+         line-height: 1.5;
+     }
+
+     #arthur h1 span,
+     #avalon h1 span {
+         font-size: 3.7rem;
+     }
+
+     #index header .capital {
+         font-size: 5.5rem;
+     }
+
+     #index header .beyond {
+         font-size: 3.5rem;
+         padding: 10px 30%;
+     }
+
+     #index header hr {
+         max-width: 90%;
+         border-width: 5px;
+     }
+
+     #arthur header hr,
+     #avalon header hr {
+         display: block;
+         visibility: visible;
+         max-width: 90%;
+         border-width: 5px;
+         margin-top: 0;
+     }
+
+     #index header p,
+     #arthur header p,
+     #avalon header p {
+         font-size: 2.2rem;
+     }
+
+     #arthur header .image {
          background-image: url('../images/Artur_I_of_Brittany_130x143px.avif');
-         float: none;
          margin: 20px auto;
          padding-right: 0;
          width: 130px;
@@ -1692,29 +1712,17 @@
          display: block;
      }
 
-     #avalon header img {
-         float: none;
+     #avalon header .image {
          margin: 20px auto;
          padding-right: 0;
-         max-width: 130px;
-         max-height: 130px;
          display: block;
      }
 
-     #index header .capital,
-     #arthur header .capital,
-     #avalon header .capital {
-         font-size: 3.5rem;
-     }
 
-     #index header .beyond {
-         font-size: 2.5rem;
-     }
 
      /*** INDEX ***/
      #index .black_transparency>div {
-         padding: 50px 5%;
-         width: 90%;
+         padding: 50px 30px;
      }
 
      /*** ARTHUR ***/
@@ -1723,8 +1731,7 @@
      }
 
      .black_transparency {
-         padding-right: 2%;
-         padding-left: 2%;
+         padding: 70px 3%;
      }
 
      .hidden_large_devices {
