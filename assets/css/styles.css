@@ -565,12 +565,7 @@
  }
 
  #arthur_genealogy a sup,
- #french_kings a sup,
- #abalone_value a sup,
- #guernsey_mists a sup,
- #abalone_jewelry a sup,
- #abalone_seaTruffle a sup,
- #guernsey_strategicLocation a sup {
+ #avalon a sup {
      text-decoration: none;
      color: goldenrod;
  }
@@ -631,7 +626,8 @@
      visibility: hidden;
  }
 
- #philip img {
+ #philip img,
+ #arthur_kingOfBrittany img {
      width: 100%;
  }
 
@@ -734,13 +730,12 @@
  }
 
  #avalon .background_image {
-     background: url('../images/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet.avif') center center fixed;
-     margin: -40px auto;
+     background: url('../images/rocky-beach-guernsey-near-fort-houmet_1800x1307px.avif') top -50px center fixed;
      overflow: hidden;
  }
 
  #avalon .black_transparency {
-     background-color: rgba(0, 0, 0, 0.2);
+     background-color: rgba(51, 51, 51, 0.7);
      padding: 7%;
      z-index: 300;
  }
@@ -762,35 +757,20 @@
      font-weight: 400;
  }
 
- #french_kings,
- #abalone_value,
- #abalone_jewelry,
- #abalone_seaTruffle,
- #guernsey_mists,
- #guernsey_strategicLocation {
+ #avalon section {
      padding: 60px 7%;
      background-color: #1B1B1B;
      margin: 100px auto;
      border-radius: 10px;
-     box-shadow: inset 0px 0px 20px rgba(238, 238, 238, 0.9);
+     box-shadow: 0 0 20px rgba(253, 253, 253, 0.9);
  }
 
- #french_kings .content,
- #abalone_value .content,
- #abalone_jewelry .content,
- #abalone_seaTruffle .content,
- #guernsey_mists .content,
- #guernsey_strategicLocation .content {
+ #avalon .content {
      position: relative;
      display: inline-flex;
  }
 
- #french_kings h2,
- #guernsey_mists h2,
- #abalone_value h2,
- #abalone_jewelry h2,
- #abalone_seaTruffle h2,
- #guernsey_strategicLocation h2 {
+ #avalon h2 {
      position: relative;
      display: inline-block;
      margin-left: 0;
@@ -805,43 +785,28 @@
      text-shadow: 0 0 10px rgb(2, 2, 2);
  }
 
- #french_kings p,
- #guernsey_mists p,
- #abalone_value p,
- #abalone_jewelry p,
- #abalone_seaTruffle p,
- #guernsey_strategicLocation p {
+ #avalon section p {
      text-shadow: 0 0 10px rgb(2, 2, 2);
      text-align: justify;
      text-justify: inter-word;
  }
 
- #french_kings p a,
- #guernsey_mists p a,
- #abalone_value p a,
- #abalone_jewelry p a,
- #abalone_seaTruffle p a,
- #guernsey_strategicLocation p a {
+ #avalon section p a {
      text-shadow: none;
  }
 
- #guernsey_mists figcaption,
- #abalone_jewelry figcaption,
- #abalone_value figcaption {
+ #avalon figcaption {
      width: 286px;
      display: flex;
  }
 
- #guernsey_mists figcaption a,
- #abalone_jewelry figcaption a {
+ #avalon figcaption a {
      text-decoration: none;
      color: #F5F5F5;
  }
 
- #guernsey_mists figcaption a:hover,
- #abalone_jewelry figcaption a:hover,
- #abalone_seaTruffle figcaption a:hover {
-     font-weight: 600;
+ #avalon figcaption a:hover {
+     color: goldenrod;
  }
 
  #avalon iframe {
@@ -1336,12 +1301,7 @@
          margin-right: auto;
      }
 
-     #french_kings,
-     #abalone_value,
-     #abalone_jewelry,
-     #abalone_seaTruffle,
-     #guernsey_mists,
-     #guernsey_strategicLocation {
+     #favalon section {
          padding: 80px 35px;
          background-color: #1B1B1B;
          margin: 100px auto;
@@ -1500,6 +1460,10 @@
          padding: 0 0 50px 15%;
      }
 
+     #arthur .circle {
+         display: none;
+     }
+
      #arthur_genealogy.background_image {
          background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_768x1643px.avif') center fixed;
      }
@@ -1549,9 +1513,8 @@
          width: 100%;
      }
 
-     #french_kings iframe,
-     #abalone_seaTruffle iframe,
-     #avalon .content figure {
+     #avalon iframe,
+     #avalon figure {
          margin: 10px auto;
      }
 
@@ -1735,7 +1698,7 @@
          padding: 50px 40px;
          margin-bottom: 150px;
          /*#1B1B1B = rgba*/
-         background-color: rgba(27, 27, 27, 0.85);
+         background-color: rgba(27, 27, 27, 0.95);
      }
 
      #henry_II {
@@ -1799,37 +1762,21 @@
          width: 200px;
      }
 
-     #french_kings,
-     #guernsey_mists,
-     #abalone_value,
-     #abalone_jewelry,
-     #abalone_seaTruffle,
-     #guernsey_strategicLocation {
-         padding-left: 25px;
-         padding-right: 25px;
+     #avalon section {
+         padding-left: 30px;
+         padding-right: 30px;
      }
 
-     #french_kings .content,
-     #guernsey_mists .content,
-     #abalone_value .content,
-     #abalone_jewelry .content,
-     #abalone_seaTruffle .content,
-     #guernsey_strategicLocation .content {
+     #avalon .content {
          display: flex;
          flex-direction: column-reverse;
          width: 100%;
          text-align: center;
      }
 
-     #guernsey_mists .content img,
-     #abalone_value .content img,
-     #abalone_jewelry .content img,
-     #guernsey_mists .content figure,
-     #abalone_value .content figure,
-     #abalone_jewelry .content figure,
-     #french_kings iframe,
-     #abalone_seaTruffle iframe,
-     #guernsey_strategicLocation iframe {
+     #avalon section img,
+     #avalon section figure,
+     #avalon section iframe {
          width: 80%;
          margin: 20px auto;
          z-index: 1;
@@ -1838,12 +1785,11 @@
      #avalon figcaption {
          position: relative;
          display: block;
-         width: 235px;
+         width: 76%;
          min-width: 165px;
          /*negative margin to position it right under img*/
          margin: -24px auto 0;
          z-index: 2;
-         min-height: 2rem;
      }
 
      /*** SIGN-UP ***/
