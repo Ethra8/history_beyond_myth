@@ -719,14 +719,14 @@
  }
 
  #avalon header .image {
-     background-image: url('../images/abalone-152x123px.avif');
+     background: url('../images/abalone_header_150x175.avif') center center;
      display: flex;
      margin-right: 40px;
      /* margin-top: 20px; */
      /* float: left; */
      width: 100%;
      max-width: 150px;
-     height: 123px;
+     height: 175px;
      border-style: outset;
      border-width: 2px;
      border-color: rgb(88, 88, 88);
@@ -844,12 +844,16 @@
      font-weight: 600;
  }
 
- #french_kings iframe,
- #abalone_seaTruffle iframe {
-     margin-right: 40px;
-     margin-left: 40px;
-     margin-top: 20px;
+ #avalon iframe {
+     width: 300px;
+     height: 220px;
+     margin: 20px 40px 0 0;
  }
+
+ #avalon figure {
+     margin: 20px 40px 0 0;
+ }
+
 
 
  /**** CONTACT / SIGN-UP *******/
@@ -1168,10 +1172,6 @@
          margin-left: 0;
      }
 
-     #arthur header .image,
-     #avalon .portrait {
-         width: 100%;
-     }
 
      /*** ARTHUR ***/
      .hidden_large_devices {
@@ -1287,16 +1287,6 @@
      #arthur header h1,
      #avalon header h1 {
          font-size: 1.8rem;
-     }
-
-     #arthur header .image,
-     #avalon header .image {
-         margin: 0 40px 0 auto;
-         padding-right: 0;
-         width: 100%;
-         /* max-width: 130px;
-         max-height: 155px;
-         display: block; */
      }
 
      .black_transparency {
@@ -1449,7 +1439,6 @@
 
      #arthur header .image,
      #avalon header .image {
-         float: none;
          margin: 20px auto 40px;
          padding-right: 0;
          display: block;
@@ -1666,7 +1655,7 @@
      #avalon h1 {
          padding: 20px 25px;
          font-size: 1.8rem;
-         line-height: 1.5;
+         line-height: 1.2;
      }
 
      #arthur h1 span,
@@ -1719,19 +1708,18 @@
      }
 
 
-
      /*** INDEX ***/
      #index .black_transparency>div {
          padding: 50px 30px;
      }
 
      /*** ARTHUR ***/
-     #arthur_genealogy.background_image {
-         background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') center fixed;
+     #arthur .circle {
+         display: none;
      }
 
-     .black_transparency {
-         padding: 70px 3%;
+     #arthur_genealogy.background_image {
+         background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') center fixed;
      }
 
      .hidden_large_devices {
@@ -1739,13 +1727,13 @@
      }
 
      #arthur_genealogy {
-         padding-right: 0;
-         padding-left: 0;
+         padding-right: 3%;
+         padding-left: 3%;
      }
 
      #arthur_genealogy>section {
          padding: 50px 40px;
-         margin-bottom: 120px;
+         margin-bottom: 150px;
          /*#1B1B1B = rgba*/
          background-color: rgba(27, 27, 27, 0.85);
      }
@@ -1781,6 +1769,15 @@
      }
 
      /*** AVALON ***/
+
+     #avalon .background_image {
+         background: url('../images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif') center top fixed;
+     }
+
+     .black_transparency {
+         padding: 70px 30px;
+     }
+
      #avalon .content {
          display: flex;
          flex-direction: column-reverse;
@@ -1821,6 +1818,7 @@
          display: flex;
          flex-direction: column-reverse;
          width: 100%;
+         text-align: center;
      }
 
      #guernsey_mists .content img,
@@ -1828,9 +1826,24 @@
      #abalone_jewelry .content img,
      #guernsey_mists .content figure,
      #abalone_value .content figure,
-     #abalone_jewelry .content figure {
-         width: 250px;
+     #abalone_jewelry .content figure,
+     #french_kings iframe,
+     #abalone_seaTruffle iframe,
+     #guernsey_strategicLocation iframe {
+         width: 80%;
          margin: 20px auto;
+         z-index: 1;
+     }
+
+     #avalon figcaption {
+         position: relative;
+         display: block;
+         width: 235px;
+         min-width: 165px;
+         /*negative margin to position it right under img*/
+         margin: -24px auto 0;
+         z-index: 2;
+         min-height: 2rem;
      }
 
      /*** SIGN-UP ***/
