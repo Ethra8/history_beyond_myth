@@ -80,15 +80,21 @@ EDNA TORRES MUNILL
 
 
 # UX
-
+You will find in the points stated below a brief study aiming at providing the user with the best possible experience when visiting this site. 
 ## Target Audience
-* 
+* Any person interested in unsolved mysteries.
+* Any person who, regardless of their age, is interested in medieval history.
+* Adults and young adults in general who love traveling and discovering new interesting places and facts.
+* Scholars, graduates, and undersgraduates in Medieval History studies who might want to push this line of investigation further.
+* Adults, young adults and teenagers who are interested in the *Matter of Britain* (called *Matter of Brittany* in French), and the *Arthurian cycle*.
+* Parents and couples in search of fun social family gatherings to spend quality time on weekends. 
+* People interested in art and culture in general.
 
 ## Project Goal
-* The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
-* Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
-* Members are informed of interesting events related to history from the early middle ages, and/or myths around Europe, and eventually build social networks with shared interests.
-* Members can participate in organised visits, scheduled once in a while, to places that bear these curious coincidences between history and myth.
+  1. The project is aimed at providing the user with curious coincidences between academically recognised historic facts stated in well-preserved manuscripts from the early middle Ages and academic studies, and a well-known myth such as the Arthurian cycle from the so-called Matter of Britain.
+  2. Members can share any findings of their own, which might contribute to this ever-ongoing historical investigation.
+  3. Members are informed of interesting events related to history from the early middle ages, and/or myths around Europe, and can eventually build social networks with shared interests.
+  4. Members can participate in organised visits, scheduled once in a while, to places that hold these curious coincidences between history and myth.
 
 ## User Stories
 **1. As a first-time visitor:**  
