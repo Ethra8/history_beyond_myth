@@ -26,8 +26,8 @@ EDNA TORRES MUNILL
     * [Author](#Author)  
 
 - [UX](#UX)
-    * [Traget Audience](#target-audience)
-    * [Project Goal](#project-goal)
+    * [Target Audience](#target-audience)
+    * [Project Goals](#project-goal)
     * [User Stories](#user-stories)
     * [User Profiles](#user-profiles)
 - [DESIGN CHOICES](#design-choices)
@@ -124,7 +124,7 @@ EDNA TORRES MUNILL
 # DESIGN CHOICES
 
 ## Colors
-I have created the color palette myself, and the [Coolor.co](https://coolors.co/) website has only been used to display all the colors beautifilly for the screenshot below. The colors selected are as follows:
+I have created the color palette myself, and the [Coolor.co](https://coolors.co/) website has only been used to display all the colors beautifully for the screenshot below. The colors selected are as follows:
 - ***Turkey Red*** **#B30502** / **RGB(179,5,2)**:
     + **Use**: All headers' background color.
     + **Rationale**: The selection of this tone is due to two main factors.
