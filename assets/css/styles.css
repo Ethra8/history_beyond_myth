@@ -520,12 +520,12 @@
      text-decoration: none;
  }
 
- #red_circle {
+ #arthur .circle {
      position: fixed;
      top: 310px;
      left: 140px;
      border-radius: 50%;
-     background-color: rgba(27, 27, 27, 0);
+     background-color: rgba(0, 0, 0, 0);
      border-style: double;
      border-width: 20px;
      border-color: #2e2e2e;
