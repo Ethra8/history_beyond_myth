@@ -150,7 +150,8 @@
 
  nav a {
      margin: 0 0 0 60px;
-     color: whitesmoke;
+     /*#F5F5F5*/
+     color: #F5F5F5;
      text-decoration: none;
      text-transform: uppercase;
      font-family: 'Metamorphous', cursive;
@@ -178,11 +179,11 @@
      border-radius: 8px;
      border-style: outset;
      border-width: 1px;
-     border-color: whitesmoke;
+     border-color: #F5F5F5;
  }
 
  nav .sign_up a:hover {
-     background-color: whitesmoke;
+     background-color: #F5F5F5;
  }
 
  p {
@@ -193,7 +194,6 @@
 
  #index {
      position: relative;
-     background-color: rgba(0, 0, 0, 0.75);
  }
 
  #index header {
@@ -201,7 +201,7 @@
      padding: 120px 7% 50px;
      min-height: fit-content;
      max-height: fit-content;
-     background-color: #B30502;
+     background-color: #C80A0F;
  }
 
  #index h1 {
@@ -209,14 +209,14 @@
      font-size: 3rem;
      margin: 0 auto;
      padding-bottom: 0;
-     color: rgb(243, 241, 241);
+     color: #F3F1F1;
      text-shadow: 0 0 20px rgb(88, 88, 88);
      font-weight: 400;
  }
 
  #index .beyond {
      font-family: 'Reenie Beanie', cursive;
-     color: rgb(243, 241, 241);
+     color: #F3F1F1;
      text-shadow: 0 0 20px rgb(255, 255, 255);
      font-size: 4rem;
  }
@@ -224,13 +224,14 @@
  #index .capital {
      font-family: 'UnifrakturMaguntia', cursive;
      font-size: 6rem;
-     color: rgb(216, 214, 214);
+     color: #D6D6D6;
      text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
  }
 
  #index header hr {
      border-style: outset;
      border-width: 8px;
+     /* #D6D6D6 in grb */
      border-color: rgb(214, 214, 214);
      max-width: 900px;
      width: 80%;
@@ -250,8 +251,8 @@
  #index .title_images {
      padding: 0;
      position: relative;
-     background-attachment: fixed;
-     background-repeat: repeat-x;
+     /* background-attachment: fixed;
+     background-repeat: repeat-x; */
      width: 100%;
      display: flex;
      flex-wrap: nowrap;
@@ -262,15 +263,42 @@
  #index .title_images img {
      margin: 0;
      padding: 0;
+     height: 200px;
  }
 
  #index .site_description {
      background: url('../images/full_manuscript_background_AVI.avif') repeat-x center top -100px fixed;
      margin: 0 auto;
      font-family: 'Montserrat', 'Verdana', sans-serif;
-     font-weight: 600;
-     color: rgb(77, 76, 76);
+     font-weight: 500;
+     color: #424242;
      line-height: 1.5;
+ }
+
+ #index .site_description h2 {
+     line-height: 1;
+     font-family: 'Jim Nightshade', cursive;
+     color: rgb(77, 76, 76);
+     font-size: 2.3rem;
+     font-weight: 600;
+     padding: 10px;
+     margin-top: 0;
+     margin-bottom: 0;
+ }
+
+ #index ol {
+     font-family: 'Jim Nightshade', cursive !important;
+     font-size: 1.5rem;
+     list-style: lower-roman;
+     font-weight: 600;
+ }
+
+ #index ol p {
+     font-family: 'Montserrat', 'Verdana', sans-serif;
+     font-size: 1rem;
+     font-weight: 500;
+     text-align: justify;
+     text-justify: inter-word;
  }
 
  .black_transparency {
@@ -308,40 +336,14 @@
  }
 
  #go_to_sign_up_page a {
-     color: whitesmoke;
+     color: #F5F5F5;
      text-decoration: none;
-
  }
 
  #go_to_sign_up_page a:hover {
      background-color: #8f0303;
  }
 
- #index .site_description h2 {
-     line-height: 1;
-     font-family: 'Jim Nightshade', cursive;
-     color: rgb(77, 76, 76);
-     font-size: 2.3rem;
-     font-weight: 600;
-     padding: 10px;
-     margin-top: 0;
-     margin-bottom: 0;
- }
-
- #index ol {
-     font-family: 'Jim Nightshade', cursive !important;
-     font-size: 1.5rem;
-     list-style: lower-roman;
-     font-weight: 600;
- }
-
- #index ol p {
-     font-family: 'Montserrat', 'Verdana', sans-serif;
-     font-size: 1rem;
-     font-weight: 600;
-     text-align: justify;
-     text-justify: inter-word;
- }
 
 
  /*** ARTHUR I **************/
@@ -455,7 +457,7 @@
      font-family: 'UnifrakturCook', cursive;
      margin-right: 5px;
      font-size: 3.5rem;
-     color: rgb(216, 214, 214);
+     color: #D6D6D6;
      text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
  }
 
@@ -491,12 +493,12 @@
      font-size: 3.8rem;
      line-height: 0.9;
      right: 12px;
-     font-weight: 300;
+     font-weight: 500;
      position: relative;
  }
 
  #arthur_genealogy.background_image {
-     background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left top fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 480px top -150px fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 960px top -320px fixed no-repeat;
+     background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left top -140px fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 480px top fixed no-repeat, url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') left 960px top -350px fixed no-repeat;
      /* margin: 0; */
      overflow: hidden;
  }
@@ -514,8 +516,21 @@
  }
 
  #go_to_MS_14B_VI_f006v a {
-     color: whitesmoke;
+     color: #F5F5F5;
      text-decoration: none;
+ }
+
+ #red_circle {
+     position: fixed;
+     top: 310px;
+     left: 140px;
+     border-radius: 50%;
+     background-color: rgba(27, 27, 27, 0);
+     border-style: double;
+     border-width: 20px;
+     border-color: #2e2e2e;
+     height: 80px;
+     width: 80px;
  }
 
  #arthur_genealogy {
@@ -525,7 +540,7 @@
  #arthur_genealogy>section {
      position: relative;
      z-index: 800;
-     background-color: rgba(27, 27, 27, 0.9);
+     background-color: rgba(27, 27, 27, 0.95);
      /* rgba = #1B1B1B */
      padding: 50px 12% 30px;
      margin-bottom: 90px;
@@ -575,7 +590,7 @@
      bottom: 20px;
      z-index: 1;
      visibility: hidden;
-     background-color: whitesmoke;
+     background-color: #F5F5F5;
      color: slategrey;
      text-align: center;
      border-radius: 6px;
@@ -590,7 +605,7 @@
 
  figcaption {
      font-family: Arial, Helvetica, sans-serif;
-     color: whitesmoke;
+     color: #F5F5F5;
      font-size: 0.8rem;
      line-height: 1.5;
      background-color: rgba(61, 61, 61, 0.7);
@@ -612,7 +627,7 @@
      visibility: hidden;
  }
 
- #phillip img {
+ #philip img {
      width: 100%;
  }
 
@@ -626,7 +641,7 @@
  }
 
  footer #contact_us {
-     color: whitesmoke;
+     color: #F5F5F5;
      text-align: center;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      padding: 15px 5% 10px;
@@ -650,7 +665,7 @@
 
  footer #contact_us a {
      text-decoration: none;
-     color: whitesmoke;
+     color: #F5F5F5;
      font-size: 1.2rem;
      display: inline-flex;
  }
@@ -667,7 +682,7 @@
 
  footer .fab,
  footer .fa {
-     color: whitesmoke;
+     color: #F5F5F5;
  }
 
  footer .fab:hover,
@@ -691,7 +706,7 @@
  /**** AVALON *****************/
  #avalon {
      position: relative;
-     color: whitesmoke;
+     color: #F5F5F5;
  }
 
  #avalon header {
@@ -713,9 +728,15 @@
  }
 
  #avalon .background_image {
-     background: url('../images/full_manuscript_background_AVI.avif') center center fixed repeat-x;
+     background: url('../images/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet.avif') center center fixed;
      margin: -40px auto;
      overflow: hidden;
+ }
+
+ #avalon .black_transparency {
+     background-color: rgba(0, 0, 0, 0.2);
+     padding: 50px;
+     z-index: 300;
  }
 
  #abalone_frenchPronunciation {
@@ -808,7 +829,7 @@
  #guernsey_mists figcaption a,
  #abalone_jewelry figcaption a {
      text-decoration: none;
-     color: whitesmoke;
+     color: #F5F5F5;
  }
 
  #guernsey_mists figcaption a:hover,
@@ -851,12 +872,11 @@
  }
 
  #contact .bg_img {
-     background: url('../images/castle-4509080_1920.jpg') right top 50px fixed repeat-x;
+     background: url('../images/castle-4509080_1920.jpg') center center fixed;
  }
 
  #contact .black_transparency {
-     background-color: rgba(0, 0, 0, 0.7);
-
+     background-color: rgba(0, 0, 0, 0.651);
  }
 
  #contact_flex {
@@ -883,7 +903,7 @@
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
-     border-color: whitesmoke;
+     border-color: #F5F5F5;
      border-width: 1px;
  }
 
@@ -966,7 +986,7 @@
 
  #social_events figcaption a,
  #cultural_events figcaption a {
-     color: whitesmoke;
+     color: #F5F5F5;
      text-decoration: none;
  }
 
@@ -988,7 +1008,7 @@
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
-     border-color: whitesmoke;
+     border-color: #F5F5F5;
      border-width: 1px;
  }
 
@@ -1025,7 +1045,7 @@
      background-color: #8f0303;
      padding: 30px 50px;
      font-family: 'Montserrat', 'Verdana', sans-serif;
-     color: whitesmoke;
+     color: #F5F5F5;
      font-size: 1.1rem;
      font-weight: 500;
      border-radius: 20px;
@@ -1037,7 +1057,7 @@
 
  #sign_up_form h2 {
      font-family: 'Metamorphous', cursive;
-     color: whitesmoke;
+     color: #F5F5F5;
      font-size: 1.8rem;
      text-align: center;
      font-variant: small-caps;
@@ -1088,7 +1108,7 @@
  }
 
  #sign_up_form button:hover {
-     background-color: whitesmoke;
+     background-color: #F5F5F5;
  }
 
  #w3s_css_test_success {
@@ -1186,7 +1206,7 @@
 
      /*** SIGN UP ***/
      #contact .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') right top 50px fixed repeat-x;
+         background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
      }
 
      #social_events>div {
@@ -1339,12 +1359,12 @@
      /*** SIGN-UP ***/
 
      #contact .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
+         background: url('../images/castle-4509080_1280.jpg') right top cover;
      }
 
      #contact_flex {
          display: flex;
-         padding: 120px 12% 90px;
+         padding: 120px 12%;
          flex-direction: column-reverse;
      }
 
@@ -1356,17 +1376,17 @@
      }
 
      #social_events>div {
-         margin: 0 auto 90px 30px;
+         margin: 0 auto 90px 0;
      }
 
      #cultural_events>div {
-         margin: 0 auto 0 30px;
+         margin: 0 auto 0 0;
      }
 
      #sign_up_form {
          display: block;
          width: auto;
-         padding: 0 30px 90px;
+         padding: 0 30px 50px;
      }
 
      #sign_up_form form {
@@ -1447,11 +1467,11 @@
          text-align: center;
      }
 
-     #index .capital,
+     /* #index .capital,
      #arthur .capital,
      #avalon .capital {
          font-size: 4.5rem;
-     }
+     } */
 
      #index header p,
      #arthur header p,
@@ -1546,7 +1566,7 @@
      /*** SIGN-UP ***/
 
      #contact .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') top fixed;
+         background: url('../images/castle-4509080_1280.jpg') left top cover;
      }
 
      #contact_flex {
@@ -1663,12 +1683,12 @@
      }
 
      #arthur .portrait {
-        background-image: url('../images/Artur_I_of_Brittany_130x143px.avif');
+         background-image: url('../images/Artur_I_of_Brittany_130x143px.avif');
          float: none;
          margin: 20px auto;
          padding-right: 0;
-         max-width: 130px;
-         max-height: 155px;
+         width: 130px;
+         height: 143px;
          display: block;
      }
 
@@ -1693,9 +1713,8 @@
 
      /*** INDEX ***/
      #index .black_transparency>div {
-         padding: 50px 30px;
-         max-width: 90%;
-         width: 85%;
+         padding: 50px 5%;
+         width: 90%;
      }
 
      /*** ARTHUR ***/
@@ -1805,7 +1824,7 @@
 
      /*** SIGN-UP ***/
      #contact .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') center fixed repeat-x;
+         background: url('../images/castle-4509080_640.jpg') left 0 top 20px cover;
      }
 
      #contact_flex {
