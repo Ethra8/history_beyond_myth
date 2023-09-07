@@ -1,11 +1,9 @@
 # HISTORY BEYOND MYTH
 
 ## Project Overview
-- History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle.
-- The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
+- History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle. The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
 - This site is useful for anyone who might be interested in history, more precisely from the European early Middle Ages, or also in myths and legends in general.
-- The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages.
-- The users of this page who have already signed up will be informed of organized visits to sites related to the curious coincidences stated in the site.
+- The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages. Visits to sites related to the curious coincidences stated in the site will also be organized periodically.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/527a5a7d-d224-40dd-816e-a097e1f9b795)
