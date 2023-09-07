@@ -35,6 +35,7 @@ EDNA TORRES MUNILL
     * [Project Goals](#project-goal)
     * [User Stories](#user-stories)
     * [User Profiles](#user-profiles)
+
 - [DESIGN CHOICES](#design-choices)
     * [Colors](#colors)
     * [Typography](#typography)
@@ -385,7 +386,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 ## Defects of Note
 
-## Outstandign Defects
+## Outstanding Defects
 
 ## Core Web Vitals
 
@@ -393,7 +394,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 ## Accessibility Audits
 
-### Keyboard NAvigation
+### Keyboard Navigation
 
 ### Chrome Vox Reader
 
@@ -418,7 +419,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 # Deployment
 
 ## Deploy to Github Pages
-- I started coding from **Visual Studio Code**, as I had been using it to code my freelancer website as a teacher of English as a second language. My freelance website is [englishgrows.com](https://englishgrows.com) , and I'm the owner of the Google Domain emglishgrows.com, which is linked to my Github account EdnaTMunill, with nickname [Ethra8](https://github.com/Ethra8) . 
+- I started coding from **Visual Studio Code**, as I had been using it to code my freelancer website as a teacher of English as a second language. My freelance website is [englishgrows.com](https://englishgrows.com) , and I'm the owner of the Google Domain *englishgrows.com*, which is linked to this Github account EdnaTMunill, with nickname [Ethra8](https://github.com/Ethra8) . 
 
 ### Production
 1. Click **Settings** tab:
