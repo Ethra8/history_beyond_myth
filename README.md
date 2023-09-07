@@ -6,7 +6,7 @@
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages. Visits to sites related to the curious coincidences stated in the site will also be organized periodically.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/527a5a7d-d224-40dd-816e-a097e1f9b795)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ec4ee12-4762-4466-a7e8-596ea540c7f3)
 
 
 Responsive images of the site automatically generated through ui.dev/amiresponsive/. The tool is interactive, and you can can view all pages in all screen sizes simultaneaously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
