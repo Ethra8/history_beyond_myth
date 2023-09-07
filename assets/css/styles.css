@@ -360,7 +360,8 @@
      position: relative;
  }
 
- #index header {
+ #index header,
+ #error404 header {
      text-align: center;
      padding: 140px 7% 30px;
      min-height: fit-content;
@@ -378,7 +379,8 @@
      font-weight: 400;
  }
 
- #index .beyond {
+ #index .beyond,
+ #error404 .modern {
      font-family: 'Reenie Beanie', cursive;
      color: #F3F1F1;
      text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -392,7 +394,8 @@
      text-shadow: 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66), 0 0 8px rgb(66, 66, 66);
  }
 
- #index header hr {
+ #index header hr,
+ #error404 header hr {
      border-style: outset;
      border-width: 8px;
      /* #D6D6D6 in grb */
@@ -403,7 +406,8 @@
      box-shadow: 8px 15px 5px rgba(71, 71, 71, 0.4);
  }
 
- #index header p {
+ #index header p,
+ #error404 header p {
      font-family: 'Jim Nightshade', cursive;
      color: rgba(243, 241, 241, 0.966);
      font-size: 2.8rem;
@@ -610,7 +614,8 @@
  }
 
  #arthur h1,
- #avalon h1 {
+ #avalon h1,
+ #error404 h1 {
      font-family: 'Metamorphous', cursive;
      font-size: 2rem;
      font-weight: 500;
@@ -621,7 +626,8 @@
  }
 
  #arthur h1 span,
- #avalon h1 span {
+ #avalon h1 span,
+ #error404 .capital {
      font-family: 'UnifrakturCook', cursive;
      margin-right: 5px;
      font-size: 3.5rem;
@@ -1259,11 +1265,25 @@
  }
 
 
+
+ /******* 404 ERROR *****/
+
+ #error404 {
+     background-color: #B30502;
+ }
+
+ #error_img {
+     background: url('../images/Error404_thinker_CodexManesse.png') top 370px left fixed repeat;
+     height: 300px;
+ }
+
+
  /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
  @media only screen and (min-width: 992px) and (max-width: 1199.99px) {
 
 
-     #index header {
+     #index header,
+     #error404 header {
          min-height: fit-content;
          max-height: fit-content;
          padding-left: 15%;
@@ -1599,9 +1619,10 @@
      }
 
      #arthur h1,
-     #avalon h1 {
+     #avalon h1,
+     #error404 h1 {
          font-size: 1.8rem;
-         padding-bottom: 20px;
+         /* padding-bottom: 20px; */
          text-align: center;
      }
 
@@ -1610,18 +1631,21 @@
      }
 
      #arthur h1 span,
-     #avalon h1 span {
+     #avalon h1 span,
+     #error404 .capital {
          font-size: 4rem;
      }
 
      #index header p,
      #arthur header p,
-     #avalon header p {
+     #avalon header p,
+     #error404 header p {
          font-size: 2.2rem;
          text-align: center;
      }
 
-     #index header hr {
+     #index header hr,
+     #error404 header hr {
          max-width: 90%;
          border-width: 6px;
      }
@@ -1761,7 +1785,8 @@
 
      #index header,
      #arthur header,
-     #avalon header {
+     #avalon header,
+     #error404 header {
          padding: 140px 15px 20px;
          line-height: 1;
          max-height: fit-content;
@@ -1797,14 +1822,16 @@
      }
 
      #arthur h1,
-     #avalon h1 {
+     #avalon h1,
+     #error404 h1 {
          padding: 20px 25px;
          font-size: 1.8rem;
          line-height: 1.2;
      }
 
      #arthur h1 span,
-     #avalon h1 span {
+     #avalon h1 span,
+     #error404 .capital {
          font-size: 3.7rem;
      }
 
@@ -1812,12 +1839,14 @@
          font-size: 5.5rem;
      }
 
-     #index header .beyond {
+     #index header .beyond,
+     #error404 header .modern {
          font-size: 3.5rem;
          padding: 10px 30%;
      }
 
-     #index header hr {
+     #index header hr,
+     #error404 header hr {
          max-width: 90%;
          border-width: 5px;
      }
@@ -1833,7 +1862,8 @@
 
      #index header p,
      #arthur header p,
-     #avalon header p {
+     #avalon header p,
+     #error404 header p {
          font-size: 2.2rem;
      }
 
@@ -1993,9 +2023,6 @@
      #social_events .picture,
      #cultural_events .picture {
          display: none;
-         /* width: auto;
-        margin: 40px auto 0;
-        flex-direction: column; */
      }
 
      #sign_up_flex .events {
@@ -2043,5 +2070,12 @@
      #social_events .text h2,
      #cultural_events .text h2 {
          margin-bottom: 0;
+     }
+
+
+     /*** 404 ERROR ***/
+     #error_img {
+         background: url('../images/Error404_thinker_CodexManesse.png') top 430px left fixed repeat;
+
      }
  }
