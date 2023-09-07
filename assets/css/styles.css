@@ -153,9 +153,28 @@
  }
 
  nav #list_symbol {
+     float: inline-end;
+     vertical-align: middle;
+
      margin-top: -10px;
      margin-right: -15px;
+     border-style: solid;
+     border-color: #D6D6D6;
+     border-width: 3px;
+     border-radius: 10px;
+     padding: 5px 10px 13px;
  }
+
+ /*add fontawesome icon bars - styling it*/
+ nav #list_symbol .fa-bars {
+     color: #D6D6D6;
+ }
+
+ nav #list_symbol .fa-bars:hover {
+     color: whitesmoke;
+ }
+
+ /*end of fa-bars personal styling*/
 
  nav ul {
      list-style: none;
@@ -289,7 +308,7 @@
          display: none;
      }
 
-     #logo1 {
+     nav #logo1 {
          display: none;
          visibility: hidden;
      }
@@ -1938,23 +1957,14 @@
      }
 
      /*** AVALON ***/
-
      #avalon .background_image {
          background: url('../images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif') center top fixed;
      }
 
-     .black_transparency {
-         padding: 70px 30px;
-     }
-
-     /* #avalon .content {
-         display: flex;
-         flex-direction: column-reverse;
-         width: 95%;
-     } */
-
+     /*index & avalon*/
+     .black_transparency,
      #avalon .black_transparency {
-         padding: 60px 5%;
+         padding: 60px 4%;
      }
 
      #abalone_frenchPronunciation {
