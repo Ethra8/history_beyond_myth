@@ -8,7 +8,8 @@
 - The users of this page who have already signed up will be informed of organized visits to sites related to the curious coincidences stated in the site.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a8c1e92b-f8c1-4e6d-bb57-281741c03989)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/527a5a7d-d224-40dd-816e-a097e1f9b795)
+
 
 Responsive images of the site automatically generated through ui.dev/amiresponsive/. The tool is interactive, and you can can view all pages in all screen sizes simultaneaously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
 
