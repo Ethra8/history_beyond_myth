@@ -381,7 +381,7 @@
 
  #index header {
      text-align: center;
-     padding: 120px 7% 50px;
+     padding: 140px 7% 30px;
      min-height: fit-content;
      max-height: fit-content;
      background-color: #C80A0F;
@@ -541,7 +541,7 @@
 
  #arthur header,
  #avalon header {
-     padding: 120px 7% 40px;
+     padding: 140px 7% 40px;
      min-height: fit-content;
      max-height: 14rem;
      background-color: #B30502;
@@ -1011,7 +1011,7 @@
 
  #contact header {
      text-align: center;
-     padding: 120px 7% 0;
+     padding: 140px 7% 0;
      min-height: 5rem;
      max-height: 12rem;
      background-color: #B30502;
@@ -1291,10 +1291,7 @@
      #avalon header {
          min-height: fit-content;
          max-height: fit-content;
-         padding-left: 15%;
-         padding-right: 15%;
-         padding-top: 100px;
-         padding-bottom: 20px;
+         padding-left: 120px 15% 20px;
      }
 
      #arthur header>.left,
@@ -1396,7 +1393,7 @@
 
      #arthur header,
      #avalon header {
-         padding: 100px 0 20px 12%;
+         padding: 120px 0 20px 12%;
          max-height: fit-content;
          min-height: fit-content;
          margin: 0 auto;
@@ -1763,7 +1760,7 @@
      #index header,
      #arthur header,
      #avalon header {
-         padding: 120px 15px 20px;
+         padding: 140px 15px 20px;
          line-height: 1;
          max-height: fit-content;
          max-width: 100%;
