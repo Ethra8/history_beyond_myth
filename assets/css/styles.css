@@ -661,7 +661,7 @@
  }
 
  #arthur_genealogy.background_image {
-     background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 488px top fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 976px top -400px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 1464px top fixed repeat-y;
+     background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 488px top fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 976px top -400px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 1464px top fixed repeat;
      /* margin: 0; */
      overflow: hidden;
  }
@@ -1865,7 +1865,7 @@
      }
 
      #arthur_genealogy.background_image {
-         background: url('../images/Royal_MS_14_B_VI_f006r_Roll_Chronicle_Britain_Genealogy_c1300_480x1026px.avif') center fixed;
+         background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') cover;
      }
 
      .hidden_large_devices {
