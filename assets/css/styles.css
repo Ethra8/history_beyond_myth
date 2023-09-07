@@ -1389,8 +1389,11 @@
          max-height: 175px;
      }
 
-     /*** ARTHUR + AVALON ***/
+     .black_transparency {
+         padding: 70px 7%;
+     }
 
+     /*** ARTHUR + AVALON HEADER***/
      #arthur header,
      #avalon header {
          padding: 120px 0 20px 12%;
@@ -1434,10 +1437,7 @@
          font-size: 1.8rem;
      }
 
-     .black_transparency {
-         padding: 70px 7%;
-     }
-
+     /*** ARTHUR ***/
      #arthur_genealogy>section {
          margin-bottom: 120px;
      }
@@ -1469,8 +1469,6 @@
          height: 245px;
          margin: 0 auto;
          display: block;
-         margin-left: auto;
-         margin-right: auto;
      }
 
      #richard figcaption,
@@ -1481,14 +1479,40 @@
          margin-right: auto;
      }
 
-     #favalon section {
-         padding: 80px 35px;
+     /*** AVALON ***/
+     #avalon section {
+         padding: 80px 50px;
          background-color: #1B1B1B;
          margin: 100px auto;
          border-radius: 10px;
          box-shadow: inset 0px 0px 20px rgba(238, 238, 238, 0.9);
          text-align: justify;
      }
+
+     #avalon .content {
+         display: flex;
+         flex-direction: column-reverse;
+         width: 100%;
+         text-align: center;
+     }
+
+     #avalon iframe,
+     #avalon figure {
+         margin: 20px auto 0;
+         /* width: 400px; */
+     }
+
+     #avalon figcaption {
+         position: relative;
+         display: block;
+         min-width: 165px;
+         /*negative margin to position it right under img*/
+         margin: -5px auto 0;
+         z-index: 2;
+
+     }
+
+
 
      /*** SIGN-UP ***/
 
@@ -1921,11 +1945,11 @@
          padding: 70px 30px;
      }
 
-     #avalon .content {
+     /* #avalon .content {
          display: flex;
          flex-direction: column-reverse;
          width: 95%;
-     }
+     } */
 
      #avalon .black_transparency {
          padding: 60px 5%;
