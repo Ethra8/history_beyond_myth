@@ -19,7 +19,8 @@
     <link rel="manifest" href="assets/favicon/site.webmanifest">
     <!-- MY STYLESHEET CSS -->
     <link href="./assets/css/styles.css" rel="stylesheet">
-
+    <!--FONT AWESOME KIT SCRIPT -->
+    <link rel="stylesheet" href="./assets/fontawesome-free-6.4.2-web/css/all.css">
     <!-- TITLE of page -->
     <title>HISTORY BEYOND MYTH</title>
 
@@ -28,13 +29,24 @@
 <body id="index">
 
     <!-- NAVBAR -->
-    <nav>
-        <a href="./index.html" aria-label="here is the home page">
-            <img src="./assets/favicon/android-chrome-192x192.png" alt="logo"
-                srcset="https://englishgrows.com/history_beyond_myth/assets/favicon/apple-touch-icon.png" id="logo">
+    <nav id="nav">
+        <a href="#header">
+            <img id="logo1" src="./assets/favicon/android-chrome-192x192.png" alt="logo"
+                srcset="https://englishgrows.com/history_beyond_myth/assets/favicon/apple-touch-icon.png">
         </a>
-        <ul>
-            <li class="active">
+        <input type="checkbox" name="menuToggle" id="menuToggle" :checked>
+        <label for="menuToggle">
+            <span class="toggle">
+                <a class="show-mobile" href="#header">
+                    <img id="logo" src="./assets/favicon/android-chrome-192x192.png" alt="logo"
+                        srcset="https://englishgrows.com/history_beyond_myth/assets/favicon/apple-touch-icon.png">
+                </a>
+                <span id="list_symbol"><i class="fa-solid fa-bars fa-2x" style="color: #CCCCCC;"></i></span>
+            </span>
+        </label>
+        <!--the menu that will slide in from the left-->
+        <ul id="menu" class="menu nav-item">
+            <li class="home">
                 <a href="./index.html" aria-label="here is the home page">home</a>
             </li>
             <li>
@@ -49,8 +61,29 @@
         </ul>
     </nav>
 
+
+    <!-- <a href="./index.html" aria-label="here is the home page">
+        <img src="./assets/favicon/android-chrome-192x192.png" alt="logo"
+            srcset="https://englishgrows.com/history_beyond_myth/assets/favicon/apple-touch-icon.png" id="logo">
+    </a>
+    <ul>
+        <li class="active">
+            <a href="./index.html" aria-label="here is the home page">home</a>
+        </li>
+        <li>
+            <a href="./arthur_I.html" aria-label="go to Arthur I's page">arthur I</a>
+        </li>
+        <li class="avalon">
+            <a href="./avalon.html" aria-label="go to the avalon page">avalon</a>
+        </li>
+        <li class="sign_up">
+            <a href="./contact.html" aria-label="go to the sign-up page">sign up</a>
+        </li>
+    </ul>
+    </nav> -->
+
     <!-- HEADER -->
-    <header>
+    <header id="header">
         <div>
             <h1><span class="capital">h</span>ISTORY <span class="beyond">beyond</span> <span
                     class="capital">m</span>YTH
@@ -263,9 +296,9 @@
         </ul>
     </footer>
 
-
-    <!-- FONT AWESOME KIT SCRIPT-->
+    <!--FONT AWESOME KIT SCRIPT -->
     <script src="https://kit.fontawesome.com/d7e085205b.js" crossorigin="anonymous" async defer></script>
+
 
 </body>
 
