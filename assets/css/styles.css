@@ -983,11 +983,11 @@
 
 
  /**** CONTACT / SIGN-UP *******/
- #contact {
+ #sign_up {
      background-color: #a50000;
  }
 
- #contact header {
+ #sign_up header {
      text-align: center;
      padding: 140px 7% 0;
      min-height: 5rem;
@@ -997,7 +997,7 @@
      margin-bottom: 0;
  }
 
- #contact h1 {
+ #sign_up h1 {
      font-family: 'Metamorphous', cursive;
      font-size: 1.5rem;
      font-weight: 400;
@@ -1007,20 +1007,20 @@
      text-shadow: 0 0 20px rgb(27, 27, 27), 0 0 20px rgb(27, 27, 27);
  }
 
- #contact .bg_img {
+ #sign_up .bg_img {
      background: url('../images/castle-4509080_1920.jpg') center center fixed;
  }
 
- #contact .black_transparency {
+ #sign_up .black_transparency {
      background-color: rgba(0, 0, 0, 0.651);
  }
 
- #contact_flex {
+ #sign_up_flex {
      display: flex;
      padding: 120px 0;
  }
 
- #contact_flex .events {
+ #sign_up_flex .events {
      width: 55%;
      padding: 0;
      margin-bottom: 0;
@@ -1334,7 +1334,7 @@
      }
 
      /*** SIGN UP ***/
-     #contact .bg_img {
+     #sign_up .bg_img {
          background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
      }
 
@@ -1494,17 +1494,17 @@
 
      /*** SIGN-UP ***/
 
-     #contact .bg_img {
+     #sign_up .bg_img {
          background: url('../images/castle-4509080_1280.jpg') right top cover;
      }
 
-     #contact_flex {
+     #sign_up_flex {
          display: flex;
          padding: 120px 12%;
          flex-direction: column-reverse;
      }
 
-     #contact_flex .events {
+     #sign_up_flex .events {
          display: block;
          width: 100%;
          margin: 40px auto 0;
@@ -1702,11 +1702,11 @@
 
      /*** SIGN-UP ***/
 
-     #contact .bg_img {
+     #sign_up .bg_img {
          background: url('../images/castle-4509080_1280.jpg') left top cover;
      }
 
-     #contact_flex {
+     #sign_up_flex {
          display: flex;
          padding: 120px 5% 90px;
          flex-direction: column-reverse;
@@ -1733,7 +1733,7 @@
          margin: 0 auto 40px;
      }
 
-     #contact_flex .events {
+     #sign_up_flex .events {
          display: block;
          width: auto;
          margin: 40px auto 0;
@@ -1966,11 +1966,11 @@
      }
 
      /*** SIGN-UP ***/
-     #contact .bg_img {
+     #sign_up .bg_img {
          background: url('../images/castle-4509080_640.jpg') left 0 top 20px cover;
      }
 
-     #contact_flex {
+     #sign_up_flex {
          display: flex;
          padding: 120px 0 90px;
          flex-direction: column-reverse;
@@ -1998,7 +1998,7 @@
         flex-direction: column; */
      }
 
-     #contact_flex .events {
+     #sign_up_flex .events {
          width: fit-content;
          padding: 20px 2% 40px;
      }
