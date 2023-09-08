@@ -1240,6 +1240,15 @@
      margin-bottom: 0;
  }
 
+ /** Textarea **/
+ #sign_up_form textarea {
+     margin: 10px auto 20px;
+     width: 100%;
+     border-radius: 5px;
+     font-size: 1rem;
+     font-family: 'Montserrat', 'Verdana', sans-serif;
+ }
+
  #sign_up_form button {
      font-family: 'Metamorphous', cursive;
      font-size: 1.2rem;
@@ -2076,6 +2085,5 @@
      /*** 404 ERROR ***/
      #error_img {
          background: url('../images/Error404_thinker_CodexManesse.png') top 430px left fixed repeat;
-
      }
  }
