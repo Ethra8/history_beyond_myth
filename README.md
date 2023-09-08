@@ -263,7 +263,22 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 - **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
-## Animations
+## Animations & Transitions
+- **HOVER:**
+* ***Navigation Bar***:
+  + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d7fd75e-cd18-4321-9a92-3dda6f3ca9b6)
+
+  + As the user hovers through the *sign-up* anchor resembling a button, its background color turns from *#D6D6D6* into *whitesmoke*:
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
+ 
+* ***Sign-up Form Button***: Same as the anchor tag *sign-up* resembling a button on the navigation bar, linking to the *sign-up page*, its background color turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
+
+
 
 ## Site Structure
 
