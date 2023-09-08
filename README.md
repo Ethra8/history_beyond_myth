@@ -263,24 +263,32 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 - **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
-## Animations & Transitions
+## Animations & Transitions  
 - **HOVER:**
-* ***Navigation Bar***:
-  + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
+  * ***Navigation Bar***:
+   + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d7fd75e-cd18-4321-9a92-3dda6f3ca9b6)
 
-  + As the user hovers through the *sign-up* anchor resembling a button, its background color turns from *#D6D6D6* into *whitesmoke*:
+   + As the user hovers through the *sign-up* anchor resembling a button, its background color turns from *#D6D6D6* into *whitesmoke*:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
  
-* ***Sign-up Form Button***: Same as the anchor tag *sign-up* resembling a button on the navigation bar, linking to the *sign-up page*, its background color turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
+  * ***Sign-up Form Button***: Same as the anchor tag *sign-up* resembling a button on the navigation bar, linking to the *sign-up page*, its background color turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
 
 
 
 ## Site Structure
+The site contains 4 pages, which have a fixed navigation on the top to allow the user for an easy navigation through the pages. The pages are the following pages:
+* [**HOME PAGE**](https://englishgrows.com/history_beyond_myth/index.html): Acting as the *landing page*, it contains the *Site description*, formed of *3 sections*:
+    + *About us*
+    + *Keeping it Real*
+    + *Reasons to Sign Up*
+* [**ARTHUR I**](https://englishgrows.com/history_beyond_myth/arthur_I.html): States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and supported by most of the French territories who had been ruled by Richard.
+* [**AVALON**](https://englishgrows.com/history_beyond_myth/avalon.html): States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?
+* [**SIGN-UP**](https://englishgrows.com/history_beyond_myth/sign_up.html): Gives details on the different reasons to sign-up, and includes a *Sign-up Form*.
 
 ## Design Elements
 
