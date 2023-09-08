@@ -264,7 +264,9 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
 ## Animations and Transitions  
+
 - **HOVER:**
+
   * ***Navigation Bar***:
    + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
 
@@ -282,15 +284,39 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 ## Site Structure
 The site contains 4 pages, which have a fixed navigation on the top to allow the user for an easy navigation through the pages. The pages are the following pages:
+
 * [**HOME PAGE**](https://englishgrows.com/history_beyond_myth/index.html): Acting as the *landing page*, it contains the *Site description*, formed of *3 sections*:
-    + *About us*
-    + *Keeping it Real*
-    + *Reasons to Sign Up*
+    + *About us* - Site dedicated to state curious coincidences found during years of investigations
+    + *Keeping it Real* - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
+    + *Reasons to Sign Up* - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag that links to the sign-up page.
+
 * [**ARTHUR I**](https://englishgrows.com/history_beyond_myth/arthur_I.html): States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and supported by most of the French territories who had been ruled by Richard.
+
 * [**AVALON**](https://englishgrows.com/history_beyond_myth/avalon.html): States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?
+
 * [**SIGN-UP**](https://englishgrows.com/history_beyond_myth/sign_up.html): Gives details on the different reasons to sign-up, and includes a *Sign-up Form*.
 
 ## Design Elements
+
+* **AUDIO**  
+  + ***Avalon Page***: Audio tag with controls with the French Pronunciation of the word *abalone*, taken from the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+
+* **VIDEO**  
+  + ***Avalon Page***: there are 2 Youtube videos embeded. One is the song that King Richard "The Lionheart" wrote in old French, demonstrating that French was the prodominant language at that time, linking to the supposition that *abalone* might be the origin of *avalon* (Was Guernsey nicknamed the *Isle of Abalones*?) 
+
+* **ICONS**  
+  + ***Footer***: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
+
+* **INTERACTIVE MAP**
+  + ***Avalon***: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embeded showing the exact location of the Isle of Guernsey.
+
+* **FORM**
+  + ***Sign Up***: The form in the sing-up page includes the following ***inputs***:
+    - *2 Inputs type=text required* - The user must include First name, and Last Name to be able to send the form.
+    - *Input type=email required* - The user must include an email to be able to send the form.
+    - *Input type=radio required* - The user must select 1 of 3 options, on whether he/she likes sight seeing. This field is requested, to help the site administrators decide on the frequency to organize seight seeing visits to emblematic places related to the investigation.
+    - *Input type=file optional* - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
+    - *Textarea optional* - The user can include a message, if he/she wants to share some thoughts.
 
 ## Wireframes
 
