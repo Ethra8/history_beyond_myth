@@ -154,6 +154,7 @@
      margin-left: 0;
  }
 
+ /* div contains fontawesome icon fa-bars */
  nav #list_symbol {
      margin-top: -15px;
      margin-bottom: 5px;
@@ -165,13 +166,17 @@
      padding: 5px 10px 5px;
  }
 
- /*added fontawesome icon bars - styling it*/
+ /* own styling of fontawesome icon fa-bars */
  nav #list_symbol .fa-bars {
      color: #D6D6D6;
  }
 
  nav #list_symbol .fa-bars:hover {
      color: whitesmoke;
+ }
+
+ nav #list_symbol:hover {
+     border-color: whitesmoke;
  }
 
  /*end of fa-bars personal styling*/
@@ -196,14 +201,20 @@
      text-transform: uppercase;
      font-family: 'Metamorphous', cursive;
      font-size: 1rem;
+     font-weight: bold;
+
  }
 
- nav .active {
+ nav ul li a .active {
      font-weight: bold;
+     color: whitesmoke !important;
+
  }
 
  nav a:hover {
      color: rgb(180, 180, 180);
+     font-weight: bold;
+
  }
 
  nav .avalon {
@@ -254,6 +265,8 @@
 
  /* phones and portrait tablets */
  @media screen and (max-width: 768px) {
+     /* Below RESPONSIVE NAVBAR Adapted from:
+ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https://codepen.io/maliahavlicek/pen/LYeBwNY */
 
      nav {
          padding: 15px 3% 9px;
@@ -349,9 +362,10 @@
          text-align: center;
      }
 
+     /**** END RESPONSIVE NAVBAR ***/
+
  }
 
- /**** END RESPONSIVE NAVBAR ***/
 
  /*** INDEX***/
 
@@ -1574,7 +1588,7 @@
 
 
  /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
- /* @media only screen and (min-width: 576px) and (max-width: 767px) { */
+ /* phones and portrait tablets */
 
  @media only screen and (max-width: 768px) {
 
@@ -1785,6 +1799,7 @@
 
 
  /*** MEDIA QUERY: MAX. 575.99px ***/
+ /*phones*/
  @media only screen and (max-width: 576px) {
 
      /*** NAVBAR ***/
