@@ -449,7 +449,9 @@ The site contains 4 pages, which have a fixed navigation on the top to allow the
  
   * **AVALON**
       + Sept. 8th 2023  
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab74b4c0-11f1-40a2-b561-44c83bf6add7)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8f124bfb-658b-40eb-ad92-5424ec79b07e)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/93d8baef-2718-4f4e-a91b-29e427f975cd)
+
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/48597dce-073a-4ebe-957d-ecf694caf8a7)
 
       + Documentation used to fix issue:
