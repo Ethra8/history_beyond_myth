@@ -154,7 +154,6 @@
      margin-left: 0;
  }
 
- /* div contains fontawesome icon fa-bars */
  nav #list_symbol {
      margin-top: -15px;
      margin-bottom: 5px;
@@ -166,7 +165,7 @@
      padding: 5px 10px 5px;
  }
 
- /* own styling of fontawesome icon fa-bars */
+ /*added fontawesome icon bars - styling it*/
  nav #list_symbol .fa-bars {
      color: #D6D6D6;
  }
@@ -201,20 +200,14 @@
      text-transform: uppercase;
      font-family: 'Metamorphous', cursive;
      font-size: 1rem;
-     font-weight: bold;
-
  }
 
- nav ul li a .active {
+ nav .active {
      font-weight: bold;
-     color: whitesmoke !important;
-
  }
 
  nav a:hover {
      color: rgb(180, 180, 180);
-     font-weight: bold;
-
  }
 
  nav .avalon {
@@ -1588,7 +1581,7 @@
 
 
  /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
- /* phones and portrait tablets */
+ /* @media only screen and (min-width: 576px) and (max-width: 767px) { */
 
  @media only screen and (max-width: 768px) {
 
@@ -1799,7 +1792,6 @@
 
 
  /*** MEDIA QUERY: MAX. 575.99px ***/
- /*phones*/
  @media only screen and (max-width: 576px) {
 
      /*** NAVBAR ***/
