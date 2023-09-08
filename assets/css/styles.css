@@ -154,6 +154,7 @@
      margin-left: 0;
  }
 
+ /* contains fontawesome icon fa-bars */
  nav #list_symbol {
      margin-top: -15px;
      margin-bottom: 5px;
@@ -165,7 +166,7 @@
      padding: 5px 10px 5px;
  }
 
- /*added fontawesome icon bars - styling it*/
+ /* style fontawesome icon fa-bars */
  nav #list_symbol .fa-bars {
      color: #D6D6D6;
  }
