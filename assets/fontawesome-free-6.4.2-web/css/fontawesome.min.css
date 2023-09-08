@@ -1,5 +1,4 @@
-/*!
- * Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com
+/* Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * Copyright 2023 Fonticons, Inc.
  */
@@ -9,10 +8,6 @@
 }
 
 .fa,
-.fa-brands,
-.fa-classic,
-.fa-regular,
-.fa-sharp,
 .fa-solid,
 .fab,
 .far,
@@ -26,8 +21,6 @@
     text-rendering: auto
 }
 
-.fa-classic,
-.fa-regular,
 .fa-solid,
 .far,
 .fas {
