@@ -563,8 +563,8 @@
      width: 50%;
  }
 
- #arthur hr,
- #avalon hr {
+ #arthur header hr,
+ #avalon header hr {
      display: none;
      visibility: hidden;
      border-style: outset;
@@ -1287,8 +1287,9 @@
 
 
  /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
- @media only screen and (min-width: 992px) and (max-width: 1199.99px) {
+ /* @media only screen and (min-width: 992px) and (max-width: 1199.99px) { */
 
+ @media only screen and (max-width: 1199px) {
 
      #index header,
      #error404 header {
@@ -1320,11 +1321,11 @@
          display: none;
      }
 
-     #arthur hr,
-     #avalon hr {
+     #arthur header hr,
+     #avalon header hr {
          display: block;
          visibility: visible;
-         width: 100%;
+         width: 90%;
          border-width: 6px;
          margin-left: 0;
      }
@@ -1391,7 +1392,9 @@
  }
 
  /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
- @media only screen and (min-width: 768px) and (max-width: 991.99px) {
+ /* @media only screen and (min-width: 768px) and (max-width: 991.99px) { */
+
+ @media only screen and (max-width: 992px) {
 
      header img {
          margin-top: 0;
@@ -1430,8 +1433,8 @@
          display: block;
      }
 
-     #arthur hr,
-     #avalon hr {
+     #arthur header hr,
+     #avalon header hr {
          display: block;
          visibility: visible;
          max-width: 100%;
@@ -1571,8 +1574,9 @@
 
 
  /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
- @media only screen and (min-width: 576px) and (max-width: 767px) {
+ /* @media only screen and (min-width: 576px) and (max-width: 767px) { */
 
+ @media only screen and (max-width: 768px) {
 
      nav a,
      nav a .avalon {
@@ -1658,8 +1662,8 @@
          border-width: 6px;
      }
 
-     #arthur hr,
-     #avalon hr {
+     #arthur header hr,
+     #avalon header hr {
          display: block;
          visibility: visible;
          max-width: 90%;
@@ -1781,7 +1785,7 @@
 
 
  /*** MEDIA QUERY: MAX. 575.99px ***/
- @media only screen and (max-width: 575.99px) {
+ @media only screen and (max-width: 576px) {
 
      /*** NAVBAR ***/
      nav a,
