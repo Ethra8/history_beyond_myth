@@ -432,6 +432,34 @@ The site contains 4 pages, which have a fixed navigation on the top to allow the
 
 
 ## Defect Tracking 
+- Lighthouse Reports, by page:
+
+  * **HOME PAGE**
+    + Sept. 8th 2023  
+     
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
+
+  * **ARTHUR I**
+    + Sept. 8th 2023  
+
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/af170e8b-6fa4-4a35-8122-dff38386f54e)  
+    
+    + Documentation used to fix issue:  
+
+ 
+  * **AVALON**
+    + Sept. 8th 2023  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab74b4c0-11f1-40a2-b561-44c83bf6add7)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/48597dce-073a-4ebe-957d-ecf694caf8a7)
+
+    + Documentation used to fix issue:
+    - aria-* attributes do not match their roles - [https://dequeuniversity.com](https://dequeuniversity.com/rules/axe/4.7/aria-allowed-attr)
+
+    - Links do not have descriptive text - [https://developer.chrome.com](https://developer.chrome.com/docs/lighthouse/seo/link-text/?utm_source=lighthouse&utm_medium=devtools)
+
+    + SOLVED ISSUES:  
+
+  * **SIGN-UP**
 
 ## Defects of Note
 
