@@ -42,7 +42,7 @@ EDNA TORRES MUNILL
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
     * [Images](#images)
-    * [Animations & Transitions](#animations-&-transitions)
+    * [Animations and Transitions](#animations-and-transitions)
     * [Site Structure](#site-structure)
     * [Design Elements](#design-elements)
     * [Wireframes](#wireframes)
@@ -263,7 +263,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 - **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
-## Animations & Transitions  
+## Animations and Transitions  
 - **HOVER:**
   * ***Navigation Bar***:
    + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
