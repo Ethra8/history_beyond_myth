@@ -42,7 +42,7 @@ EDNA TORRES MUNILL
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
     * [Images](#images)
-    * [Animations](#animations)
+    * [Animations & Transitions](#animations-and-transitions)
     * [Site Structure](#site-structure)
     * [Design Elements](#design-elements)
     * [Wireframes](#wireframes)
