@@ -791,6 +791,7 @@
      font-weight: 500;
  }
 
+
  footer .fab,
  footer .fa {
      color: #F5F5F5;
@@ -2004,20 +2005,20 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #avalon section img,
-     #avalon section figure,
-     #avalon section iframe {
+     #avalon figure,
+     #avalon iframe {
          width: 100%;
          max-width: 300px;
-         margin: 20px auto;
+         margin: 20px auto 0;
          z-index: 1;
      }
 
      #avalon figcaption {
          position: relative;
          display: block;
-         width: fit-content;
-         /*negative margin to eliminite ugly gap between img and caption*/
-         margin: -24px auto 0;
+         width: unset;
+         /* min-width: max-content; */
+         margin: -5px auto 0;
          z-index: 2;
      }
 
