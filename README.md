@@ -41,7 +41,12 @@ EDNA TORRES MUNILL
     * [Typography](#typography)
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
-    * [Images](#images)
+    * [Imagery](#imagery)
+        + [Home Page](#home-page)
+        + [Arthur I Page](#arthur_I-page)
+        + [Avalon Page](#avalon-page)
+        + [Sign-up Page](#sign-up-page)
+        + [404 Error Page](#404-error-page)
     * [Animations and Transitions](#animations-and-transitions)
     * [Site Structure](#site-structure)
     * [Design Elements](#design-elements)
@@ -245,7 +250,7 @@ Includes the logo on the left.
     * [Portrait of King Richard "the Lionheart"](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r): Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
     * [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), found in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript *"Brief Abridgement of the Chronicles of England"* attributed to Matthew Paris, dated 1255-1259 kept in the British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
 
-### PAGE: ARTHUR I
+### ARTHUR I PAGE
 - **Header image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).
 - **Background image fixed on the left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 - **Screens of a minimum width of 1200px (desktops):**   
@@ -253,15 +258,11 @@ Includes the logo on the left.
     + [Arthur of Brittany doing homage to Philip Augustus](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The depiction shows Arthur I in his castle wearing a crown after Richard I's death, receiving Philip II of France. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. Original source and description is page ***f.361v*** of [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
     + Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
     
-- **Screens of a minimum width of 768px & max-width of 1199.99px (large tablets and small laptops):**
+- **Screens of a max. width of 991px (phones and portrait tablets):**
     + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
     + Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, as one of King Henry's sons, being Richard's younger brother, and Arthur's father.
-    + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
-    + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
-- **Screens of a maximum width of 767 px (phones and smaller tablets):**
-        + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
-        + Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
-        + Zoom-in of text belonging to the same page of the manuscript of the latter caption, naming Count Arthur as Arthur King of Brittany ("Arthus Rois de bretaigne"), referring to after King Richard's death.
+    + [Arthur of Brittany doing homage to Philip Augustus](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The depiction shows Arthur I in his castle wearing a crown after Richard I's death, receiving Philip II of France. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. Original source and description is page ***f.361v*** of [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
+    + Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
   
 - **PAGE: AVALON**
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
