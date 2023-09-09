@@ -537,9 +537,8 @@
 
  #arthur header,
  #avalon header {
-     padding: 140px 7% 40px;
+     padding: 120px 7% 40px;
      min-height: fit-content;
-     max-height: 14rem;
      background-color: #B30502;
      z-index: 900;
      display: flex;
@@ -659,7 +658,7 @@
      text-shadow: 0 0 20px rgb(29, 29, 29);
  }
 
- #arthur h2 {
+ #arthur>section h2 {
      line-height: 1.1;
      font-family: 'Jim Nightshade', cursive;
      color: rgba(243, 241, 241, 0.966);
@@ -850,7 +849,7 @@
      width: 100%;
  }
 
- #philip blockquote {
+ #arthur blockquote {
      margin: 10px;
  }
 
@@ -933,7 +932,6 @@
  }
 
  #avalon header {
-     max-height: 14rem;
      border-bottom-width: 1px;
  }
 
@@ -958,7 +956,7 @@
  }
 
  #avalon .black_transparency {
-     background-color: rgba(51, 51, 51, 0.7);
+     background-color: rgba(51, 51, 51, 0.4);
      padding: 7%;
      z-index: 300;
  }
@@ -993,7 +991,7 @@
      display: inline-flex;
  }
 
- #avalon h2 {
+ #avalon>section h2 {
      position: relative;
      display: inline-block;
      margin-left: 0;
@@ -1955,6 +1953,12 @@
          padding: 50px 30px;
      }
 
+     /*** FOOTER ***/
+
+     /* #contact_us .hidden {
+         display: none;
+     } */
+
      /*** ARTHUR ***/
      #arthur .arthur_circle {
          display: none;
@@ -2051,7 +2055,7 @@
      #avalon section img,
      #avalon section figure,
      #avalon section iframe {
-         width: 80%;
+         width: 100%;
          margin: 20px auto;
          z-index: 1;
      }
@@ -2059,8 +2063,8 @@
      #avalon figcaption {
          position: relative;
          display: block;
-         width: 76%;
-         min-width: 165px;
+         width: 89%;
+         /* min-width: 165px; */
          /*negative margin to position it right under img*/
          margin: -24px auto 0;
          z-index: 2;
