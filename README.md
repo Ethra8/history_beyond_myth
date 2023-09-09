@@ -60,6 +60,7 @@ EDNA TORRES MUNILL
         + [HTML Validation](#html-validation)
     * [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
     * [Manual Testing](#manual-testing)
+        + [Sign-up Form](#sign-up-form)
     * [Defect Tracking](#defect-tracking)
         + [Lighthouse Reports](#Lighthouse-reports)
     * [Defects of Note](#defects-of-note)
