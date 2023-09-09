@@ -136,7 +136,7 @@
  nav {
      background-color: #2e2e2e;
      z-index: 999;
-     padding: 15px 4% 0;
+     padding: 15px 4%;
      text-align: right;
      transition: top 0.5s;
      position: fixed;
@@ -201,14 +201,19 @@
      text-transform: uppercase;
      font-family: 'Metamorphous', cursive;
      font-size: 1rem;
+     font-weight: bold;
+
  }
 
- nav .active {
-     font-weight: bold;
- }
+
 
  nav a:hover {
      color: rgb(180, 180, 180);
+ }
+
+ nav>li>.active {
+     font-weight: bold;
+     color: #B30502;
  }
 
  nav .avalon {
@@ -241,13 +246,12 @@
      padding: 0;
      margin: 0;
      max-width: 100%;
-     height: 50px;
      display: flex;
      flex-direction: row;
      /* justify-content: space-evenly; */
      /* align-items: center; */
      justify-content: end;
-     align-items: right;
+     align-items: center;
      list-style-type: none;
  }
 
@@ -679,7 +683,7 @@
  }
 
  #arthur_genealogy.background_image {
-     background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 488px top fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 976px top -400px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 1464px top fixed repeat;
+     background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 488px top -400px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 976px top -600px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 1464px top fixed repeat;
      /* margin: 0; */
      overflow: hidden;
  }
@@ -703,7 +707,7 @@
      text-decoration: none;
  }
 
- #arthur .circle {
+ #arthur .arthur_circle {
      position: fixed;
      top: 310px;
      left: 160px;
@@ -717,6 +721,34 @@
      z-index: 700;
  }
 
+ #arthur .richard_circle {
+     position: fixed;
+     top: 285px;
+     left: 660px;
+     border-radius: 50%;
+     background-color: rgba(0, 0, 0, 0);
+     border-style: double;
+     border-width: 20px;
+     border-color: #2e2e2e;
+     height: 110px;
+     width: 110px;
+     z-index: 700;
+ }
+
+ #arthur .john_circle {
+     position: fixed;
+     top: 280px;
+     left: 1150px;
+     border-radius: 50%;
+     background-color: rgba(0, 0, 0, 0);
+     border-style: double;
+     border-width: 20px;
+     border-color: #2e2e2e;
+     height: 110px;
+     width: 110px;
+     z-index: 700;
+ }
+
  #arthur_genealogy {
      padding: 0 0 50px 30%;
  }
@@ -726,8 +758,8 @@
      z-index: 800;
      background-color: rgba(27, 27, 27, 0.95);
      /* rgba = #1B1B1B */
-     padding: 50px 12% 30px;
-     margin-bottom: 90px;
+     padding: 60px 12%;
+     margin-bottom: 120px;
  }
 
  .hidden_large_devices {
@@ -775,6 +807,8 @@
      border-radius: 6px;
      padding: 5px;
      min-width: 150px !important;
+     text-shadow: none;
+
  }
 
  #arthur_genealogy sup:hover .tooltiptext,
@@ -800,6 +834,11 @@
      width: 100%;
  }
 
+ #arthur .small_pictures {
+     display: flex;
+     flex-wrap: wrap;
+ }
+
  #richard,
  #geoffrey {
      display: none;
@@ -809,6 +848,10 @@
  #philip img,
  #arthur_kingOfBrittany img {
      width: 100%;
+ }
+
+ #philip blockquote {
+     margin: 10px;
  }
 
 
@@ -1407,7 +1450,7 @@
  /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
  /* @media only screen and (min-width: 768px) and (max-width: 991.99px) { */
 
- @media only screen and (max-width: 992px) {
+ @media only screen and (min-width:768px) and (max-width: 992px) {
 
      header img {
          margin-top: 0;
@@ -1475,19 +1518,12 @@
          visibility: hidden;
      }
 
+     figure#richard,
      figure#geoffrey {
          position: relative;
          display: inline-block;
          visibility: visible;
-         width: 49.6%;
-         margin: 40px 0;
-     }
-
-     figure#richard {
-         position: relative;
-         display: inline-block;
-         visibility: visible;
-         width: 48%;
+         width: 50%;
          margin: 40px 0;
      }
 
@@ -1589,7 +1625,7 @@
  /*** MEDIA QUERY: MIN. 576px - MAX. 767.99px ***/
  /* @media only screen and (min-width: 576px) and (max-width: 767px) { */
 
- @media only screen and (max-width: 768px) {
+ @media only screen and (min-width: 577px) and (max-width: 767px) {
 
      nav a,
      nav a .avalon {
@@ -1647,7 +1683,6 @@
      #avalon h1,
      #error404 h1 {
          font-size: 1.8rem;
-         /* padding-bottom: 20px; */
          text-align: center;
      }
 
@@ -1697,7 +1732,7 @@
          padding: 0 0 50px 15%;
      }
 
-     #arthur .circle {
+     #arthur .arthur_circle {
          display: none;
      }
 
@@ -1710,31 +1745,38 @@
          padding: 50px 12%;
      }
 
-     #henry_II,
-     #geoffrey {
+     #henry_II {
          display: none;
          visibility: hidden;
      }
 
-     figure#richard {
-         position: relative;
-         display: inline-block;
+     #arthur .small_pictures {
+         margin-left: -15px;
+         margin-right: -15px;
+
+     }
+
+     figure#richard,
+     figure#geoffrey {
+         /* position: relative;
+         display: block; */
          visibility: visible;
-         width: 100%;
+         /* width: 100%; */
          margin: 40px auto 0;
      }
 
-     #richard img {
-         width: 60%;
+     #richard img,
+     #geoffrey img {
+         width: 190px;
+         height: fit-content;
          margin: 0 auto;
          display: block;
-         margin-left: auto;
-         margin-right: auto;
      }
 
-     #richard figcaption {
+     #richard figcaption,
+     #geoffrey figcaption {
          display: block;
-         width: 57%;
+         width: 176px;
          margin-left: auto;
          margin-right: auto;
      }
@@ -1914,12 +1956,12 @@
      }
 
      /*** ARTHUR ***/
-     #arthur .circle {
+     #arthur .arthur_circle {
          display: none;
      }
 
      #arthur_genealogy.background_image {
-         background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') cover;
+         background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') top -160px left -15px fixed repeat;
      }
 
      .hidden_large_devices {
@@ -1943,30 +1985,34 @@
          visibility: hidden;
      }
 
-     figure#richard {
+     figure#richard,
+     figure#geoffrey {
          position: relative;
-         display: inline-block;
+         display: block;
          visibility: visible;
          width: 100%;
-         margin: 40px auto 0;
+         margin: 40px 0;
      }
 
-     #richard img {
-         width: 60%;
-         min-width: 180px;
+     #richard img,
+     #geoffrey img {
+         width: 190px;
+         max-width: 90%;
+         height: fit-content;
          margin: 0 auto;
          display: block;
+     }
+
+
+     #richard figcaption,
+     #geoffrey figcaption {
+         display: block;
+         width: 178px;
+         max-width: 83%;
          margin-left: auto;
          margin-right: auto;
      }
 
-     #richard figcaption {
-         display: block;
-         width: 57.5%;
-         min-width: 165px;
-         margin-left: auto;
-         margin-right: auto;
-     }
 
      /*** AVALON ***/
      #avalon .background_image {
