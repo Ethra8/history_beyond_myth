@@ -1680,7 +1680,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          visibility: visible;
          max-width: 90%;
          border-width: 6px;
-         margin-top: 5px;
      }
 
      .black_transparency {
@@ -1814,7 +1813,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #arthur header,
      #avalon header,
      #error404 header {
-         padding: 140px 15px 20px;
+         padding: 140px 0 20px;
          line-height: 1;
          max-height: fit-content;
          max-width: 100%;
@@ -1844,22 +1843,22 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #index h1 {
-         padding: 20px 0 25px;
-         font-size: 2.5rem;
+         padding: 20px 5% 25px;
+         font-size: 2rem;
      }
 
      #arthur h1,
      #avalon h1,
      #error404 h1 {
-         padding: 20px 25px;
-         font-size: 1.8rem;
+         padding: 20px 0 0;
+         font-size: 1.4rem;
          line-height: 1.2;
      }
 
      #arthur h1 span,
      #avalon h1 span,
      #error404 .capital {
-         font-size: 3.7rem;
+         font-size: 3rem;
      }
 
      #index header .capital {
@@ -1868,8 +1867,9 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      #index header .beyond,
      #error404 header .modern {
+         display: block;
          font-size: 3.5rem;
-         padding: 10px 30%;
+         padding: 10px 0;
      }
 
      #index header hr,
@@ -1884,7 +1884,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          visibility: visible;
          max-width: 90%;
          border-width: 5px;
-         margin-top: 0;
      }
 
      #index header p,
