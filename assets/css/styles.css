@@ -785,23 +785,17 @@
  footer #contact_us a {
      text-decoration: none;
      color: #F5F5F5;
-     font-size: 1.2rem;
-     display: inline-flex;
  }
 
  footer #contact_us a:hover {
      font-weight: 500;
  }
 
- footer ul {
-     list-style: none;
-     display: flex;
-     text-align: center;
- }
-
  footer .fab,
  footer .fa {
      color: #F5F5F5;
+     padding: 0 30px;
+     font-size: 30px;
  }
 
  footer .fab:hover,
@@ -813,11 +807,9 @@
  footer .social-media {
      display: flex;
      flex-wrap: wrap;
-     gap: 4rem;
      justify-content: center;
      align-items: center;
      padding: 0;
-     font-size: 1.7rem;
      margin: 0 0 0px;
  }
 
@@ -1220,8 +1212,7 @@
 
 
 
- /******* 404 ERROR *****/
-
+ /******* 404 ERROR PAGE*****/
  #error404 {
      background-color: #B30502;
  }
@@ -1232,7 +1223,7 @@
  }
 
 
- /*** MEDIA QUERY: MIN. 992px - MAX. 1199.99px ***/
+ /*** LARGER TABLETS ***/
  @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
 
@@ -1310,8 +1301,7 @@
 
  }
 
- /*** MEDIA QUERY: MIN. 768px - MAX. 991.99px ***/
-
+ /*** TABLETS ***/
  @media only screen and (min-width:768px) and (max-width: 991px) {
 
      header img {
@@ -1588,7 +1578,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
 
  /*** SMALL TABLETS / PORTRAIT TABLETS ***/
-
  @media only screen and (min-width: 577px) and (max-width: 767px) {
 
      nav a,
@@ -1919,6 +1908,11 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #contact_us .hidden {
          display: none;
      }
+
+     footer .social-media {
+         flex-direction: column;
+     }
+
 
      /*** ARTHUR ***/
      #arthur .arthur_circle {
