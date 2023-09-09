@@ -2007,6 +2007,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #avalon section figure,
      #avalon section iframe {
          width: 100%;
+         max-width: 300px;
          margin: 20px auto;
          z-index: 1;
      }
