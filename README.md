@@ -431,20 +431,20 @@ The site contains 4 pages, which have a fixed navigation on the top to allow the
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
 
 
-## Defect Tracking 
-- Lighthouse Reports, by page:
+## Defect Tracking  
+**LIGHTHOUSE** from *Chrome Dev tools* has been used to track defects. Lighthouse Reports, by page:
 
-  * **HOME PAGE**
-     + Sept. 8th 2023  
+  - **HOME PAGE**
+     * Sept. 8th 2023  
      
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
 
-  * **ARTHUR I**
-      + Sept. 8th 2023  
+  - **ARTHUR I**
+      * Sept. 8th 2023  
 
  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/af170e8b-6fa4-4a35-8122-dff38386f54e)  
     
-      + Documentation used to fix issue:  
+  + Documentation used to fix issue:  
 
  
   * **AVALON**
