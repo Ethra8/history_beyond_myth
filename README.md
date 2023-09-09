@@ -372,16 +372,16 @@ The site contains 4 pages, which have a fixed navigation on the top to allow the
 ## Compatibility and Responsive Testing
 
 ## Manual Testing
--  For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
+For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
 ### Sign-up Form
-  + **Required Fields**:  
+- Required Fields**:  
     1. First Name
     2. Last Name
     3. Email
-  + **Optional Fields**:  
-    4. *Do you like travelling and sight seeing?*  
-    5. *Want to share any findings?*  
+- Optional Fields:
+    1. Do you like travelling and sight seeing?
+    2. Want to share any findings?
   
     
   - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
