@@ -434,7 +434,7 @@ The site contains 4 pages, which have a fixed navigation on the top to allow the
 
 ## Defect Tracking  
 
-###**LIGHTHOUSE**  
+### LIGHTHOUSE REPORTS
 This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse Reports by page:
 
 - **HOME**
