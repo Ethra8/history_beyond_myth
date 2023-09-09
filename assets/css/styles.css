@@ -1917,9 +1917,9 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** FOOTER ***/
 
-     /* #contact_us .hidden {
+     #contact_us .hidden {
          display: none;
-     } */
+     }
 
      /*** ARTHUR ***/
      #arthur .arthur_circle {
