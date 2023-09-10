@@ -43,26 +43,26 @@ EDNA TORRES MUNILL
         + [Rationale of Use](#rationale-of-use)
     * [Imagery](#imagery)
         + [Hero Image](#hero-image)
-        + [Home Page Imagery](#home-page-imagery)
+        + [Home Page - Imagery](#home-page-imagery)
             1. [Home Page - Background Image](#home-page---background-image)
             2. [Home Page - Underneath the Header](#home-page---underneath-the-header)
-        + [Arthur I Page Imagery](#arthur-I-page-imagery)
+        + [Arthur I Page - Imagery](#arthur-I-page-imagery)
             1. [Arthur I Page - Header Image](#arthur-i-page---header-image)
             2. [Arthur I Page - Background Image](#arthur-i-page---background-image)
             3. [Section 1 - Heir to King Richard The Lionheart](#section-1---heir-to-king-richard-the-lionheart)
             4. [Section 2 - Retained by the King of France](#section-2---retained-by-the-king-france)
             5. [Section 3 - Death of King Richard I](#section-3---death-of-king-richard-i)
             6. [Section 4 - Two Kings One Throne](#section-4---two-kings-one-throne)
-        + [Avalon Page Imagery](#avalon-page-imagery)
+        + [Avalon Page - Imagery](#avalon-page-imagery)
             1. [Avalon - Header Image](#avalon---header-imagery)
             2. [Avalon - Background Image](#avalon---background-image)
             3. [Section 3 - The Value of Abalones](#section-3---the-value-of-abalones)
             4. [Section 4 - Medieval Jewelry](#section-4---medieval-jewelry)
             5. [Section 7 - Mists og Guernsey](#section-7---mists-of-guernsey)
-        + [Sign-up Page Imagery](#sign-up-page)
+        + [Sign-up Page - Imagery](#sign-up-page)
             1. [Sign-up Page - Background Image](#sign-up-page---background-image)
             2. [Events Section Imagery](#events-section-imagery)
-        + [404 Error Page Imagery](#404-error-page)
+        + [404 Error Page - Imagery](#404-error-page)
             1. [404 Error Page - Background Image](#404-error-page---background-image)
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
@@ -278,7 +278,7 @@ The hero image has been positioned at the centre just below the header of the la
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Philippe2+Arthur.jpg)
 
-### HOME PAGE IMAGERY
+### HOME PAGE - IMAGERY
 All the following images display in screens of all sizes:  
 
 #### HOME PAGE - BACKGROUND IMAGE
@@ -348,7 +348,7 @@ The image of this section is the **Hero Image**, which remains the same in all s
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
-### AVALON PAGE IMAGERY  
+### AVALON PAGE - IMAGERY  
 
 #### AVALON PAGE - HEADER IMAGE  
 The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:  
@@ -397,7 +397,7 @@ The image of this section remains the same in all screen sizes, adapting its wid
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)   
 
-### SIGN-UP PAGE IMAGERY  
+### SIGN-UP PAGE - IMAGERY  
 #### SIGN-UP PAGE - BACKGROUND IMAGE  
 The image of this section remains the same in all screen sizes, but in different sizes, bringing responsiveness  to the site.
 - [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:  
@@ -406,13 +406,13 @@ The image of this section remains the same in all screen sizes, but in different
     * **PHONES** (max. size of 576px): 640px width, 426 height    
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)  
 
-#### EVENTS SECTION IMAGERY  
+#### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/medium-shot-man-posing-as-medieval-soldier.avif)
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
-### 404 ERROR PAGE IMAGERY  
+### 404 ERROR PAGE - IMAGERY  
 #### 404 ERROR PAGE - BACKGROUND IMAGE  
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
