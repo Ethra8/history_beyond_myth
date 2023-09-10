@@ -47,9 +47,9 @@ EDNA TORRES MUNILL
             1. [Home Page - Background Image](#home-page---background-image)
             2. [Home Page - Underneath the Header](#home-page---underneath-the-header)
         + [Arthur I Page Imagery](#arthur-I-page-imagery)
-            1. [Arthur I Page- Header Image](#arthur-i---header)
-            2. [Arthur I Page - Background Image](#arthur-i---background-image)
-            3. [Section 1 - Heir to King Richard I The Lionheart](#section-1---heir-to-king-richard-i-the-lionheart)
+            1. [Arthur I Page - Header Image](#arthur-i-page---header-image)
+            2. [Arthur I Page - Background Image](#arthur-i-page---background-image)
+            3. [Section 1 - Heir to King Richard The Lionheart](#section-1---heir-to-king-richard-the-lionheart)
             4. [Section 2 - Retained by the King of France](#section-2---retained-by-the-king-france)
             5. [Section 3 - Death of King Richard I](#section-3---death-of-king-richard-i)
             6. [Section 4 - Two Kings One Throne](#section-4---two-kings-one-throne)
@@ -344,47 +344,46 @@ The image of this section is the **Hero Image**, which remains the same in all s
   
 ### AVALON PAGE IMAGERY  
 #### AVALON PAGE - HEADER IMAGE  
-The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:
-- [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
-
-![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)
+The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:  
+- [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
     * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
         + **LAPTOPS**  
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a59a001b-1a14-4628-8d8c-aff8e3214d96)  
-        + **TABLETS**
+        + **TABLETS**  
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/58b477db-5f0c-4238-8181-42c8df7a2af9)  
     * **PHONES** (max. 576 px width): 130px width, 143px height  
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
 
 #### AVALON PAGE - BACKGROUND IMAGE  
-[Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:
-- **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
-- **PHONES** (max. size of 576px): 600px width, 1228 height  
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)
+[Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:  
+- **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height  
+- **PHONES** (max. size of 576px): 600px width, 1228 height   
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)  
 
 #### SECTION 3 - THE VALUE OF ABALONES  
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
-![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)  
 
 #### SECTION 4 - MEDIEVAL JEWELRY  
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
-- [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)  
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)  
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
+- [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)   
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)   
 
 #### SECTION 7 - MISTS OF GUERNSEY  
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)   
 
 ### SIGN-UP PAGE IMAGERY  
 #### SIGN-UP PAGE - BACKGROUND IMAGE  
 The image of this section remains the same in all screen sizes, but in different sizes, bringing responsiveness  to the site.
-- [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:
-    * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height
-    * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height
-    * **PHONES** (max. size of 576px): 640px width, 426 height   
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)
+- [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:  
+    * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height  
+    * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height  
+    * **PHONES** (max. size of 576px): 640px width, 426 height    
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)  
 
 #### EVENTS SECTION IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
