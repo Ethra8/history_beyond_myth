@@ -324,7 +324,7 @@ Find the images displayed in this page, depending on the screen size:
     * **PHONES** (max. size of 576px): 600px width, 1228 height  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)
 
-- **Section 3: The Value of Abalones**
+#### Section 3: The Value of Abalones
     * [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)
 - **Section 4: Medieval Jewelry**
