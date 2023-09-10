@@ -43,24 +43,26 @@ EDNA TORRES MUNILL
         + [Rationale of Use](#rationale-of-use)
     * [Imagery](#imagery)
         + [Home Page](#home-page)
-            1. [Background Image](#background-image)
+            1. [Background Image](#imagery/home-page/background-image)
             2. [Underneath the Header](#underneath-the-header)
         + [Arthur I Page](#arthur-I-page)
-            1. [Header](#header)
-            2. [Background Image](#background-image)
+            1. [Header Arthur I](#header-arthur-i)
+            2. [Background Image Arthur I](#background-image-arthur-i)
             3. [Section 1 Heir to King Richard I The Lionheart](#section-1-heir-to-king-richard-i-the-lionheart)
-            4. [Section 2 
+            4. [Section 2 Retained by the King of France](#section-2-retained-by-the-king-france)
+            5. [Section 3 Death of King Richard I](#death-of-king-richard-i)
+            6. [Section 4 Two Kings One Throne](#two-kings-one-throne)
         + [Avalon Page](#avalon-page)
-            1. [Header](#header)
-            2. [Background Image](#background-image)
+            1. [Header Avalon](#header)
+            2. [Background Image avalon](#background-image)
             3. [Section 3 The Value of Abalones](#section-3-the-value-of-abalones)
             4. [Section 4 Medieval Jewelry](#medieval-jewelry)
             5. [Section 7 Mists og Guernsey](#mists-of-guernsey)
         + [Sign-up Page](#sign-up-page)
-            1. [Background Image](#background-image)
+            1. [Background Image Sign-up](#background-image-sign-up)
             2. [Events Section](#events-section)
         + [404 Error Page](#404-error-page)
-            1. [Background Image](#background-image)
+            1. [Background Image 404](#background-image-404)
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
         + [Transitions](#transitions)
@@ -278,7 +280,7 @@ The hero image has been positioned at the centre just below the header of the la
 ### HOME PAGE
 All the following images display in screens of all sizes:  
 
-#### BACKGROUND IMAGE  
+#### BACKGROUND
 Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
@@ -302,7 +304,7 @@ all related to the Arthurian mythos, and taken from digitalised medieval manuscr
 ### ARTHUR I PAGE
 Find the images displayed in this page, depending on the screen size:  
 
-#### Header
+#### HEATHER ARTHUR I
 Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
@@ -311,7 +313,7 @@ Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, r
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
 
-#### Background Image
+#### BACKGROUND IMAGE ARTHUR I
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
@@ -340,7 +342,7 @@ The image of this section is the **Hero Image**, which remains the same in all s
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
 ### AVALON PAGE
-#### HEADER
+#### HEADER AVALON
 The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Eventhough the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
 
@@ -353,7 +355,7 @@ The image on the header changes slightly depending on the size of the screen, to
     * **PHONES** (max. 576 px width): 130px width, 143px height  
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)
 
-#### BACKGROUND IMAGE
+#### BACKGROUND IMAGE AVALON
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:
 - **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
 - **PHONES** (max. size of 576px): 600px width, 1228 height  
@@ -375,7 +377,7 @@ The image of this section remains the same in all screen sizes, adapting its wid
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)  
 
 ### SIGN-UP PAGE
-#### BACKGROUND IMAGE
+#### BACKGROUND IMAGE SIGN-UP
 The image of this section remains the same in all screen sizes, but in different sizes, bringing responsinevess to the site.
 - [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:
     * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height
@@ -390,24 +392,29 @@ The images of this section remain the same in all screen sizes, adapting its wid
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
 ### 404 ERROR PAGE
-#### BACKGROUND IMAGE
+#### BACKGROUND IMAGE 404
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
 ## Animations and Transitions  
 
-### HOVER:
-- **Navigation Bar**:
-    + ***Link to other pages***: As the user hovers through the  pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
+### HOVER
+#### Navigation Bar
+- ***Links to other pages***: As the user hovers through the names of the other pages links, the color of the fonts turn from *whitesmoke* *#F3F1F1* to *#D6D6D6*, a light grey shade:  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d7fd75e-cd18-4321-9a92-3dda6f3ca9b6)
 
-    + ***sign-up anchor***: As the user hovers through the link to the sign-up page, which is styled as a button, its background color turns from *#D6D6D6* into *whitesmoke*:
+- ***Sign-up link***: It's styled as a button, and as the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
- 
-- **Sign-up Form Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
+
+#### Sign-up Page
+- **Sign-up Form**
+    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
+
+#### Media Icons
+Included in the *Fotter*, icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
 ### TRANSITIONS
 - **Navigation Bar**: Has a slight transition of top 0.5 seconds,  so that 
