@@ -42,9 +42,10 @@ EDNA TORRES MUNILL
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
     * [Imagery](#imagery)
-        + [Home Page](#home-page)
-            1. [Background Image](#imagery/home-page/background-image)
-            2. [Underneath the Header](#underneath-the-header)
+        + [Hero Image](#hero-image)
+        + [Home Page Imagery](#home-page-imagery)
+            1. [Home Page: Background Image](#home-page--background-image)
+            2. [HOme Page: Underneath the Header](#underneath-the-header)
         + [Arthur I Page](#arthur-I-page)
             1. [Header Arthur I](#header-arthur-i)
             2. [Background Image Arthur I](#background-image-arthur-i)
@@ -269,7 +270,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
   <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
 
 
-## Imagery
+## IMAGERY
 Find below all the images used in this site, with a description and a link to their original source. The images have been listed by pages, and different devices' screen-size. Aiming at an effective responsiveness, sometimes different images show depending on the size of the device, as follows:
 
 ### HERO IMAGE
@@ -280,11 +281,11 @@ The hero image has been positioned at the centre just below the header of the la
 ### HOME PAGE
 All the following images display in screens of all sizes:  
 
-#### BACKGROUND
+#### HOME PAGE: BACKGROUND IMAGE
 Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
-#### UNDERNEATH THE HEADER
+#### HOME PAGE: UNDERNEATH THE HEADER
 all related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
 1. Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
 2. Early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris, from his work *Historiae Anglorum*. Original source is manuscript *Cotton MS Claudius D VI*, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
