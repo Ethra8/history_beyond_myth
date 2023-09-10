@@ -436,23 +436,28 @@ For any scenarios that have not been automated, tested the user stories and feat
 
 ## Defect Tracking  
 
+### GITHUB ISSUES
+This website has been coded mostly by fixing the upcoming defects I encountered on the go. Nevertheless, I have created some *Github Issues* lately, as to reflect the kind of bugs that come up on a daily basis, and how I solved them:
+- DEFECT: Figcaption do not adapt size as img changes in screens smaller than 576px
+- DEFECT: Images sizing much too big, not seamless
+- DEFECT: Media icons on footer do not display seamlessly in screens less than 320px
+- DEFECT: Screen smaller than 283px , h1 span exceeding screen width
+- DEFECT: display in screens less than 274px, content overflows screen
+
 ### LIGHTHOUSE REPORTS
 This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse Reports by page:
 
 - **HOME**
-     * Sept. 8th 2023  
-     
+    * Sept. 8th 2023  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
-
 - **ARTHUR I**
-      * **Sept. 8th 2023**:  
-
+    * Sept. 8th 2023:  
  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/af170e8b-6fa4-4a35-8122-dff38386f54e)  
           + ***Documentation used to fix issue:***
 
  
 - **AVALON**
-      * **Sept. 8th 2023**  
+    * **Sept. 8th 2023**  
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8f124bfb-658b-40eb-ad92-5424ec79b07e)
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/93d8baef-2718-4f4e-a91b-29e427f975cd)
 
