@@ -177,7 +177,7 @@ You will find in the points stated below a brief study aiming at providing the u
 
 5. Alice and Marc are a couple that enjoy social gatherings, and all types of cultural events.
 
-6. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arturian mythos.
+6. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arthurian mythos.
 
 # DESIGN CHOICES
 
