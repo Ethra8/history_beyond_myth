@@ -1,4 +1,4 @@
-**HISTORY BEYOND MYTH**
+# HISTORY BEYOND MYTH
 
 ## Project Overview
 - History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle. The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
