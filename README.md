@@ -341,18 +341,21 @@ The hero image has been positioned at the centre just below the header of the la
     + ***sign-up anchor***: As the user hovers through the link to the sign-up page, which is styled as a button, its background color turns from *#D6D6D6* into *whitesmoke*:
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
  
-- **Sign-up Form Button**: Styled the same as the *sign-up* link on the navifgation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
+- **Sign-up Form Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
 
 ### TRANSITIONS
-- **Navigation Bar**: Has a slight transition of top 0.5 seconds
-  * **Link to Sign-up Page**
+- **Navigation Bar**: Has a slight transition of top 0.5 seconds,  so that 
+  * **Link to Sign-up Page** - *transition: all 0.5s linear;* when user hovers, the background color changes less abruptly, improving the visuals and user experience: [watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83)
+
   * **Collapsed**: Has the following transitions to improve visuals and user experience:
     + ***transition: height .3s linear*** - Gives more elegance when collapsed navbar is toggled to uncollapse, as items display in a softer way downwards:
-[!video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec)
-    + ***transition: all .7s linear***: Gives a slight fade in effect to items in navbar when toggled to collapse or uncollapse.
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
+[watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec)
+    + ***transition: all .7s linear***:  so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
+[watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3)
+    + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less ubruptly
+
 
 
 
