@@ -9,9 +9,8 @@
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages. Visits to sites related to the curious coincidences stated in the site will also be organized periodically.
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
-- Responsive images of the site automatically generated through [ui.dev/amiresponsive](https://ui.dev/amiresponsive). The tool is interactive, and you can can view all pages in all screen sizes simultaneously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
 
-**NOTE**: *I customized defect background-color attribute from amiresponsive site from black to whitesmoke, as my website is mostly in dark tones. I did it by changing the elements of the page, more precisely **class="bg-brand-coal"**.*
+**NOTE**: *Responsive images of the site automatically generated through [ui.dev/amiresponsive](https://ui.dev/amiresponsive). The tool is interactive, and you can can view all pages in all screen sizes simultaneously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html). I customized defect background-color attribute from amiresponsive site from black to whitesmoke, as my website is mostly in dark tones. I did it by changing the elements of the page, more precisely **class="bg-brand-coal"**.*
 
 ## Live Site
 - You can view the deployed site [here](https://englishgrows.com/History_Beyond_Myth/index.html)
