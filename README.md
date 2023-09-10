@@ -294,8 +294,8 @@ The hero image has been positioned at the centre just below the header of the la
   + ***Hero Image***
 
   + Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a93e193c-e7a8-42ab-badc-8adf9cf5baef)
   
-
 ### AVALON PAGE
 - **Header Image**
   + [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
@@ -349,6 +349,7 @@ States the curious coincidences found between the legendary King Arthur, and the
 2. **Retained by the King of France**
 3. **Death of King Richard I**
 4. **Two Kings, One Throne**
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
 ### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html)  
 States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
@@ -359,6 +360,7 @@ States the curious coincidences found between the legendary Island of Avalon, an
 5. **Abalones, the Sea Truffles**: This section aims to provide the reader with more detailed evidence and referrence of what was previously stated in the section "the Value of Abalones". As abalones are still very much valued as a luxury product nowadays, considered the sea truffles by the French, a *Youtube* video has been included showing [Michellin double starred chef preparing and cooking abalones](https://youtu.be/o5VPONMX19Q) in his restaurant.
 6. **Strategic Location**: This section has an interactive map from *Google Maps* showing the exact location of the Island of Guernsey, half-way from Brittany and south Wales.
 7. **Mists of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mists sorrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island inmersed into profound mists.
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
 
 ### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html)  
 This page contains the following:
@@ -366,6 +368,7 @@ This page contains the following:
 - **Events Section**: PLaced on the top-left side of large devices such as laptops, and after the form in smaller devices such as tablets or phones. This section contains two subsections:
     * **Social Events**: Brief description of the events that the user will be informed of, after deciding to sign-up.
     * **Sight Seeing**: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
 
 ### [404 ERROR PAGE](https://englishgrows.com/history_beyond_myth/404.html) 
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible fustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
