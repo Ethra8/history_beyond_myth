@@ -309,9 +309,11 @@ Find the images displayed in this page, depending on the screen size:
 Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany_150x175px.avif)  
 
   * **PHONES** (max. 576 px width): 130px width, 143px height  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
 
 #### ARTHUR I PAGE - BACKGROUND IMAGE
@@ -323,13 +325,16 @@ Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of E
 The images of this section change, depending on the size of the screen, as follows:
 
 - **DESKTOPS**  (min. width of 1200px):   
-    1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
+  1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)  
 
 - **PORTRAIT TABLETS AND PHONES** (max. width of 991px):  
-    1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
+  1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
-    2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
+
+  2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
     
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
@@ -340,26 +345,42 @@ The image of this section is the **Hero Image**, which remains the same in all s
 
 #### SECTION 4 - TWO KINGS ONE THRONE  
 - **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
 ### AVALON PAGE IMAGERY  
+
 #### AVALON PAGE - HEADER IMAGE  
 The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:  
+
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
-    * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
-        + **LAPTOPS**  
+
+  * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
+      + **LAPTOPS**  
+      
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a59a001b-1a14-4628-8d8c-aff8e3214d96)  
-        + **TABLETS**  
+
+      + **TABLETS**  
+     
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/58b477db-5f0c-4238-8181-42c8df7a2af9)  
-    * **PHONES** (max. 576 px width): 130px width, 143px height  
+
+  * **PHONES** (max. 576 px width): 130px width, 143px height  
+
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
 
 #### AVALON PAGE - BACKGROUND IMAGE  
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:  
-- **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height  
+
+- **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
+
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/16f2aa9b-dc10-4980-8378-dc647114723e)  
+
 - **PHONES** (max. size of 576px): 600px width, 1228 height   
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)  
+
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b5ab9c93-b667-4001-8fd1-4195cc6f5e55)
+
 
 #### SECTION 3 - THE VALUE OF ABALONES  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
