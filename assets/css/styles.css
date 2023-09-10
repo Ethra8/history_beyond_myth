@@ -939,7 +939,7 @@
 
  #sign_up header {
      text-align: center;
-     padding: 140px 7% 0;
+     padding: 120px 7% 30px;
      min-height: 5rem;
      max-height: 12rem;
      background-color: #B30502;
@@ -1515,7 +1515,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          height: 40px;
          font-size: 18px;
          /* background: #dbdbdb; */
-         transition: all .1s linear;
+         transition: all 1s linear;
      }
 
      #menuToggle:checked~ul.nav-item li {
@@ -2023,6 +2023,10 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      /*** SIGN-UP ***/
+     #sign_up h1 {
+         font-size: 1.2rem;
+     }
+
      #sign_up .bg_img {
          background: url('../images/castle-4509080_640.jpg') left 0 top 20px cover;
      }
