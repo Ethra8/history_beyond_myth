@@ -45,25 +45,25 @@ EDNA TORRES MUNILL
         + [Hero Image](#hero-image)
         + [Home Page Imagery](#home-page-imagery)
             1. [Home Page - Background Image](#home-page---background-image)
-            2. [HOme Page: Underneath the Header](#underneath-the-header)
-        + [Arthur I Page](#arthur-I-page)
-            1. [Header Arthur I](#header-arthur-i)
-            2. [Background Image Arthur I](#background-image-arthur-i)
-            3. [Section 1 Heir to King Richard I The Lionheart](#section-1-heir-to-king-richard-i-the-lionheart)
-            4. [Section 2 Retained by the King of France](#section-2-retained-by-the-king-france)
-            5. [Section 3 Death of King Richard I](#death-of-king-richard-i)
-            6. [Section 4 Two Kings One Throne](#two-kings-one-throne)
-        + [Avalon Page](#avalon-page)
-            1. [Header Avalon](#header)
-            2. [Background Image avalon](#background-image)
-            3. [Section 3 The Value of Abalones](#section-3-the-value-of-abalones)
-            4. [Section 4 Medieval Jewelry](#medieval-jewelry)
-            5. [Section 7 Mists og Guernsey](#mists-of-guernsey)
-        + [Sign-up Page](#sign-up-page)
-            1. [Background Image Sign-up](#background-image-sign-up)
-            2. [Events Section](#events-section)
-        + [404 Error Page](#404-error-page)
-            1. [Background Image 404](#background-image-404)
+            2. [Home Page - Underneath the Header](#home-page---underneath-the-header)
+        + [Arthur I Page Imagery](#arthur-I-page-imagery)
+            1. [Arthur I - Header Image](#arthur-i---header)
+            2. [Arthur I - Background Image](#arthur-i---background-image)
+            3. [Section 1 - Heir to King Richard I The Lionheart](#section-1---heir-to-king-richard-i-the-lionheart)
+            4. [Section 2 - Retained by the King of France](#section-2---retained-by-the-king-france)
+            5. [Section 3 - Death of King Richard I](#section-3---death-of-king-richard-i)
+            6. [Section 4 - Two Kings One Throne](#section-4---two-kings-one-throne)
+        + [Avalon Page Imagery](#avalon-page-imagery)
+            1. [Avalon - Header Image](#avalon---header-imagery)
+            2. [Avalon - Background Image](#avalon---background-image)
+            3. [Section 3 - The Value of Abalones](#section-3---the-value-of-abalones)
+            4. [Section 4 - Medieval Jewelry](#section-4---medieval-jewelry)
+            5. [Section 7 - Mists og Guernsey](#section-7---mists-of-guernsey)
+        + [Sign-up Page Imagery](#sign-up-page)
+            1. [Sign-up Page - Background Image](#sign-up-page---background-image)
+            2. [Events Section Imagery](#events-section-imagery)
+        + [404 Error Page Imagery](#404-error-page)
+            1. [404 Error Page - Background Image](#404-error-page---background-image)
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
         + [Transitions](#transitions)
@@ -278,7 +278,7 @@ The hero image has been positioned at the centre just below the header of the la
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Philippe2+Arthur.jpg)
 
-### HOME PAGE
+### HOME PAGE IMAGERY
 All the following images display in screens of all sizes:  
 
 #### HOME PAGE - BACKGROUND IMAGE
@@ -302,10 +302,10 @@ all related to the Arthurian mythos, and taken from digitalised medieval manuscr
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d820d077-e677-452c-b70a-844ae2133ad6)
 
 
-### ARTHUR I PAGE
+### ARTHUR I PAGE - IMAGERY
 Find the images displayed in this page, depending on the screen size:  
 
-#### HEATHER ARTHUR I
+#### ARTHUR I PAGE - HEADER IMAGE
 Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
@@ -314,12 +314,12 @@ Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, r
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
 
-#### BACKGROUND IMAGE ARTHUR I
+#### ARTHUR I PAGE - BACKGROUND IMAGE
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
 
-#### SECTION 1 HEIR TO KING RICHARD THE LIONHEART
+#### SECTION 1 - HEIR TO KING RICHARD THE LIONHEART
 The images of this section change, depending on the size of the screen, as follows:
 
 - **DESKTOPS**  (min. width of 1200px):   
@@ -332,18 +332,18 @@ The images of this section change, depending on the size of the screen, as follo
     2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
     
-#### SECTION 2 RETAINED BY THE KING OF FRANCE    
+#### SECTION 2 - RETAINED BY THE KING OF FRANCE    
 
 
-#### SECTION 3 DEATH OF KING RICHARD I
+#### SECTION 3 - DEATH OF KING RICHARD I
 The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 
-#### SECTION 4 TWO KINGS ONE THRONE
+#### SECTION 4 - TWO KINGS ONE THRONE
 - **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
-### AVALON PAGE
-#### HEADER AVALON
+### AVALON PAGE IMAGERY
+#### AVALON PAGE - HEADER IMAGE
 The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
 
@@ -356,29 +356,29 @@ The image on the header changes slightly depending on the size of the screen, to
     * **PHONES** (max. 576 px width): 130px width, 143px height  
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)
 
-#### BACKGROUND IMAGE AVALON
+#### AVALON PAGE - BACKGROUND IMAGE
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:
 - **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
 - **PHONES** (max. size of 576px): 600px width, 1228 height  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)
 
-#### SECTION 3 THE VALUE OF ABALONES
+#### SECTION 3 - THE VALUE OF ABALONES
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)
 
-#### SECTION 4 MEDIEVAL JEWELRY
+#### SECTION 4 - MEDIEVAL JEWELRY
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)  
 
-#### SECTION 7 MISTS OF GUERNSEY
+#### SECTION 7 - MISTS OF GUERNSEY
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)  
 
-### SIGN-UP PAGE
-#### BACKGROUND IMAGE SIGN-UP
+### SIGN-UP PAGE IMAGERY
+#### SIGN-UP PAGE - BACKGROUND IMAGE
 The image of this section remains the same in all screen sizes, but in different sizes, bringing responsiveness  to the site.
 - [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:
     * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height
@@ -386,14 +386,14 @@ The image of this section remains the same in all screen sizes, but in different
     * **PHONES** (max. size of 576px): 640px width, 426 height   
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)
 
-#### EVENTS SECTION
+#### EVENTS SECTION IMAGERY
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/medium-shot-man-posing-as-medieval-soldier.avif)
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
-### 404 ERROR PAGE
-#### BACKGROUND IMAGE 404
+### 404 ERROR PAGE IMAGERY
+#### 404 ERROR PAGE - BACKGROUND IMAGE
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
