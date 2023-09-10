@@ -347,10 +347,11 @@ The hero image has been positioned at the centre just below the header of the la
 
 ### TRANSITIONS
 - **Navigation Bar**: Has a slight transition of top 0.5 seconds
-  * ***Collapsed***: Has the following transitions to improve visuals and user experience:
-    + **transition: height .3s linear** - Gives more elegance when collapsed navbar is toggled to uncollapse, as items display in a softer way downwards:
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
-    + **transition: all .7s linear**: Gives a slight fade in effect to items in navbar when toggled to collapse or uncollapse.
+  * **Link to Sign-up Page**
+  * **Collapsed**: Has the following transitions to improve visuals and user experience:
+    + ***transition: height .3s linear*** - Gives more elegance when collapsed navbar is toggled to uncollapse, as items display in a softer way downwards:
+[!video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec)
+    + ***transition: all .7s linear***: Gives a slight fade in effect to items in navbar when toggled to collapse or uncollapse.
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
 
 
