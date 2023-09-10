@@ -67,6 +67,7 @@ EDNA TORRES MUNILL
     * [Manual Testing](#manual-testing)
         + [Sign-up Form](#sign-up-form)
     * [Defect Tracking](#defect-tracking)
+        + [Github Issues](#github-issues)
         + [Lighthouse Reports](#Lighthouse-reports)
     * [Defects of Note](#defects-of-note)
     * [Outstanding Defects](#outstanding-defects)
