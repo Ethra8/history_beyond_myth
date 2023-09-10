@@ -32,6 +32,7 @@
 
 <body>
 
+    <!-- NAVIGATION BAR -->
     <nav id="nav">
         <a href="./index.html" aria-label="go to home page">
             <img id="logo1" src="./assets/favicon/android-chrome-192x192.png" alt="logo"
@@ -66,6 +67,7 @@
 
     <div id="arthur">
 
+        <!-- HEADER -->
         <header>
             <div class="image"></div>
             <div class="left">
@@ -90,42 +92,38 @@
             </div>
         </header>
 
+
+        <!-- STYLED AS A FIXED BUTTON ON THE LEFT BOTTOM SIDE OF THE SCREEN, USERS CAN CLICK TO VISIT BRITISH LIBRARY'S FULL DIGITALIZED MEMBRANE -->
         <div title="Go to full manuscript, via National British Library (Royal MS 14 B VI, f.006v)"
             id="go_to_MS_14B_VI_f006v">
-
             <a title="Click button to see full manuscript, via National British Library (Royal MS 14 B VI, f.006v)"
                 href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Click to see full manuscript, via National British Library (Royal MS 14 B VI, f.006v)">GO TO
                 MANUSCRIPT </a>
-
         </div>
 
+        <!-- FIXED TRANSPARENT DIVS STYLED AS CIRCLES with double back large border, SORROUNDING THE CHARACTERS ON TH BACKGROUND MEMBRANE, so users can identify them directly on the membrane, and are linked to the original manuscript membrane on the British Library -->
         <a href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
             rel="noopener noreferrer" aria-label="go to digitalized manuscript on the British Library website">
-            <div class="arthur_circle" title="Count Arthur I of Brittany">
-
-            </div>
+            <div class="arthur_circle" title="Count Arthur I of Brittany"></div>
         </a>
+
         <a href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
             rel="noopener noreferrer" aria-label="go to digitalized manuscript on the British Library website">
-            <div class="richard_circle" title="King Richard the Lionheart">
-
-            </div>
+            <div class="richard_circle" title="King Richard the Lionheart"></div>
         </a>
+
         <a href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
             rel="noopener noreferrer" aria-label="go to digitalized manuscript on the British Library website">
-            <div class="john_circle" title="King John the Lackland">
-
-            </div>
+            <div class="john_circle" title="King John the Lackland"></div>
         </a>
 
-
-        <!-- BACKGROUND FIXED IMAGE -->
+        <!-- BACKGROUND FIXED IMAGE class="background_image" -->
+        <!-- Black transparency applied to direct child sections of id=arthur_genealogy -->
         <div id="arthur_genealogy" class="background_image">
-            <!-- Black transparency applied to direct child sections of id=arthur_genealogy -->
 
-            <!-- HEIR TO KING RICHARD I THE LIONHEART -->
+            <!-- SECTION: HEIR TO KING RICHARD I THE LIONHEART -->
             <section>
                 <h2><span>H</span>eir to King Richard I "The Lionheart"</h2>
                 <p>Arthur was the postumous son, and only heir, of Count Geoffrey II of Brittany, 4<sup>th</sup>
@@ -141,7 +139,7 @@
                                 I</span></sup></a>.
                 </p>
                 <br><br>
-                <!-- text in <em> is hidden on devices >1025px because same explanation is in following figure id="henry_II" -->
+                <!-- text in class="hidden_large_devices" is hidden on devices >1025px because same explanation is in following figure id="henry_II", but which does not display on smaller devices -->
                 <div class="hidden_large_devices">
                     <p><small>Fixed background image: 6<sup>th</sup> membrane
                             <!-- TOOLTIP 1b -->
@@ -183,8 +181,9 @@
                     </figcaption>
                 </figure>
 
-                <div class="small_pictures" style="display: flex; flex-wrap: wrap;">
-                    <!-- FIGURE: RICHARD I -> max.width: 1024px -->
+                <!-- class="small_pictures" is display:flex, flex-wrap:wrap to give nice automatic display display-->
+                <div class="small_pictures">
+                    <!-- FIGURE: RICHARD I -> max.width: 991px -->
                     <figure id="richard" title="Click to go to digitalized manuscript on the British Library website">
                         <!-- img + link to source-->
                         <a href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
@@ -198,7 +197,7 @@
 
                     </figure>
 
-                    <!-- FIGURE: COUNT GEOFFREY II OF BRITTANY -> min.width:992px & max.width: 1199.99px -->
+                    <!-- FIGURE: COUNT GEOFFREY II OF BRITTANY -> max.width: 991px -->
                     <figure id="geoffrey">
                         <!-- img + link to source-->
                         <a href="https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r" target="_blank"
@@ -213,11 +212,10 @@
                     </figure>
                 </div>
 
-
-
             </section>
 
-            <!-- RETAINED BY THE KING OF FRANCE -->
+
+            <!-- SECTION: RETAINED BY THE KING OF FRANCE -->
             <section>
                 <h2><span>R</span>etained by the King of France</h2>
                 <p> In 1196, Arthur's mother Constance Duchess of Brittany had the young Arthur proclaimed Duke of
@@ -250,7 +248,8 @@
                 </p>
             </section>
 
-            <!-- DEATH OF KING RICHARD I -->
+
+            <!-- SECTION: DEATH OF KING RICHARD I -->
             <section>
                 <h2><span>D</span>eath of King Richard I</h2>
                 <p>In 1199, King Richard "the Lionheart" died of gangrene aged 42. Apart from being King of England,
@@ -296,7 +295,8 @@
                 </div>
             </section>
 
-            <!-- TWO KINGS, ONE THRONE -->
+
+            <!--SECTION: TWO KINGS, ONE THRONE -->
             <section>
                 <h2><span>T</span>wo Kings, One Throne</h2>
                 <p>WHATEVER WHATEVER AH WHATEVER WHATEVER AH AH WHATEVER WHATEVER AH AH
@@ -306,7 +306,7 @@
                     WHATEVER AH AH WHATEVER WHATEVER AH AH WHATEVER WHATEVER AH AH WHATEVER WHATEVER AH AH WHATEVER
                     WHATEVER AH
                 </p>
-                <!-- FIGURE: EXTRACT FROM LES GRANDES CHRONIQUES DE FRANCE, WHERE ARTHUR IS NAMED KING OF BRITTANY AFTER RICHARD'S DEATH -->
+                <!-- FIGURE: width:100%, EXTRACT FROM LES GRANDES CHRONIQUES DE FRANCE, WHERE ARTHUR IS NAMED KING OF BRITTANY AFTER RICHARD'S DEATH -->
                 <div>
                     <figure id="arthur_kingOfBrittany">
                         <!-- img + link to source-->
@@ -344,7 +344,7 @@
                 <p> info@historybeyondmyth.com</p>
             </a>
         </div>
-
+        <!--  class="social-media" is display:flex, and flex-direction:column in smaller devices to givee better layout-->
         <div class="social-media">
             <div>
                 <p><a title="Go to our Instagram page in a new tab" href="https://www.instagram.com/" target="_blank"
@@ -373,8 +373,6 @@
     <script src="https://kit.fontawesome.com/d7e085205b.js" crossorigin="anonymous" async></script>
 
 </body>
-
-
 
 
 </html>
