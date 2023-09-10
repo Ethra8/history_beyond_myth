@@ -48,8 +48,8 @@ EDNA TORRES MUNILL
         + [Arthur I Page](#arthur-I-page)
             1. [Header](#header)
             2. [Background Image](#background-image)
-            3. [Section 1: Heir to King Richard I The Lionheart](#heir-to-king-richard-i-the-lionheart)
-            4. [Section 3: The Value of Abalones](#section-3-the-value-of-abalones)
+            3. [Section 1: Heir to King Richard I The Lionheart](#section-1:-heir-to-king-richard-i-the-lionheart)
+            4. [Section 3: The Value of Abalones](#section-3:-the-value-of-abalones)
         + [Avalon Page](#avalon-page)
         + [Sign-up Page](#sign-up-page)
         + [404 Error Page](#404-error-page)
@@ -293,7 +293,7 @@ Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.asp
 ### ARTHUR I PAGE
 Find the images displayed in this page, depending on the screen size:  
 
-#### Header Image
+#### Header
 Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
         * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
