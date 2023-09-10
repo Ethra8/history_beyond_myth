@@ -282,7 +282,7 @@ The hero image has been positioned at the centre just below the header of the la
 
 ### ARTHUR I PAGE
 - **Header image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).
-![image](https://englishgrows.com/hitory_beyond_myth/assets\images\Arthur-I_of_Brittany.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany.avif)
 
 - **Background image fixed on the left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
@@ -291,7 +291,7 @@ The hero image has been positioned at the centre just below the header of the la
 - **Screens of a minimum width of 1200px (desktops):**   
   + Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.
 
-![image](https://englishgrows.com/hitory_beyond_myth/assets/images/Henry_IIs_sons.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)
  
   + ***Hero Image***
   + **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The text names Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.  
@@ -300,7 +300,7 @@ The hero image has been positioned at the centre just below the header of the la
 
 - **Screens of a max. width of 991px (phones and portrait tablets):**
   + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
-![image](https://englishgrows.com/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
 
   + Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the 6th membrane of manuscript Royal MS 14 B VI, f.006r as one of King Henry's sons, being Richard's younger brother, and Arthur's father, kept in the British Library
 
