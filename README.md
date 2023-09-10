@@ -43,18 +43,25 @@ EDNA TORRES MUNILL
         + [Rationale of Use](#rationale-of-use)
     * [Imagery](#imagery)
         + [Home Page](#home-page)
-        + [Arthur I Page](#arthur_I-page)
+        + [Arthur I Page](#arthur-I-page)
         + [Avalon Page](#avalon-page)
         + [Sign-up Page](#sign-up-page)
         + [404 Error Page](#404-error-page)
     * [Animations and Transitions](#animations-and-transitions)
+        + [Hover](#hover)
+        + [Transitions](#transitions)
     * [Site Structure](#site-structure)
         + [Home Page](#home-page)
-        + [Arthur I Page](#arthur_I-page)
+        + [Arthur I Page](#arthur-I-page)
         + [Avalon Page](#avalon-page)
         + [Sign-up Page](#sign-up-page)
         + [404 Error Page](#404-error-page)
     * [Design Elements](#design-elements)
+        + [Audio](#audio)
+        + [Video](#video)
+        + [Icons](#icons)
+        + [Interactive Map](#interactive-map)
+        + [Form](#form)
     * [Wireframes](#wireframes)
         + [Mobile Wireframes](#mobile-wireframes)
         + [Tablet Wireframes](#tablet-wireframes)
@@ -62,6 +69,14 @@ EDNA TORRES MUNILL
    
 - [FEATURES](#features)
     * [Implemented Features](#implemented-features)
+        + [Navigation Bar](navigation-bar)
+        + [Header](#header)
+        + [Footer](#footer)
+        + [Home Page](#home-page)
+        + [Arthur I Page](#arthur-I-page)
+        + [Avalon Page](#avalon-page)
+        + [Sign-up Page](#sign-up-page)
+        + [404 Error Page](#404-error-page)
     * [Future Features](#future-features)
 
 - [TESTING](#testing)
@@ -316,8 +331,8 @@ The hero image has been positioned at the centre just below the header of the la
 ### 404 ERROR PAGE
 - **Bachground image** repeated: [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.
 
-
 ## Animations and Transitions  
+
 ### HOVER:
 - **Navigation Bar**:
     + ***Link to other pages***: As the user hovers through the  pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
@@ -329,6 +344,19 @@ The hero image has been positioned at the centre just below the header of the la
 - **Sign-up Form Button**: Styled the same as the *sign-up* link on the navifgation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
+
+### TRANSITIONS
+- **Navigation Bar**: Has a slight transition of top 0.5 seconds
+  * ***Collapsed***: Has the following transitions to improve visuals and user experience:
+    + **transition: height .3s linear** - Gives more elegance when collapsed navbar is toggled to uncollapse, as items display in a softer way downwards:
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
+    + **transition: all .7s linear**: Gives a slight fade in effect to items in navbar when toggled to collapse or uncollapse.
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
+
+
+
+
+
 
 ## Site Structure
 The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
