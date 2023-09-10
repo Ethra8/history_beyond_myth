@@ -9,7 +9,7 @@
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ec4ee12-4762-4466-a7e8-596ea540c7f3)
 
 
-Responsive images of the site automatically generated through [ui.dev/amiresponsive](https://ui.dev/amiresponsive). The tool is interactive, and you can can view all pages in all screen sizes simultaneaously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
+Responsive images of the site automatically generated through [ui.dev/amiresponsive](https://ui.dev/amiresponsive). The tool is interactive, and you can can view all pages in all screen sizes simultaneously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
 
 **NOTE**: *I customized defect background-color attribute from amiresponsive site from black to whitesmoke, as my website is mostly in dark tones. I did it by changing the elements of the page, more precisely **class="bg-brand-coal"**.*
 
@@ -196,16 +196,16 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
     + **Rationale**: To ensure clear contrast and readability for the user. Also, its name *White Smoke* is the signal from the Vatican when a new Pope is selected. The church was all-mighty, and its power had no boundaries back in the Middle ages, so it also brings that to mind.
 - ***Eerie Black*** **#1B1B1B** / **RGB(27,27,27)**:
     + **Use**: Backgrounds of content pages as *Arthur* and *Avalon*.
-    + **Rationale**: To favour contrast with the colorful captions embeded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
+    + **Rationale**: To favour contrast with the colorful captions embedded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
 - ***Onyx*** **#424242** / **RGB(66,66,66)**:
     + **Use**: Fonts that have a background of *White Smoke*, in the *home page description section*, and the *sign-up page sections*.
     + **Rationale**: To gain clear contrast, and ensure users' readability, with a softer tone of dark grey.
 - ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
     + **Use**: The navigation bar background color.
-    + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot sorrounding this site investigation, full of shadows and blood.
+    + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot surrounding this site investigation, full of shadows and blood.
 - ***Timberwolf*** **#D6D6D6** / **RGB(214,214,214)**:
-    + **Use**: The *headers' 1st letters*, the *vertical or horizontal lines in the headers* that ressemble a spear or sword, and for the background of the *button to the sign-up page* in the navigation bar.
-    + **Rationale**: Gives a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron: armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval ustensils were made of metal.  
+    + **Use**: The *headers' 1st letters*, the *vertical or horizontal lines in the headers* that resemble a spear or sword, and for the background of the *button to the sign-up page* in the navigation bar.
+    + **Rationale**: Gives a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron: armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval utensils were made of metal.  
 
 ![image](https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)
 
@@ -290,7 +290,7 @@ all related to the Arthurian mythos, and taken from digitalised medieval manuscr
 2. Early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris, from his work *Historiae Anglorum*. Original source is manuscript *Cotton MS Claudius D VI*, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
 3. [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 4. [Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page f.361v of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
-5. [Depiction of Queen Eleanor of Aquitaine](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0121/image,info), Queen of England, married to Henry II, mother of Richard the Lionheart and John Lackland, and grand-mother of Arthur. She is considered one of the most powerful and influencial women of the middle ages, and important patron of arts and music. This depiction found in the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) is considered by many historians to be her. The French *Post Office* even dedicated a [stamp to Eleanor of Aquitaine](https://www.wikitimbres.fr/timbres/8655/2004-alienor-daquitaine-v-1122-1204) using this same depiction. Source from the Codex Manesse, dated c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library
+5. [Depiction of Queen Eleanor of Aquitaine](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0121/image,info), Queen of England, married to Henry II, mother of Richard the Lionheart and John Lackland, and Arthur's grandmother. She is considered one of the most powerful and influential women of the middle ages, and important patron of arts and music. This depiction found in the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) is considered by many historians to be her. The French *Post Office* even dedicated a [stamp to Eleanor of Aquitaine](https://www.wikitimbres.fr/timbres/8655/2004-alienor-daquitaine-v-1122-1204) using this same depiction. Source from the Codex Manesse, dated c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library
 6. [Portrait of King Richard "the Lionheart"](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r): Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 7. [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), found in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript *"Brief Abridgement of the Chronicles of England"* attributed to Matthew Paris, dated 1255-1259 kept in the British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
 8. [Portrait of Count Geoffrey II of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
@@ -335,15 +335,15 @@ The images of this section change, depending on the size of the screen, as follo
 
 
 #### SECTION 3 DEATH OF KING RICHARD I
-The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsinevess to the site.
+The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 
 #### SECTION 4 TWO KINGS ONE THRONE
-- **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+- **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
 ### AVALON PAGE
 #### HEADER AVALON
-The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Eventhough the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:
+The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)
@@ -362,23 +362,23 @@ The image on the header changes slightly depending on the size of the screen, to
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)
 
 #### SECTION 3 THE VALUE OF ABALONES
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsinevess to the site.
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)
 
 #### SECTION 4 MEDIEVAL JEWELRY
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsinevess to the site.
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)  
 
 #### SECTION 7 MISTS OF GUERNSEY
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsinevess to the site.
+The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)  
 
 ### SIGN-UP PAGE
 #### BACKGROUND IMAGE SIGN-UP
-The image of this section remains the same in all screen sizes, but in different sizes, bringing responsinevess to the site.
+The image of this section remains the same in all screen sizes, but in different sizes, bringing responsiveness  to the site.
 - [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:
     * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height
     * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height
@@ -386,7 +386,7 @@ The image of this section remains the same in all screen sizes, but in different
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)
 
 #### EVENTS SECTION
-The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsinevess to the site.
+The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/medium-shot-man-posing-as-medieval-soldier.avif)
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
@@ -414,7 +414,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
 
 #### Media Icons
-Included in the *Fotter*, icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
+Included in the *Footer*, icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
 ### TRANSITIONS
 - **Navigation Bar**: Has a slight transition of top 0.5 seconds,  so that 
@@ -425,7 +425,7 @@ Included in the *Fotter*, icons change color from *whitesmoke* *#F3F1F1* to *#D6
 [watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec)
     + ***transition: all .7s linear***:  so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
 [watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3)
-    + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less ubruptly
+    + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly
 
 
 
@@ -447,7 +447,7 @@ Acting as the *landing page*, it contains the header with the title of the site.
     4. Every once in a while, we organize some visits to emblematic sights related to the curious coincidences found between history and myth. Join in!
 
 ### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) 
-States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referrenced through tiptools:
+States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display on hover:
 1. **Heir to King Richard the Lionheart**
 2. **Retained by the King of France**
 3. **Death of King Richard I**
@@ -455,14 +455,14 @@ States the curious coincidences found between the legendary King Arthur, and the
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
 ### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html)  
-States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
+States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
 2. **England's Kings were French**: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings spoke French on a regular basis, and not English.
-3. **The Value of Abalones**: As some users may not be aware of the existence of these marine gastropod moluscs, this section provides referrences on the value of abalones from ancient times, both for their mother-of-pearl large-sized shell, with distinctive shades of color, as for their meat-like taste. Also brings references on how the Isle of Guernsey is home the most appreciated European abalone since ancient times.
-4. **Medieval Jewelry**: This section provides the reader with evidence and referrence of medieval jewelry from the Frankrish Kingdom made of mother-of-pearl (most probably abalone). There is also apicture of a [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) found dated c.600, part of the *Medieval Art* collection of the **The Met Museum** in New York.
-5. **Abalones, the Sea Truffles**: This section aims to provide the reader with more detailed evidence and referrence of what was previously stated in the section "the Value of Abalones". As abalones are still very much valued as a luxury product nowadays, considered the sea truffles by the French, a *Youtube* video has been included showing [Michellin double starred chef preparing and cooking abalones](https://youtu.be/o5VPONMX19Q) in his restaurant.
+3. **The Value of Abalones**: As some users may not be aware of the existence of these marine gastropod moluscs, this section provides references on the value of abalones from ancient times, both for their mother-of-pearl large-sized shell, with distinctive shades of color, as for their meat-like taste. Also brings references on how the Isle of Guernsey is home the most appreciated European abalone since ancient times.
+4. **Medieval Jewelry**: This section provides the reader with evidence and reference of medieval jewelry from the Frankrish Kingdom made of mother-of-pearl (most probably abalone). There is also a picture of a [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) found dated c.600, part of the *Medieval Art* collection of the **The Met Museum** in New York.
+5. **Abalones, the Sea Truffles**: This section aims to provide the reader with more detailed evidence and reference of what was previously stated in the section "the Value of Abalones". As abalones are still very much valued as a luxury product nowadays, considered the sea truffles by the French, a *Youtube* video has been included showing [two Michellin starred chef preparing and cooking abalones](https://youtu.be/o5VPONMX19Q) in his restaurant.
 6. **Strategic Location**: This section has an interactive map from *Google Maps* showing the exact location of the Island of Guernsey, half-way from Brittany and south Wales.
-7. **Mists of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mists sorrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island inmersed into profound mists.
+7. **Mists of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mists surrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island immersed into profound mists.
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
 
 ### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html)  
@@ -474,22 +474,22 @@ This page contains the following:
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
 
 ### [404 ERROR PAGE](https://englishgrows.com/history_beyond_myth/404.html) 
-Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible fustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
+Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
 ## Design Elements
 ### AUDIO
-- ***Avalon Page***: Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The sourceof the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+- ***Avalon Page***: Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
 
 ### VIDEO 
-- ***Avalon Page***: there are two *Youtube* videos embeded:
-    1. Song written by King Richard "The Lionheart" in old French dialect, which aims to provide the user with an entertaining demonstration of how predominant was French language at that time. It also aims to link to the supposition that *abalone* might be the origin of *avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, and the European referrence place where they naturally grew. 
+- ***Avalon Page***: there are two *Youtube* videos embedded:
+    1. Song written by King Richard "The Lionheart" in old French dialect, which aims to provide the user with an entertaining demonstration of how predominant was French language at that time. It also aims to link to the supposition that *abalone* might be the origin of *avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, and the European reference place where they naturally grew. 
 
 ### ICONS 
 - ***Footer***: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
 
 ### INTERACTIVE MAP
-***Avalon Page***: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embeded showing the exact location of the Isle of Guernsey.
+***Avalon Page***: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embedded showing the exact location of the Isle of Guernsey.
 
 ### FORM
 - ***Sign Up Form***: The form is placed in the sing-up page, and includes the following ***inputs***:
