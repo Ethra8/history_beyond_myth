@@ -49,6 +49,11 @@ EDNA TORRES MUNILL
         + [404 Error Page](#404-error-page)
     * [Animations and Transitions](#animations-and-transitions)
     * [Site Structure](#site-structure)
+        + [Home Page](#home-page)
+        + [Arthur I Page](#arthur_I-page)
+        + [Avalon Page](#avalon-page)
+        + [Sign-up Page](#sign-up-page)
+        + [404 Error Page](#404-error-page)
     * [Design Elements](#design-elements)
     * [Wireframes](#wireframes)
         + [Mobile Wireframes](#mobile-wireframes)
@@ -269,23 +274,17 @@ Includes the logo on the left.
     + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia.
 
 ## Animations and Transitions  
-
-- **HOVER:**
-
-  * ***Navigation Bar***:
-   + As the user hovers through the pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
-
+### HOVER:
+- **Navigation Bar**:
+    + ***Link to other pages***: As the user hovers through the  pages included in the navbar, the color of the fonts turn from #D6D6D6 into a slightly darker grey:
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d7fd75e-cd18-4321-9a92-3dda6f3ca9b6)
 
-   + As the user hovers through the *sign-up* anchor resembling a button, its background color turns from *#D6D6D6* into *whitesmoke*:
-
+    + ***sign-up anchor***: As the user hovers through the link to the sign-up page, which is styled as a button, its background color turns from *#D6D6D6* into *whitesmoke*:
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
  
-  * ***Sign-up Form Button***: Same as the anchor tag *sign-up* resembling a button on the navigation bar, linking to the *sign-up page*, its background color turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
+- **Sign-up Form Button**: Styled the same as the *sign-up* link on the navifgation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* when the user hovers through it:
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
-
-
 
 ## Site Structure
 The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
@@ -300,14 +299,14 @@ Acting as the *landing page*, it contains the header with the title of the site.
     3. Share any possible new findings of your own with us, and eventually contribute to unveil long-lasting mysteries from the Dark Ages.
     4. Every once in a while, we organize some visits to emblematic sights related to the curious coincidences found between history and myth. Join in!
 
-### [ARTHUR I](https://englishgrows.com/history_beyond_myth/arthur_I.html) 
+### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) 
 States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referrenced through tiptools:
 1. **Heir to King Richard the Lionheart**
 2. **Retained by the King of France**
 3. **Death of King Richard I**
 4. **Two Kings, One Throne**
 
-### [AVALON](https://englishgrows.com/history_beyond_myth/avalon.html)  
+### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html)  
 States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
 2. **England's Kings were French**: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings spoke French on a regular basis, and not English.
@@ -317,23 +316,24 @@ States the curious coincidences found between the legendary Island of Avalon, an
 6. **Strategic Location**: This section has an interactive map from *Google Maps* showing the exact location of the Island of Guernsey, half-way from Brittany and south Wales.
 7. **Mysts of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mysts sorrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island inmersed into profound mysts.
 
-### [SIGN-UP](https://englishgrows.com/history_beyond_myth/sign_up.html)  
+### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html)  
 This page contains the following:
 - **Sign-up Form**: Placed on the top of the page in any screen size, after the header. On laptops, it is displayed on the right side of the screen, sharind the screen width with the events section. But as this page, as all others, is **responsive**, on smaller devices as tablets or phones, the form stays at the top, not sharing the width with the events section.
 - **Events Section**: PLaced on the top-left side of large devices such as laptops, and after the form in smaller devices such as tablets or phones. This section contains two subsections:
     * **Social Events**: Brief description of the events that the user will be informed of, after deciding to sign-up.
     * **Sight Seeing**: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
 
-### [404 ERROR](https://englishgrows.com/history_beyond_myth/404.html) 
+### [404 ERROR PAGE](https://englishgrows.com/history_beyond_myth/404.html) 
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible fustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
 ## Design Elements
 ### AUDIO
-- ***Avalon Page***: Audio tag with controls of the French Pronunciation of the word *abalone*, taken from the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+- ***Avalon Page***: Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The sourceof the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
 
 ### VIDEO 
-- ***Avalon Page***: there are 2 Youtube videos embeded. One is the song that King Richard "The Lionheart" wrote in old French, demonstrating that French was the prodominant language at that time, linking to the supposition that *abalone* might be the origin of *avalon* (Was Guernsey nicknamed the *Isle of Abalones*?) 
+- ***Avalon Page***: there are two *Youtube* videos embeded:
+    1. Song written by King Richard "The Lionheart" in old French dialect, which aims to provide the user with an entertaining demonstration of how predominant was French language at that time. It also aims to link to the supposition that *abalone* might be the origin of *avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, and the European referrence place where they naturally grew. 
 
 ### ICONS 
 - ***Footer***: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
