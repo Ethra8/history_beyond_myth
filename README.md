@@ -253,7 +253,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
   <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
 
 
-## Images
+## Imagery
 Find below all the images used in this site, with a description and a link to their original source. The images have been listed by pages, and different devices' screen-size. Aiming at an effective responsiveness, sometimes different images show depending on the size of the device, as follows:
 
 ### HERO IMAGE
