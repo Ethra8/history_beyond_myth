@@ -239,15 +239,15 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 
 ## Images
-Find below all the images used in this site, with a description and a link to their original source. The images have been listed by pages, and different devices' screen-size. Aiming at an effective responsiveness, different images show depending on the size of the device, as follows:
+Find below all the images used in this site, with a description and a link to their original source. The images have been listed by pages, and different devices' screen-size. Aiming at an effective responsiveness, sometimes different images show depending on the size of the device, as follows:
 
-### NAVIGATION BAR
-Includes the logo on the left.  
+### HERO IMAGE
+The hero image has been positioned at the centre just below the header of the landing page (home page), as well as a fixed the background. It has been selected because it shows [Arthur I of Brittany with a crown giving homage to the King of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) in support for this latter's support to his claim to the throne of England after King's Richard the Lionheart's death. The source is the manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), Royal MS 16 G VI, f.361v, dated 1332-1350, British Library
+![image](https:englishgrows.com/history_beyond_myth/assets/images/Royal_MS_16_g_VI_Les_grandes_chroniques_de_France-f_361v.png)
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3c3ca37a-ca3d-4d73-a296-5d7a687bed29)  
-
- ### HOME PAGE
+### HOME PAGE
 - **Background Fixed Image**: Caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), from Chapter XVIII, which explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard "the Lionheart", being his rightful heir by birth right, and how King Philip of France supported his claim at first, only to finally betray him. The text on the same page calls him Arthur *"King of Brittany"*. The depiction shows Arthur wearing a crown, receiving the King of France in his castle, and giving homage to King Philip II, in return for this latter's support to his claim to the throne of England. Source is manuscript Royal MS 16 G VI, f.361v, dated 1332-1350, British Library, 
+![image](https:englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
 - **Small Images Displayed In Line Underneath The Heading**, all related to the Arthurian mythos. Most reappear in subsequent pages:
     * Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
@@ -259,8 +259,13 @@ Includes the logo on the left.
     * [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), found in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript *"Brief Abridgement of the Chronicles of England"* attributed to Matthew Paris, dated 1255-1259 kept in the British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
     * [Portrait of Count Geoffrey II of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) 
 
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d820d077-e677-452c-b70a-844ae2133ad6)
+
+
 ### ARTHUR I PAGE
 - **Header image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).
+![image](https:/englishgrows.com/hitory_beyond_myth/assets\images\Arthur-I_of_Brittany.avif)
+
 - **Background image fixed on the left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 - **Screens of a minimum width of 1200px (desktops):**   
     + Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.
