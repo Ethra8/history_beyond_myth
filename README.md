@@ -258,6 +258,7 @@ Find below all the images used in this site, with a description and a link to th
 
 ### HERO IMAGE
 The hero image has been positioned at the centre just below the header of the landing page (home page), as well as a fixed the background. It has been selected because it shows [Arthur I of Brittany with a crown giving homage to the King of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) in return for this latter's support to his claim to the throne of England after King's Richard the Lionheart's death. The source is the manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), Royal MS 16 G VI, f.361v, dated 1332-1350, British Library  
+
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Philippe2+Arthur.jpg)
 
 ### HOME PAGE
