@@ -53,8 +53,8 @@ EDNA TORRES MUNILL
             5. [Section 3 - Death of King Richard I](#section-3---death-of-king-richard-i)
             6. [Section 4 - Two Kings One Throne](#section-4---two-kings-one-throne)
         + [Avalon Page - Imagery](#avalon-page-imagery)
-            1. [Avalon - Header Image](#avalon---header-imagery)
-            2. [Avalon - Background Image](#avalon---background-image)
+            1. [Avalon Page - Header Image](#avalon-page---header-image)
+            2. [Avalon Page - Background Image](#avalon-page---background-image)
             3. [Section 3 - The Value of Abalones](#section-3---the-value-of-abalones)
             4. [Section 4 - Medieval Jewelry](#section-4---medieval-jewelry)
             5. [Section 7 - Mists og Guernsey](#section-7---mists-of-guernsey)
@@ -378,8 +378,7 @@ The image on the header changes slightly depending on the size of the screen, to
 
 - **PHONES** (max. size of 576px): 600px width, 1228 height   
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b5ab9c93-b667-4001-8fd1-4195cc6f5e55)
-
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8a45f31-ff00-4b4d-9833-4e5618b72916)
 
 #### SECTION 3 - THE VALUE OF ABALONES  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
