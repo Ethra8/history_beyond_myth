@@ -261,7 +261,7 @@ The hero image has been positioned at the centre just below the header of the la
 ![image](https://englishgrows.com/history_beyond_myths\assets\images\Philippe2+Arthur.jpg)
 
 ### HOME PAGE
-- **Background Fixed Image**: Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. WHen the user scrolls down from the header, the hero image appears fixed on the background, with some medieval text  from the manuscript also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
+- **Background Fixed Image**: Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
 - **Small Images Displayed In Line Underneath The Heading**, all related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
@@ -281,22 +281,22 @@ The hero image has been positioned at the centre just below the header of the la
 
 
 ### ARTHUR I PAGE
-- **Header image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).
+- **Header Image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany.avif)
 
-- **Background image fixed on the left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+- **Background image fixed on the left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
-![image](https://englishgrows.com/history_beyond_myths/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
 
 - **Screens of a minimum width of 1200px (desktops):**   
-  + Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.
+  + Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)
  
   + ***Hero Image***
   + **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The text names Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.  
 
-![image](https://englishgrows.com/history_beyond_myths/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
 
 - **Screens of a max. width of 991px (phones and portrait tablets):**
   + Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
@@ -304,32 +304,45 @@ The hero image has been positioned at the centre just below the header of the la
 
   + Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the 6th membrane of manuscript Royal MS 14 B VI, f.006r as one of King Henry's sons, being Richard's younger brother, and Arthur's father, kept in the British Library
 
-![image](https://englishgrows.com/history_beyond_myths/assets/images/Geoffrey_Count_of_Brittany.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)
  
   + ***Hero Image***
 
-  + Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
+  + Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.  
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a93e193c-e7a8-42ab-badc-8adf9cf5baef)
   
 ### AVALON PAGE
 - **Header Image**
   + [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)
-- **Background Image**: [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
+- **Background Image**: [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:
+    + **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
+    + **PHONES** (max. size of 576px): 600px width, 1228 height  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif)
+
 - **Section 3: The Value of Abalones**
-  + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D)
+  + [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
+![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)
 - **Section 4: Medieval Jewelry**
-  + [Franckrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)
+  + [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)  
 - **Section 7: Mists of Guernsey**
-  + [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
+  + [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)  
 
 ### SIGN-UP PAGE
-- **Background Image**: [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/).
+- **Background Image**: [Middle ages castle](https://pixabay.com/photos/castle-middle-ages-castle-yard-4509080/) by [Tama66](https://pixabay.com/users/tama66-1032521/) at [Pixabay.com](https://pixabay.com/). The image is meant to show the user some medieval castle similar to the ones he would see on some organized sight seeing visits if he/she decides to sign-up, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes, with a cover attribute to cover all screen:
+  + **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height
+  + **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height
+  + **PHONES** (max. size of 576px): 640px width, 426 height   
+![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)
 - **Events Section**
-  + ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)
+  + ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/medium-shot-man-posing-as-medieval-soldier.avif)
   + ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
 ### 404 ERROR PAGE
-- **Bachground image** repeated: [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.
+- **Bachground image** repeated: [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
 ## Animations and Transitions  
 
