@@ -44,6 +44,7 @@ EDNA TORRES MUNILL
     * [Imagery](#imagery)
         + [Home Page](#home-page)
         + [Arthur I Page](#arthur-I-page)
+              + [Section 1: Heir to King Richard I "The Lionheart"](#section-1-heir-to-king-richard-i-the-lionheart)
         + [Avalon Page](#avalon-page)
         + [Sign-up Page](#sign-up-page)
         + [404 Error Page](#404-error-page)
