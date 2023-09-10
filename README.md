@@ -23,9 +23,9 @@ Responsive images of the site automatically generated through [ui.dev/amirespons
 EDNA TORRES MUNILL
 
 
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
   
-- [Project Overview](#project-overview)  
+- [PROJECT OVERVIEW](#project-overview)  
     * [Live Site](#live-site)  
     * [Repository](#repository)  
     * [Author](#Author)  
@@ -44,7 +44,7 @@ EDNA TORRES MUNILL
     * [Imagery](#imagery)
         + [Hero Image](#hero-image)
         + [Home Page Imagery](#home-page-imagery)
-            1. [Home Page: Background Image](#home-page--background-image)
+            1. [Home Page - Background Image](#home-page---background-image)
             2. [HOme Page: Underneath the Header](#underneath-the-header)
         + [Arthur I Page](#arthur-I-page)
             1. [Header Arthur I](#header-arthur-i)
