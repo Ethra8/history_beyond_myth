@@ -300,26 +300,19 @@ Find the images displayed in this page, depending on the screen size:
 
 - **DESKTOPS  (min. width of 1200px):**   
   * 1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
-
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)
- 
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)  
   * 2. **Hero Image**
   * 3. **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.  
-
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
 
 - **PORTRAIT TABLETS AND PPHONES (max. width of 991px):**
-  * 1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
+    * 1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
-
-  * 2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
-
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)
- 
-  * 3. **Hero Image**
-  * 4. Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.
- 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a93e193c-e7a8-42ab-badc-8adf9cf5baef)
+    * 2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)  
+    * 3. **Hero Image**  
+    * 4. Zoom-in of the original text of page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) from the illuminated manuscript *Les Grandes Choniques de France* dated 1332-1350, naming Count Arthur ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, which refers to after King Richard's death. Original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), British Library.  
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a93e193c-e7a8-42ab-badc-8adf9cf5baef)
   
 ### AVALON PAGE
 - **Header Image**
