@@ -43,8 +43,13 @@ EDNA TORRES MUNILL
         + [Rationale of Use](#rationale-of-use)
     * [Imagery](#imagery)
         + [Home Page](#home-page)
+            1. [Background Image](#background-image)
+            2. [Underneath the Heading](#underneath-the-heading)
         + [Arthur I Page](#arthur-I-page)
-            1. [Section 3: The Value of Abalones](#section-3-the-value-of-abalones)
+            1. [Header](#header)
+            2. [Background Image](#background-image)
+            3. [Section 1: Heir to King Richard I The Lionheart](#heir-to-king-richard-i-the-lionheart)
+            4. [Section 3: The Value of Abalones](#section-3-the-value-of-abalones)
         + [Avalon Page](#avalon-page)
         + [Sign-up Page](#sign-up-page)
         + [404 Error Page](#404-error-page)
@@ -265,10 +270,11 @@ The hero image has been positioned at the centre just below the header of the la
 ### HOME PAGE
 All the following images display in screens of all sizes:  
 
-- **Background Fixed Image**: Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
+#### Background Image  
+Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
-- **Small Images Displayed In Line Underneath The Heading**, all related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
+#### **Underneath the Heading**, all related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
 1. Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
 2. Early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris, from his work *Historiae Anglorum*. Original source is manuscript *Cotton MS Claudius D VI*, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
 3. [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
@@ -286,8 +292,9 @@ All the following images display in screens of all sizes:
 
 ### ARTHUR I PAGE
 Find the images displayed in this page, depending on the screen size:  
-- **ALL SCREEN SIZES**:  
-    1. **Header Image**: Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
+
+#### Header Image
+Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
         * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany_150x175px.avif)  
@@ -295,10 +302,12 @@ Find the images displayed in this page, depending on the screen size:
         * **PHONES** (max. 576 px width): 130px width, 143px height  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
 
-    2. **Background Image Fixed on the Left**: [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
+#### Background Image
+Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
 
+#### Section 1: Heir to King Richard I The Lionheart
 - **DESKTOPS  (min. width of 1200px):**   
     1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)  
