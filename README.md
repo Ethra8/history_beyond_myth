@@ -9,7 +9,7 @@
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ec4ee12-4762-4466-a7e8-596ea540c7f3)
 
 
-Responsive images of the site automatically generated through ui.dev/amiresponsive/. The tool is interactive, and you can can view all pages in all screen sizes simultaneaously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
+Responsive images of the site automatically generated through [ui.dev/amiresponsive](https://ui.dev/amiresponsive). The tool is interactive, and you can can view all pages in all screen sizes simultaneaously [here](https://ui.dev/amiresponsive?url=https://englishgrows.com/history_beyond_myth/index.html)
 
 **NOTE**: *I customized defect background-color attribute from amiresponsive site from black to whitesmoke, as my website is mostly in dark tones. I did it by changing the elements of the page, more precisely **class="bg-brand-coal"**.*
 
