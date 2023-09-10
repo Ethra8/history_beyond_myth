@@ -243,11 +243,11 @@ Find below all the images used in this site, with a description and a link to th
 
 ### HERO IMAGE
 The hero image has been positioned at the centre just below the header of the landing page (home page), as well as a fixed the background. It has been selected because it shows [Arthur I of Brittany with a crown giving homage to the King of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) in support for this latter's support to his claim to the throne of England after King's Richard the Lionheart's death. The source is the manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), Royal MS 16 G VI, f.361v, dated 1332-1350, British Library
-![image](https:englishgrows.com/history_beyond_myth/assets/images/Royal_MS_16_g_VI_Les_grandes_chroniques_de_France-f_361v.png)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/Royal_MS_16_g_VI_Les_grandes_chroniques_de_France-f_361v.png)
 
 ### HOME PAGE
 - **Background Fixed Image**: Caption of the page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), from Chapter XVIII, which explains how Count Arthur I of Brittany claimed the Throne of England after the death of King Richard "the Lionheart", being his rightful heir by birth right, and how King Philip of France supported his claim at first, only to finally betray him. The text on the same page calls him Arthur *"King of Brittany"*. The depiction shows Arthur wearing a crown, receiving the King of France in his castle, and giving homage to King Philip II, in return for this latter's support to his claim to the throne of England. Source is manuscript Royal MS 16 G VI, f.361v, dated 1332-1350, British Library, 
-![image](https:englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
 - **Small Images Displayed In Line Underneath The Heading**, all related to the Arthurian mythos. Most reappear in subsequent pages:
     * Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
