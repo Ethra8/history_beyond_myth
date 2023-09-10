@@ -288,18 +288,39 @@ Includes the logo on the left.
 
 
 ## Site Structure
-The site contains 4 pages, which have a fixed navigation on the top to allow the user for an easy navigation through the pages. The pages are the following pages:
+The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
 
-* [**HOME PAGE**](https://englishgrows.com/history_beyond_myth/index.html): Acting as the *landing page*, it contains the *Site description*, formed of *3 sections*:
-    + *About us* - Site dedicated to state curious coincidences found during years of investigations
-    + *Keeping it Real* - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
-    + *Reasons to Sign Up* - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag that links to the sign-up page.
+- [**HOME PAGE**](https://englishgrows.com/history_beyond_myth/index.html): Acting as the *landing page*, it contains the header with the title of the site. Underneath it there is a row of depictions taken from medieval manuscripts, all related to the site's investigation and theories on the Arthur mythos. Then, there is the *Site description*, which contains *3 sections*:
+    * *About us* - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
+    * *Keeping it Real* - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
+    * *Reasons to Sign Up* - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
+        + Receive our monthly newsletter containing updates on any new curious coincidences found around this matter.
+        + Become part of our vibrant community, and attend cultural and social events related to the Early Middle Ages around Europe, such as expositions, lectures, and conferences.
+        + Share any possible new findings of your own with us, and eventually contribute to unveil long-lasting mysteries from the Dark Ages.
+        + Every once in a while, we organize some visits to emblematic sights related to the curious coincidences found between history and myth. Join in!
 
-* [**ARTHUR I**](https://englishgrows.com/history_beyond_myth/arthur_I.html): States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and supported by most of the French territories who had been ruled by Richard.
+- [**ARTHUR I**](https://englishgrows.com/history_beyond_myth/arthur_I.html): States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections:
+    * Heir to King Richard the Lionheart
+    * Retained by the King of France
+    * Death of King Richard I
+    * Two Kings, One Throne
 
-* [**AVALON**](https://englishgrows.com/history_beyond_myth/avalon.html): States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?
+- [**AVALON**](https://englishgrows.com/history_beyond_myth/avalon.html): States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronuntiation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
+    * French Pronunciation of Abalone: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
+    * England's Kings were French: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings spoke French on a regular basis, and not English.
+    * The Value of Abalones: As some users may not be aware of the existence of these marine gastropod moluscs, this section provides referrences on the value of abalones from ancient times, both for their mother-of-pearl large-sized shell, with distinctive shades of color, as for their meat-like taste. Also brings references on how the Isle of Guernsey is home the most appreciated European abalone since ancient times.
+    * Medieval Jewelery: This section provides the reader with evidence and referrence of medieval jewelry from the Frankrish Kingdom made of mother-of-pearl (most probably abalone). There is also apicture of a [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) found dated c.600, part of the *Medieval Art* collection of the **The Met Museum** in New York.
+    * Abalones, the Sea Truffles: This section aims to provide the reader with more detailed evidence and referrence of what was previously stated in the section "the Value of Abalones". As abalones are still very much valued as a luxury product nowadays, considered the sea truffles by the French, a *Youtube* video has been included showing [Michellin double starred chef preparing and cooking abalones](https://youtu.be/o5VPONMX19Q) in his restaurant.
+    * Strategic Location: This section has an interactive map from *Google Maps* showing the exact location of the Island of Guernsey, half-way from Brittany and south Wales.
+    * Mysts of Guernsey: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mysts sorrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island inmersed into profound mysts.
 
-* [**SIGN-UP**](https://englishgrows.com/history_beyond_myth/sign_up.html): Gives details on the different reasons to sign-up, and includes a *Sign-up Form*.
+- [**SIGN-UP**](https://englishgrows.com/history_beyond_myth/sign_up.html): Contains a *Sign-up Form* on the top of the page, together with the sections that give details on the different reasons to sign-up. The page os responsive, and for smaller devices such as tablets or phones, the *sign-up-form displays on the top after the header, followed by the other sections, one at a time. The sections are as follows:
+    * Social Events: Brief description of the events that the user will be informed of, after deciding to sign-up.
+    * Sight Seeing: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
+
+- [**404 ERROR**](https://englishgrows.com/history_beyond_myth/404.html): Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible fustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
+
 
 ## Design Elements
 
