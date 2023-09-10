@@ -281,7 +281,7 @@ The hero image has been positioned at the centre just below the header of the la
 ### HOME PAGE
 All the following images display in screens of all sizes:  
 
-#### HOME PAGE: BACKGROUND IMAGE
+#### HOME PAGE - BACKGROUND IMAGE
 Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the manuscript [Les Grandes Chroniques de France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) from where the hero image aforementioned has been taken. Source is manuscript Royal MS 16 G VI, f.361v, British Library. When the user scrolls down from the header, the hero image  taken from this membrane of the manuscript appears fixed on the background, with some medieval text from the manuscript page also visible. As the image is meant to be used an a background in this case, a black shadowy transparency has been put over it, so it doesn't distract the user of the page's content.
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
