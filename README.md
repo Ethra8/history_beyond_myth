@@ -5,8 +5,11 @@
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ec4ee12-4762-4466-a7e8-596ea540c7f3)
 
 - History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle. The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
+
 - This site is useful for anyone who might be interested in history, more precisely from the European early Middle Ages, or also in myths and legends in general.
+
 - The users of this site will be able to sign up in order to receive a monthly newsletter containing any new findings during the ongoing investigation, as well as interesting social and cultural events around Europe, related to myths and/or history from the early Middle Ages. Visits to sites related to the curious coincidences stated in the site will also be organized periodically.
+
 - The users of this site who have already signed up will also be able to share any findings of their own related to the Matter of Britain, by sending the file of their choice through the form provided in the contact page.
 
 
@@ -29,7 +32,7 @@ EDNA TORRES MUNILL
     * [Repository](#repository)  
     * [Author](#author)  
 
-- [UX](#UX)
+- [UX](#ux)
     * [Target Audience](#target-audience)
     * [Project Goals](#project-goal)
     * [User Stories](#user-stories)
@@ -90,9 +93,9 @@ EDNA TORRES MUNILL
    
 - [FEATURES](#features)
     * [Implemented Features](#implemented-features)
-        + [Navigation Bar - Features](#navigation-bar---features)
-        + [Header - Features](#header---features)
-        + [Footer - Features](#footer---features)
+        + [Navigation Bar Features](#navigation-bar---features)
+        + [Header Features](#header-features)
+        + [Footer Features](#footer-features)
         + [Home Page - Features](#home-page---features)
         + [Arthur I Page - Features](#arthur-I-page---features)
         + [Avalon Page - Features](#avalon-page---features)
@@ -194,48 +197,65 @@ You will find in the points stated below a brief study aiming at providing the u
 
 # DESIGN CHOICES
 
-## Colors
+## COLORS
 I have created the color palette myself, and the [Coolor.co](https://coolors.co/) website has only been used to display all the colors beautifully for the screenshot below. The colors selected are as follows:
 
 - ***Turkey Red*** **#B30502** / **RGB(179,5,2)**:
+
     + **Use**: All headers' background color.
+
     + **Rationale**: The selection of this tone is due to two main factors.
-        + The 1st point is that it is the background color of the [coat of arms](https://commons.wikimedia.org/wiki/File:Blason_maison_Plantagen%C3%AAt.svg) of the [Plantagenet dynasty](https://en.wikipedia.org/wiki/House_of_Plantagenet), which was the dynasty ruling England (1154-1485), and to which all the main characters of the website belonged.
-        + The 2nd factor is that it is also the predominant color found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, and more precisely the [roll genealogy of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) dated c.1300 where our main characters' portraits are depicted. 
+
+        1. It is the background color of the [coat of arms](https://commons.wikimedia.org/wiki/File:Blason_maison_Plantagen%C3%AAt.svg) of the [Plantagenet dynasty](https://en.wikipedia.org/wiki/House_of_Plantagenet), which was the dynasty ruling England (1154-1485), and to which all the main characters of the website belonged.
+
+        2. It is also the predominant color found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, and more precisely the [roll genealogy of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) dated c.1300 where our main characters' portraits are depicted.
 
 - ***Dark Red*** **#8F0303** / **RGB(143,3,3)**:
+
     + **Use**: Background color for the *footer*, and the *sign-up form*.
+
     + **Rationale**: A slightly darker tone than the former which resembles bloodish red, reminding of the tragic and fatal ending of our main character, Arthur I of Brittany, who battled against John Lackland for the succession to the throne of England after King Richard "the Lionheart" died, and supposedly captured and murdered when he was only 16 years old by his opponent, who finally ruled.
 
 - ***White Smoke*** **#F5F5F5** / **RGB(245,245,245)**:
+
     + **Use**: Fonts that are on an *Eerie Black* background.
+
     + **Rationale**: To ensure clear contrast and readability for the user. Also, its name *White Smoke* is the signal from the Vatican when a new Pope is selected. The church was all-mighty, and its power had no boundaries back in the Middle ages, so it also brings that to mind.
 
 - ***Eerie Black*** **#1B1B1B** / **RGB(27,27,27)**:
+
     + **Use**: Backgrounds of content pages as *Arthur* and *Avalon*.
+
     + **Rationale**: To favour contrast with the colorful captions embedded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
 
 - ***Onyx*** **#424242** / **RGB(66,66,66)**:
+
     + **Use**: Fonts that have a background of *White Smoke*, in the *home page description section*, and the *sign-up page sections*.
+
     + **Rationale**: To gain clear contrast, and ensure users' readability, with a softer tone of dark grey.
 
 - ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
+
     + **Use**: The navigation bar background color.
+
     + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot surrounding this site investigation, full of shadows and blood.
 
 - ***Timberwolf*** **#D6D6D6** / **RGB(214,214,214)**:
+
     + **Use**: The *headers' 1st letters*, the *vertical or horizontal lines in the headers* that resemble a spear or sword, and for the background of the *button to the sign-up page* in the navigation bar.
+
     + **Rationale**: Gives a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron: armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval utensils were made of metal.  
 
-![image](https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)
+    ![image](https://github.com/Ethra8/history_beyond_myth/blob/939b243f05b2fbd01a7fd7398b33133c3c356627/color%20palette%20History%20beyond%20Myth.png)
 
  
-## Typography  
+## TYPOGRAPHY  
 - I found in [Google Fonts](https://fonts.google.com/) styles that match the Medieval topic of the website.
 - The headings decrease in size to ensure full responsiveness of the website.
 - Check the selection of Google Fonts [here](https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Jim+Nightshade&family=Metamorphous&family=Montserrat:wght@400;500;600;700&family=Reenie+Beanie&family=UnifrakturCook:wght@700&display=swap))
  
-### Fonts Used 
+### FONTS USED 
+
 1. [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=unifrak): Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
 
 2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only available in bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
@@ -250,7 +270,8 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 7. [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse): Modern sans-serif very readable font for main content.   
 
-### Rationale of Use
+### RATIONALE OF USE
+
 - **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
@@ -275,29 +296,31 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 - **HEADER SIGN-UP PAGE**:
 
-      * Use of **Metamorphous** (upper case).
+  * Use of **Metamorphous** (upper case).
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4d6ca3f7-517f-4241-b592-956dc5cc30a1)
 
 
-- **NAVIGATION BAR**: Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
+- **NAVIGATION BAR**:
+
+  *Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bd336a72-a4d7-471c-b3bd-60cfa170a935)
 
 
- - **SECTION HEADINGS** (h2):
+- **SECTION HEADINGS** (h2):
      
-      * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
-      * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
+  * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
+
+  * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
 
    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1a3c51c-d07d-4674-b24c-aebb9554cb29)
 
- - **MAIN CONTENT**
+- **MAIN CONTENT**
       
-      * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
+  * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9cbd0c75-55ac-4adb-b6b0-04f94c2d65a3)
-
 
 
 ## IMAGERY
@@ -376,11 +399,11 @@ The images of this section change, depending on the size of the screen, as follo
    
     * **TABLET** (max. width of 
 
-  1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
+  1. **Portrait of King Richard "the Lionheart"**: Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
 
-  2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
+  2. **Portrait of Count Geoffrey II of Brittany**: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
     
@@ -402,7 +425,7 @@ The image of this section is the **Hero Image**, which remains the same in all s
 #### AVALON PAGE - HEADER IMAGE  
 The image on the header changes slightly depending on the size of the screen, to adapt to the change of display of the header accordingly, and aim at full responsiveness. Even though the same image is used, its final displays changes by including it as the background to a div inside the header, which changes its width and height on smaller devices, as follows:  
 
-- [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)  
+- [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de [Dagmara Dombrovska](https://www.pexels.com/es-es/@dagmara-dombrovska-22732579/) at [Pexels.com](https://www.pexels.com/)  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
 
@@ -486,6 +509,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
 ### HOVER  
 
 #### NAVIGATION BAR - HOVER  
+
 - ***Links to other pages***: As the user hovers through the names of the other pages links, the color of the fonts turn from *whitesmoke* *#F3F1F1* to *#D6D6D6*, a light grey shade:  
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
@@ -500,6 +524,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
 
 #### HOME PAGE DESCRIPTION - HOVER
+
 - ***Section 3: Reasons to sign up*** - ON the bottom of this section, there is a button-like styled link to the **sign-up page** which changes color on hover from #B30502 to #8f0303, and also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button-like link has been pushed downwards on hover:
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/ce81adf6-6b75-4b0c-bb76-f242b2cf6685
@@ -507,19 +532,22 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
 #### SIGN-UP FORM - HOVER  
 
-- **Sign-up Form**
+- ***Sign-up Form***
+
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
 
 
 #### FOOTER ICONS - HOVER  
+
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/d4aa012c-6ebc-4ecf-92b9-286508a2604d
 
 
 #### FOOTER EMAIL LINK - HOVER
+
 Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/9d378811-636a-41a5-a63c-ef0e708d8305
@@ -534,7 +562,8 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 
 - **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
-      transition: all 0.5s linear;
+
+transition: all 0.5s linear;
   
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
 
