@@ -165,19 +165,16 @@
      border-radius: 10px;
      padding: 5px 10px 5px;
      transition: color 0.5s linear;
-
  }
 
  /* style fontawesome icon fa-bars */
  nav #list_symbol .fa-bars {
      color: #D6D6D6;
      transition: color 0.5s linear;
-
  }
 
  nav #list_symbol .fa-bars:hover {
      color: #B30502;
-
  }
 
  nav #list_symbol:hover {
@@ -206,7 +203,7 @@
      font-family: 'Metamorphous', cursive;
      font-size: 1rem;
      font-weight: bold;
-
+     transition: all 0.2s linear;
  }
 
  nav a:hover {
@@ -804,14 +801,18 @@
  footer #contact_us p {
      margin-top: 0;
      font-size: 1rem;
+     display: inline-block;
  }
 
  footer #contact_us a {
      text-decoration: none;
      color: #F3F1F1;
+     transition: all 0.5s linear;
+
  }
 
  footer #contact_us a:hover {
+     color: #D6D6D6;
      font-weight: 500;
  }
 
@@ -821,6 +822,7 @@
      color: #F3F1F1;
      padding: 0 30px;
      font-size: 30px;
+     transition: all 0.5s linear;
  }
 
  footer .fab:hover,
@@ -1217,17 +1219,24 @@
      font-weight: 600;
      background-color: #D6D6D6;
      color: #1B1B1B;
-     width: 70%;
-     margin: 30px 15% 20px;
-     height: 2.5rem;
+     width: 100%;
+     margin: 30px auto 20px;
+     padding: 15px 30px;
      align-items: center;
+     border-style: outset;
+     border-color: #B30502;
+     border-width: 2px;
      border-radius: 10px;
      min-width: 150px !important;
      cursor: pointer;
+     box-shadow: 3px 3px 10px #424242;
+     transition: all 0.2s linear;
  }
 
  #sign_up_form button:hover {
      background-color: #F3F1F1;
+     box-shadow: none;
+
  }
 
  #w3s_css_test_success {
