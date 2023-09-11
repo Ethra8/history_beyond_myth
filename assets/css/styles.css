@@ -176,7 +176,7 @@
  }
 
  nav #list_symbol .fa-bars:hover {
-     color: #C80A0F;
+     color: #B30502;
 
  }
 
@@ -215,7 +215,7 @@
 
  nav>li>.active {
      font-weight: bold;
-     color: #C80A0F;
+     color: #B30502;
  }
 
  nav .avalon {
@@ -277,7 +277,7 @@
      padding: 140px 7% 30px;
      min-height: fit-content;
      max-height: fit-content;
-     background-color: #C80A0F;
+     background-color: #B30502;
  }
 
  #index h1 {
@@ -404,7 +404,7 @@
  }
 
  #go_to_sign_up_page {
-     background-color: #C80A0F;
+     background-color: #B30502;
      text-align: center;
      width: auto;
      padding: 15px;
@@ -439,7 +439,7 @@
  #avalon header {
      padding: 120px 7% 40px;
      min-height: fit-content;
-     background-color: #C80A0F;
+     background-color: #B30502;
      z-index: 900;
      display: flex;
      flex-direction: row;
@@ -963,7 +963,7 @@
      padding: 120px 7% 30px;
      min-height: 5rem;
      max-height: 12rem;
-     background-color: #C80A0F;
+     background-color: #B30502;
      line-height: 1.7;
      margin-bottom: 0;
  }
