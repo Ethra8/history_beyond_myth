@@ -322,11 +322,11 @@ Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, r
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany_150x175px.avif)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany_150x175px.avif)  
 
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
 
 #### ARTHUR I PAGE - BACKGROUND IMAGE
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
@@ -346,11 +346,11 @@ The images of this section change, depending on the size of the screen, as follo
     * **TABLET** (max. width of 
   1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
 
   2. Portrait of Count Geoffrey II of Brittany: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
     
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
 The image of this section is responsive. While the figure it is placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens.  
@@ -384,7 +384,8 @@ The image on the header changes slightly depending on the size of the screen, to
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/58b477db-5f0c-4238-8181-42c8df7a2af9)  
 
       + **PHONES** (max. 576 px width): 130px width, 143px height  
-        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
+
+         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
 
 #### AVALON PAGE - BACKGROUND IMAGE  
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:  
@@ -405,17 +406,17 @@ The image on the header changes slightly depending on the size of the screen, to
 The image of this section remains the same in all screen sizes, adapting its width and height accordingly, bringing responsiveness to the site.  
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6210dab8-b168-4205-8684-29e51ef16f4d)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6210dab8-b168-4205-8684-29e51ef16f4d)
 
 #### SECTION 4 - MEDIEVAL JEWELRY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
 - [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)   
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25a8a3f3-61ab-4fd3-8013-2211cbb77c03)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25a8a3f3-61ab-4fd3-8013-2211cbb77c03)
 
 #### SECTION 7 - MISTS OF GUERNSEY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
 
 
 ### SIGN-UP PAGE - IMAGERY  
@@ -430,10 +431,10 @@ The image of this section remains the same in all screen sizes, but in different
 #### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9a7cbe31-e7b0-4167-9e6e-b3c1092c75e4)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9a7cbe31-e7b0-4167-9e6e-b3c1092c75e4)
 
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
 
 ### 404 ERROR PAGE - IMAGERY  
 #### 404 ERROR PAGE - BACKGROUND IMAGE  
