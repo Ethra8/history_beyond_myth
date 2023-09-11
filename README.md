@@ -340,13 +340,16 @@ The images of this section change, depending on the size of the screen, as follo
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
     
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
+The image of this section is responsive. While the figure it is placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens.  
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/939c866f-03e4-46fc-89d9-fdf2d7e776c1)
 
 
 #### SECTION 3 - DEATH OF KING RICHARD I  
 The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 
 #### SECTION 4 - TWO KINGS ONE THRONE  
-- **Zoom-in of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
   
