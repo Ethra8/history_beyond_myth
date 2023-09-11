@@ -411,11 +411,13 @@ The image of this section remains the same in all screen sizes, adapting its wid
 #### SECTION 4 - MEDIEVAL JEWELRY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
 - [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)   
+
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25a8a3f3-61ab-4fd3-8013-2211cbb77c03)
 
 #### SECTION 7 - MISTS OF GUERNSEY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
+
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
 
 
@@ -426,21 +428,25 @@ The image of this section remains the same in all screen sizes, but in different
     * **LAPTOPS** (min. size of 1200px): 1920px width, 1278px height  
     * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height  
     * **PHONES** (max. size of 576px): 640px width, 426 height    
+   
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)  
 
 #### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
+
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9a7cbe31-e7b0-4167-9e6e-b3c1092c75e4)
 
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
+
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
 
 ### 404 ERROR PAGE - IMAGERY  
 #### 404 ERROR PAGE - BACKGROUND IMAGE  
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
+
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
 ## Animations and Transitions   
 
@@ -448,44 +454,58 @@ The image remains the same in all screen sizes, and repeats itself both through 
 #### NAVIGATION BAR - HOVER  
 - ***Links to other pages***: As the user hovers through the names of the other pages links, the color of the fonts turn from *whitesmoke* *#F3F1F1* to *#D6D6D6*, a light grey shade:  
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
 
 - ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/b0ffc341-5664-488a-bcb2-4671dc3aad1e
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/b0ffc341-5664-488a-bcb2-4671dc3aad1e
+
+- ***Collapsed Navigation Bar: Bars Icon***: On **phones** and **portrait tablets** (max. width of 768px), when the responsive navigation is collapsed, the icon bar that triggers the navigation bar to uncollapse when clicked, changes color from #D6D6D6 to #B30502, and its parent container, which is transparent with a border in #D6D6D6, changes the color of its border to *whitesmoke* on hover  :
+
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/121adea5-b099-4980-8c05-b288407d414f
 
 #### SIGN-UP FORM - HOVER  
 - **Sign-up Form**
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/0698eb40-8390-4d24-8e58-64815194b21a
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/0698eb40-8390-4d24-8e58-64815194b21a
 
 #### HOME PAGE DESCRIPTION - HOVER
-- On the bottom of the *"Reasons to Sign Up" section, the is a button-like link to the *sign-up page*, with a hover feature that changes its background color from #B30502 to #8f0303:
+- On the bottom of the *"Reasons to Sign Up" section, the is a button-like link to the *sign-up page*, with a hover feature that changes its background color from #B30502 to slightly darker tone #8f0303:
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/1c1e8bb2-2b75-444d-b6e8-fab0b6c64c62
-
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/1c1e8bb2-2b75-444d-b6e8-fab0b6c64c62
 
 #### FOOTER ICONS - HOVER  
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
 
 #### EMAIL LINK - HOVER
 Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
 
 ### TRANSITIONS
-- **Navigation Bar**: Has a slight transition of top 0.5 seconds,  so that 
-  * **Link to Sign-up Page** - *transition: all 0.5s linear;* when user hovers, the background color changes less abruptly, improving the visuals and user experience: [watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83)
 
-  * **Collapsed**: Has the following transitions to improve visuals and user experience:
-    + ***transition: height .3s linear*** - Gives more elegance when collapsed navbar is toggled to uncollapse, as items display in a softer way downwards:
-[watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec)
-    + ***transition: all .7s linear***:  so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
-[watch video](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3)
-    + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly
+#### NAVIGATION BAR - TRANSITIONS
+  
+- **Nav Element** - Has a slight transition of top 0.5 seconds,  so that it displays less abruptly onload.
+  
+- **Link to Sign-up Page** - *transition: all 0.5s linear;* when user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:
+
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
+
+- **Small Devices - Uncollapse**: Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
+
+  + ***transition: height 0.3s linear*** - items display in a softer way downwards:
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
+
+  + ***transition: all 0.7s linear***:  so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
+
+  + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly
 
 
 
@@ -498,8 +518,11 @@ The site contains 4 pages navigable pages, and a 404 error page. All pages, incl
 
 ### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html)
 Acting as the *landing page*, it contains the header with the title of the site. Underneath it there is a row of depictions taken from medieval manuscripts, all related to the site's investigation and theories on the Arthur mythos. Then, there is the *Site description*, which contains *3 sections*:
+
 1. **About us** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
+
 2. **Keeping it Real** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
+
 3. **Reasons to Sign Up** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
     1. Receive our monthly newsletter containing updates on any new curious coincidences found around this matter.
     2. Become part of our vibrant community, and attend cultural and social events related to the Early Middle Ages around Europe, such as expositions, lectures, and conferences.
@@ -508,22 +531,34 @@ Acting as the *landing page*, it contains the header with the title of the site.
 
 ### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) 
 States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display on hover:
+
 1. **Heir to King Richard the Lionheart**
+
 2. **Retained by the King of France**
+
 3. **Death of King Richard I**
+
 4. **Two Kings, One Throne**
+
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
 ### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html)  
 States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
+
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
+
 2. **England's Kings were French**: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings spoke French on a regular basis, and not English.
+
 3. **The Value of Abalones**: As some users may not be aware of the existence of these marine gastropod moluscs, this section provides references on the value of abalones from ancient times, both for their mother-of-pearl large-sized shell, with distinctive shades of color, as for their meat-like taste. Also brings references on how the Isle of Guernsey is home the most appreciated European abalone since ancient times.
+
 4. **Medieval Jewelry**: This section provides the reader with evidence and reference of medieval jewelry from the Frankrish Kingdom made of mother-of-pearl (most probably abalone). There is also a picture of a [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) found dated c.600, part of the *Medieval Art* collection of the **The Met Museum** in New York.
+
 5. **Abalones, the Sea Truffles**: This section aims to provide the reader with more detailed evidence and reference of what was previously stated in the section "the Value of Abalones". As abalones are still very much valued as a luxury product nowadays, considered the sea truffles by the French, a *Youtube* video has been included showing [two Michellin starred chef preparing and cooking abalones](https://youtu.be/o5VPONMX19Q) in his restaurant.
+
 6. **Strategic Location**: This section has an interactive map from *Google Maps* showing the exact location of the Island of Guernsey, half-way from Brittany and south Wales.
+
 7. **Mists of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mists surrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island immersed into profound mists.
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
 
 ### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html)  
 This page contains the following:
@@ -531,13 +566,16 @@ This page contains the following:
 - **Events Section**: PLaced on the top-left side of large devices such as laptops, and after the form in smaller devices such as tablets or phones. This section contains two subsections:
     * **Social Events**: Brief description of the events that the user will be informed of, after deciding to sign-up.
     * **Sight Seeing**: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
+    
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
 
 ### [404 ERROR PAGE](https://englishgrows.com/history_beyond_myth/404.html) 
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
-## Design Elements
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
+
+## DESIGN ELEMENTS
+
 ### AUDIO
 - ***Avalon Page***: Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
 
