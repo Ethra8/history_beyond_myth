@@ -501,8 +501,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
 #### HOME PAGE DESCRIPTION - HOVER
 - ***Section 3: Reasons to sign up*** - ON the bottom of this section, there is a button-like styled link to the **sign-up page** which changes color on hover from #B30502 to #8f0303, and also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button-like link has been pushed downwards on hover:
 
-  https://github.com/Ethra8/history_beyond_myth/assets/80659091/1670fec6-9e51-4e8e-aa8e-6de8d351a9ac
-
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/ce81adf6-6b75-4b0c-bb76-f242b2cf6685
 
 
 #### SIGN-UP FORM - HOVER  
