@@ -176,7 +176,7 @@
  }
 
  nav #list_symbol .fa-bars:hover {
-     color: #B30502;
+     color: #C80A0F;
 
  }
 
@@ -215,7 +215,7 @@
 
  nav>li>.active {
      font-weight: bold;
-     color: #B30502;
+     color: #C80A0F;
  }
 
  nav .avalon {
@@ -404,7 +404,7 @@
  }
 
  #go_to_sign_up_page {
-     background-color: #B30502;
+     background-color: #C80A0F;
      text-align: center;
      width: auto;
      padding: 15px;
@@ -439,7 +439,7 @@
  #avalon header {
      padding: 120px 7% 40px;
      min-height: fit-content;
-     background-color: #B30502;
+     background-color: #C80A0F;
      z-index: 900;
      display: flex;
      flex-direction: row;
@@ -862,7 +862,7 @@
  }
 
  #avalon .background_image {
-     background: url('../images/rocky-beach-guernsey-near-fort-houmet.avif') top -50px center fixed;
+     background: url('../images/rocky-beach-guernsey-near-fort-houmet.avif') top -450px center fixed;
      overflow: hidden;
  }
 
@@ -963,7 +963,7 @@
      padding: 120px 7% 30px;
      min-height: 5rem;
      max-height: 12rem;
-     background-color: #B30502;
+     background-color: #C80A0F;
      line-height: 1.7;
      margin-bottom: 0;
  }
@@ -1235,13 +1235,21 @@
 
 
  /******* 404 ERROR PAGE*****/
- #error404 {
-     background-color: #B30502;
- }
+ /* #error404 header {
+     background: url('../images/Error404_thinker_CodexManesse.avif') top 370px left fixed repeat;
+ } */
+
+ /* #error404 header .heading {
+     background-color: rgba(179, 5, 2, 0.9);
+     border-radius: 10px;
+     margin: 50px 7%;
+     padding: 40px;
+ } */
 
  #error_img {
      background: url('../images/Error404_thinker_CodexManesse.avif') top 370px left fixed repeat;
-     height: 500px;
+     height: 300px;
+     max-height: 1000px;
  }
 
 
@@ -2168,5 +2176,17 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /*** 404 ERROR ***/
      #error_img {
          background: url('../images/Error404_thinker_CodexManesse.png') top 430px left fixed repeat;
+     }
+
+     #error404 header {
+         margin: 0;
+         padding: 0;
+     }
+
+     #error404 header .heading {
+         background-color: rgba(143, 3, 3, 0.9);
+         border-radius: 10px;
+         margin: 0;
+         padding: 12%;
      }
  }
