@@ -561,7 +561,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 #### NAVIGATION BAR - TRANSITIONS
   
 - **NAV ELEMENT** - Has a slight transition, so that it displays less abruptly onload:   
-transition: top 0.5s;
+     transition: top 0.5s;
 
 
 - **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
