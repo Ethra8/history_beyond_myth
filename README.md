@@ -27,7 +27,7 @@ EDNA TORRES MUNILL
 - [PROJECT OVERVIEW](#project-overview)  
     * [Live Site](#live-site)  
     * [Repository](#repository)  
-    * [Author](#Author)  
+    * [Author](#author)  
 
 - [UX](#UX)
     * [Target Audience](#target-audience)
@@ -45,11 +45,11 @@ EDNA TORRES MUNILL
         + [Home Page - Imagery](#home-page---imagery)
             1. [Home Page - Background Image](#home-page---background-image)
             2. [Home Page - Underneath the Header](#home-page---underneath-the-header)
-        + [Arthur I Page - Imagery](#arthur-I-page---imagery)
+        + [Arthur I Page - Imagery](#arthur-i-page---imagery)
             1. [Arthur I Page - Header Image](#arthur-i-page---header-image)
             2. [Arthur I Page - Background Image](#arthur-i-page---background-image)
             3. [Section 1 - Heir to King Richard The Lionheart](#section-1---heir-to-king-richard-the-lionheart)
-            4. [Section 2 - Retained by the King of France](#section-2---retained-by-the-king-france)
+            4. [Section 2 - Retained by the King of France](#section-2---retained-by-the-king-of-france)
             5. [Section 3 - Death of King Richard I](#section-3---death-of-king-richard-i)
             6. [Section 4 - Two Kings One Throne](#section-4---two-kings-one-throne)
         + [Avalon Page - Imagery](#avalon-page---imagery)
@@ -57,26 +57,26 @@ EDNA TORRES MUNILL
             2. [Avalon Page - Background Image](#avalon-page---background-image)
             3. [Section 3 - The Value of Abalones](#section-3---the-value-of-abalones)
             4. [Section 4 - Medieval Jewelry](#section-4---medieval-jewelry)
-            5. [Section 7 - Mists og Guernsey](#section-7---mists-of-guernsey)
+            5. [Section 7 - Mists of Guernsey](#section-7---mists-of-guernsey)
         + [Sign-up Page - Imagery](#sign-up-page---imagery)
             1. [Sign-up Page - Background Image](#sign-up-page---background-image)
             2. [Events Section - Imagery](#events-section---imagery)
-        + [404 Error Page - Imagery](#404-error-page---imagery)
-            1. [404 Error Page - Background Image](#404-error-page---background-image)
+        + [404 Page - Imagery](#404-page---imagery)
+            1. [404 Page - Background Image](#404-page---background-image)
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
             - [Home Page Description - Hover](#home-page-description---hover)
-            - [Sign-up Form - Hover](#sing-up-page---hover)
+            - [Sign-up Form - Hover](#sign-up-form---hover)
             - [Footer Icons - Hover](#footer-icons---hover)
             - [Footer Email Link - Hover](#footer-email-link---hover)
         + [Transitions](#transitions)
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
-        + [Arthur I Page - Structure](#arthur-I-page---structure)
+        + [Arthur I Page - Structure](#arthur-i-page---structure)
         + [Avalon Page - Structure](#avalon-page---structure)
         + [Sign-up Page - Structure](#sign-up-page---structure)
-        + [404 Error Page - Structure](#404-error-page---structure)
+        + [404 Page - Structure](#404-page---structure)
     * [Design Elements](#design-elements)
         + [Audio](#audio)
         + [Video](#video)
@@ -90,21 +90,21 @@ EDNA TORRES MUNILL
    
 - [FEATURES](#features)
     * [Implemented Features](#implemented-features)
-        + [Navigation Bar - Features](navigation-bar---features)
+        + [Navigation Bar - Features](#navigation-bar---features)
         + [Header - Features](#header---features)
         + [Footer - Features](#footer---features)
         + [Home Page - Features](#home-page---features)
         + [Arthur I Page - Features](#arthur-I-page---features)
         + [Avalon Page - Features](#avalon-page---features)
         + [Sign-up Page - Features](#sign-up-page---features)
-        + [404 Error Page - Features](#404-error-page---features)
+        + [404 Page - Features](#404-error-page---features)
     * [Future Features](#future-features)
         + [Add Pages](#add-pages)
             1. [Camelot](#camelot)
-            2. [Guinevere-and-lancelot](#guinevere-and-lancelot)
-            4. [Morgana](#morgana)
-            5. [Knights of the Round Table](#knights-of-the-round-table)
-            6. [Recommended Books and Sites](#recommended-books-and-sites)
+            2. [Guinevere-and-Lancelot](#guinevere-and-lancelot)
+            3. [Morgana](#morgana)
+            4. [Knights of the Round Table](#knights-of-the-round-table)
+            5. [Recommended Books and Sites](#recommended-books-and-sites)
         + [Caroussel](#caroussel)
         + [Online Shop](#online-shop)
         + [Online Booking]
@@ -316,7 +316,8 @@ Full caption of the whole page [f.361v](https://www.bl.uk/manuscripts/Viewer.asp
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/full_manuscript_background_AVI.avif)
 
 #### HOME PAGE - UNDERNEATH THE HEADER
-all related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
+This section has a height of 200px in all screen sizes.  
+All images in this section are related to the Arthurian mythos, and taken from digitalised medieval manuscripts written around the same century. Most images in this section reappear in subsequent pages. The images are here meant to be purely decorative, and their overflow is hidden, so users will see a different amount of images at this point, deppending on the size of the device used:
 
 1. Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
 
@@ -472,8 +473,8 @@ The images of this section remain the same in all screen sizes, adapting its wid
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
 
-### 404 ERROR PAGE - IMAGERY  
-#### 404 ERROR PAGE - BACKGROUND IMAGE  
+### 404 PAGE - IMAGERY  
+#### 404 PAGE - BACKGROUND IMAGE  
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
 
@@ -528,8 +529,8 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 #### NAVIGATION BAR - TRANSITIONS
   
-- **NAV ELEMENT** - Has a slight transition, so that it displays less abruptly onload.  
-  - transition: top 0.5s;
+- **NAV ELEMENT** - Has a slight transition, so that it displays less abruptly onload:   
+      transition: top 0.5s;
 
 
 - **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
@@ -556,23 +557,23 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd
 
 
 
-## Site Structure
+## SITE STRUCTURE
 The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
 
-### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html)
+### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html) - STRUCTURE
 Acting as the *landing page*, it contains the header with the title of the site. Underneath it there is a row of depictions taken from medieval manuscripts, all related to the site's investigation and theories on the Arthur mythos. Then, there is the *Site description*, which contains *3 sections*:
 
-1. **About us** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
+  1. **ABOUT US** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
 
-2. **Keeping it Real** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
+  2. **KEEPING IT REAL** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
 
-3. **Reasons to Sign Up** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
+  3. **REASONS TO SIGN UP** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
     1. Receive our monthly newsletter containing updates on any new curious coincidences found around this matter.
     2. Become part of our vibrant community, and attend cultural and social events related to the Early Middle Ages around Europe, such as expositions, lectures, and conferences.
     3. Share any possible new findings of your own with us, and eventually contribute to unveil long-lasting mysteries from the Dark Ages.
     4. Every once in a while, we organize some visits to emblematic sights related to the curious coincidences found between history and myth. Join in!
 
-### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) 
+### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) - STRUCTURE
 States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display on hover:
 
 1. **Heir to King Richard the Lionheart**
@@ -585,7 +586,7 @@ States the curious coincidences found between the legendary King Arthur, and the
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
-### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html)  
+### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html) - STRUCTURE
 States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
 
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
@@ -603,16 +604,18 @@ States the curious coincidences found between the legendary Island of Avalon, an
 7. **Mists of Guernsey**: This last section finally includes a seascape picture of Guernsey during sunset, clearly showing its mists surrounding the sharp rocks that go way in the ocean's shallow seabed all around the island. Some imagery of the mythical Island of Avalon depictures the island immersed into profound mists.
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
 
-### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html)  
+### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html) - STRUCTURE
 This page contains the following:
+
 - **Sign-up Form**: Placed on the top of the page in any screen size, after the header. On laptops, it is displayed on the right side of the screen, sharind the screen width with the events section. But as this page, as all others, is **responsive**, on smaller devices as tablets or phones, the form stays at the top, not sharing the width with the events section.
+
 - **Events Section**: PLaced on the top-left side of large devices such as laptops, and after the form in smaller devices such as tablets or phones. This section contains two subsections:
     * **Social Events**: Brief description of the events that the user will be informed of, after deciding to sign-up.
     * **Sight Seeing**: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
     
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
 
-### [404 ERROR PAGE](https://englishgrows.com/history_beyond_myth/404.html) 
+### [404 PAGE](https://englishgrows.com/history_beyond_myth/404.html) - STRUCTUE
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
@@ -620,25 +623,49 @@ Provides the user with an error page that follows the same line of design as the
 ## DESIGN ELEMENTS
 
 ### AUDIO
-- ***Avalon Page***: Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+
+- **AVALON PAGE**:
+    * **SECTION 1: FRENCH PRONUNCIATION OF ABALONE**  
+    Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8f72db7-c4a0-452f-84b5-86f8ad9923cf)
+
 
 ### VIDEO 
-- ***Avalon Page***: there are two *Youtube* videos embedded:
-    1. Song written by King Richard "The Lionheart" in old French dialect, which aims to provide the user with an entertaining demonstration of how predominant was French language at that time. It also aims to link to the supposition that *abalone* might be the origin of *avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, and the European reference place where they naturally grew. 
+
+- **AVALON PAGE**: there are two *Youtube* videos embedded:
+    
+    1. **SECTION 2: ENGLAND'S KINGS WERE FRENCH**  
+    [***"Ja Nuns Hons Pris"***: Song written by King Richard "The Lionheart" in old French dialect](https://www.youtube.com/watch?v=-1BG1UEACHs), provides the user with an entertaining evidence of the predominance of French language whithin the Plantagenet dynasty ruling England during the 12th-13th centuries. It also aims to link to the supposition that *abalone* might be the etymology of *Avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, as the European reference place where they naturally grew.
+    
+    2. **SECTION 5: ABALONES, THE SEA TRUFFLES**  
+    [***Two Michellin starred chef preparing and cooking abalones***](https://youtu.be/o5VPONMX19Q) evidences that abalones are still very much valued as a luxury product nowadays, considered the *sea truffles* by the French.
 
 ### ICONS 
-- ***Footer***: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
+
+- **FOOTER**: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/acdf235f-e61d-4b3d-bf91-3099465f983e)
+
 
 ### INTERACTIVE MAP
-***Avalon Page***: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embedded showing the exact location of the Isle of Guernsey.
+
+- **AVALON PAGE**: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embedded showing the exact location of the Isle of Guernsey.
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c4fc659-b653-4175-a5cf-c57b7e26382c)
+
 
 ### FORM
-- ***Sign Up Form***: The form is placed in the sing-up page, and includes the following ***inputs***:
-    * *2 Inputs type=text required* - The user must include First name, and Last Name to be able to send the form.
-    * *Input type=email required* - The user must include an email to be able to send the form.
-    * *Input type=radio required* - The user must select 1 of 3 options, on whether he/she likes sight seeing. This field is requested, to help the site administrators decide on the frequency to organize seight seeing visits to emblematic places related to the investigation.
-    * *Input type=file optional* - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
-    * *Textarea optional* - The user can include a message, if he/she wants to share some thoughts.
+
+- **SIGN-UP FORM**: The form is placed in the sing-up page, and includes the following ***inputs***:
+    * ***2 Inputs type=text required*** - The user must include First name, and Last Name to be able to send the form.
+    * ***Input type=email required*** - The user must include an email to be able to send the form.
+    * ***Input type=radio required*** - The user must select 1 of 3 options, on whether he/she likes sight seeing. This field is requested, to help the site administrators decide on the frequency to organize seight seeing visits to emblematic places related to the investigation.
+    * ***Input type=file optional*** - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
+    * ***Textarea optional*** - The user can include a message, if he/she wants to share some thoughts.
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4df633b3-20da-431e-a6a6-8ae1d93cf291)
+
 
 ## Wireframes
 
@@ -648,17 +675,48 @@ Provides the user with an error page that follows the same line of design as the
 
 ### Desktop Wireframes
 
-# Features
+# FEATURES
 
-## Implemented Features
+## IMPLEMENTED FEATURES
 
-## Future Features
+### NAVIGATION BAR FEATURES
 
-## Testing
+### HEADER FEATURES
 
-## Validation Testing
+### FOOTER FEATURES
 
-### CSS Validation
+### HOME PAGE - FEATURES
+
+### ARTHUR I PAGE - FEATURES
+
+### AVALON PAGE - FEATURES
+
+### SIGN-UP PAGE - FEATURES
+
+### 404 PAGE - FEATURES
+
+
+## FUTURE FEATURES
+
+### ADD PAGES
+  1. #### CAMELOT
+  2. #### GUINEVERE AND LANCELOT
+  3. #### MORGANA
+  4. #### KNIGHTS OF THE ROUND TABLE
+  5. #### RECOMMENDED BOOKS AND SITES
+
+### CAROUSSEL
+
+### ONLINE SHOP
+
+### ONLINE BOOKING
+
+
+## TESTING
+
+## VALIDATION TESTING
+
+### CSS VALIDATION
 - No errors nor warnings were returned when passing the CSS Validation Test.
 - Used CSS Validator at [Jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator)
 
@@ -666,9 +724,9 @@ Provides the user with an error page that follows the same line of design as the
 
 - Link to W3C CSS Validator results for https://englishgrows.com/history_beyond_myth/ (CSS level 3 + SVG) [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-### HTML Validation  
+### HTML VALIDATION  
 - No errors nor warnings were returned when passing the HTML Validation Test.
-- Used [HTML Validator](https://validator.w3.org/) to validate all this website pages:
+- Used [HTML Validator](https://validator.w3.org/) to validate all this website pages, as follows:
   
 **HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
     
