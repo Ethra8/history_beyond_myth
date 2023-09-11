@@ -115,7 +115,7 @@ EDNA TORRES MUNILL
             5. [Recommended Books and Sites](#recommended-books-and-sites)
         + [Caroussel](#caroussel)
         + [Online Shop](#online-shop)
-        + [Online Booking]
+        + [Online Booking](#online-booking)
 - [TESTING](#testing)
     * [Validation Testing](#validation-testing)
         + [CSS Validation](#css-validation)
