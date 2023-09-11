@@ -327,7 +327,10 @@ The images of this section change, depending on the size of the screen, as follo
   1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)  
 
-- **PORTRAIT TABLETS AND PHONES** (max. width of 991px):  
+- **PORTRAIT TABLETS AND PHONES** (max. width of 991px):
+  These two following image are responsive, and adapt to different screen sizes, as follow:
+    * **PHONES** (max. width of 576px): width of 190px, height fit-content, to maintain image final display without distorting it.
+    * **TABLET** (max. width of 
   1. Portrait of King Richard "the Lionheart": Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
@@ -372,11 +375,15 @@ The image on the header changes slightly depending on the size of the screen, to
 #### AVALON PAGE - BACKGROUND IMAGE  
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:  
 
-- **LAPTOPS AND TABLETS** (min. size of 577px): 1800px width, 1307px height
+- **LAPTOPS AND TABLETS** (min. size of 577px): 2000px width, 2000px height:  
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/16f2aa9b-dc10-4980-8378-dc647114723e)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ba4eb5d8-4ef4-4739-b215-d787c4aaf83d)
 
-- **PHONES** (max. size of 576px): 600px width, 1228 height   
+- **TABLETS** (min. size of 577px, and max. size of 1199px): 780 px. width, 1932 px. height:  
+
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0081adbd-34f5-4ed3-8af5-b22f4d4ed7a4)
+
+- **PHONES** (max. size of 576px): 600px width, 1228px height:    
 
    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8a45f31-ff00-4b4d-9833-4e5618b72916)
 
