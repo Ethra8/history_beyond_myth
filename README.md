@@ -357,7 +357,6 @@ The image of this section is responsive. While the figure it is placed in takes 
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/939c866f-03e4-46fc-89d9-fdf2d7e776c1)
 
-
 #### SECTION 3 - DEATH OF KING RICHARD I  
 The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
 
@@ -406,17 +405,19 @@ The image on the header changes slightly depending on the size of the screen, to
 #### SECTION 3 - THE VALUE OF ABALONES  
 The image of this section remains the same in all screen sizes, adapting its width and height accordingly, bringing responsiveness to the site.  
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
-![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)  
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6210dab8-b168-4205-8684-29e51ef16f4d)
 
 #### SECTION 4 - MEDIEVAL JEWELRY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
 - [Frankrish gold brooch](https://www.metmuseum.org/art/collection/search/465810) with mother-of-pearl, dated c.600 from the *Medieval Arts Collection* of [The Met Museum](https://www.metmuseum.org/)   
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Frankrish_jewelry_abalone_gold_disk_brooch.avif)   
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25a8a3f3-61ab-4fd3-8013-2211cbb77c03)
 
 #### SECTION 7 - MISTS OF GUERNSEY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/vertical-long-exposure-shot-seascape-guernsey-during-sunset.avif)   
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
+
 
 ### SIGN-UP PAGE - IMAGERY  
 #### SIGN-UP PAGE - BACKGROUND IMAGE  
