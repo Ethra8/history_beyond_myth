@@ -514,13 +514,14 @@ The image remains the same in all screen sizes, and repeats itself both through 
 #### FOOTER ICONS - HOVER  
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/02cf150c-b1b5-40a6-a729-02883788d2cf
 
 
 #### FOOTER EMAIL LINK - HOVER
 Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/9d378811-636a-41a5-a63c-ef0e708d8305
 
 
 ### TRANSITIONS
