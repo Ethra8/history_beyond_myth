@@ -568,23 +568,29 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
          transition: top 0.5s;
 
 
-- **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
+- **LINK TO SIGN-UP PAGE** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
 
-       + transition: all 0.5s linear;
+         transition: all 0.5s linear;
   
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
 
-- **Small Devices - Uncollapse**: Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
+- **PHONES & PORTRAIT TABLETS - Collapsed Navigation bar is Triggered to Display** (max. 767px) - Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
 
-  + ***transition: height 0.3s linear*** - items display in a softer way downwards:
+  * Listed items display in a softer way downwards:  
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
+           transition: height 0.3s linear; 
 
-  + ***transition: all 0.7s linear***:  so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
+  * so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
 
-  + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly
+           transition: all 0.7s linear;
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
+
+  * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
+
+           transition: all 0.1s linear
 
 
 #### FOOTER TRANSITIONS
