@@ -866,12 +866,12 @@
  }
 
  #avalon .background_image {
-     background: url('../images/rocky-beach-guernsey-near-fort-houmet_1800x1307px.avif') top -50px center fixed;
+     background: url('../images/rocky-beach-guernsey-near-fort-houmet.avif') top -50px center fixed;
      overflow: hidden;
  }
 
  #avalon .black_transparency {
-     background-color: rgba(51, 51, 51, 0.4);
+     background-color: rgba(51, 51, 51, 0.1);
      padding: 7%;
      z-index: 300;
  }
@@ -1758,6 +1758,12 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      /** AVALON ******/
+
+     /*** AVALON ***/
+     #avalon .background_image {
+         background: url('../images/rocky-beach-guernsey-near-fort-houmet_780x1932.avif') top -300px center fixed;
+     }
+
      #abalone_frenchPronunciation {
          width: 90%;
      }
