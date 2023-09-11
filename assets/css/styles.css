@@ -409,13 +409,15 @@
      width: auto;
      padding: 15px;
      border-radius: 15px;
-     border-style: outset;
+     border-style: ridge;
      border-width: 2px;
-     border-color: #8f0303;
+     border-color: #d6d6d6;
      font-family: 'Metamorphous', cursive;
-     font-size: 1.2rem;
+     font-size: 1.3rem;
      margin-top: 60px;
      cursor: pointer;
+     transition: all 0.2s linear;
+     box-shadow: 3px 3px 7px #424242;
  }
 
  #go_to_sign_up_page a {
@@ -423,8 +425,9 @@
      text-decoration: none;
  }
 
- #go_to_sign_up_page a:hover {
+ #go_to_sign_up_page:hover {
      background-color: #8f0303;
+     box-shadow: none;
  }
 
 
