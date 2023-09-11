@@ -196,26 +196,33 @@ You will find in the points stated below a brief study aiming at providing the u
 
 ## Colors
 I have created the color palette myself, and the [Coolor.co](https://coolors.co/) website has only been used to display all the colors beautifully for the screenshot below. The colors selected are as follows:
+
 - ***Turkey Red*** **#B30502** / **RGB(179,5,2)**:
     + **Use**: All headers' background color.
     + **Rationale**: The selection of this tone is due to two main factors.
         + The 1st point is that it is the background color of the [coat of arms](https://commons.wikimedia.org/wiki/File:Blason_maison_Plantagen%C3%AAt.svg) of the [Plantagenet dynasty](https://en.wikipedia.org/wiki/House_of_Plantagenet), which was the dynasty ruling England (1154-1485), and to which all the main characters of the website belonged.
         + The 2nd factor is that it is also the predominant color found in the illuminated manuscripts dated around the 13th century on which most of our investigation is founded, and more precisely the [roll genealogy of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) dated c.1300 where our main characters' portraits are depicted. 
+
 - ***Dark Red*** **#8F0303** / **RGB(143,3,3)**:
     + **Use**: Background color for the *footer*, and the *sign-up form*.
     + **Rationale**: A slightly darker tone than the former which resembles bloodish red, reminding of the tragic and fatal ending of our main character, Arthur I of Brittany, who battled against John Lackland for the succession to the throne of England after King Richard "the Lionheart" died, and supposedly captured and murdered when he was only 16 years old by his opponent, who finally ruled.
+
 - ***White Smoke*** **#F5F5F5** / **RGB(245,245,245)**:
     + **Use**: Fonts that are on an *Eerie Black* background.
     + **Rationale**: To ensure clear contrast and readability for the user. Also, its name *White Smoke* is the signal from the Vatican when a new Pope is selected. The church was all-mighty, and its power had no boundaries back in the Middle ages, so it also brings that to mind.
+
 - ***Eerie Black*** **#1B1B1B** / **RGB(27,27,27)**:
     + **Use**: Backgrounds of content pages as *Arthur* and *Avalon*.
     + **Rationale**: To favour contrast with the colorful captions embedded, taken from medieval illuminated manuscripts on which the investigation is based. The ink used in those early medieval manuscripts, mostly made from insects and ashes, has also inspired this selection.
+
 - ***Onyx*** **#424242** / **RGB(66,66,66)**:
     + **Use**: Fonts that have a background of *White Smoke*, in the *home page description section*, and the *sign-up page sections*.
     + **Rationale**: To gain clear contrast, and ensure users' readability, with a softer tone of dark grey.
+
 - ***Jet*** **#2E2E2E** / **RBG(46,46,46)**:
     + **Use**: The navigation bar background color.
     + **Rationale**: It reminds of the shadows and obscurity that still cover the early Middle Ages' history and myths, still full of shadows to unveil. Also, the contrast with the *Turkey Red* from the headers reminds of the main plot surrounding this site investigation, full of shadows and blood.
+
 - ***Timberwolf*** **#D6D6D6** / **RGB(214,214,214)**:
     + **Use**: The *headers' 1st letters*, the *vertical or horizontal lines in the headers* that resemble a spear or sword, and for the background of the *button to the sign-up page* in the navigation bar.
     + **Rationale**: Gives a metal-like appearance. All element have a strong shadow to give it volume. Middle Ages were full of iron: armours, shields, spears, swords, etc. But also cups, and all king of everyday medieval utensils were made of metal.  
@@ -230,23 +237,29 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
  
 ### Fonts Used 
 1. [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=unifrak): Medieval font by excellence, only used lower-case which are very readable, for index header's 1st letters, and for logo. Fall-back font to cursive.
+
 2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only available in bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
+
 3. [Metamorphous](https://fonts.google.com/specimen/Metamorphous?query=metamor): Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
+
 4. [Jim Nightshade](https://fonts.google.com/specimen/Jim+Nightshade?query=jim+night): Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
+
 5. [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie?query=reeni): Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
+
 6. [Fleur De Leah](https://fonts.google.com/specimen/Fleur+De+Leah?query=fleur): Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
+
 7. [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse): Modern sans-serif very readable font for main content.   
 
 ### Rationale of Use
- - **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
+- **LOGO**: Use of **UnifrakturMaguntia** for the single *h* from *"history"*. The logo is situated to the left of the navigation bar, and as a favicon in each page meta title:   
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
- - **HEADER (HOME PAGE)**:
-      * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
-      * The remaining text in headings use **Metamorphous** (upper case).
-      * All headers' extra text (p) use **Jim Nightshade**.
-      * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
+- **HEADER (HOME PAGE)**:
+    * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
+    * The remaining text in headings use **Metamorphous** (upper case).
+    * All headers' extra text (p) use **Jim Nightshade**.
+    * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a9646efb-2cb5-4b6a-b8a0-5d7f5157d1e8)
 
@@ -258,7 +271,6 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b94b29a8-8fdf-48eb-97d3-4e7a49b46f00)
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1e9a9e2-f688-4aa5-956b-53a253c449ec)
-
 
 
 - **HEADER SIGN-UP PAGE**:
@@ -275,7 +287,9 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
  - **SECTION HEADINGS** (h2):
       * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
       * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
- 
+
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1a3c51c-d07d-4674-b24c-aebb9554cb29)
+
  - **MAIN CONTENT**
       * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
