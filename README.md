@@ -66,8 +66,10 @@ EDNA TORRES MUNILL
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
-            - [Home Page - Hover](#home-page-description---link-to-sign-up-page)
+            - [Home Page Description - Hover](#home-page-description---hover)
             - [Sign-up Form - Hover](#sing-up-page---hover)
+            - [Footer Icons - Hover](#footer-icons---hover)
+            - [Footer Email Link - Hover](#footer-email-link---hover)
         + [Transitions](#transitions)
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
@@ -442,26 +444,34 @@ The image remains the same in all screen sizes, and repeats itself both through 
 ### HOVER  
 #### NAVIGATION BAR - HOVER  
 - ***Links to other pages***: As the user hovers through the names of the other pages links, the color of the fonts turn from *whitesmoke* *#F3F1F1* to *#D6D6D6*, a light grey shade:  
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d7fd75e-cd18-4321-9a92-3dda6f3ca9b6)
 
-- ***Sign-up link***: It's styled as a button, and as the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b8bff5b-14ae-4754-98b8-fa0cedac6cfb)
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
+
+- ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/b0ffc341-5664-488a-bcb2-4671dc3aad1e
 
 #### SIGN-UP FORM - HOVER  
 - **Sign-up Form**
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac6b4b86-eb45-480b-83b6-096983540945)![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/338f56c8-7b92-4227-aab4-3f62d57a8839)
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/0698eb40-8390-4d24-8e58-64815194b21a
 
 #### HOME PAGE DESCRIPTION - HOVER
 - On the bottom of the *"Reasons to Sign Up" section, the is a button-like link to the *sign-up page*, with a hover feature that changes its background color from #B30502 to #8f0303:
-https://github.com/Ethra8/history_beyond_myth/blob/media/History%20Beyond%20Myth%20-%20Google%20Chrome%202023-09-11%2016-21-09.mp4
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/1c1e8bb2-2b75-444d-b6e8-fab0b6c64c62
 
 
-#### MEDIA ICONS - HOVER  
-Included in the *Footer*, icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
+#### FOOTER ICONS - HOVER  
+Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
+
+#### EMAIL LINK - HOVER
+Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
 
 ### TRANSITIONS
 - **Navigation Bar**: Has a slight transition of top 0.5 seconds,  so that 
