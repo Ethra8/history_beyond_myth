@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ec4ee12-4762-4466-a7e8-596ea540c7f3)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1039498c-4536-46c8-b5c9-de5ebde786ca)
+
 
 - History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised history facts and some of the aspects of a well-known myth, such as the Arthurian cycle. The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
 
@@ -359,10 +360,12 @@ All images in this section are related to the Arthurian mythos, and taken from d
 
 8. [Portrait of Count Geoffrey II of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3d364eef-568b-4066-beb1-4b7c9cb9d616)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b2049757-b613-4172-906a-e9c8377c3cbd)
 
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d820d077-e677-452c-b70a-844ae2133ad6)
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/14d1c86e-e61d-44eb-9dee-c8f378a15ebf)
+
 
 
 ### ARTHUR I PAGE - IMAGERY
