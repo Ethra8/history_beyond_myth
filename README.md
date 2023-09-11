@@ -136,7 +136,7 @@ EDNA TORRES MUNILL
   
 - [TECHNOLOGIES USED](#technologies-used)
     * [Languages](#languages)
-    * [Frameworks, Libraries & Programs](#frameworks,-libraries-&-programs)
+    * [Frameworks, Libraries and Programs Used](#frameworks,-libraries-and-programs-used)
     
 - [DEPLOYMENT](#deployment)
     * [Deploy to Github Pages](#deploy-to-github-pages)
@@ -930,7 +930,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
   + HTML
   + CSS
  
-## Frameworks, Libraries & Programs Used
+## Frameworks, Libraries and Programs Used
 - The following have been used:
   + Visual Studio Code
   + Balsamiq
