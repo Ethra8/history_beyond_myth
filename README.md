@@ -385,7 +385,7 @@ The image on the header changes slightly depending on the size of the screen, to
 
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
 
 #### AVALON PAGE - BACKGROUND IMAGE  
 [Amazing grayscale shot of a rocky beach in guernsey near the fort houmet](https://www.freepik.com/free-photo/amazing-grayscale-shot-rocky-beach-guernsey-near-fort-houmet_11502822.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/). The image is meant to show the user the geography of Guernsey island shores, but in a decorative manner, so a black shadowy transparency has been put over it to avoid too much distraction from the page's content. Different sizes of the image have been used for different screen sizes:  
