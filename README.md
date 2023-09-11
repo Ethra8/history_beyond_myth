@@ -528,12 +528,12 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 #### NAVIGATION BAR - TRANSITIONS
   
-- **Nav Element** - Has a slight transition of top 0.5 seconds,  so that it displays less abruptly onload.
-  
-- **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:
+- **NAV ELEMENT** - Has a slight transition, so that it displays less abruptly onload.
+           transition: top 0.5s;
 
+- **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:
+      transition: all 0.5s linear;
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
-  - transition: all 0.5s linear;
 
 - **Small Devices - Uncollapse**: Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
 
