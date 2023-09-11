@@ -743,27 +743,23 @@
 
 
  figure#philip_castle {
-     position: relative;
-     /* display: inline-block; */
-     width: 50%;
+     width: 100%;
      margin: 40px 0;
  }
 
  #philip_castle img {
-     /* width: 190px;
-     height: 245px; */
-     width: 100%;
-     margin: 0 auto;
-     display: inline-block;
+     width: 70%;
+     min-width: 300px;
+     margin: 0 15%;
+     position: relative;
  }
 
  #philip_castle figcaption {
      position: relative;
-     display: block;
-     /* max-width: fit-content; */
-     /* margin: 0; */
+     width: 68.5%;
+     /* min-width: 288px; */
+     margin: -4px auto 0 15%;
  }
-
 
  #henry_II img,
  #philip img,
@@ -1422,6 +1418,21 @@
          margin-right: auto; */
      }
 
+     #philip_castle img {
+         width: 100%;
+         min-width: 300px;
+         margin: 0;
+         position: relative;
+     }
+
+     #philip_castle figcaption {
+         position: relative;
+         width: 100%;
+         max-width: fit-content;
+         margin: -4px auto 0;
+     }
+
+
      /*** AVALON ***/
      #avalon section {
          padding: 80px 50px;
@@ -1600,6 +1611,21 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #arthur_genealogy.background_image {
          background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left -25px top -160px fixed repeat;
      }
+
+     #philip_castle img {
+         width: 100%;
+         min-width: 300px;
+         margin: 0;
+         position: relative;
+     }
+
+     #philip_castle figcaption {
+         position: relative;
+         width: 100%;
+         max-width: fit-content;
+         margin: -4px auto 0;
+     }
+
 
  }
 
