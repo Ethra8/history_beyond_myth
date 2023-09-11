@@ -501,26 +501,27 @@ The image remains the same in all screen sizes, and repeats itself both through 
 #### HOME PAGE DESCRIPTION - HOVER
 - ***Section 3: Reasons to sign up*** - ON the bottom of this section, there is a button-like styled link to the **sign-up page** which changes color on hover from #B30502 to #8f0303, and also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button-like link has been pushed downwards on hover:
 
-  https://github.com/Ethra8/history_beyond_myth/assets/80659091/e899282e-93d0-4dc3-a994-c7a0d5e5bfe0
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/1670fec6-9e51-4e8e-aa8e-6de8d351a9ac
+
 
 
 #### SIGN-UP FORM - HOVER  
 - **Sign-up Form**
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
 
 
 #### FOOTER ICONS - HOVER  
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
 
 
 #### FOOTER EMAIL LINK - HOVER
 Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
 
 
 ### TRANSITIONS
