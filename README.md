@@ -74,6 +74,7 @@ EDNA TORRES MUNILL
             - [Footer Icons - Hover](#footer-icons---hover)
             - [Footer Email Link - Hover](#footer-email-link---hover)
         + [Transitions](#transitions)
+            - [Navigation Bar - Transitions](#navigation-bar---transitions)
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
         + [Arthur I Page - Structure](#arthur-i-page---structure)
@@ -488,6 +489,7 @@ The image of this section remains the same in all screen sizes, but in different
 
 #### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
+
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9a7cbe31-e7b0-4167-9e6e-b3c1092c75e4)
@@ -497,6 +499,7 @@ The images of this section remain the same in all screen sizes, adapting its wid
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
 
 ### 404 PAGE - IMAGERY  
+
 #### 404 PAGE - BACKGROUND IMAGE  
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
@@ -534,7 +537,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
 - ***Sign-up Form***
 
-    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:
+    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:  
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
 
@@ -548,17 +551,17 @@ Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:
 
 #### FOOTER EMAIL LINK - HOVER
 
-Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
+Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:  
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/9d378811-636a-41a5-a63c-ef0e708d8305
 
 
-### TRANSITIONS
+### TRANSITIONS  
 
 #### NAVIGATION BAR - TRANSITIONS
   
 - **NAV ELEMENT** - Has a slight transition, so that it displays less abruptly onload:   
-      transition: top 0.5s;
+ transition: top 0.5s;
 
 
 - **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
