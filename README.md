@@ -372,7 +372,7 @@ The image on the header changes slightly depending on the size of the screen, to
 
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de Dagmara Dombrovska at [Pexels.com](https://www.pexels.com/)  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
       + **LAPTOPS**  
