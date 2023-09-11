@@ -200,8 +200,7 @@
 
  nav a {
      margin: 0 0 0 50px;
-     /*#F5F5F5*/
-     color: #D6D6D6;
+     color: #F3F1F1;
      text-decoration: none;
      text-transform: uppercase;
      font-family: 'Metamorphous', cursive;
@@ -210,10 +209,8 @@
 
  }
 
-
-
  nav a:hover {
-     color: rgb(180, 180, 180);
+     color: #D6D6D6;
  }
 
  nav>li>.active {
@@ -234,12 +231,12 @@
      border-radius: 8px;
      border-style: outset;
      border-width: 1px;
-     border-color: #F5F5F5;
+     border-color: #F3F1F1;
      transition: all 0.5s linear;
  }
 
  nav .sign_up a:hover {
-     background-color: #F5F5F5;
+     background-color: #F3F1F1;
  }
 
 
@@ -422,7 +419,7 @@
  }
 
  #go_to_sign_up_page a {
-     color: #F5F5F5;
+     color: #F3F1F1;
      text-decoration: none;
  }
 
@@ -605,7 +602,7 @@
  }
 
  #go_to_MS_14B_VI_f006v a {
-     color: #F5F5F5;
+     color: #F3F1F1;
      text-decoration: none;
  }
 
@@ -666,6 +663,7 @@
 
  .hidden_large_devices {
      display: none;
+     visibility: hidden;
  }
 
  #arthur_genealogy p {
@@ -703,7 +701,7 @@
      bottom: 20px;
      z-index: 1;
      visibility: hidden;
-     background-color: #F5F5F5;
+     background-color: #F3F1F1;
      color: slategrey;
      text-align: center;
      border-radius: 6px;
@@ -720,20 +718,16 @@
 
  figcaption {
      font-family: Arial, Helvetica, sans-serif;
-     color: #F5F5F5;
-     font-size: 0.8rem;
+     color: #F3F1F1;
+     font-size: 0.9rem;
      line-height: 1.5;
      background-color: rgba(61, 61, 61, 0.7);
-     padding: 5px 7px;
-     margin-top: -4px;
+     padding: 10px 7px;
+     margin: -4px auto;
  }
 
  #arthur_genealogy figure {
-     margin: 50px 0 0;
- }
-
- #henry_II img {
-     width: 100%;
+     margin: 40px 0;
  }
 
  #arthur .small_pictures {
@@ -747,6 +741,31 @@
      visibility: hidden;
  }
 
+
+ figure#philip_castle {
+     position: relative;
+     /* display: inline-block; */
+     width: 50%;
+     margin: 40px 0;
+ }
+
+ #philip_castle img {
+     /* width: 190px;
+     height: 245px; */
+     width: 100%;
+     margin: 0 auto;
+     display: inline-block;
+ }
+
+ #philip_castle figcaption {
+     position: relative;
+     display: block;
+     /* max-width: fit-content; */
+     /* margin: 0; */
+ }
+
+
+ #henry_II img,
  #philip img,
  #arthur_kingOfBrittany img {
      width: 100%;
@@ -766,7 +785,7 @@
  }
 
  footer #contact_us {
-     color: #F5F5F5;
+     color: #F3F1F1;
      text-align: center;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      padding: 15px 5% 10px;
@@ -790,7 +809,7 @@
 
  footer #contact_us a {
      text-decoration: none;
-     color: #F5F5F5;
+     color: #F3F1F1;
  }
 
  footer #contact_us a:hover {
@@ -800,14 +819,14 @@
 
  footer .fab,
  footer .fa {
-     color: #F5F5F5;
+     color: #F3F1F1;
      padding: 0 30px;
      font-size: 30px;
  }
 
  footer .fab:hover,
  footer .fa:hover {
-     color: rgb(155, 154, 154);
+     color: #D6D6D6;
  }
 
 
@@ -824,7 +843,7 @@
  /**** AVALON *****************/
  #avalon {
      position: relative;
-     color: #F5F5F5;
+     color: #F3F1F1;
  }
 
  #avalon header {
@@ -919,7 +938,7 @@
 
  #avalon figcaption a {
      text-decoration: none;
-     color: #F5F5F5;
+     color: #F3F1F1;
  }
 
  #avalon figcaption a:hover {
@@ -995,7 +1014,7 @@
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
-     border-color: #F5F5F5;
+     border-color: #F3F1F1;
      border-width: 1px;
  }
 
@@ -1078,7 +1097,7 @@
 
  #social_events figcaption a,
  #cultural_events figcaption a {
-     color: #F5F5F5;
+     color: #F3F1F1;
      text-decoration: none;
  }
 
@@ -1100,7 +1119,7 @@
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
-     border-color: #F5F5F5;
+     border-color: #F3F1F1;
      border-width: 1px;
  }
 
@@ -1137,7 +1156,7 @@
      background-color: #8f0303;
      padding: 30px 50px;
      font-family: 'Montserrat', 'Verdana', sans-serif;
-     color: #F5F5F5;
+     color: #F3F1F1;
      font-size: 1.1rem;
      font-weight: 500;
      border-radius: 20px;
@@ -1149,7 +1168,7 @@
 
  #sign_up_form h2 {
      font-family: 'Metamorphous', cursive;
-     color: #F5F5F5;
+     color: #F3F1F1;
      font-size: 1.8rem;
      text-align: center;
      font-variant: small-caps;
@@ -1209,7 +1228,7 @@
  }
 
  #sign_up_form button:hover {
-     background-color: #F5F5F5;
+     background-color: #F3F1F1;
  }
 
  #w3s_css_test_success {
@@ -1282,6 +1301,7 @@
      /*** ARTHUR ***/
      .hidden_large_devices {
          display: block;
+         visibility: visible;
      }
 
 
@@ -1398,8 +1418,8 @@
      #geoffrey figcaption {
          width: 178px;
          display: block;
-         margin-left: auto;
-         margin-right: auto;
+         /* margin-left: auto;
+         margin-right: auto; */
      }
 
      /*** AVALON ***/
@@ -1430,7 +1450,7 @@
          display: block;
          min-width: 165px;
          /*negative margin to position it right under img*/
-         margin: -5px auto 0;
+         /* margin: -4px auto 0; */
          z-index: 2;
      }
 
@@ -1685,6 +1705,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /**** ARTHUR ****/
      .hidden_large_devices {
          display: block;
+         visibility: visible;
      }
 
      #arthur_genealogy {
@@ -1732,8 +1753,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #geoffrey figcaption {
          width: 178px;
          display: block;
-         margin-left: auto;
-         margin-right: auto;
+         /* margin-left: auto;
+         margin-right: auto; */
      }
 
      /** AVALON ******/
@@ -1902,6 +1923,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          margin: 20px auto;
          padding-right: 0;
          display: block;
+         height: 143px;
+         width: 130px;
      }
 
 
@@ -1971,8 +1994,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          display: block;
          width: 178px;
          max-width: 83%;
-         margin-left: auto;
-         margin-right: auto;
+         /* margin-left: auto;
+         margin-right: auto; */
      }
 
 
@@ -2016,7 +2039,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          width: 100%;
          max-width: 300px;
          margin: 20px auto 0;
-         z-index: 1;
+         /* z-index: 1; */
      }
 
      #avalon figcaption {
@@ -2024,8 +2047,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          display: block;
          width: unset;
          /* min-width: max-content; */
-         margin: -5px auto 0;
-         z-index: 2;
+         /* margin: -5px auto 0; */
+         /* z-index: 2; */
      }
 
      /*** SIGN-UP ***/
