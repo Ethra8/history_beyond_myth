@@ -383,8 +383,7 @@ The image on the header changes slightly depending on the size of the screen, to
      
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/58b477db-5f0c-4238-8181-42c8df7a2af9)  
 
-  * **PHONES** (max. 576 px width): 130px width, 143px height  
-
+      + **PHONES** (max. 576 px width): 130px width, 143px height  
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e74ad48b-cbcf-4439-950a-31c0282fe57f)  
 
 #### AVALON PAGE - BACKGROUND IMAGE  
