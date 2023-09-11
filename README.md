@@ -448,9 +448,11 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
+
 ## Animations and Transitions   
 
 ### HOVER  
+
 #### NAVIGATION BAR - HOVER  
 - ***Links to other pages***: As the user hovers through the names of the other pages links, the color of the fonts turn from *whitesmoke* *#F3F1F1* to *#D6D6D6*, a light grey shade:  
 
@@ -464,26 +466,31 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
    https://github.com/Ethra8/history_beyond_myth/assets/80659091/8321cc57-5808-4eb2-ad5f-1b8092b6a392
 
+
+#### HOME PAGE DESCRIPTION - HOVER
+- ***Section 3: Reasons to sign up*** - ON the bottom of this section, there is a button-like styled link to the **sign-up page** which changes color on hover from #B30502 to #8f0303, and also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button-like link has been pushed downwards on hover:
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/e899282e-93d0-4dc3-a994-c7a0d5e5bfe0
+
+
 #### SIGN-UP FORM - HOVER  
 - **Sign-up Form**
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/0698eb40-8390-4d24-8e58-64815194b21a
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
 
-#### HOME PAGE DESCRIPTION - HOVER
-- On the bottom of the *"Reasons to Sign Up" section, the is a button-like link to the *sign-up page*, with a hover feature that changes its background color from #B30502 to slightly darker tone #8f0303:
-
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/1c1e8bb2-2b75-444d-b6e8-fab0b6c64c62
 
 #### FOOTER ICONS - HOVER  
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/74699a6b-3843-45ca-83c1-cbc7a554afce
 
-#### EMAIL LINK - HOVER
+
+#### FOOTER EMAIL LINK - HOVER
 Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 when the user hovers on top of it:
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8f16ce6-6988-4e1e-81d9-80e28ccf6afc
+
 
 ### TRANSITIONS
 
