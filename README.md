@@ -388,7 +388,7 @@ The image on the header changes slightly depending on the size of the screen, to
    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8a45f31-ff00-4b4d-9833-4e5618b72916)
 
 #### SECTION 3 - THE VALUE OF ABALONES  
-The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.  
+The image of this section remains the same in all screen sizes, adapting its width and height accordingly, bringing responsiveness to the site.  
 - [Abalone shell](https://es.m.wikipedia.org/wiki/Archivo:AbaloneInside.jpg): Its original source in the Wikipedia Website, on the [article Abalone's description](https://en.wikipedia.org/wiki/Abalone#:~:text=variety%20of%20cultures.-,Description,-%5Bedit%5D).
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/AbaloneInside.jpg)  
 
