@@ -480,7 +480,7 @@ The image remains the same in all screen sizes, and repeats itself both through 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
 
-## Animations and Transitions   
+## ANIMATIONS AND TRANSITIONS   
 
 ### HOVER  
 
@@ -549,7 +549,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd
 
 
 #### FOOTER TRANSITIONS
-    - transition: all 0.5s linear
+    transition: all 0.5s linear
 
 
 
