@@ -75,7 +75,10 @@ EDNA TORRES MUNILL
             - [Footer Icons - Hover](#footer-icons---hover)
             - [Footer Email Link - Hover](#footer-email-link---hover)
         + [Transitions](#transitions)
-            - [Navigation Bar - Transitions](#navigation-bar---transitions)
+            - [Navigation Bar Transitions](#navigation-bar-transitions)
+            - [Footer Transitions](#footer-transitions)
+            - [Home Page - Transitions](#home-page---transitions)
+            - [Sign-up Page - Transitions](#sign-up-page---transitions)
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
         + [Arthur I Page - Structure](#arthur-i-page---structure)
@@ -574,7 +577,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
   
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
 
-- **PHONES & PORTRAIT TABLETS - Collapsed Navigation bar is Triggered to Display** (max. 767px) - Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
+- **PHONES & PORTRAIT TABLETS - COLLAPSED NAVIGATION BAR** (max. 767px) - When the user click the bars icon which triggers the display of the navigation bar downwards, the following transitions have been implementes to improve visuals and user experience::
 
   * Listed items display in a softer way downwards:  
 
@@ -582,21 +585,40 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
 
-  * so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
+
+   * To give a slight effect of fade to items in navbar when collapsing or displaying:
 
            transition: all 0.7s linear;
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
 
-  * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
+
+   * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
 
            transition: all 0.1s linear
 
 
 #### FOOTER TRANSITIONS
-    transition: all 0.5s linear;
 
+- **ICONS** - When the user hovers the mouse through them, the change of color is not abrupt, but progressive:
 
+       transition: all 0.5s linear;
+
+- **EMAIL WITH MAILTO: FEATURE** - When the user hovers the mouse through it, the change of the font color is progressive:
+
+       transition: all 0.5s linear;
+
+#### HOME PAGE - TRANSITIONS
+
+- **SITE DESCRIPTION - SECTION 3: REASONS TO SIGN-UP**: When the user hovers the mouse through the button-like link to the *sign-up page*, the background color changes progressively, and the box-shadow also dissapears progressively, giving the visual illusion that the button-like element has been pushed down, giving a 3D impression:
+       
+       transition: all 0.2s linear;
+
+#### SIGN-UP PAGE - TRANSITIONS
+
+- **SIGN-UP FORM - BUTTON**: When the user hovers through the button, the change of the background color and the disappearance of the box-shadow are progressive, giving the visual illusion of dimension, and that the button has been pressed down, provising a 3D impression of volume:
+
+       transition: all 0.2s linear;
 
 
 ## SITE STRUCTURE
