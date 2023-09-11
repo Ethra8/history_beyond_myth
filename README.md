@@ -391,15 +391,15 @@ The image on the header changes slightly depending on the size of the screen, to
 
 - **LAPTOPS AND TABLETS** (min. size of 577px): 2000px width, 2000px height:  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ba4eb5d8-4ef4-4739-b215-d787c4aaf83d)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ba4eb5d8-4ef4-4739-b215-d787c4aaf83d)
 
 - **TABLETS** (min. size of 577px, and max. size of 1199px): 780 px. width, 1932 px. height:  
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0081adbd-34f5-4ed3-8af5-b22f4d4ed7a4)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0081adbd-34f5-4ed3-8af5-b22f4d4ed7a4)
 
 - **PHONES** (max. size of 576px): 600px width, 1228px height:    
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8a45f31-ff00-4b4d-9833-4e5618b72916)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8a45f31-ff00-4b4d-9833-4e5618b72916)
 
 #### SECTION 3 - THE VALUE OF ABALONES  
 The image of this section remains the same in all screen sizes, adapting its width and height accordingly, bringing responsiveness to the site.  
