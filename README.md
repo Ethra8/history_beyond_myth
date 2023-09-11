@@ -505,8 +505,9 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
 
 #### SIGN-UP FORM - HOVER  
+
 - **Sign-up Form**
-    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it:  
+    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
 
@@ -515,8 +516,6 @@ The image remains the same in all screen sizes, and repeats itself both through 
 Icons change color from *whitesmoke* *#F3F1F1* to *#D6D6D6*:   
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/d4aa012c-6ebc-4ecf-92b9-286508a2604d
-
-
 
 
 #### FOOTER EMAIL LINK - HOVER
@@ -531,9 +530,10 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
   
 - **Nav Element** - Has a slight transition of top 0.5 seconds,  so that it displays less abruptly onload.
   
-- **Link to Sign-up Page** - *transition: all 0.5s linear;* when user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:
+- **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
+  - transition: all 0.5s linear;
 
 - **Small Devices - Uncollapse**: Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
 
@@ -548,7 +548,8 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd
   + ***transition: all 0.1s linear*** on the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly
 
 
-
+#### FOOTER TRANSITIONS
+transition: all 0.5s linear
 
 
 
