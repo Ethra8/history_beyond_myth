@@ -274,6 +274,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 
 - **HEADER SIGN-UP PAGE**:
+
       * Use of **Metamorphous** (upper case).
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4d6ca3f7-517f-4241-b592-956dc5cc30a1)
@@ -285,15 +286,18 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 
  - **SECTION HEADINGS** (h2):
+     
       * Only the 1st letter uses **Fleur De Leah**, which recreates the 1st letters of paragraphs from medieval manuscripts.
       * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
 
    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1a3c51c-d07d-4674-b24c-aebb9554cb29)
 
  - **MAIN CONTENT**
+      
       * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
-    <img width="900" alt="section_h2" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/section_h2.png">
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9cbd0c75-55ac-4adb-b6b0-04f94c2d65a3)
+
 
 
 ## IMAGERY
