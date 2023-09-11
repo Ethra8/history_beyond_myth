@@ -40,10 +40,13 @@ EDNA TORRES MUNILL
     * [User Profiles](#user-profiles)
 
 - [DESIGN CHOICES](#design-choices)
+
     * [Colors](#colors)
+
     * [Typography](#typography)
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
+
     * [Imagery](#imagery)
         + [Hero Image](#hero-image)
         + [Home Page - Imagery](#home-page---imagery)
@@ -67,6 +70,7 @@ EDNA TORRES MUNILL
             2. [Events Section - Imagery](#events-section---imagery)
         + [404 Page - Imagery](#404-page---imagery)
             1. [404 Page - Background Image](#404-page---background-image)
+
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
@@ -79,24 +83,28 @@ EDNA TORRES MUNILL
             - [Footer Transitions](#footer-transitions)
             - [Home Page - Transitions](#home-page---transitions)
             - [Sign-up Page - Transitions](#sign-up-page---transitions)
+
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
         + [Arthur I Page - Structure](#arthur-i-page---structure)
         + [Avalon Page - Structure](#avalon-page---structure)
         + [Sign-up Page - Structure](#sign-up-page---structure)
         + [404 Page - Structure](#404-page---structure)
+
     * [Design Elements](#design-elements)
         + [Audio](#audio)
         + [Video](#video)
         + [Icons](#icons)
         + [Interactive Map](#interactive-map)
         + [Form](#form)
+
     * [Wireframes](#wireframes)
         + [Mobile Wireframes](#mobile-wireframes)
         + [Tablet Wireframes](#tablet-wireframes)
         + [Desktop Wireframes](#desktop-wireframes)
    
 - [FEATURES](#features)
+
     * [Implemented Features](#implemented-features)
         + [Navigation Bar Features](#navigation-bar---features)
         + [Header Features](#header-features)
@@ -106,6 +114,7 @@ EDNA TORRES MUNILL
         + [Avalon Page - Features](#avalon-page---features)
         + [Sign-up Page - Features](#sign-up-page---features)
         + [404 Page - Features](#404-error-page---features)
+
     * [Future Features](#future-features)
         + [Add Pages](#add-pages)
             1. [Camelot](#camelot)
@@ -116,37 +125,54 @@ EDNA TORRES MUNILL
         + [Caroussel](#caroussel)
         + [Online Shop](#online-shop)
         + [Online Booking](#online-booking)
+
 - [TESTING](#testing)
+
     * [Validation Testing](#validation-testing)
         + [CSS Validation](#css-validation)
         + [HTML Validation](#html-validation)
+
     * [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+
     * [Manual Testing](#manual-testing)
         + [Sign-up Form](#sign-up-form)
+
     * [Defect Tracking](#defect-tracking)
         + [Github Issues](#github-issues)
         + [Lighthouse Reports](#Lighthouse-reports)
+
     * [Defects of Note](#defects-of-note)
+
     * [Outstanding Defects](#outstanding-defects)
+
     * [Core Web Vitals](#core-web-vitals)
+
     * [Accessibility Testing](#accessibility-testing)
         + [Accesibility Audits](#accessibility-audits)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
   
 - [TECHNOLOGIES USED](#technologies-used)
+
     * [Languages](#languages)
+
     * [Frameworks, Libraries and Programs Used](#frameworks,-libraries-and-programs-used)
     
 - [DEPLOYMENT](#deployment)
+
     * [Deploy to Github Pages](#deploy-to-github-pages)
         + [Production](#production)
+
     * [Forking the Repository](#forking-the-repository)
+
     * [Run Locally with Github](#run-locally-with-github)
 
 - [CREDITS](#credits)
+
     * [Content](#content)
+
     * [Media](#media)
+
     * [Acknowledgements](#acknowledgements)
 
 
