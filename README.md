@@ -40,10 +40,13 @@ EDNA TORRES MUNILL
     * [User Profiles](#user-profiles)
 
 - [DESIGN CHOICES](#design-choices)
+
     * [Colors](#colors)
+
     * [Typography](#typography)
         + [Fonts Used](#fonts-used)
         + [Rationale of Use](#rationale-of-use)
+
     * [Imagery](#imagery)
         + [Hero Image](#hero-image)
         + [Home Page - Imagery](#home-page---imagery)
@@ -67,6 +70,7 @@ EDNA TORRES MUNILL
             2. [Events Section - Imagery](#events-section---imagery)
         + [404 Page - Imagery](#404-page---imagery)
             1. [404 Page - Background Image](#404-page---background-image)
+
     * [Animations and Transitions](#animations-and-transitions)
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
@@ -75,25 +79,32 @@ EDNA TORRES MUNILL
             - [Footer Icons - Hover](#footer-icons---hover)
             - [Footer Email Link - Hover](#footer-email-link---hover)
         + [Transitions](#transitions)
-            - [Navigation Bar - Transitions](#navigation-bar---transitions)
+            - [Navigation Bar Transitions](#navigation-bar-transitions)
+            - [Footer Transitions](#footer-transitions)
+            - [Home Page - Transitions](#home-page---transitions)
+            - [Sign-up Page - Transitions](#sign-up-page---transitions)
+
     * [Site Structure](#site-structure)
         + [Home Page - Structure](#home-page---structure)
         + [Arthur I Page - Structure](#arthur-i-page---structure)
         + [Avalon Page - Structure](#avalon-page---structure)
         + [Sign-up Page - Structure](#sign-up-page---structure)
         + [404 Page - Structure](#404-page---structure)
+
     * [Design Elements](#design-elements)
         + [Audio](#audio)
         + [Video](#video)
         + [Icons](#icons)
         + [Interactive Map](#interactive-map)
         + [Form](#form)
+
     * [Wireframes](#wireframes)
         + [Mobile Wireframes](#mobile-wireframes)
         + [Tablet Wireframes](#tablet-wireframes)
         + [Desktop Wireframes](#desktop-wireframes)
    
 - [FEATURES](#features)
+
     * [Implemented Features](#implemented-features)
         + [Navigation Bar Features](#navigation-bar---features)
         + [Header Features](#header-features)
@@ -103,6 +114,7 @@ EDNA TORRES MUNILL
         + [Avalon Page - Features](#avalon-page---features)
         + [Sign-up Page - Features](#sign-up-page---features)
         + [404 Page - Features](#404-error-page---features)
+
     * [Future Features](#future-features)
         + [Add Pages](#add-pages)
             1. [Camelot](#camelot)
@@ -112,38 +124,55 @@ EDNA TORRES MUNILL
             5. [Recommended Books and Sites](#recommended-books-and-sites)
         + [Caroussel](#caroussel)
         + [Online Shop](#online-shop)
-        + [Online Booking]
+        + [Online Booking](#online-booking)
+
 - [TESTING](#testing)
+
     * [Validation Testing](#validation-testing)
         + [CSS Validation](#css-validation)
         + [HTML Validation](#html-validation)
+
     * [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+
     * [Manual Testing](#manual-testing)
         + [Sign-up Form](#sign-up-form)
+
     * [Defect Tracking](#defect-tracking)
         + [Github Issues](#github-issues)
         + [Lighthouse Reports](#Lighthouse-reports)
+
     * [Defects of Note](#defects-of-note)
+
     * [Outstanding Defects](#outstanding-defects)
+
     * [Core Web Vitals](#core-web-vitals)
+
     * [Accessibility Testing](#accessibility-testing)
         + [Accesibility Audits](#accessibility-audits)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
   
 - [TECHNOLOGIES USED](#technologies-used)
+
     * [Languages](#languages)
-    * [Frameworks, Libraries & Programs](#frameworks,-libraries-&-programs)
+
+    * [Frameworks, Libraries and Programs Used](#frameworks,-libraries-and-programs-used)
     
 - [DEPLOYMENT](#deployment)
+
     * [Deploy to Github Pages](#deploy-to-github-pages)
         + [Production](#production)
+
     * [Forking the Repository](#forking-the-repository)
+
     * [Run Locally with Github](#run-locally-with-github)
 
 - [CREDITS](#credits)
+
     * [Content](#content)
+
     * [Media](#media)
+
     * [Acknowledgements](#acknowledgements)
 
 
@@ -574,7 +603,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
   
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
 
-- **PHONES & PORTRAIT TABLETS - Collapsed Navigation bar is Triggered to Display** (max. 767px) - Has the following transitions to improve visuals and user experience when the bars icon is clicked, and collapsed navigation bar displays downwards:
+- **PHONES & PORTRAIT TABLETS - COLLAPSED NAVIGATION BAR** (max. 767px) - When the user click the bars icon which triggers the display of the navigation bar downwards, the following transitions have been implementes to improve visuals and user experience::
 
   * Listed items display in a softer way downwards:  
 
@@ -582,21 +611,40 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
 
-  * so that when the toggle item is clicked, it gives a slight effect of fade to items in navbar when collapsing or displaying:
+
+   * To give a slight effect of fade to items in navbar when collapsing or displaying:
 
            transition: all 0.7s linear;
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
 
-  * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
+
+   * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
 
            transition: all 0.1s linear
 
 
 #### FOOTER TRANSITIONS
-    transition: all 0.5s linear;
 
+- **ICONS** - When the user hovers the mouse through them, the change of color is not abrupt, but progressive:
 
+       transition: all 0.5s linear;
+
+- **EMAIL WITH MAILTO: FEATURE** - When the user hovers the mouse through it, the change of the font color is progressive:
+
+       transition: all 0.5s linear;
+
+#### HOME PAGE - TRANSITIONS
+
+- **SITE DESCRIPTION - SECTION 3: REASONS TO SIGN-UP**: When the user hovers the mouse through the button-like link to the *sign-up page*, the background color changes progressively, and the box-shadow also dissapears progressively, giving the visual illusion that the button-like element has been pushed down, giving a 3D impression:
+       
+       transition: all 0.2s linear;
+
+#### SIGN-UP PAGE - TRANSITIONS
+
+- **SIGN-UP FORM - BUTTON**: When the user hovers through the button, the change of the background color and the disappearance of the box-shadow are progressive, giving the visual illusion of dimension, and that the button has been pressed down, provising a 3D impression of volume:
+
+       transition: all 0.2s linear;
 
 
 ## SITE STRUCTURE
@@ -908,7 +956,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
   + HTML
   + CSS
  
-## Frameworks, Libraries & Programs Used
+## Frameworks, Libraries and Programs Used
 - The following have been used:
   + Visual Studio Code
   + Balsamiq
