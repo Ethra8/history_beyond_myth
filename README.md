@@ -458,11 +458,12 @@ The image remains the same in all screen sizes, and repeats itself both through 
 
 - ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/b0ffc341-5664-488a-bcb2-4671dc3aad1e
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/c9c1376d-8ff1-4247-a11f-5d2d6824432f
 
-- ***Collapsed Navigation Bar: Bars Icon***: On **phones** and **portrait tablets** (max. width of 768px), when the responsive navigation is collapsed, the icon bar that triggers the navigation bar to uncollapse when clicked, changes color from #D6D6D6 to #B30502, and its parent container, which is transparent with a border in #D6D6D6, changes the color of its border to *whitesmoke* on hover  :
+- ***Collapsed Navigation Bar: Bars Icon***: On **phones** and **portrait tablets** (max. width of 768px), when the responsive navigation is collapsed, the icon bar that triggers the navigation bar to uncollapse when clicked, changes color from #D6D6D6 to #B30502, and its parent container, which is transparent with a border in #D6D6D6, changes the color of its border to *whitesmoke* on hover:
 
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/121adea5-b099-4980-8c05-b288407d414f
+   https://github.com/Ethra8/history_beyond_myth/assets/80659091/8321cc57-5808-4eb2-ad5f-1b8092b6a392
+
 
 #### SIGN-UP FORM - HOVER  
 - **Sign-up Form**
