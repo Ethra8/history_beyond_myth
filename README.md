@@ -566,7 +566,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 - **Link to Sign-up Page** - When user hovers this button-like link, the background color changes less abruptly, improving the visuals and user experience:  
 
-    transition: all 0.5s linear;
+   transition: all 0.5s linear;
   
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
 
