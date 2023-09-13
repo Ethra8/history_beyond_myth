@@ -1918,7 +1918,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #index h1 {
-         padding: 20px 5% 25px;
+         padding: 0 5%;
          font-size: 2rem;
      }
 
@@ -1927,7 +1927,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #error404 h1 {
          padding: 20px 0 0;
          font-size: 1.4rem;
-         line-height: 1.2;
+         line-height: 1;
      }
 
      #arthur h1 span,
@@ -1938,13 +1938,14 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      #index header .capital {
          font-size: 5.5rem;
+         line-height: 1;
+
      }
 
      #index header .beyond,
      #error404 header .modern {
          display: block;
          font-size: 3.5rem;
-         padding: 10px 0;
      }
 
      #index header hr,
