@@ -83,7 +83,8 @@ EDNA TORRES MUNILL
             - [Footer Transitions](#footer-transitions)
             - [Home Page - Transitions](#home-page---transitions)
             - [Sign-up Page - Transitions](#sign-up-page---transitions)
-        + [Animation](#animation)
+        + [Animations](#animations)
+            - [Navigation Bar Animation](#navigation-bar-animation)
             - [Footer Icons Animation](#footer-icons-animation)
 
     * [Site Structure](#site-structure)
@@ -662,7 +663,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
        transition: all 0.2s linear;
 
 
-### ANIMATION
+### ANIMATIONS
 
 #### NAVIGATION BAR ANIMATION
 A ***zoom in*** animation has been implemented on hover to the logo:
