@@ -843,13 +843,13 @@ This page provides the user with details from academically recognised historical
 - **Round transparent container sorrounding the main characters on the fixed manuscript of the page** with double black borders, with a *title* informing the user of the name of the character when hovering on the round circled transparent div.
 - **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source.
 - Each section contains an **image** related to the story explained, most of the times the picture belongs to the medieval digitalized manuscript from which the information stated has been taken.
-- Each *image* is set inside a ***figure*** element, with a ***figure caption*** (*figcation*).
+- **Images** on each section include a **link** to its original digitalized manuscript, or source. So that when the user click on the image, the link opens in another tab to improve user experience.
+- ***figure caption*** (*figcation*) underneath images on each section.
 - **Accordeon** to each ***figure caption*** (*figcation*), which contains the ***summary***, and unfolds providing ***details*** of the picture, and its original source.
 - **Footer** (features aforementioned)
 
   
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/427df15f-0e52-4b92-a6b3-35bbd7dc58ac
 
 
 
@@ -928,6 +928,11 @@ To enable users who have already signed up to book future activities.
 **PAGE: SIGN-UP** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Fsign_up.html):   
 
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9f37fd05-f9b1-47d5-822c-e1d41ba03ebb)
+
+
+**404 PAGE** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2F404.html)
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6c0207a2-94a5-4f19-9f73-41d64706e7d8)
 
   
 ## COMPATIBILITY AND RESPONSIVE TESTING
