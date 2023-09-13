@@ -1248,16 +1248,6 @@
 
 
  /******* 404 ERROR PAGE*****/
- /* #error404 header {
-     background: url('../images/Error404_thinker_CodexManesse.avif') top 370px left fixed repeat;
- } */
-
- /* #error404 header .heading {
-     background-color: rgba(179, 5, 2, 0.9);
-     border-radius: 10px;
-     margin: 50px 7%;
-     padding: 40px;
- } */
 
  #error_img {
      background: url('../images/Error404_thinker_CodexManesse.avif') top 370px left fixed repeat;
@@ -1889,11 +1879,10 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #arthur header,
      #avalon header,
      #error404 header {
-         padding: 140px 0 20px;
+         padding: 140px 2% 20px;
          line-height: 1;
-         max-height: fit-content;
          max-width: 100%;
-         margin: 0 auto;
+         margin: 0;
          display: block;
          position: relative;
      }
@@ -1924,9 +1913,14 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #arthur h1,
-     #avalon h1,
-     #error404 h1 {
+     #avalon h1 {
          padding: 20px 0 0;
+         font-size: 1.4rem;
+         line-height: 1;
+     }
+
+     #error404 h1 {
+         padding: 0 5% 20px;
          font-size: 1.4rem;
          line-height: 1;
      }
@@ -1940,7 +1934,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #index header .capital {
          font-size: 5.5rem;
          line-height: 1;
-
      }
 
      #index header .beyond,
@@ -2202,13 +2195,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      #error404 header {
          margin: 0;
-         padding: 0;
      }
 
-     #error404 header .heading {
-         background-color: rgba(143, 3, 3, 0.9);
-         border-radius: 10px;
-         margin: 0;
-         padding: 12%;
-     }
+
  }
