@@ -548,6 +548,12 @@ The image remains the same in all screen sizes, and repeats itself both through 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
 
 
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2-b946-a761c3b7663f
+
+
+
 ## ANIMATIONS AND TRANSITIONS   
 
 ### HOVER  
