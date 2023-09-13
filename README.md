@@ -839,11 +839,19 @@ This page provides the user with details from academically recognised historical
 - **Header** (features aforementioned)
 - **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
 - The content is divided in **4 sections** that cover different stages of the history related with Count Arthur I of Brittany.
+- **Fixed button-like link*** with an absolute position on the bottom left of the page, linking to the digitalized membrane of manuscript included as a background image.
+- **Round transparent container sorrounding the main characters on the fixed manuscript of the page** with double black borders, with a *title* informing the user of the name of the character when hovering on the round circled transparent div.
 - **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source.
 - Each section contains an **image** related to the story explained, most of the times the picture belongs to the medieval digitalized manuscript from which the information stated has been taken.
 - Each *image* is set inside a ***figure*** element, with a ***figure caption*** (*figcation*).
-- Each ***figure caption*** (*figcation*) contains an **accordeon** that unfolds providing extra information on the picture, and its original source.
+- **Accordeon** to each ***figure caption*** (*figcation*), which contains the ***summary***, and unfolds providing ***details*** of the picture, and its original source.
 - **Footer** (features aforementioned)
+
+  
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/427df15f-0e52-4b92-a6b3-35bbd7dc58ac
+
+
 
 ### AVALON PAGE - FEATURES
 This page provides the user with relevant and curious information on the Island of Guernsey, and each section is aimed at one specific aspect of why it could be the mythical Island of Avalon.
