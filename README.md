@@ -664,8 +664,17 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 ### ANIMATION
 
+#### NAVIGATION BAR ANIMATION
+A ***zoom in*** animation has been implemented on hover to the logo:
+
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/8058bd71-af15-419b-9ade-ea78dc00df28
+
+
+
 #### FOOTER ICONS ANIMATION
-Some ***zoom in*** animation has been implemented on hover to the media icons of the footer section:
+A ***zoom in*** animation has been implemented on hover to the media icons of the footer section:
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/400ce6d3-2f8a-48b7-ba4c-f209ea963b80
 
