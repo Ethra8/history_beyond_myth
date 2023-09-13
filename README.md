@@ -654,9 +654,10 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 #### FOOTER ICONS ANIMATION
 Some ***zoom in*** animation has been implemented on hover to the media icons of the footer section:
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/89397df3-0743-4c3b-9693-ce5762b9452a
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/400ce6d3-2f8a-48b7-ba4c-f209ea963b80
 
      transform: scale(1.1);
+
 
 ## SITE STRUCTURE
 The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
