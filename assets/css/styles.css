@@ -152,6 +152,11 @@
      vertical-align: middle;
      width: 55px;
      margin-left: 0;
+     transition: all 0.15s linear;
+ }
+
+ nav #logo1:hover {
+     transform: scale(1.05);
  }
 
  /* contains fontawesome icon fa-bars */
@@ -1549,6 +1554,11 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          width: 55px;
          margin-top: -20px;
          margin-left: 0;
+         transition: all 0.15s linear;
+     }
+
+     nav #logo:hover {
+         transform: scale(1.05);
      }
 
      .toggle {
