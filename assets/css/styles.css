@@ -602,7 +602,7 @@
      padding: 5px 12px;
      /*to be on top of fixed .circle z-index=700, but underneat of sections z-index=800 */
      z-index: 701;
-     transition: 0.15s linear;
+     transition: all 0.2s linear;
  }
 
  #go_to_MS_14B_VI_f006v a {
@@ -611,7 +611,7 @@
  }
 
  #go_to_MS_14B_VI_f006v:hover {
-     transform: scale(1.03);
+     transform: scale(1.05);
      border-color: #8f0303;
      border-style: outset;
      border-width: 3px;
