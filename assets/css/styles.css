@@ -651,6 +651,12 @@
      z-index: 700;
  }
 
+ #arthur .arthur_circle:hover,
+ #arthur .richard_circle:hover,
+ #arthur .john_circle:hover {
+     border-color: #8f0303;
+ }
+
  #arthur_genealogy {
      padding: 0 0 50px 30%;
  }
