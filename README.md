@@ -991,11 +991,12 @@ For any scenarios that have not been automated, tested the user stories and feat
 
 ### GITHUB ISSUES
 This website has been coded mostly by fixing the upcoming defects I encountered on the go. Nevertheless, I have created some *Github Issues* lately, as to reflect the kind of bugs that come up on a daily basis, and how I solved them:
-- DEFECT: Figcaption do not adapt size as img changes in screens smaller than 576px
-- DEFECT: Images sizing much too big, not seamless
-- DEFECT: Media icons on footer do not display seamlessly in screens less than 320px
-- DEFECT: Screen smaller than 283px , h1 span exceeding screen width
-- DEFECT: display in screens less than 274px, content overflows screen
+- DEFECT: Hover on <a> styled as button just works on text, not on whole element. (bug)
+- DEFECT: Figcaption do not adapt size as img changes in screens smaller than 576px. (bug)
+- DEFECT: Images sizing much too big, not seamless. (bug)
+- DEFECT: Media icons on footer do not display seamlessly in screens less than 320px. (bug)
+- DEFECT: Screen smaller than 283px , h1 span exceeding screen width. (bug)
+- DEFECT: display in screens less than 274px, content overflows screen. (bug)
 
 ### LIGHTHOUSE REPORTS
 This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse Reports by page:
