@@ -1521,7 +1521,7 @@
  }
 
  /* phones and portrait tablets */
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 767px) {
      /* Below RESPONSIVE NAVBAR Adapted from:
 attribution to: Responsive Navigation based on Malia Havlicek's codepen: https://codepen.io/maliahavlicek/pen/LYeBwNY */
 
