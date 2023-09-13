@@ -1095,7 +1095,7 @@
  #social_events figcaption {
      width: 186px;
      margin-left: 0;
-     margin-top: -2.6em;
+     margin-top: -3em;
      background-color: rgba(48, 48, 48, 0.7);
      z-index: 1;
      position: relative;
@@ -1143,7 +1143,7 @@
  #cultural_events figcaption {
      width: 186px;
      margin-left: 0;
-     margin-top: -4.1em;
+     margin-top: -4.5em;
      background-color: rgba(48, 48, 48, 0.8);
      z-index: 1;
      position: relative;
