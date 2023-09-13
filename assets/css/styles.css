@@ -2009,8 +2009,10 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          display: none;
      }
 
+     /**** ARTHUR ****/
      .hidden_large_devices {
          display: block;
+         visibility: visible;
      }
 
      #arthur_genealogy {
