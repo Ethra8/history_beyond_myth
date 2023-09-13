@@ -668,9 +668,10 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 A ***zoom in*** animation has been implemented on hover to the logo:
 
 
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/537f072e-88af-4437-a7aa-cdcff3a0c813
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/8058bd71-af15-419b-9ade-ea78dc00df28
 
+     transform: scale(1.05);
 
 
 #### FOOTER ICONS ANIMATION
