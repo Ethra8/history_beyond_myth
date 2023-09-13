@@ -109,7 +109,7 @@ EDNA TORRES MUNILL
 - [FEATURES](#features)
 
     * [Implemented Features](#implemented-features)
-        + [Navigation Bar Features](#navigation-bar---features)
+        + [Navigation Bar Features](#navigation-bar-features)
         + [Header Features](#header-features)
         + [Footer Features](#footer-features)
         + [Home Page - Features](#home-page---features)
@@ -807,25 +807,61 @@ Provides the user with an error page that follows the same line of design as the
 ### Desktop Wireframes
 
 # FEATURES
-
 ## IMPLEMENTED FEATURES
-
 ### NAVIGATION BAR FEATURES
+- It is **featured on all pages**, including the error page, allowing easy navigation through all the site, preventing the user to having to use the 'back' button on the browser to revert back to previous pages.
+- It **includes links** to all pages (*Home Page*, *Arthur*, *Avalon*, *Sign-up*). The  *Logo* links to the *Home Page*, as some users will prefer to click on it, instead of clicking on the corresponding link.
+- It is **fixed on the top**, for it to be always visible even when the user scrolls down the page.
+- It is **fully responsive**, addapting its content to all types of devices.
+- It **collapses** on *portrait tablets* and *phones*** (devices with a max. of 767px), where the user can uncollapse the navigation bar by clicking on the *bars icon*, which triggers the display of the navigation bar vertically.
 
 ### HEADER FEATURES
+- **Featured in all pages** of the site, including the 404 error page.
+- It is **fully responsive**, with a different display of the content to fit the size of every device.
+- They all include a **horizontal line (hr)** styled to look like a 3D **sword blade** with shadow to give it a dimension.
+- Headers of the **content pages** *Arthur I* and *Avalon* include an *image* related to the content, which is reponsive, and changes size on smaller devices.
 
 ### FOOTER FEATURES
+- **Featured in all pages** of the site, including the 404 error page.
+- It is **fully responsive**, with a different display of the content to fit the size of every device.
+- It contains **social media icons** linked to the site profiles (Instagram, Twitter, Facebook)
+- Contains **envelope icon** which allows the user to send an email to the administration, by seamlessly opening the user's emailing app on click.
 
 ### HOME PAGE - FEATURES
+- **Header** (features aforementioned)
+- Decorative **fixed row of images** all related to the site's content, all linked to the digitalized medieval manuscripts from which each has been taken. It is responsive, as the images' overflow has a *hide* attribute.
+- **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
+- **Site description section** which includes three subsections (*about us*, *keeping it real*, and *reasons to sign up*), the last subsection includes a list of 4 reasons to sign up, and a link styled as a button that redirects the user to the sign-up page.
+- **Footer** (features aforementioned)
 
 ### ARTHUR I PAGE - FEATURES
+This page provides the user with details from academically recognised historical events related to Count Arthur I of Brittany (1187 - c.1203), who has been named heir presumptive to the throne of England by childless Richard the Lionheart himself. The page's features are the following:
+- **Header** (features aforementioned)
+- **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
+- The content is divided in **4 sections** that cover different stages of the history related with Count Arthur I of Brittany.
+- **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source.
+- Each section contains an **image** related to the story explained, most of the times the picture belongs to the medieval digitalized manuscript from which the information stated has been taken.
+- Each *image* is set inside a ***figure*** element, with a ***figure caption*** (*figcation*).
+- Each ***figure caption*** (*figcation*) contains an **accordeon** that unfolds providing extra information on the picture, and its original source.
+- **Footer** (features aforementioned)
 
 ### AVALON PAGE - FEATURES
+This page provides the user with relevant and curious information on the Island of Guernsey, and each section is aimed at one specific aspect of why it could be the mythical Island of Avalon.
+- **Header** (features aforementioned)
+- **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
+- The content is divided in **7 sections** that cover different aspects of the Island of Guernsey, which bear a curious coincidence with the mythical Island of Avalon.
+- Each section contains a related **image**, an **audio**, a **video**, or an **interactive Google map** to back the information given. 
+- **Footer** (features aforementioned)
 
 ### SIGN-UP PAGE - FEATURES
-
+- **Header** (features aforementioned)
+- **Background image** with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
+- **Sign-up form**, to allow the user to receive the monthly newsletter, to be informed of any new finding; be informed of cultural and social events around Europe, and organized sight seeing visits to relevant places from the ongoing investigation. It includes the option to **include a file** in case the user wants to share any new finding, and the users will also **be able to specify** (through *radio buttons*) whether they enjoy travelling and sight seeing, with available options of *nope*, *yes!*, and *maybe...*. Last but not least, the user can include an **optional message**.
+- - **Footer** (features aforementioned)
 ### 404 PAGE - FEATURES
-
+- **Header** (features aforementioned)
+- **Background image** fixed.
+- **Footer** (features aforementioned)
 
 ## FUTURE FEATURES
 
@@ -1055,7 +1091,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 ## Run Locally with GitPod
 
-# Credits
+# CREDITS
 
 ## Content
 
