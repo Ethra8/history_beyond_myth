@@ -397,8 +397,6 @@
      box-shadow: inset 0px 0px 30px rgba(0, 0, 0, 0.9);
      margin: 70px auto 90px;
      text-align: justify;
-     text-justify: newspaper;
-     -ms-text-justify: auto;
  }
 
  #reasons-to-sign-up {
@@ -1283,7 +1281,7 @@
      #avalon header {
          min-height: fit-content;
          max-height: fit-content;
-         padding-left: 120px 15% 20px;
+         padding: 120px 15% 20px;
      }
 
      #arthur header>.left,
@@ -1476,15 +1474,13 @@
          position: relative;
          display: block;
          min-width: 165px;
-         /*negative margin to position it right under img*/
-         /* margin: -4px auto 0; */
          z-index: 2;
      }
 
 
      /*** SIGN-UP ***/
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') right top cover;
+         background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
      }
 
      #sign_up_flex {
@@ -1835,7 +1831,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /*** SIGN-UP ***/
 
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') left top cover;
+         background: url('../images/castle-4509080_1280.jpg') left top fixed repeat-x;
      }
 
      #sign_up_flex {
@@ -2122,7 +2118,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_640.jpg') left 0 top 20px cover;
+         background: url('../images/castle-4509080_640.jpg') left 0 top 20px fixed repeat-x;
      }
 
      #sign_up_flex {
