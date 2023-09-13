@@ -406,7 +406,13 @@ Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, r
 
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)
+
+    
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/b34f6747-5ddd-4168-82d3-770238aa0cc8
+
+
 
 #### ARTHUR I PAGE - BACKGROUND IMAGE
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
@@ -436,7 +442,13 @@ The images of this section change, depending on the size of the screen, as follo
   2. **Portrait of Count Geoffrey II of Brittany**: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
-    
+
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/a13807f7-000e-400d-a298-0a788ae3a9bf
+
+
+  
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
 The image of this section is responsive. While the figure it is placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens.  
 
