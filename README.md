@@ -118,7 +118,7 @@ EDNA TORRES MUNILL
         + [404 Page - Features](#404-error-page---features)
 
     * [Future Features](#future-features)
-        + [Add Pages](#add-pages)
+        + [Add Content Pages](#add-content-pages)
             1. [Camelot](#camelot)
             2. [Guinevere-and-Lancelot](#guinevere-and-lancelot)
             3. [Morgana](#morgana)
@@ -805,19 +805,22 @@ Provides the user with an error page that follows the same line of design as the
 
 ## FUTURE FEATURES
 
-### ADD PAGES
-  1. #### CAMELOT
-  2. #### GUINEVERE AND LANCELOT
-  3. #### MORGANA
-  4. #### KNIGHTS OF THE ROUND TABLE
-  5. #### RECOMMENDED BOOKS AND SITES
+### ADD CONTENT PAGES
+The ongoing investigation includes more interesting and curious cooincidences between history and the Arthurian mythos, and the following pages are going to be created to include related content:
+  1. **CAMELOT**
+  2. **GUINEVERE AND LANCELOT**
+  3. **MORGANA**
+  4. **KNIGHTS OF THE ROUND TABLE**
+  5. **RECOMMENDED BOOKS AND SITES**
 
 ### CAROUSSEL
+On the *sign-up page*, containing images taken in past events, for the users to have an insight of the activities included in the monthly newsletter, if they decide to sign up.
 
 ### ONLINE SHOP
+Containing interesting books and all kind of "goodies" (t-shirts, cups, etc.) related to the topic.
 
 ### ONLINE BOOKING
-
+To enable users who have already signed up to book future activities.
 
 ## TESTING
 
