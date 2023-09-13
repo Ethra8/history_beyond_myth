@@ -822,12 +822,13 @@
      color: #F3F1F1;
      padding: 0 30px;
      font-size: 30px;
-     transition: all 0.5s linear;
+     transition: all 0.15s linear;
  }
 
  footer .fab:hover,
  footer .fa:hover {
      color: #D6D6D6;
+     transform: scale(1.1);
  }
 
 
