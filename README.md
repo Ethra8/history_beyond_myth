@@ -75,6 +75,7 @@ EDNA TORRES MUNILL
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
             - [Home Page Description - Hover](#home-page-description---hover)
+            - [Arthur and Avalon Pages - Hover](#arthur-and-avalon-pages---hover)
             - [Sign-up Form - Hover](#sign-up-form---hover)
             - [Footer Icons - Hover](#footer-icons---hover)
             - [Footer Email Link - Hover](#footer-email-link---hover)
@@ -581,6 +582,15 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/ce81adf6-6b75-4b0c-bb76-f242b2cf6685
 
 
+#### ARTHUR AND AVALON PAGES - HOVER
+
+- The content text of all sections include ***tooltips***, triggered by smaller numbers placed in a superior position, referencing the information given. When the user hovers on the said numbers, the font weight changes from normal to bold, and the tooltips display.
+
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/d4a1e832-2d2c-4375-bd94-27f0e51509b3
+
+
 #### SIGN-UP FORM - HOVER  
 
 - ***Sign-up Form***
@@ -746,7 +756,7 @@ This page contains the following:
     
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
 
-### [404 PAGE](https://englishgrows.com/history_beyond_myth/404.html) - STRUCTUE
+### [404 PAGE](https://englishgrows.com/history_beyond_myth/404.html) - STRUCTURE
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
