@@ -660,20 +660,25 @@ Some ***zoom in*** animation has been implemented on hover to the media icons of
 
 
 ## SITE STRUCTURE
-The site contains 4 pages navigable pages, and a 404 error page. All pages, including the 404 error page have a navigation bar on the top to allow the user for an easy navigation through the pages. The navigation bar is fixed to enable the user fast navigation through the site, even when scrolling on each page. Each page including the error page also include a footer, which contains icons that link to the site's main social media profiles, as well as enabling the user to seamlessly send an email to the site administrator by clicking on the envelope icon. The pages are as follows:
+The site contains 4 pages navigable pages, and a 404 error page, each of them including the following:  
+
+- **Navigation bar, fixed on the top** to allow the user for an easy navigation through the pages, even when scrolling down on pages.
+- **Footer**, which contains icons that link to the site's main social media profiles, opening on a different tab when clicked, for an improved user expeince. The *envelope* icon enables the user to send an email to the site administrator directly by clicking on it.
 
 ### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html) - STRUCTURE
-Acting as the *landing page*, it contains the header with the title of the site. Underneath it there is a row of depictions taken from medieval manuscripts, all related to the site's investigation and theories on the Arthur mythos. Then, there is the *Site description*, which contains *3 sections*:
+Acting as the *landing page*, it has the following structure:
+  1. **HEADER**: Containing the title of the site.
+  2. **ROW OF IMAGES**: Placed Underneath the header, all taken from medieval manuscripts, and related to the site's investigation and theories on the Arthur mythos.
+  3. **SITE SDESCRIPTION**: Contains *3 sections*:
+      1. **ABOUT US** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
 
-  1. **ABOUT US** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
+      2. **KEEPING IT REAL** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
 
-  2. **KEEPING IT REAL** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
-
-  3. **REASONS TO SIGN UP** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
-    1. Receive our monthly newsletter containing updates on any new curious coincidences found around this matter.
-    2. Become part of our vibrant community, and attend cultural and social events related to the Early Middle Ages around Europe, such as expositions, lectures, and conferences.
-    3. Share any possible new findings of your own with us, and eventually contribute to unveil long-lasting mysteries from the Dark Ages.
-    4. Every once in a while, we organize some visits to emblematic sights related to the curious coincidences found between history and myth. Join in!
+      3. **REASONS TO SIGN UP** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
+          1. Receive a *monthly newsletter*.
+          2. Become part of our vibrant community, and attend *cultural and social events* around Europe, such as expositions, lectures, and conferences.
+          3. *Share users' new findings* with the site administration.
+          4. Attend *organized visits* to emblematic sights related to the curious coincidences found between history and myth.
 
 ### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) - STRUCTURE
 States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display on hover:
