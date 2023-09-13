@@ -890,46 +890,53 @@ To enable users who have already signed up to book future activities.
 - No errors nor warnings were returned when passing the CSS Validation Test.
 - Used CSS Validator at [Jigsaw.w3.org](https://jigsaw.w3.org/css-validator/validator)
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/01c403d5-4608-448f-b24f-ea4d020884fc)
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c340817-16c6-47bb-8efa-daba6b9b0568)
 
-- Link to W3C CSS Validator results for https://englishgrows.com/history_beyond_myth/ (CSS level 3 + SVG) [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+- Link to W3C CSS Validator results for https://englishgrows.com/history_beyond_myth/ (CSS level 3 + SVG) [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### HTML VALIDATION  
 - No errors nor warnings were returned when passing the HTML Validation Test.
 - Used [HTML Validator](https://validator.w3.org/) to validate all this website pages, as follows:
   
-**HOME PAGE** - [**index.html**](https://englishgrows.com/history_beyond_myth/index.html):  
+**HOME PAGE** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Findex.html):  
     
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3794778e-aba1-4e9d-8dfe-02bee703bf4f)  
+ ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2e2c74f3-595f-4e57-adad-29216a84c35b)
+ 
 
   
-**PAGE: ARTHUR I** - [**arthur_I.html**](https://englishgrows.com/history_beyond_myth/arthur_I.html):  
+**PAGE: ARTHUR I** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Farthur_I.html):  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bf48fe58-6db4-4fb9-9161-e4fdf34ad7b2)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5477389e-2b2d-4857-97d0-75a67fd9fbe1)
+ 
 
   
-**PAGE: AVALON** - [**avalon.html**](https://englishgrows.com/history_beyond_myth/avalon.html):  
+**PAGE: AVALON** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Favalon.html):  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b82366d0-540d-47b9-a84a-f187b5bd4083)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b8fa6a15-6295-4c00-a6b3-3622863e5a15)
+ 
   
 
-**PAGE: SIGN-UP** - [**contact.html**](https://englishgrows.com/history_beyond_myth/contact.html):   
+**PAGE: SIGN-UP** - Test results [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fenglishgrows.com%2Fhistory_beyond_myth%2Fsign_up.html):   
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cec9b322-4acd-4139-9200-c4184c217b24)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9f37fd05-f9b1-47d5-822c-e1d41ba03ebb)
+
   
-## Compatibility and Responsive Testing
+## COMPATIBILITY AND RESPONSIVE TESTING
 
-## Manual Testing
+## MANUAL TESTING
 For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
-### Sign-up Form
+### SIGN-UP FORM
 - Required Fields**:  
     1. First Name
     2. Last Name
     3. Email
+
 - Optional Fields:
     1. Do you like travelling and sight seeing?
     2. Want to share any findings?
+    3. Message
   
     
   - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
@@ -980,7 +987,7 @@ For any scenarios that have not been automated, tested the user stories and feat
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
 
 
-## Defect Tracking  
+## DEFECT TRACKING  
 
 ### GITHUB ISSUES
 This website has been coded mostly by fixing the upcoming defects I encountered on the go. Nevertheless, I have created some *Github Issues* lately, as to reflect the kind of bugs that come up on a daily basis, and how I solved them:
