@@ -119,11 +119,6 @@ EDNA TORRES MUNILL
 
     * [Future Features](#future-features)
         + [Add Content Pages](#add-content-pages)
-            1. [Camelot](#camelot)
-            2. [Guinevere-and-Lancelot](#guinevere-and-lancelot)
-            3. [Morgana](#morgana)
-            4. [Knights of the Round Table](#knights-of-the-round-table)
-            5. [Recommended Books and Sites](#recommended-books-and-sites)
         + [Caroussel](#caroussel)
         + [Online Shop](#online-shop)
         + [Online Booking](#online-booking)
