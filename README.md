@@ -148,6 +148,7 @@ EDNA TORRES MUNILL
 
     * [Accessibility Testing](#accessibility-testing)
         + [Accesibility Audits](#accessibility-audits)
+            - [Lighthouse Reports - Accessibility](#lighthouse-reports---accessibility)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
   
@@ -1056,9 +1057,13 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 ## ACCESSIBILITY TESTING
 
-### LIGHTHOUSE REPORTS
+## ACCESSIBILITY AUDITS
+
+### LIGHTHOUSE REPORTS - ACCESSIBILITY
 
 #### HOME PAGE - ACCESSIBILITY
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d8ef560-27bd-433d-8027-5ae9afaafdc0)
+
 
 #### ARTHUR I PAGE - ACCESSIBILITY
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
@@ -1068,9 +1073,6 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 #### SIGN-UP PAGE - ACCESSIBILITY
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6bc5f5ec-ab2c-4c3d-80b9-9119cfe5d508)
-
-
-## Accessibility Audits
 
 ### Keyboard Navigation
 
