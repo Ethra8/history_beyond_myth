@@ -1047,12 +1047,28 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 - **SIGN-UP**
 
 ## Defects of Note
+- No defects of note have been spotted throughout the site.
 
 ## Outstanding Defects
+- No outsatanding defects have been noticed throughout the site.
 
 ## Core Web Vitals
 
-## Accessibility Testing
+## ACCESSIBILITY TESTING
+
+### LIGHTHOUSE REPORTS
+
+#### HOME PAGE - ACCESSIBILITY
+
+#### ARTHUR I PAGE - ACCESSIBILITY
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
+
+#### AVALONG PAGE - ACCESSIBILITY
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b238d9f9-0ab8-442e-a8b7-c1faa597ce05)
+
+#### SIGN-UP PAGE - ACCESSIBILITY
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6bc5f5ec-ab2c-4c3d-80b9-9119cfe5d508)
+
 
 ## Accessibility Audits
 
