@@ -178,10 +178,11 @@ EDNA TORRES MUNILL
 
 # UX
 You will find in the points stated below a brief study aiming at providing the user with the best possible experience when visiting this site. 
+
 ## Target Audience
 * Any person interested in unsolved mysteries in general.
 * Any person who, regardless of their age, is interested in medieval history and/or myths.
-* Adults and young adults in general who love traveling and discovering new interesting places and facts.
+* Adults and young adults in general who love travelling and discovering new interesting places and facts.
 * Scholars, graduates, and undergraduates in Medieval History studies who might want to push this line of investigation further.
 * Adults, young adults and teenagers who are interested in the *Matter of Britain* (called *Matter of Brittany* in French), and the *Arthurian cycle*.
 * Parents and couples in search of fun social family gatherings to spend quality time on weekends. 
