@@ -1130,6 +1130,8 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 ## Acknowledgements
 
+- **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by [this coding explanation](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
+
 
 
 
