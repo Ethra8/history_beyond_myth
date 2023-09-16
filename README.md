@@ -1030,7 +1030,8 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
     
     * **MOBILE** 
     
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3439a451-d89c-476e-a954-422d904cada2)
+
     
     * **DESKTOP**
  
@@ -1038,27 +1039,61 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 
 - **ARTHUR I**
-    * Sept. 8th 2023:  
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/af170e8b-6fa4-4a35-8122-dff38386f54e)  
+   
+    * **MOBILE**  
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7e73fb89-1c3c-405c-a689-72d9b8353b91)
+  
+    * **DESKTOP**
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/13a312da-eb6d-46a3-9ecf-b7e3035cc82f)
 
  
 - **AVALON**
-    * **Sept. 8th 2023**  
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8f124bfb-658b-40eb-ad92-5424ec79b07e)
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/93d8baef-2718-4f4e-a91b-29e427f975cd)
+   
+    * **MOBILE**
+   
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cd70601f-ee02-45a2-a49e-6b189af880cb)
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/48597dce-073a-4ebe-957d-ecf694caf8a7)  
-          + ***Documentation used to fix issue:***  
-          1. aria-* attributes do not match their roles - [https://dequeuniversity.com](https://dequeuniversity.com/rules/axe/4.7/aria-allowed-attr)
-          2. Links do not have descriptive text - [https://developer.chrome.com](https://developer.chrome.com/docs/lighthouse/seo/link-text/?utm_source=lighthouse&utm_medium=devtools)
-        + ***Solved Issues***:
+    * **DESKTOP**  
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aec49fad-b947-4877-bae8-b9dc60aeaa59)
+
 
 - **SIGN-UP**
+   
+    * **MOBILE**
 
-## Defects of Note
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7c03460f-d2f5-4d72-b849-f0d94550d2e5)
+
+    * **DESKTOP**
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0d23f58b-df1c-47ed-b34f-b706d120dad1)
+
+
+- **404**
+
+    * **MOBILE**
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e7c96269-d1b9-4a89-8f62-2ac3bcc3379e)
+
+    * **DESKTOP**
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f920e4b8-c4e8-4b87-b086-db114f03d556)
+
+  + ***Documentation used to fix some of the initial issues:***  
+
+    1. *aria- attributes do not match their roles* - [https://dequeuniversity.com](https://dequeuniversity.com/rules/axe/4.7/aria-allowed-attr)
+    2. *Links do not have descriptive text* - [https://developer.chrome.com](https://developer.chrome.com/docs/lighthouse/seo/link-text/?utm_source=lighthouse&utm_medium=devtools)
+
+        
+
+
+
+## DEFECTS OF NOTE
 - No defects of note have been spotted throughout the site.
 
-## Outstanding Defects
+## OUTSTANDING DEFECTS
 - No outstanding defects have been noticed throughout the site.
 
 ## Core Web Vitals
@@ -1085,14 +1120,14 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 ### Chrome Vox Reader
 
-# Technologies Used
+# TECHNOLOGIES USED
 
-## Languages
+## LANGUAGES
 - To code this project the following languages have been used:
   + HTML
   + CSS
  
-## Frameworks, Libraries and Programs Used
+## FRAMEWORKS, LIBRARIES AND PROGRAMS USED
 - The following have been used:
   + [Visual Studio Code](https://code.visualstudio.com/) - To begin coding the site from scratch. I already had VScode installed previously, due to a previous personal freelance project called englishgrows.com, and I think is a great tool for coding.
   + [Chrome Dev Tools] - To inspect the elements, and be able to spot what element was having an unexpected behaviour, and correct it more efficiently.
@@ -1107,7 +1142,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
   + [Convertio](https://convertio.co/) - To cenvert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
 
 
-# Deployment
+# DEPLOYMENT
 
 ## Deploy to Github Pages
 - I started coding from **Visual Studio Code**, as I had been using it to code my freelancer website as a teacher of English as a second language. My freelance website is [englishgrows.com](https://englishgrows.com) , and I'm the owner of the Google Domain *englishgrows.com*, which is linked to this Github account EdnaTMunill, with nickname [Ethra8](https://github.com/Ethra8) . 
@@ -1134,7 +1169,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/a85b79f7-7bb4-4e5e-bc1a-b09a1a37161a)
 
 ### Update after Deployment
-- Changed original site name **History_Beyond_Myth** to lower cases:
+- Changed original site name **History_Beyond_Myth** to lower cases, as **history_beyond_myth**:
      + Go to **Settings**:
        
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1a9566e0-dda2-47f1-9ed5-7a4bb7278b79)
