@@ -1027,12 +1027,19 @@ This website has been coded mostly by fixing the upcoming defects I encountered 
 This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse Reports by page:
 
 - **HOME**
-    * Sept. 8th 2023  
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
+    
+    * **MOBILE** 
+    
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2c00ddb9-26ad-4889-965f-8a3a05c88117)
+    
+    * **DESKTOP**
+ 
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5f8c731d-a08f-4ca0-bf76-1d2e5469474c)
+
+
 - **ARTHUR I**
     * Sept. 8th 2023:  
  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/af170e8b-6fa4-4a35-8122-dff38386f54e)  
-          + ***Documentation used to fix issue:***
 
  
 - **AVALON**
