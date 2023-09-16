@@ -1052,7 +1052,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 - No defects of note have been spotted throughout the site.
 
 ## Outstanding Defects
-- No outsatanding defects have been noticed throughout the site.
+- No outstanding defects have been noticed throughout the site.
 
 ## Core Web Vitals
 
@@ -1063,8 +1063,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 ### LIGHTHOUSE REPORTS - ACCESSIBILITY
 
 #### HOME PAGE - ACCESSIBILITY
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2d8ef560-27bd-433d-8027-5ae9afaafdc0)
-
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a702dc6f-f000-41c7-b3a8-8319bd7c4ea4)
 
 #### ARTHUR I PAGE - ACCESSIBILITY
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
@@ -1088,13 +1087,17 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
  
 ## Frameworks, Libraries and Programs Used
 - The following have been used:
-  + Visual Studio Code
-  + Balsamiq
-  + Font Awesome
-  + Google Fonts
-  + Github
-  + Coolors.co
-  + Amiresponsive
+  + [Visual Studio Code](https://code.visualstudio.com/) - To begin coding the site from scratch. I already had VScode installed previously, due to a previous personal freelance project called englishgrows.com, and I think is a great tool for coding.
+  + [Chrome Dev Tools] - To inspect the elements, and be able to spot what element was having an unexpected behaviour, and correct it more efficiently.
+  + [Balsamiq](https://balsamiq.com/wireframes/) - To create wireframes
+  + [Favicon](https://favicon.io/) - To create the logo, and the icon on the title included in each page of this site
+  + [Font Awesome](https://fontawesome.com/) - For the icons used
+  + [Google Fonts](https://fonts.google.com/) - To select fonts and implement them in the site
+  + [Github](https://github.com) - The deploy the site online
+  + [Coolors](https://coolors.co) - To insert colors selected previously directly through visual studio code, but used this tool to display the palette beautifully, and insert it in this readme file.
+  + [Amiresponsive](https://ui.dev/amiresponsive) - To display the site in all types of devices simultaneously.
+  + Paint - For resizing imgs and improve the site performance on load
+  + [Convertio](https://convertio.co/) - To cenvert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
 
 
 # Deployment
