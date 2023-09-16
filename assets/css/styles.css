@@ -148,7 +148,7 @@
  }
 
  nav #logo1 {
-     float: inline-start;
+     float: left;
      vertical-align: middle;
      width: 55px;
      margin-left: 0;
@@ -348,7 +348,7 @@
  }
 
  #index .site_description {
-     background: url('../images/full_manuscript_background_AVI.avif') repeat-x center top -100px fixed;
+     background: url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.avif') repeat-x center top -100px fixed;
      margin: 0 auto;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      font-weight: 500;
@@ -457,7 +457,7 @@
  }
 
  #arthur header .image {
-     background-image: url('../images/Arthur-I_of_Brittany_150x175px.avif');
+     background-image: url('../images/arthur_i_header_arthur_i_of_brittany_150x175px.avif');
      display: flex;
      margin: 0 40px 0 0;
      /* float: left; */
@@ -585,7 +585,7 @@
  }
 
  #arthur_genealogy.background_image {
-     background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 488px top -400px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 976px top -600px fixed repeat-y, url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left 1464px top fixed repeat;
+     background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 488px top -400px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 976px top -600px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 1464px top fixed repeat;
      /* margin: 0; */
      overflow: hidden;
  }
@@ -878,7 +878,7 @@
  }
 
  #avalon header .image {
-     background: url('../images/abalone_header_150x175.avif') center center;
+     background: url('../images/avalon_header_abalone_shell_150x175.avif') center center;
      display: flex;
      margin-right: 40px;
      /* margin-top: 20px; */
@@ -893,7 +893,7 @@
  }
 
  #avalon .background_image {
-     background: url('../images/rocky-beach-guernsey-near-fort-houmet.avif') top -450px center fixed;
+     background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.avif') top -450px center fixed;
      overflow: hidden;
  }
 
@@ -1010,7 +1010,7 @@
  }
 
  #sign_up .bg_img {
-     background: url('../images/castle-4509080_1920.jpg') center center fixed;
+     background: url('../images/sign_up_bg_img_castle_1920x1278.jpg') center center fixed;
  }
 
  #sign_up .black_transparency {
@@ -1112,7 +1112,8 @@
      width: 200px;
  }
 
- #social_events figcaption {
+ #social_events figcaption,
+ #cultural_events figcaption {
      width: 186px;
      margin-left: 0;
      margin-top: -3em;
@@ -1158,16 +1159,6 @@
      border-bottom-left-radius: 10px;
      margin-top: -16px;
      height: 300px;
- }
-
- #cultural_events figcaption {
-     width: 186px;
-     margin-left: 0;
-     margin-top: -4.5em;
-     background-color: rgba(48, 48, 48, 0.8);
-     z-index: 1;
-     position: relative;
-     border-bottom-left-radius: 10px;
  }
 
 
@@ -1275,7 +1266,7 @@
  /******* 404 ERROR PAGE*****/
 
  #error_img {
-     background: url('../images/Error404_thinker_CodexManesse.avif') top 370px left fixed repeat;
+     background: url('../images/404_thinker_codex_manesse.avif') top 370px left fixed repeat;
      height: 300px;
      max-height: 1000px;
  }
@@ -1339,7 +1330,7 @@
 
      /*** SIGN UP ***/
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x;
      }
 
      #social_events>div {
@@ -1502,7 +1493,8 @@
 
      /*** SIGN-UP ***/
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') right top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x;
+         background-size: cover;
      }
 
      #sign_up_flex {
@@ -1649,12 +1641,12 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /**** END RESPONSIVE NAVBAR ***/
 
      #arthur_genealogy.background_image {
-         background: url('../images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif') left -25px top -160px fixed repeat;
+         background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left -25px top -160px fixed repeat;
      }
 
      #philip_castle img {
          width: 100%;
-         min-width: 300px;
+         min-width: 0;
          margin: 0;
          position: relative;
      }
@@ -1662,6 +1654,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #philip_castle figcaption {
          position: relative;
          width: 100%;
+         min-width: none;
          max-width: fit-content;
          margin: -4px auto 0;
      }
@@ -1832,7 +1825,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** AVALON ***/
      #avalon .background_image {
-         background: url('../images/rocky-beach-guernsey-near-fort-houmet_780x1932.avif') top -300px center fixed;
+         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_780x1932.avif') top -300px center fixed;
      }
 
      #abalone_frenchPronunciation {
@@ -1853,7 +1846,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /*** SIGN-UP ***/
 
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_1280.jpg') left top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left top fixed repeat-x;
      }
 
      #sign_up_flex {
@@ -1992,7 +1985,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #arthur header .image {
-         background-image: url('../images/Artur_I_of_Brittany_130x143px.avif');
+         background-image: url('../images/arthur_i_header_arthur_i_of_brittany_130x143px.avif');
          margin: 20px auto;
          padding-right: 0;
          width: 130px;
@@ -2084,7 +2077,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** AVALON ***/
      #avalon .background_image {
-         background: url('../images/rocky-beach-guernsey-near-fort-houmet_600x1228px.avif') center top fixed;
+         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_600x1228px.avif') center top fixed;
      }
 
      /*index & avalon*/
@@ -2140,7 +2133,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #sign_up .bg_img {
-         background: url('../images/castle-4509080_640.jpg') left 0 top 20px fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left 0 top 20px fixed repeat-x;
      }
 
      #sign_up_flex {
