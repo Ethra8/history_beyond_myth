@@ -147,7 +147,7 @@ EDNA TORRES MUNILL
     * [Core Web Vitals](#core-web-vitals)
 
     * [Accessibility Testing](#accessibility-testing)
-        + [Accesibility Audits](#accessibility-audits)
+        + [Accessibility Audits](#accessibility-audits)
             - [Lighthouse Reports - Accessibility](#lighthouse-reports---accessibility)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
@@ -1100,21 +1100,22 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 ## ACCESSIBILITY TESTING
 
-## ACCESSIBILITY AUDITS
+### ACCESSIBILITY AUDITS
 
-### LIGHTHOUSE REPORTS - ACCESSIBILITY
+#### LIGHTHOUSE REPORTS - ACCESSIBILITY
 
-#### HOME PAGE - ACCESSIBILITY
+- **HOME PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a702dc6f-f000-41c7-b3a8-8319bd7c4ea4)
 
-#### ARTHUR I PAGE - ACCESSIBILITY
+- **ARTHUR I**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
 
-#### AVALONG PAGE - ACCESSIBILITY
+- **AVALON**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b238d9f9-0ab8-442e-a8b7-c1faa597ce05)
 
-#### SIGN-UP PAGE - ACCESSIBILITY
+- **SIGN-UP**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6bc5f5ec-ab2c-4c3d-80b9-9119cfe5d508)
+
 
 ### Keyboard Navigation
 
@@ -1144,10 +1145,11 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 # DEPLOYMENT
 
-## Deploy to Github Pages
+## DEPLOY TO GITHUB PAGES
 - I started coding from **Visual Studio Code**, as I had been using it to code my freelancer website as a teacher of English as a second language. My freelance website is [englishgrows.com](https://englishgrows.com) , and I'm the owner of the Google Domain *englishgrows.com*, which is linked to this Github account EdnaTMunill, with nickname [Ethra8](https://github.com/Ethra8) . 
 
-### Production
+### PRODUCTION
+
 1. Click **Settings** tab:
    
    ![image](https://github.com/Ethra8/History_Beyond_Myth/assets/80659091/b05a629e-a3bc-4a65-ace1-c9a69aad35c3)
@@ -1182,19 +1184,38 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
 
-## Forking the Repository
+## FORKING THE REPOSITORY
+In case you wish to use the code, it will be a pleasure, but **please fork the repository, do not clone it**. Thank you!
 
-## Run Locally with GitPod
+## RUN LOCALLY WITH VISUAL STUDIO CODE
+1. Be sure that your IDE is hooked to Github.
+2. 
 
 # CREDITS
 
-## Content
+## CONTENT
 
-## Media
+### ARTHUR I - CREDITS
 
-## Acknowledgements
+- 
 
-- **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by [this coding explanation](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
+### AVALON - CREDITS
+
+## MEDIA
+
+### HOME PAGE - MEDIA
+
+### ARTHUR I - MEDIA
+
+### AVALON - MEDIA
+
+### SIGN-UP - MEDIA
+
+### 404 - MEDIA
+
+## ACKNOWLEDGEMENTS
+
+- **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by helped by [this coding explanation and example](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
 
 
 
