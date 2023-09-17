@@ -458,18 +458,35 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/a13807f7-000e-400d
 
   
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
-The image of this section is responsive. While the figure it's placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens. The image was selected because it is a 14th century depiction of the *Palais de la Cité*, home to the French Kings at the time Arhur I of Brittany was secretly brought there to be raised with Prince Louis of France. Source is the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France.
+The image of this section is responsive. While the figure it's placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens. The image was selected because it is a 14th century depiction of the *Palais de la Cité*, home to the French Kings at the time Arhur I of Brittany was secretly brought there to be raised with Prince Louis of France. Source is the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France. Digitalized image available with description at [Wikipedia](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juin.jpg), and at [Web Gallery of Art](https://www.wga.hu/html/l/limbourg/06juin.html)
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/939c866f-03e4-46fc-89d9-fdf2d7e776c1)
 
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b18df55-8ccc-4676-977c-79d7c35bf24e
+
+
+
 #### SECTION 3 - DEATH OF KING RICHARD I  
-The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
+The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, taking 100% of the width of the paragraph, bringing responsiveness to the site.
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/9716b0af-6e27-4bdb-a341-b8d49d03b172
+
+
+
 
 #### SECTION 4 - TWO KINGS ONE THRONE  
-**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported his claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/geoffrey_ii_count_of_brittany_royal_ms_14_b_vi_f006v_223x275px.avif)
   
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/754dc673-3d35-4c23-8fb1-189c2580e89c
+
+
+
 ### AVALON PAGE - IMAGERY  
 
 #### AVALON PAGE - HEADER IMAGE  
