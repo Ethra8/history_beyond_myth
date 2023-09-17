@@ -406,11 +406,11 @@ Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, r
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
 
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur-I_of_Brittany_150x175px.avif)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_header_arthur_i_of_brittany_150x175px.avif)  
 
   * **PHONES** (max. 576 px width): 130px width, 143px height  
 
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/Artur_I_of_Brittany_130x143px.avif)
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_header_arthur_i_of_brittany_150x175px.avif)
 
     
 
@@ -421,7 +421,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/b34f6747-5ddd-4168
 #### ARTHUR I PAGE - BACKGROUND IMAGE
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/MS_14_B_VI_f006_Roll_chronicle_genealogy_kings_England_full_488x1340px.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif)
 
 #### SECTION 1 - HEIR TO KING RICHARD THE LIONHEART  
 The images of this section change, depending on the size of the screen, as follows:
@@ -429,7 +429,7 @@ The images of this section change, depending on the size of the screen, as follo
 - **DESKTOPS**  (min. width of 1200px):   
 
    1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Henry_IIs_sons.avif)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif)  
 
 - **PORTRAIT TABLETS AND PHONES** (max. width of 991px):
 
