@@ -429,7 +429,7 @@ The images of this section change, depending on the size of the screen, as follo
 - **DESKTOPS**  (min. width of 1200px):   
 
    1. Zoom-in caption of the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II and his sons. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) including King Henry II descendants.  
-![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif)  
+![image](https://englishgrows.com/history_beyond_myth/assets/images/aarthur_i_section_1_king_henry_ii_descendants_royal_ms_14_b_vi_f006v_952x448px.avif)  
 
 - **PORTRAIT TABLETS AND PHONES** (max. width of 991px):
 
