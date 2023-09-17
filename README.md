@@ -534,7 +534,7 @@ The image of this section remains the same in all screen sizes, but in different
     * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height  
     * **PHONES** (max. size of 576px): 640px width, 426 height    
    
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.jpg)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/sign_up_bg_img_castle_1280x852px.jpg)  
 
 #### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
