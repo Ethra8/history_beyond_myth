@@ -359,7 +359,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 Find below all the images used in this site, with a description and a link to their original source. The images have been listed by pages, and different devices' screen-size. Aiming at an effective responsiveness, sometimes different images show depending on the size of the device, as follows:
 
 ### HERO IMAGE
-The hero image is the biggest image positioned below the header of the landing page (home page) appearing in tablets and laptops, and appears as well fixed at the background of the landing page in all devices. The image takes full sense in section 2 of Arthur I' page, where it also displays in all devices regardless of the screen size. It has been selected because it shows [Arthur I of Brittany with a crown giving homage to the King of France Philip Augustus](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) in return for this latter's support to his claim to the throne of England after King Richard the Lionheart's death. The source is the manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), Royal MS 16 G VI, f.361v, dated 1332-1350, British Library.  
+The hero image is the biggest image positioned below the header of the landing page (home page) appearing in tablets and laptops, and appears as well fixed at the background of the landing page in all devices. The image takes full sense in section 3 of Arthur I' page, where it also displays in all devices regardless of the screen size. It has been selected because it shows [Arthur I of Brittany with a crown giving homage to the King of France Philip Augustus](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) in return for this latter's support to his claim to the throne of England after King Richard the Lionheart's death. The source is the manuscript *"Les Grandes Chroniques de France"* [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), Royal MS 16 G VI, f.361v, dated 1332-1350, British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_crown_and_king_philip_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v.jpg)
 
@@ -395,6 +395,10 @@ All images in this section are related to the Arthurian mythos, and taken from d
 
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/14d1c86e-e61d-44eb-9dee-c8f378a15ebf)
+
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/84ccc130-2667-4f58-8d22-c5b4bb382d51
 
 
 
@@ -473,7 +477,7 @@ The image on the header changes slightly depending on the size of the screen, to
 
 - [Picture of an abalone shell](https://www.pexels.com/es-es/foto/brillante-cascara-fondo-verde-concha-marina-8802637/) by Foto de [Dagmara Dombrovska](https://www.pexels.com/es-es/@dagmara-dombrovska-22732579/) at [Pexels.com](https://www.pexels.com/)  
 
-  ![image](https://englishgrows.com/history_beyond_myth/assets/images/abalone_header_150x175.avif)  
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/avalon_header_abalone_shell_150x175.avif)  
 
   * **TABLETS AND LAPTOPS** (min. 578px width): 150px width, 175px height  
       + **LAPTOPS**  
@@ -530,7 +534,7 @@ The image of this section remains the same in all screen sizes, but in different
     * **TABLETS** (min. size of 577px to max. size of 1199px): 1280px width, 852px height  
     * **PHONES** (max. size of 576px): 640px width, 426 height    
    
-    ![image](https://englishgrows.com/history_beyond_myth/assets/images/castle-4509080_640.jpg)  
+    ![image](https://englishgrows.com/history_beyond_myth/assets/images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.jpg)  
 
 #### EVENTS SECTION - IMAGERY  
 The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
@@ -549,7 +553,7 @@ The images of this section remain the same in all screen sizes, adapting its wid
 The image remains the same in all screen sizes, and repeats itself both through the ***x*** and ***y*** values to fill the screen accordingly, in a responsive manner.
 - [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), a poet and composer from around the same time of the course of the events related on this site. It has been selected because it depicts a medieval poet thinking, sitting on a rock, and when a 404 error occurs, the cumputer is also thinking. The image's original source is the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
 
-  ![image](https://englishgrows.com/history_beyond_myth/assets/images/Error404_thinker_CodexManesse.avif)
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/404_thinker_codex_manesse.avif)
 
 
 
