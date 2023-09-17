@@ -458,7 +458,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/a13807f7-000e-400d
 
   
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
-The image of this section is responsive. While the figure it is placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens.  
+The image of this section is responsive. While the figure it's placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens. The image was selected because it is a 14th century depiction of the *Palais de la Cité*, home to the French Kings at the time Arhur I of Brittany was secretly brought there to be raised with Prince Louis of France. Source is the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France.
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/939c866f-03e4-46fc-89d9-fdf2d7e776c1)
 
