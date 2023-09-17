@@ -441,11 +441,11 @@ The images of this section change, depending on the size of the screen, as follo
 
   1. **Portrait of King Richard "the Lionheart"**: Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 
-  ![image](https://englishgrows.com/history_beyond_myth/assets/images/king-richard-1-Genealogical_roll_of_the_kings_of_England.avif)
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/king_richard_lionheart_royal_ms_14_b_vi_f006v_223x275px.avif)
 
   2. **Portrait of Count Geoffrey II of Brittany**: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 
-  ![image](https://englishgrows.com/history_beyond_myth/assets/images/Geoffrey_Count_of_Brittany.avif)   
+  ![image](https://englishgrows.com/history_beyond_myth/assets/images/geoffrey_ii_count_of_brittany_royal_ms_14_b_vi_f006v_223x275px.avif)   
 
 
 
@@ -464,7 +464,7 @@ The image of this section is the **Hero Image**, which remains the same in all s
 #### SECTION 4 - TWO KINGS ONE THRONE  
 **Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
-![image](https://englishgrows.com/history_beyond_myth/assets/images/Arthur_le_Rois_de_Bretaigne-Les_chroniques_de_france.avif)
+![image](https://englishgrows.com/history_beyond_myth/assets/images/geoffrey_ii_count_of_brittany_royal_ms_14_b_vi_f006v_223x275px.avif)
   
 ### AVALON PAGE - IMAGERY  
 
