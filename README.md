@@ -613,6 +613,15 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/d4a1e832-2d2c-4375-bd94-27f0e51509b3
 
+- **ARTHUR I PAGE**
+  Includes transparent containers shaped as circles with black double borders, and positioned as to circle the main charactersto whom the text relates, on the fixed genealogy image: *Arthur I of Brittany*, *King Richard the Lionheart*, and *John Lackland*. Once the user ***hovers on top of each, the transparent circle border goes from black to reddish color:
+
+  
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/a52700a2-843e-48e4-bc9a-3a90745b67bc
+
+
 
 #### SIGN-UP FORM - HOVER  
 
