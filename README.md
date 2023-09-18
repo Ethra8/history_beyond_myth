@@ -292,13 +292,13 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 2. [UnifrakturCook](https://fonts.google.com/specimen/UnifrakturCook?query=unifrak): Very similar to the previous, but upper-case are more readable, even if only available in bold. Used only for other pages than index's header, and only for the 1st letters. Fall-back font to cursive.
 
-3. [Metamorphous](https://fonts.google.com/specimen/Metamorphous?query=metamor): Medieval font, very readable upper & lower cases. Fall-back font to cursive.    
+3. [Metamorphous](https://fonts.google.com/specimen/Metamorphous?query=metamor): Medieval font, very readable upper & lower cases. Fall-back font to cursive. Used in all headers main text, appart from the 1st letters   
 
-4. [Jim Nightshade](https://fonts.google.com/specimen/Jim+Nightshade?query=jim+night): Very readable old script, that fits the topic of the website. Fall-back font to cursive.  
+4. [Jim Nightshade](https://fonts.google.com/specimen/Jim+Nightshade?query=jim+night): Very readable old script, that fits the topic of the website. Fall-back font to cursive. Used for the second line of the headers
 
-5. [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie?query=reeni): Only used in home page header for the word *"beyond"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
+5. [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie?query=reeni): Only used in *home page* header for the word *"beyond"*, and the *404 page* header's word *"modern"*. Being a modern script font, it brings an interesting contrast with the medieval fonts used in the rest of the header. It symbolyses modern investigation that seeks to go ***beyond*** the myth.  Fall-back font to cursive.  
 
-6. [Fleur De Leah](https://fonts.google.com/specimen/Fleur+De+Leah?query=fleur): Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive.  
+6. [Fleur De Leah](https://fonts.google.com/specimen/Fleur+De+Leah?query=fleur): Stylish Flowery design. Exactly the same design used in medieval manuscripts included in website, upon which the investigation lays. Fall-back font to cursive. Used for the 1st letter of the sections' headings.
 
 7. [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montse): Modern sans-serif very readable font for main content.   
 
@@ -308,7 +308,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
-- **HEADER (HOME PAGE)**:
+- **HEADER (HOME PAGE & 404 PAGE) :
     * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
     * The remaining text in headings use **Metamorphous** (upper case).
     * All headers' extra text (p) use **Jim Nightshade**.
@@ -316,6 +316,8 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a9646efb-2cb5-4b6a-b8a0-5d7f5157d1e8)
 
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ef4525f6-ebe2-4620-b371-8ae3d2a7659e)
 
 - **HEADERS (CONTENT PAGES)**:
       * Use of **UnifrakturCook** (lower case) only for the *1st letters of main words* of main heading of each page.
