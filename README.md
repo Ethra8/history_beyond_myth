@@ -554,11 +554,13 @@ The images of this section remain the same in all screen sizes, adapting its wid
 
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9a7cbe31-e7b0-4167-9e6e-b3c1092c75e4)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fdbe18dc-50f8-4d4f-a883-faf53c33bbb4)
+
 
 - ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b5804aa-c854-4fff-9b1d-706c6b0ad40a)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ed278431-5bff-499e-8196-118dba6d8e3f)
+
 
 ### 404 PAGE - IMAGERY  
 
