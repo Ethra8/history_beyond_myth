@@ -961,7 +961,7 @@
  }
 
  #avalon figcaption {
-     /* width: 286px; */
+     width: 286px;
      display: flex;
  }
 
