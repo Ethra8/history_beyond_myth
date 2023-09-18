@@ -1048,7 +1048,7 @@
  #social_events .text,
  #cultural_events .text {
      display: inline;
-     background-color: antiquewhite;
+     background-color: whitesmoke;
      height: 300px;
      max-height: fit-content;
      border-radius: 10px;
@@ -1061,8 +1061,8 @@
 
  #social_events .picture,
  #cultural_events .picture {
-     background-color: antiquewhite;
-     width: 200px;
+     background-color: whitesmoke;
+     width: 240px;
      height: 300px;
      border-top-left-radius: 10px;
      border-bottom-left-radius: 10px;
@@ -1073,7 +1073,7 @@
      text-align: left;
      font-size: 2.5rem;
      line-height: 1;
-     padding: 15px 35px 10px;
+     padding: 15px 35px 10px 0;
      margin: 15px 0 7px;
      font-family: 'Jim Nightshade', cursive;
      display: flex;
@@ -1082,7 +1082,7 @@
  #social_events p,
  #cultural_events p {
      text-align: left;
-     padding: 0 35px;
+     padding: 0 35px 0 0;
      margin-top: 0;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      color: #424242;
@@ -2023,7 +2023,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          display: none;
      }
 
-     /**** ARTHUR ****/
      .hidden_large_devices {
          display: block;
          visibility: visible;
@@ -2203,9 +2202,12 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          /* vertical-align: middle; */
      }
 
-     #social_events .text h2,
-     #cultural_events .text h2 {
+     #social_events h2,
+     #cultural_events h2,
+     #social_events p,
+     #cultural_events p {
          margin-bottom: 0;
+         padding: 15px 5% 10px;
      }
 
 
