@@ -466,8 +466,11 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b18df55-8ccc-4676
 #### SECTION 3 - DEATH OF KING RICHARD I  
 The image of this section is the **Hero Image**, which remains the same in all screen sizes, adapting its width and size accordingly, taking 100% of the width of the paragraph, bringing responsiveness to the site.
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/9716b0af-6e27-4bdb-a341-b8d49d03b172
+![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_crown_and_king_philip_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v.avif)
 
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/35f7f0b6-c132-4f9d-bd4c-4e1c0eac5bf3
 
 
 
@@ -475,9 +478,9 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/9716b0af-6e27-4bdb
 **Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported his claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_section_4_arthur_le_rois_de_bretaigne_les_chroniques_de_france_royal_ms_16_g_vi_f361v.avif)
-  
 
 
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/950233d9-07a4-4160-b5d6-7ae64c951220
 
 
 ### AVALON PAGE - IMAGERY  
