@@ -726,7 +726,7 @@ A ***zoom in*** animation has been implemented on hover to the media icons of th
 ## SITE STRUCTURE
 The site contains 4 pages navigable pages, and a 404 error page, each of them including the following:  
 
-- **Navigation bar, fixed on the top** to allow the user for an easy navigation through the pages, even when scrolling down on pages.
+- **Navigation bar, fixed on the top** to allow the user for an easy navigation through the pages, even when scrolling down.
 - **Footer**, which contains icons that link to the site's main social media profiles, opening on a different tab when clicked, for an improved user expeince. The *envelope* icon enables the user to send an email to the site administrator directly by clicking on it.
 
 ### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html) - STRUCTURE
@@ -758,7 +758,8 @@ States the curious coincidences found between the legendary King Arthur, and the
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
 ### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html) - STRUCTURE
-States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?. This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The sections are responsive, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related, on the bottom of each section. The sections are the following:
+States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?.  
+This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The ***sections are responsive***, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related to the bottom of its section. The sections are the following:
 
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
 
@@ -776,7 +777,9 @@ States the curious coincidences found between the legendary Island of Avalon, an
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b3565b2b-ed1a-4014-834e-23543e035638)
 
 ### [SIGN-UP PAGE](https://englishgrows.com/history_beyond_myth/sign_up.html) - STRUCTURE
-This page contains the following:
+This page' structure is as follows:
+
+- **Header**
 
 - **Sign-up Form**: Placed on the top of the page in any screen size, after the header. On laptops, it is displayed on the right side of the screen, sharind the screen width with the events section. But as this page, as all others, is **responsive**, on smaller devices as tablets or phones, the form stays at the top, not sharing the width with the events section.
 
@@ -789,7 +792,7 @@ This page contains the following:
 ### [404 PAGE](https://englishgrows.com/history_beyond_myth/404.html) - STRUCTURE
 Provides the user with an error page that follows the same line of design as the rest of the site, adding a note of humour to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
 ## DESIGN ELEMENTS
 
