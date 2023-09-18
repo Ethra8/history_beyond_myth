@@ -1296,7 +1296,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 
 ## ACKNOWLEDGEMENTS
 
-- **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by helped by [this coding explanation and example](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
+- **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by [this coding explanation and example](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
 
 
 
