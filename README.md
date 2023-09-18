@@ -1187,14 +1187,14 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
 
 ### KEYBOARD NAVIGATION
-Users can navigate throughout all the site, and interact with each and everyone of the features only by using the keyboard, as it shows in the following video testing:
+Users can navigate throughout all the site, and interact with each and every feature in every page, only by using the keyboard, as it shows in the following video done for testing purposes:
 
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/51530428-8d93-480a-979b-e60b9f1b8dde
 
 
 ### CHROME VOX READER
-As it shows in the following video, after downloading the ***Chrome Vox Reader extension*** on the browser, the user can navigate and interact with each and every feature in all pages:
+As it shows in the following video, after downloading the ***Chrome Vox Reader extension*** on the browser, the user can navigate and interact with each and every feature in all pages, as one can see in the following video:
 
 
 
