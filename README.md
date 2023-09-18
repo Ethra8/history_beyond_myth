@@ -437,12 +437,7 @@ The images of this section change, depending on the size of the screen, as follo
 
 - **PORTRAIT TABLETS AND PHONES** (max. width of 991px):
 
-  These two following image are responsive, and adapt to different screen sizes, as follow:
-    
-    * **PHONES** (max. width of 576px): width of 190px, height fit-content, to maintain image final display without distorting it.
-   
-    * **TABLET** (max. width of 
-
+  These two following images are responsive, and adapt to different screen sizes, displaying differently (in row, or in column) to fit each device width accordingly:
   1. **Portrait of King Richard "the Lionheart"**: Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), National British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/king_richard_lionheart_royal_ms_14_b_vi_f006v_223x275px.avif)
