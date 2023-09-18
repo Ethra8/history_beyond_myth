@@ -1079,7 +1079,7 @@ This website has been coded mostly by fixing the upcoming defects I encountered 
 ### LIGHTHOUSE REPORTS
 This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse Reports by page:
 
-- **HOME**
+- **HOME PAGE**
     
     * **MOBILE** 
     
@@ -1091,7 +1091,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5f8c731d-a08f-4ca0-bf76-1d2e5469474c)
 
 
-- **ARTHUR I**
+- **ARTHUR I PAGE**
    
     * **MOBILE**  
 
@@ -1102,7 +1102,7 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/13a312da-eb6d-46a3-9ecf-b7e3035cc82f)
 
  
-- **AVALON**
+- **AVALON PAGE**
    
     * **MOBILE**
    
@@ -1114,19 +1114,19 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aec49fad-b947-4877-bae8-b9dc60aeaa59)
 
 
-- **SIGN-UP**
+- **SIGN-UP PAGE**
    
     * **MOBILE**
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/894b1b99-cda7-41f8-b83c-80f2cbd927e0)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/95436a04-0aff-4d76-8561-5a54954d921d)
 
 
     * **DESKTOP**
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0d23f58b-df1c-47ed-b34f-b706d120dad1)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d18a6b4c-0bb0-41b4-8452-4cc5ae95c866)
 
 
-- **404**
+- **404 PAGE**
 
     * **MOBILE**
 
