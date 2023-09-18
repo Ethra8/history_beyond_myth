@@ -308,24 +308,22 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
   <img width="100" alt="logo" src="https://github.com/Ethra8/History_Beyond_Myth/blob/media/android-chrome-192x192.png">
 
-- **HEADER (HOME PAGE & 404 PAGE) :
+- **HEADER (HOME PAGE)**:
     * Use of **UnifrakturMaguntia** (lower case) only for the *1st letters of main words* of main heading of each page.
     * The remaining text in headings use **Metamorphous** (upper case).
     * All headers' extra text (p) use **Jim Nightshade**.
     * **Reenie Beanie** is only used for the word *"beyond"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a9646efb-2cb5-4b6a-b8a0-5d7f5157d1e8)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a9646efb-2cb5-4b6a-b8a0-5d7f5157d1e8)
 
-
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ef4525f6-ebe2-4620-b371-8ae3d2a7659e)
 
 - **HEADERS (CONTENT PAGES)**:
       * Use of **UnifrakturCook** (lower case) only for the *1st letters of main words* of main heading of each page.
       * The remaining text in headings use **Metamorphous** (upper case).
       * All headers' extra text (p) use **Jim Nightshade**.
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b94b29a8-8fdf-48eb-97d3-4e7a49b46f00)
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1e9a9e2-f688-4aa5-956b-53a253c449ec)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b94b29a8-8fdf-48eb-97d3-4e7a49b46f00)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1e9a9e2-f688-4aa5-956b-53a253c449ec)
 
 
 - **HEADER SIGN-UP PAGE**:
@@ -334,6 +332,13 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4d6ca3f7-517f-4241-b592-956dc5cc30a1)
 
+- **HEADER 404 PAGE**:
+    * Use of **UnifrakturCook** (lower case) only for the *1st letters of main words* of main heading of each page.
+    * The remaining text in headings use **Metamorphous** (upper case).
+    * All headers' extra text (p) use **Jim Nightshade**.
+    * **Reenie Beanie** is only used for the word *"modern"* in the main page header, seeking a clear contrast between history, medieval mythos, and modern contemporary studies which precisely seek to go beyond the myth, trying to bring a modern and fresh approach to it.
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ef4525f6-ebe2-4620-b371-8ae3d2a7659e)
 
 - **NAVIGATION BAR**:
 
@@ -348,13 +353,13 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
   * The remaining text uses **Jim Nightshade**, to ensure readability, but keeping the medieval spirit alive.
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1a3c51c-d07d-4674-b24c-aebb9554cb29)
+     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1a3c51c-d07d-4674-b24c-aebb9554cb29)
 
 - **MAIN CONTENT**
       
   * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9cbd0c75-55ac-4adb-b6b0-04f94c2d65a3)
+     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9cbd0c75-55ac-4adb-b6b0-04f94c2d65a3)
 
 
 ## IMAGERY
