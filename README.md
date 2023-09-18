@@ -871,6 +871,7 @@ Provides the user with an error page that follows the same line of design as the
 - Contains **envelope icon** which allows the user to send an email to the administration, by seamlessly opening the user's emailing app on click.
 
 ### HOME PAGE - FEATURES
+- **Navigation Bar** (features aforementioned)
 - **Header** (features aforementioned)
 - Decorative **fixed row of images** all related to the site's content, all linked to the digitalized medieval manuscripts from which each has been taken. It is responsive, as the images' overflow has a *hide* attribute.
 - **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
@@ -879,6 +880,7 @@ Provides the user with an error page that follows the same line of design as the
 
 ### ARTHUR I PAGE - FEATURES
 This page provides the user with details from academically recognised historical events related to Count Arthur I of Brittany (1187 - c.1203), who has been named heir presumptive to the throne of England by childless Richard the Lionheart himself. The page's features are the following:
+- **Navigation Bar** (features aforementioned)
 - **Header** (features aforementioned applies to this page)
 - **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
 - The content is divided in **4 sections** that cover different stages of the history related with Count Arthur I of Brittany.
@@ -898,19 +900,26 @@ This page provides the user with details from academically recognised historical
 
 ### AVALON PAGE - FEATURES
 This page provides the user with relevant and curious information on the Island of Guernsey, and each section is aimed at one specific aspect of why it could be the mythical Island of Avalon.
+- **Navigation Bar** (features aforementioned)
 - **Header** (features aforementioned)
 - **Background image** that covers all of the sections, with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
 - The content is divided in **7 sections** that cover different aspects of the Island of Guernsey, which bear a curious coincidence with the mythical Island of Avalon.
-- Each section contains a related **image**, an **audio**, a **video**, or an **interactive Google map** to back the information given. 
+- Each section contains one of the following **media**, related to its content:
+      * **image**  
+      * **audio**  
+      * **video**  
+      * **interactive Google map** 
 - **Footer** (features aforementioned)
 
 ### SIGN-UP PAGE - FEATURES
+- **Navigation Bar** (features aforementioned)
 - **Header** (features aforementioned)
 - **Background image** with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
 - **Sign-up form**, to allow the user to receive the monthly newsletter, to be informed of any new finding; be informed of cultural and social events around Europe, and organized sight seeing visits to relevant places from the ongoing investigation. It includes the option to **include a file** in case the user wants to share any new finding, and the users will also **be able to specify** (through *radio buttons*) whether they enjoy travelling and sight seeing, with available options of *nope*, *yes!*, and *maybe...*. Last but not least, the user can include an **optional message**.
-- - **Footer** (features aforementioned)
+- **Footer** (features aforementioned)
 
 ### 404 PAGE - FEATURES
+- **Navigation Bar** (features aforementioned)
 - **Header** (features aforementioned)
 - **Background image** fixed.
 - **Footer** (features aforementioned)
@@ -980,6 +989,7 @@ To enable users who have already signed up to book future activities.
 
   
 ## COMPATIBILITY AND RESPONSIVE TESTING
+
 
 ## MANUAL TESTING
 For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
@@ -1097,7 +1107,8 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
    
     * **MOBILE**
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7c03460f-d2f5-4d72-b849-f0d94550d2e5)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/894b1b99-cda7-41f8-b83c-80f2cbd927e0)
+
 
     * **DESKTOP**
 
