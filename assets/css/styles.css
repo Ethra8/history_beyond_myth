@@ -696,14 +696,20 @@
 
  #arthur_genealogy a sup,
  #avalon a sup,
- #arthur_kingOfBrittany blockquote a {
+ #arthur_kingOfBrittany blockquote a,
+ #arthur figcaption a,
+ #social_events figcaption a,
+ #cultural_events figcaption a {
      text-decoration: none;
      color: goldenrod;
  }
 
  #arthur_genealogy a sup:hover,
  #avalon a sup:hover,
- #arthur_kingOfBrittany blockquote a:hover {
+ #arthur_kingOfBrittany blockquote a:hover,
+ #arthur figcaption a:hover,
+ #social_events figcaption a:hover,
+ #cultural_events figcaption a:hover {
      font-weight: 600;
  }
 
@@ -959,13 +965,13 @@
  }
 
  #avalon figcaption {
-     width: 286px;
+     /* width: 286px; */
      display: flex;
  }
 
  #avalon figcaption a {
+     color: whitesmoke;
      text-decoration: none;
-     color: #F3F1F1;
  }
 
  #avalon figcaption a:hover {
@@ -1120,17 +1126,6 @@
      z-index: 1;
      position: relative;
      border-bottom-left-radius: 10px;
- }
-
- #social_events figcaption a,
- #cultural_events figcaption a {
-     color: #F3F1F1;
-     text-decoration: none;
- }
-
- #social_events figcaption a:hover,
- #cultural_events figcaption a:hover {
-     font-weight: 600;
  }
 
  #cultural_events>div {
