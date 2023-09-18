@@ -906,6 +906,7 @@ This page provides the user with relevant and curious information on the Island 
 - **Background image** with a shadowy transparency on top of it, to make the image much darker and avoid too much distraction from the main content.
 - **Sign-up form**, to allow the user to receive the monthly newsletter, to be informed of any new finding; be informed of cultural and social events around Europe, and organized sight seeing visits to relevant places from the ongoing investigation. It includes the option to **include a file** in case the user wants to share any new finding, and the users will also **be able to specify** (through *radio buttons*) whether they enjoy travelling and sight seeing, with available options of *nope*, *yes!*, and *maybe...*. Last but not least, the user can include an **optional message**.
 - - **Footer** (features aforementioned)
+
 ### 404 PAGE - FEATURES
 - **Header** (features aforementioned)
 - **Background image** fixed.
@@ -1104,11 +1105,13 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 
     * **MOBILE**
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e7c96269-d1b9-4a89-8f62-2ac3bcc3379e)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fd2d52b1-df0b-41bb-8c2e-83d441fd4dde)
+
 
     * **DESKTOP**
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f920e4b8-c4e8-4b87-b086-db114f03d556)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/18ac9032-8b29-4dff-80f9-1c6c3498f0b4)
+
 
   + ***Documentation used to fix some of the initial issues:***  
 
@@ -1140,10 +1143,12 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
 
 - **AVALON**
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b238d9f9-0ab8-442e-a8b7-c1faa597ce05)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aa03b399-a411-4e3e-b771-017a700e6f6c)
 
 - **SIGN-UP**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6bc5f5ec-ab2c-4c3d-80b9-9119cfe5d508)
+
+- **404**
 
 
 ### Keyboard Navigation
