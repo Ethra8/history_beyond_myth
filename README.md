@@ -1007,7 +1007,16 @@ To enable users who have already signed up to book future activities.
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6c0207a2-94a5-4f19-9f73-41d64706e7d8)
 
   
+
+
+
+
+
 ## COMPATIBILITY AND RESPONSIVE TESTING
+
+
+
+
 
 
 ## MANUAL TESTING
@@ -1165,6 +1174,12 @@ This feature from *Chrome Dev tools* has been used to check the **CORE WEB VITAL
 ## ACCESSIBILITY TESTING
 
 ### ACCESSIBILITY AUDITS
+
+#### EQUALWEB ACCESSIBILITY CHECKER
+The free version of this tool has been downloaded as a *Chrome extension*, and has been used to check the accessibility of this site. As seen in the following screeshot taken, no **general errors** nor **contrast errors** were found:
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/845df6f5-96be-4d62-9b74-531718a457ae)
+
 
 #### LIGHTHOUSE REPORTS - ACCESSIBILITY
 
