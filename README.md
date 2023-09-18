@@ -1186,9 +1186,15 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/33db5eeb-18f4-4bb8-aa3e-bb458307ebd3)
 
 
-### Keyboard Navigation
+### KEYBOARD NAVIGATION
+Users can navigate throughout all the site, and interact with each and everyone of the features only by using the keyboard, as it shows in the following video testing:
 
-### Chrome Vox Reader
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/51530428-8d93-480a-979b-e60b9f1b8dde
+
+
+
+### CHROME VOX READER
 
 # TECHNOLOGIES USED
 
