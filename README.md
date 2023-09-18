@@ -988,37 +988,37 @@ For any scenarios that have not been automated, tested the user stories and feat
 
 - Optional Fields:
     1. Do you like travelling and sight seeing?
-    2. Want to share any findings?
+    2. Want to share any findings? (share file from user's computer)
     3. Message
   
     
   - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
      
   - [x] **Try to submit the form with an invalid email address and verify that a relevant error message appears**:  
 
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
 
 
  
   - [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
 
 
   - [x] **Submit goes to code institute data dump page in new tab**:  
 
- ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
 
    
   - [x] **Looks good on mobile**:  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
 
 
   - [x] **Looks good on tablet**:  
@@ -1032,12 +1032,12 @@ For any scenarios that have not been automated, tested the user stories and feat
 
     + **Vertical Layout**
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
 
   
   - [x] **looks good on desktop**:
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
 
 
 ## DEFECT TRACKING  
@@ -1081,7 +1081,8 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
    
     * **MOBILE**
    
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cd70601f-ee02-45a2-a49e-6b189af880cb)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dd08f272-40ae-4edb-826a-3ade369e2ae8)
+
 
     * **DESKTOP**  
 
