@@ -874,7 +874,7 @@ This page provides the user with details from academically recognised historical
 - The content is divided in **4 sections** that cover different stages of the history related with Count Arthur I of Brittany.
 - **Fixed button-like link*** with an absolute position on the bottom left of the page, linking to the digitalized membrane of manuscript included as a background image.
 - **Round transparent container sorrounding the main characters on the fixed manuscript of the page** with double black borders, with a *title* informing the user of the name of the character when hovering on the round circled transparent div.
-- **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source.
+- **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source. The color chosen for the numbers placed in superior position on the text to which the tooltips are included, is *goldenrod* to make the reference numbers stand out from the text.
 - Each section contains an **image** related to the story explained, most of the times the picture belongs to the medieval digitalized manuscript from which the information stated has been taken.
 - **Images** on each section include a **link** to its original digitalized manuscript, or source. So that when the user click on the image, the link opens in another tab to improve user experience.
 - ***figure caption*** (*figcation*) underneath images on each section.
