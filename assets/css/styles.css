@@ -688,7 +688,7 @@
      font-family: 'Montserrat', 'Verdana', sans-serif;
      margin-top: 0;
      line-height: 1.5;
-     color: antiquewhite;
+     color: whitesmoke;
      text-align: justify;
      text-justify: inter-word;
      text-shadow: 0 0 20px rgb(29, 29, 29);
@@ -816,7 +816,7 @@
  }
 
  footer #contact_us h2 {
-     color: antiquewhite;
+     color: whitesmoke;
      font-weight: 500;
      font-family: 'Metamorphous', cursive;
      font-size: 1.7rem;
@@ -1037,7 +1037,6 @@
      position: relative;
      min-width: 400px;
      margin: 0 auto 90px 60px;
-     background-color: antiquewhite;
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
@@ -1143,7 +1142,6 @@
      /*end*/
      min-width: 400px;
      margin: 0 auto 0 60px;
-     background-color: antiquewhite;
      padding-left: 0;
      border-radius: 10px;
      border-style: outset;
@@ -2195,7 +2193,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          justify-content: center;
          align-items: center;
          /*end align vertically*/
-         background-color: antiquewhite;
          min-height: 250px;
          max-height: fit-content;
          border-radius: 10px;
