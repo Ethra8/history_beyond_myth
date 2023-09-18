@@ -763,7 +763,7 @@ This page is divided into sections, each containing a picture, a video, or an in
 
 1. **French Pronunciation of Abalone**: Contains an audio tag with controls of the word [*abalone* in French](https://voix.larousse.fr/francais/322395fra2.mp3). The source of this audio file is the French Larousse dictionary.
 
-2. **England's Kings were French**: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings spoke French on a regular basis, and not English.
+2. **England's Kings were French**: Contains a *Youtube* video with a song written by King Richard himself in old French dialect "[Ja nus Hos Pris](https://youtu.be/-1BG1UEACHs)", to provide the user with an entertaining way to acknowledge that in fact, England's kings belonging to the Norman Plantagenet dinasty spoke old French (Norman French) on a regular basis, and not English.
 
 3. **The Value of Abalones**: As some users may not be aware of the existence of these marine gastropod moluscs, this section provides references on the value of abalones from ancient times, both for their mother-of-pearl large-sized shell, with distinctive shades of color, as for their meat-like taste. Also brings references on how the Isle of Guernsey is home the most appreciated European abalone since ancient times.
 
