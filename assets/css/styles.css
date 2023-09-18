@@ -2032,7 +2032,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #arthur_genealogy>section {
-         padding: 50px 40px;
+         padding: 50px 5%;
          margin-bottom: 150px;
          /*#1B1B1B = rgba*/
          background-color: rgba(27, 27, 27, 0.95);
