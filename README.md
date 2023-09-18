@@ -138,14 +138,14 @@ EDNA TORRES MUNILL
 
     * [Defect Tracking](#defect-tracking)
         + [Github Issues](#github-issues)
-        + [Lighthouse Reports](#Lighthouse-reports)
 
     * [Defects of Note](#defects-of-note)
 
     * [Outstanding Defects](#outstanding-defects)
 
     * [Core Web Vitals](#core-web-vitals)
-
+        + [Lighthouse Reports](#lighthouse-reports)
+    
     * [Accessibility Testing](#accessibility-testing)
         + [Accessibility Audits](#accessibility-audits)
             - [Lighthouse Reports - Accessibility](#lighthouse-reports---accessibility)
