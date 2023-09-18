@@ -148,6 +148,7 @@ EDNA TORRES MUNILL
     
     * [Accessibility Testing](#accessibility-testing)
         + [Accessibility Audits](#accessibility-audits)
+            - [EqualWeb Accessibility Checker](#equalweb-accessibility-checker)
             - [Lighthouse Reports - Accessibility](#lighthouse-reports---accessibility)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
