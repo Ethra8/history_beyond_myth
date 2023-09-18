@@ -550,6 +550,10 @@ The image of this section remains the same in all screen sizes, adapting its wid
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
 
 
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/998d995a-4e85-450b-bd9e-80bc1d86d2d3
+
+
 ### SIGN-UP PAGE - IMAGERY  
 #### SIGN-UP PAGE - BACKGROUND IMAGE  
 The image of this section remains the same in all screen sizes, but in different sizes, bringing responsiveness  to the site.
