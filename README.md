@@ -480,7 +480,11 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/35f7f0b6-c132-4f9d
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_section_4_arthur_le_rois_de_bretaigne_les_chroniques_de_france_royal_ms_16_g_vi_f361v.avif)
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/950233d9-07a4-4160-b5d6-7ae64c951220
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ade8fb-5ccb-4f75-b458-a518ffb3f58f
+
+
 
 
 ### AVALON PAGE - IMAGERY  
