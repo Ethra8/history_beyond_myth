@@ -923,7 +923,11 @@ This page provides the user with relevant and curious information on the Island 
       * **image**  
       * **audio**  
       * **video**  
-      * **interactive Google map** 
+      * **interactive Google map**  
+- **Tooltips** are all over each section, providing the source of each extract of the text, and linked to its original source. The color chosen for the numbers placed in superior position on the text to which the tooltips are included, is *goldenrod* to make the reference numbers stand out from the text.
+- Each section contains an **image** related to the text.
+- **Images** are **linked** to their source, so you can go to their source by clicking on each image.
+- ***Figure Caption*** (*figcation*) underneath images on each section.
 - **Footer** (features aforementioned)
 
 ### SIGN-UP PAGE - FEATURES
@@ -1020,53 +1024,53 @@ For any scenarios that have not been automated, tested the user stories and feat
     2. Want to share any findings? (share file from user's computer)
     3. Message
   
+- **MANUAL TESTING THE SIGN-UP FORM** HAS INCLUDED THE FOLLOWING:
     
-  - [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
+    * [x] **Try to submit empty form and check that an error message appears on the required empty field (First Name, Last Name & Email)**:   
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bbbbe72e-bd00-4c7a-9cea-195bfa9fa51d)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/dbde4209-5b0e-437a-9868-b5b3806f21d3)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f25caecf-7816-4cb3-98b7-85b7dfb3a3b3)
      
-  - [x] **Try to submit the form with an invalid email address and verify that a relevant error message appears**:  
+    * [x] **Try to submit the form with an invalid email address and verify that a relevant error message appears**:  
 
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
+
+    
+    * [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
 
 
- 
-  - [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
+    * [x] **Submit goes to code institute data dump page in new tab**:  
 
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
-
-
-  - [x] **Submit goes to code institute data dump page in new tab**:  
-
-   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
 
    
-  - [x] **Looks good on mobile**:  
+    * [x] **Looks good on mobile**:  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
-
-
-  - [x] **Looks good on tablet**:  
-
-    + **Horizontal Layout**
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c59a6e7c-0a6c-4801-97f3-881dfa448ad7)
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ad4ca3a2-38f4-4817-972b-6b4f4520ecc2)
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d9358877-141d-4df4-866c-e9511336a2ca)
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/72d04e8e-8af2-4565-8e6b-fbac50de0668)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
 
 
-    + **Vertical Layout**
+    * [x] **Looks good on tablet**:  
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
+        + **Horizontal Layout**
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c59a6e7c-0a6c-4801-97f3-881dfa448ad7)
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ad4ca3a2-38f4-4817-972b-6b4f4520ecc2)
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d9358877-141d-4df4-866c-e9511336a2ca)
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/72d04e8e-8af2-4565-8e6b-fbac50de0668)
+
+
+        + **Vertical Layout**
+
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
 
   
-  - [x] **looks good on desktop**:
+    * [x] **looks good on desktop**:
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
 
 
 ## DEFECT TRACKING  
@@ -1168,16 +1172,18 @@ This feature from *Chrome Dev tools* has been used to track defects.  Lighthouse
 - **HOME PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a702dc6f-f000-41c7-b3a8-8319bd7c4ea4)
 
-- **ARTHUR I**
+- **ARTHUR I PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/62df6dc8-4ca2-4733-8143-e2a365474a60)
 
-- **AVALON**
+- **AVALON PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/aa03b399-a411-4e3e-b771-017a700e6f6c)
 
-- **SIGN-UP**
+- **SIGN-UP PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6bc5f5ec-ab2c-4c3d-80b9-9119cfe5d508)
 
-- **404**
+- **404 PAGE**
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/33db5eeb-18f4-4bb8-aa3e-bb458307ebd3)
 
 
 ### Keyboard Navigation
