@@ -947,7 +947,7 @@ This page provides the user with relevant and curious information on the Island 
 ## FUTURE FEATURES
 
 ### ADD CONTENT PAGES
-The ongoing investigation includes more interesting and curious cooincidences between history and the Arthurian mythos, and the following pages are going to be created to include related content:
+The ongoing investigation includes more interesting and curious coincidences between history and the Arthurian mythos, and the following pages are going to be created to include related content:
   1. **CAMELOT**
   2. **GUINEVERE AND LANCELOT**
   3. **MORGANA**
@@ -963,9 +963,11 @@ Containing interesting books and all kind of "goodies" (t-shirts, cups, etc.) re
 ### ONLINE BOOKING
 To enable users who have already signed up to book future activities.
 
-## TESTING
+# TESTING
+This site has been tested in different aspects, and all have been successful. Please find below all the corresponding testings, and the results obtained.
 
 ## VALIDATION TESTING
+The following testing has been successful with code validation.
 
 ### CSS VALIDATION
 - No errors nor warnings were returned when passing the CSS Validation Test.
