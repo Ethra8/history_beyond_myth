@@ -1080,7 +1080,7 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | TEST no.| TOOL/ DEVICE                              | BROWSER            | OS              | RESOLUTION | DEVICE PIXEL RATIO| VIEWPORT width x height (px) |
 |---------|-------------------------------------------|--------------------|-----------------|------------------------------|-------------------|-----------------|
 | 1       | Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       | 1440 x 3200                  | 4                 |360 x 800        | 
-| 2       |BrowserStack/ Samsung S22 v.12.0          | Chrome 117         |Android 12.0     | 1080 x 2340                  | 3                 |360 x 780        |
+| 2       |BrowserStack/ Samsung S22                  | Chrome             |Android 12.0     | 1080 x 2340                  | 3                 |360 x 780        |
 | 3       | Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    | 1                 |1376 x 768       |
 
 
@@ -1097,6 +1097,10 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/72480de0-c99e-46ff-b95f-e366e8939fea
+
+- **TEST no. 3**
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
 
 
