@@ -247,10 +247,10 @@ You will find in the points stated below a brief study aiming at providing the u
 ## UI - HOME PAGE
 - Includes a site description section, with *reasons to sign-up* that allow the user to interact with a button-like link that redirects the user to the sign-up page.
 
-# UI - CONTENT PAGES
+## UI - CONTENT PAGES
 - Content pages **Arthur I** and **Avalon** include ***tooltips*** linked to the source used for every information included in the text on every section, to allow for user interaction to check the sources, which open in a new tabs. **Links** to the images source are also included, so that the user can interact by directly clicking on each image, and checking the original source, which will open in a new tab.
 
-# UI - SIGN-UP FORM
+## UI - SIGN-UP FORM
 - Included in the **sign-up page**, the sign-up form allows the user to interact, and send the sign-up form, which also allows to include a file stored in the user's device, which the user can easily browse and include.
 
 
