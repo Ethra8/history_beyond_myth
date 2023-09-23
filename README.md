@@ -39,6 +39,13 @@ EDNA TORRES MUNILL
     * [User Stories](#user-stories)
     * [User Profiles](#user-profiles)
 
+- [UI](#ui)
+    * [Fixed Navigation Bar](#ui---fixed-navigation-bar)
+    * [Footer](#ui---footer)
+    * [Home Page](#ui---home-page)
+    * [Content Pages](#ui---content-pages)
+    * [Sign-up Form](#ui---sign-up-page)
+
 - [DESIGN CHOICES](#design-choices)
 
     * [Colors](#colors)
@@ -227,6 +234,26 @@ You will find in the points stated below a brief study aiming at providing the u
 5. Alice and Marc are a couple that enjoy social gatherings, and all types of cultural events.
 
 6. Josh is a scholar historian specialised in the Middle Ages, and is keen to learn any curious coincidence found between academic history and medieval myths such as the Arthurian mythos.
+
+
+# UI
+
+## UI - FIXED NAVIGATION  BAR
+- The user is able to interact with the fixed navigation bar, even when scrolling through pages, and navigate throughout all the site's pages easily, as it is fixed on the top of all pages, including the *404* error page.
+
+## UI - FOOTER
+- Included at the bottom of each page, including the *404* error page, it allows the user to interact and instantly, and seemlessly, send an email to the administration of the site, as well as visit (or follow) the social media profiles of the site.
+
+## UI - HOME PAGE
+- Includes a site description section, with *reasons to sign-up* that allow the user to interact with a button-like link that redirects the user to the sign-up page.
+
+# UI - CONTENT PAGES
+- Content pages **Arthur I** and **Avalon** include ***tooltips*** linked to the source used for every information included in the text on every section, to allow for user interaction to check the sources, which open in a new tabs. **Links** to the images source are also included, so that the user can interact by directly clicking on each image, and checking the original source, which will open in a new tab.
+
+# UI - SIGN-UP FORM
+- Included in the **sign-up page**, the sign-up form allows the user to interact, and send the sign-up form, which also allows to include a file stored in the user's device, which the user can easily browse and include.
+
+
 
 # DESIGN CHOICES
 
