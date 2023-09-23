@@ -1261,7 +1261,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
 ## FRAMEWORKS, LIBRARIES AND PROGRAMS USED
 - The following have been used:
   + [Visual Studio Code](https://code.visualstudio.com/) - To begin coding the site from scratch. I already had VScode installed previously, due to a previous personal freelance project called englishgrows.com, and I think is a great tool for coding.
-  + [Chrome Dev Tools] - To inspect the elements, and be able to spot what element was having an unexpected behaviour, and correct it more efficiently. Also have used ***Lighthouse*** reports to check and improve core web vitals, including accessibility issues.
+  + **Chrome Dev Tools** - To inspect the elements, and be able to spot what element was having an unexpected behaviour, and correct it more efficiently. Also have used ***Lighthouse*** reports to check and improve core web vitals, including accessibility issues.
   + [Balsamiq](https://balsamiq.com/wireframes/) - To create wireframes
   + [Favicon](https://favicon.io/) - To create the logo, and the icon on the title included in each page of this site
   + [Font Awesome](https://fontawesome.com/) - For the icons used
@@ -1269,9 +1269,10 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + [Github](https://github.com) - To deploy the site online, and GIthub desktop app to link *Visual Studio Code* to Github.com
   + [Coolors](https://coolors.co) - To insert colors selected previously directly through visual studio code, but used this tool to display the palette beautifully, and insert it in this readme file.
   + [Amiresponsive](https://ui.dev/amiresponsive) - To display the site in all types of devices simultaneously.
-  + Paint - For resizing imgs and improve the site performance on load
+  + **Paint** - For resizing imgs and improve the site performance on load
   + [Convertio](https://convertio.co/) - To cenvert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
   + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for a optimal accessibility.
+  + **Chrome Vox Reader** - Used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
   + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
   + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
 
