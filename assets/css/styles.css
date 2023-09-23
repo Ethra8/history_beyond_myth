@@ -457,7 +457,7 @@
  }
 
  #arthur header .image {
-     background-image: url('../images/arthur_i_header_arthur_i_of_brittany_150x175px.avif');
+     background-image: url('../images/arthur_i_header_arthur_i_of_brittany_150x175px.avif'), url('../images/arthur_i_header_arthur_i_of_brittany_150x175px.png');
      display: flex;
      margin: 0 40px 0 0;
      /* float: left; */
@@ -879,7 +879,7 @@
  }
 
  #avalon header .image {
-     background: url('../images/avalon_header_abalone_shell_150x175.avif') center center;
+     background: url('../images/avalon_header_abalone_shell_150x175.avif') center center, url('../images/avalon_header_abalone_shell_150x175.png') center center;
      display: flex;
      margin-right: 40px;
      /* margin-top: 20px; */
@@ -894,7 +894,7 @@
  }
 
  #avalon .background_image {
-     background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.avif') top -450px center fixed;
+     background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.avif') top -450px center fixed, url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_2000x2000px.jpg') top -450px center fixed;
      overflow: hidden;
  }
 
@@ -1256,7 +1256,7 @@
  /******* 404 ERROR PAGE*****/
 
  #error_img {
-     background: url('../images/404_thinker_codex_manesse.avif') top 370px left fixed repeat;
+     background: url('../images/404_thinker_codex_manesse.avif') top 370px left fixed repeat, url('../images/404_thinker_codex_manesse.png') top 370px left fixed repeat;
      height: 300px;
      max-height: 1000px;
  }
@@ -1815,7 +1815,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** AVALON ***/
      #avalon .background_image {
-         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_780x1932.avif') top -300px center fixed;
+         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_780x1932.avif') top -300px center fixed, url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_780x1932px.jpg') top -300px center fixed;
      }
 
      #abalone_frenchPronunciation {
@@ -1975,7 +1975,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #arthur header .image {
-         background-image: url('../images/arthur_i_header_arthur_i_of_brittany_130x143px.avif');
+         background-image: url('../images/arthur_i_header_arthur_i_of_brittany_130x143px.avif'), url('../images/arthur_i_header_arthur_i_of_brittany_130x143px.jpg');
          margin: 20px auto;
          padding-right: 0;
          width: 130px;
@@ -2066,7 +2066,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** AVALON ***/
      #avalon .background_image {
-         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_600x1228px.avif') center top fixed;
+         background: url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_600x1228px.avif') center top fixed, url('../images/avalon_bg_img_rocky_beach_guernsey_near_fort_houmet_600x1228px.jpg') center top fixed;
      }
 
      /*index & avalon*/
@@ -2202,7 +2202,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** 404 ERROR ***/
      #error_img {
-         background: url('../images/404_thinker_codex_manesse.avif') top 430px left fixed repeat;
+         background: url('../images/404_thinker_codex_manesse.avif') top 430px left fixed repeat, url('../images/404_thinker_codex_manesse.png') top 430px left fixed repeat;
      }
 
      #error404 header {
