@@ -1175,6 +1175,7 @@ For any scenarios that have not been automated, tested the user stories and feat
 
 ### GITHUB ISSUES
 This website has been coded mostly by fixing the upcoming defects I encountered on the go. Nevertheless, I have created some *Github Issues* lately, as to reflect the kind of bugs that come up on a daily basis, and how I solved them:
+- AVIF format imgs do not display on Edge browser
 - DEFECT: Hover on <a> styled as button just works on text, not on whole element. (bug)
 - DEFECT: Figcaption do not adapt size as img changes in screens smaller than 576px. (bug)
 - DEFECT: Images sizing much too big, not seamless. (bug)
