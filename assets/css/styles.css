@@ -348,7 +348,7 @@
  }
 
  #index .site_description {
-     background: url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.avif') repeat-x center top -100px fixed;
+     background: image-set(url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.avif') url('; ../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.png')) repeat-x center top -100px fixed;
      margin: 0 auto;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      font-weight: 500;
