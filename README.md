@@ -183,6 +183,11 @@ EDNA TORRES MUNILL
     * [Content](#content)
 
     * [Media](#media)
+        + [Home Page](#home-page---media)
+        + [Arthur I Page](#arthur-i-page---media)
+        + [Avalon Page](#avalon-page---media)
+        + [Sign-up Page](#sign-up-page---media)
+        + [404 Error Page](#404-error-page---media)
 
     * [Acknowledgements](#acknowledgements)
 
@@ -1421,7 +1426,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 - **BACKGROUND IMAGE** is page [361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated c.1300: "Les Grandes Chroniques de France", [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) digitalized at the [British Library](https://www.bl.uk/).
 
 
-### ARTHUR I - MEDIA
+### ARTHUR I PAGE - MEDIA
 - **HEADER** - ***Image*** from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
 - **BACKGROUND** - ***Image*** is the full [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) 
@@ -1435,7 +1440,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 - **SECTION 4** - ***Image*** from lines 10-11 of page [361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated c.1300: "Les Grandes Chroniques de France", [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) digitalized at the [British Library](https://www.bl.uk/).
 
 
-### AVALON - MEDIA
+### AVALON PAGE - MEDIA
 - **AUDIO FILE** - Larousse online dictionary, French pronunciation of the word 'abalone'
 
 - **HEADER** - ***Picture*** of [abalone shell](https://www.pexels.com/photo/abalone-shell-interior-lined-with-shining-mother-of-pearl-8802637/) from [Dagmara Dombrovska](https://www.pexels.com/@dagmara-dombrovska-22732579/) at [Pexels](https://www.pexels.com).
@@ -1453,7 +1458,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 - **SECTION 6** - ***Picture*** ['long-exposure-shot-seascape-guernsey-during-sunset_13291205'](href="https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm), by [wirestock](https://www.freepik.com/author/wirestock) on [Freepik](https://www.freepik.com/)
 
 
-### SIGN-UP - MEDIA
+### SIGN-UP PAGE - MEDIA
 - **BACKGROUND IMAGE** - [Medieval Castle](https://pixabay.com/es/photos/castillo-edades-medias-4509080/) from [Tama66](https://pixabay.com/es/users/tama66-1032521/) at [Pixabay](https://pixabay.com).
 
 - **EVENTS SECTION**
@@ -1461,7 +1466,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
     * **Sight Seeing** - ***Image*** [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
 
-### 404 - MEDIA
+### 404 ERROR PAGE - MEDIA
 - **BACKGROUND IMAGE** - The medieval thinker is [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), from the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
 
 
