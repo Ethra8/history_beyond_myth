@@ -491,7 +491,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/a13807f7-000e-400d
 
   
 #### SECTION 2 - RETAINED BY THE KING OF FRANCE    
-The image of this section is responsive. While the figure it's placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens. The image was selected because it is a 14th century depiction of the *Palais de la Cité*, home to the French Kings at the time Arhur I of Brittany was secretly brought there to be raised with Prince Louis of France. Source is the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France. Digitalized image available with description at [Wikipedia](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juin.jpg), and at [Web Gallery of Art](https://www.wga.hu/html/l/limbourg/06juin.html)
+The image of this section is responsive. While the figure it's placed in takes 100% of the width of the section, the image only takes 80% of the width inside the figure in wider screens from 992px upwards, and 100% in smaller screens. The image was selected because it is a 14th century depiction of the *Palais de la Cité*, home to the French Kings at the time Arhur I of Brittany was secretly brought there to be raised with Prince Louis of France. Source is the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France. Digitalized image available with description at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juin.jpg), and at [Web Gallery of Art](https://www.wga.hu/html/l/limbourg/06juin.html)
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/939c866f-03e4-46fc-89d9-fdf2d7e776c1)
 
@@ -576,7 +576,7 @@ The image of this section remains the same in all screen sizes, adapting its wid
 
 #### SECTION 7 - MISTS OF GUERNSEY  
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
-- [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
+- [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
 
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
 
@@ -603,7 +603,7 @@ The images of this section remain the same in all screen sizes, adapting its wid
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fdbe18dc-50f8-4d4f-a883-faf53c33bbb4)
 
 
-- ***Sight Seeing***: Same picture as in Section 7 of Avalon Page - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm#query=guernsey&position=0&from_view=search&track=sph) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
+- ***Sight Seeing***: [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ed278431-5bff-499e-8196-118dba6d8e3f)
 
@@ -1112,12 +1112,12 @@ Please find the correspondent **compatibility and responsive testing** reflected
 For any scenarios that have not been automated, tested the user stories and features manually to provide as much detail as is relevant:
 
 ### SIGN-UP FORM
-- Required Fields**:  
+- **Required Fields**:  
     1. First Name
     2. Last Name
     3. Email
 
-- Optional Fields:
+- **Optional Fields**:
     1. Do you like travelling and sight seeing?
     2. Want to share any findings? (share file from user's computer)
     3. Message
@@ -1397,17 +1397,73 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 
 ### AVALON - CREDITS
 
+
 ## MEDIA
 
 ### HOME PAGE - MEDIA
+- ***Images below the header***
+  * 1. Depiction from author Matthew Paris of the [coat of arms of the House of Plantagenet](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_c_vii_f085v), also called of Anjou, which was England's ruling dynasty at the time, and to which Richard I and Arthur I of Brittany belonged. Source is Manuscript Royal MS 14 C VII, dated 1250-1259, British Library.
+
+  * 2. Early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris, from his work *Historiae Anglorum*. Original source is manuscript *Cotton MS Claudius D VI*, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
+
+  * 3. [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+
+  * 4. [Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page f.361v of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
+
+  * 5. [Depiction of Queen Eleanor of Aquitaine](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0121/image,info), Queen of England, married to Henry II, mother of Richard the Lionheart and John Lackland, and Arthur's grandmother. She is considered one of the most powerful and influential women of the middle ages, and important patron of arts and music. This depiction found in the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) is considered by many historians to be her. The French *Post Office* even dedicated a [stamp to Eleanor of Aquitaine](https://www.wikitimbres.fr/timbres/8655/2004-alienor-daquitaine-v-1122-1204) using this same depiction. Source from the Codex Manesse, dated c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library
+
+  * 6. [Portrait of King Richard "the Lionheart"](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r): Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+
+  * 7. [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), found in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript *"Brief Abridgement of the Chronicles of England"* attributed to Matthew Paris, dated 1255-1259 kept in the British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
+
+  * 8. [Portrait of Count Geoffrey II of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+
+- **BACKGROUND IMAGE** is page [361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated c.1300: "Les Grandes Chroniques de France", [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) digitalized at the [British Library](https://www.bl.uk/).
+
 
 ### ARTHUR I - MEDIA
+- **HEADER** - ***Image*** from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+
+- **BACKGROUND** - ***Image*** is the full [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) 
+
+- **SECTION 1** - ***Images*** displayed on all sreen sizes are taken from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+
+- **SECTION 2** - ***Image*** of the *Palais de la Cité*, from the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France. Image taken from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juin.jpg), and at [Web Gallery of Art](https://www.wga.hu/html/l/limbourg/06juin.html)
+
+- **SECTION 3** - ***Image*** from page [361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated c.1300: "Les Grandes Chroniques de France", [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) digitalized at the [British Library](https://www.bl.uk/).
+
+- **SECTION 4** - ***Image*** from lines 10-11 of page [361v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) of the illuminated manuscript dated c.1300: "Les Grandes Chroniques de France", [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi) digitalized at the [British Library](https://www.bl.uk/).
+
 
 ### AVALON - MEDIA
+- **AUDIO FILE** - Larousse online dictionary, French pronunciation of the word 'abalone'
+
+- **HEADER** - ***Picture*** of [abalone shell](https://www.pexels.com/photo/abalone-shell-interior-lined-with-shining-mother-of-pearl-8802637/) from [Dagmara Dombrovska](https://www.pexels.com/@dagmara-dombrovska-22732579/) at [Pexels](https://www.pexels.com).
+
+- **SECTION 1** - ***Video*** on YouTube ['Ja nuns hons pris (français et vieux français ST) Chanson médiévale écrite par Richard Coeur de Lion'](https://www.youtube.com/watch?v=-1BG1UEACHs) on [Youtube Channel L'Histoire en chansons](https://www.youtube.com/@lhistoireenchansons1946).
+
+- **SECTION 2** - ***Picture*** [abalone inside](https://upload.wikimedia.org/wikipedia/commons/0/0b/AbaloneInside.jpg) at [Wikimedia Commons](https://commons.wikipedia.org/)
+
+- **SECTION 3** - ***Picture*** [Frankrish disk brooch, mid-600](https://www.metmuseum.org/art/collection/search/465810) from the Medieval art collection of [the Met Museum](https://www.metmuseum.org/), on view at The Met Fifth Avenue in Gallery 301.
+
+- **SECTION 4** - ***Video*** on YouTube [How Chef Daniel Boulud Makes His Signature Abalone Dish at Two-Michelin-Starred Daniel — Plateworthy](https://www.youtube.com/watch?v=o5VPONMX19Q) on [YouTube Channel Eater](https://www.youtube.com/@eater)
+
+- **SECTION 5** - ***Google Maps*** embedded, interactive, showing the Island of Guernsey.
+
+- **SECTION 6** - ***Picture*** ['long-exposure-shot-seascape-guernsey-during-sunset_13291205'](href="https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm), by [wirestock](https://www.freepik.com/author/wirestock) on [Freepik](https://www.freepik.com/)
+
 
 ### SIGN-UP - MEDIA
+- **BACKGROUND IMAGE** - [Medieval Castle](https://pixabay.com/es/photos/castillo-edades-medias-4509080/) from [Tama66](https://pixabay.com/es/users/tama66-1032521/) at [Pixabay](https://pixabay.com).
+
+- **EVENTS SECTION**
+    * **Social Events** - ***Image*** [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)
+    * **Sight Seeing** - ***Image*** [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
+
 
 ### 404 - MEDIA
+- **BACKGROUND IMAGE** - The medieval thinker is [Walther von der Vogelweide](https://digi.ub.uni-heidelberg.de/diglit/cpg848/0243/image,info), from the [Codex Manesse](https://digi.ub.uni-heidelberg.de/touch/cpg848/) written c.1300, DNB: Deutsche Nationalbibliothek, digitalised version via Heidelberg University Library.  
+
 
 ## ACKNOWLEDGEMENTS
 
