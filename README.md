@@ -1243,7 +1243,8 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + Paint - For resizing imgs and improve the site performance on load
   + [Convertio](https://convertio.co/) - To cenvert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
   + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for a optimal accessibility.
-  + 
+  + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
+  + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
 
 
 # DEPLOYMENT
