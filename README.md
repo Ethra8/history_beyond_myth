@@ -1090,9 +1090,13 @@ Please find the correspondent **compatibility and responsive testing** reflected
 - **TEST no. 1**
   
 
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/5f1c6c03-7f47-48ad-b709-76652da5e571
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/5f1c6c03-7f47-48ad-b709-76652da5e571
 
+- **TEST no. 2**
+
+  
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/72480de0-c99e-46ff-b95f-e366e8939fea
 
 
 
