@@ -1043,11 +1043,16 @@ The following testing has been successful with code validation.
 
 
 ## COMPATIBILITY AND RESPONSIVE TESTING
-- To meaningfully select the browsers on which to test this site, [Stat Counter](https://gs.statcounter.com) has been used, in order to get an insight of the following:
+- To meaningful testing of site, [Stat Counter](https://gs.statcounter.com) has been used, in order to get an insight of the following:
+    
     * **BROWSER MARKET SHARE** - Most commonly used browsers worldwide:
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/77d7356e-35e0-4fbf-9d28-2e75215bb96b)
 
+     * **BROWSER VERSION MARKET SHARE** - Most commonly used browser versions worldwide:
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2cf8b70e-99ba-46f0-bd41-a88fc75d0649)
+    
     * **OS MARKET SHARE** - Most commonly used operation systems worldwide:
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9373a798-32b1-4e80-95e6-1406bcda0a37)
@@ -1060,15 +1065,16 @@ The following testing has been successful with code validation.
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b4fd7bf-c127-4323-a8d0-efb71b547417)
 
+   
 
 
+- Following all the above information, compatibility and responsive testing has been done on the 3 most common *browser versions*, *OS*, and *screen resolution* combinations, by using [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension, which has been downloaded. 
 
-  
-
-- Then, [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension has been downloaded, in order to undertake **compatibility and responsiveness testing**, as reflected in the following table:
+Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
 | TOOL/ DEVICE                    | BROWSER            | OS          | SCREEN WIDTH    |
 |---------------------------------|--------------------|-------------|-----------------|
+|
 
 
 
