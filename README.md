@@ -1426,7 +1426,7 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 
 - **BACKGROUND** - ***Image*** is the full [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi) 
 
-- **SECTION 1** - ***Images*** displayed on all sreen sizes are taken from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+- **SECTION 1** - ***Images*** displayed on all screen sizes are taken from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
 - **SECTION 2** - ***Image*** of the *Palais de la Cité*, from the illuminated manuscript *"Les Très Riches Heures du Duc de Berry"*, c.1400, ms.65, f.6v, Condé Museum, Chateau de Chantilly, France. Image taken from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_juin.jpg), and at [Web Gallery of Art](https://www.wga.hu/html/l/limbourg/06juin.html)
 
