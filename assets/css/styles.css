@@ -1052,7 +1052,6 @@
      display: inline;
      background-color: whitesmoke;
      height: 300px;
-     /* max-height: fit-content; */
      border-top-right-radius: 10px;
      border-bottom-right-radius: 10px;
      /* align vertically*/
@@ -1128,6 +1127,7 @@
 
  #cultural_events>div {
      position: relative;
+     background-color: whitesmoke;
      /*vertically align*/
      display: flex;
      justify-content: center;
