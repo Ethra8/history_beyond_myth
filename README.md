@@ -1072,10 +1072,10 @@ The following testing has been successful with code validation.
 
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
-| TOOL/ DEVICE                    | BROWSER            | OS          | SCREEN WIDTH    |
-|---------------------------------|--------------------|-------------|-----------------|
-| Chrome Dev emulator/ Samsung S20| Chrome
-
+| TOOL/ DEVICE                              | BROWSER            | OS            | SCREEN WIDTH x HEIGHT (px) |
+|-------------------------------------------|--------------------|---------------|----------------------------|
+| Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10     |360 x 800
+| Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10     |1376 x 768                  |
 
 
 
@@ -1308,6 +1308,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + **Chrome Vox Reader** - Used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
   + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
   + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
+  + [Yesviz](https://yesviz.com/) - To check real device viewport when testing compatitivity & responsiveness.
 
 
 # DEPLOYMENT
