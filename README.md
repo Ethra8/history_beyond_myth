@@ -1078,10 +1078,11 @@ Following all the above information, compatibility and responsive testing has be
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
 | TEST no.| TOOL/ DEVICE                              | BROWSER            | OS              | RESOLUTION | DEVICE PIXEL RATIO| VIEWPORT width x height (px) |
-|---------|-------------------------------------------|--------------------|-----------------|------------------------------|-------------------|-----------------|
-| 1       | Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       | 1440 x 3200                  | 4                 |360 x 800        | 
-| 2       |BrowserStack/ Samsung S22                  | Chrome             |Android 12.0     | 1080 x 2340                  | 3                 |360 x 780        |
-| 3       | Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    | 1                 |1376 x 768       |
+|---------|-------------------------------------------|--------------------|-----------------|------------|-------------------|------------------------------|
+| 1       | Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       | 1440 x 3200| 4                 |360 x 800                     | 
+| 2       | BrowserStack/ Samsung S22                 | Chrome             |Android 12.0     | 1080 x 2340| 3                 |360 x 780                     |
+| 3       | Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit| 1376 x 768 | 1                 |1376 x 768                    |
+| 4       | Asus ZenBook UX305                        | Chrome             |Windows 10       |            |                   |1920 x 1080                   |
 
 
 
@@ -1102,6 +1103,8 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
+- **TEST no. 4**
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6f7697b8-e207-4b16-8671-cfdf4e08a07b)
 
 
 
@@ -1332,6 +1335,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
   + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
   + [Yesviz](https://yesviz.com/) - To check real device viewport when testing compatitivity & responsiveness.
+  + [ScreenSiz](https://screensiz.es/) - To find devices to test depending on their screen size.
 
 
 # DEPLOYMENT
