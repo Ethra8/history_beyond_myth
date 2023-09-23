@@ -1631,7 +1631,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /**** END RESPONSIVE NAVBAR ***/
 
      #arthur_genealogy.background_image {
-         background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left -25px top -160px fixed repeat;
+         background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left -25px top -160px fixed repeat, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.png') left -25px top -160px fixed repeat;
      }
 
      #philip_castle img {
