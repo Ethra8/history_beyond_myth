@@ -1072,10 +1072,11 @@ The following testing has been successful with code validation.
 
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
-| TOOL/ DEVICE                              | BROWSER            | OS            | SCREEN WIDTH x HEIGHT (px) |
-|-------------------------------------------|--------------------|---------------|----------------------------|
-| Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10     |360 x 800
-| Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10     |1376 x 768                  |
+| TOOL/ DEVICE                              | BROWSER            | OS              | VIEWPORT width x height (px) | DEVICE PIXEL RATIO| SCREEN SIZE (px)|
+|-------------------------------------------|--------------------|-----------------|------------------------------|-------------------|-----------------|
+| Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       |360 x 800                     | 1                 |360 x 800        | 
+| BrowserStack/ Samsung S22 v.12.0          | Chrome 117         |Android 12.0     |360 x 780                     | 3                 |1080 x 2340      |
+| Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    | 1                 |1376 x 768       |
 
 
 
