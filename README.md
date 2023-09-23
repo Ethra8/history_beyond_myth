@@ -1016,6 +1016,33 @@ The following testing has been successful with code validation.
 
 
 ## COMPATIBILITY AND RESPONSIVE TESTING
+- To meaningfully select the browsers on which to test this site, [Stat Counter](https://gs.statcounter.com) has been used, in order to get an insight of the following:
+    * **BROWSER MARKET SHARE** - Most commonly used browsers worldwide:
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/77d7356e-35e0-4fbf-9d28-2e75215bb96b)
+
+    * **OS MARKET SHARE** - Most commonly used operation systems worldwide:
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9373a798-32b1-4e80-95e6-1406bcda0a37)
+
+    * **MOBILE vs DESKTOP vs TABLET MARKET SHARE** - Most commonly used devices worldwide:
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/57cabf42-8cee-4263-a6c5-ac1f9ac581f5)
+
+    * **SCREEN RESOLUTION STATS** - Most common screen resolution (in pixels) worldwide:
+
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b4fd7bf-c127-4323-a8d0-efb71b547417)
+
+
+
+
+  
+
+- Then, [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension has been downloaded, in order to undertake **compatibility and responsiveness testing**, as reflected in the following table:
+
+| TOOL/ DEVICE                    | BROWSER            | OS          | SCREEN WIDTH    |
+|---------------------------------|--------------------|-------------|-----------------|
+
 
 
 
