@@ -139,6 +139,9 @@ EDNA TORRES MUNILL
         + [HTML Validation](#html-validation)
 
     * [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+        + [Preselecting Testing Targets](#preselecting-testing-targets)
+        + [Testing Targets Table](#testing-targets-table)
+        + [Testing Recordings](#testing-recordings)
 
     * [Manual Testing](#manual-testing)
         + [Sign-up Form](#sign-up-form)
@@ -1043,6 +1046,8 @@ The following testing has been successful with code validation.
 
 
 ## COMPATIBILITY AND RESPONSIVE TESTING
+
+### PRESELECTING TESTING TARGETS
 - To meaningful testing of site, [Stat Counter](https://gs.statcounter.com) has been used, in order to get an insight of the following:
     
     * **BROWSER MARKET SHARE** - Most commonly used browsers worldwide:
@@ -1067,17 +1072,26 @@ The following testing has been successful with code validation.
 
    
 
-
-- Following all the above information, compatibility and responsive testing has been done on the 3 most common *browser versions*, *OS*, and *screen resolution* combinations, by using [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension, which has been downloaded. 
+### TESTING TARGETS TABLE
+Following all the above information, compatibility and responsive testing has been done on the 3 most common *browser versions*, *OS*, and *screen resolution* combinations, by using [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension, which has been downloaded. 
 
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
-| TOOL/ DEVICE                              | BROWSER            | OS              | VIEWPORT width x height (px) | DEVICE PIXEL RATIO| SCREEN SIZE (px)|
-|-------------------------------------------|--------------------|-----------------|------------------------------|-------------------|-----------------|
-| Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       |360 x 800                     | 1                 |360 x 800        | 
-| BrowserStack/ Samsung S22 v.12.0          | Chrome 117         |Android 12.0     |360 x 780                     | 3                 |1080 x 2340      |
-| Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    | 1                 |1376 x 768       |
+| TEST no.| TOOL/ DEVICE                              | BROWSER            | OS              | RESOLUTION | DEVICE PIXEL RATIO| VIEWPORT width x height (px) |
+|---------|-------------------------------------------|--------------------|-----------------|------------------------------|-------------------|-----------------|
+| 1       | Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       | 1440 x 3200                  | 4                 |360 x 800        | 
+| 2       |BrowserStack/ Samsung S22 v.12.0          | Chrome 117         |Android 12.0     | 1080 x 2340                  | 3                 |360 x 780        |
+| 3       | Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    | 1                 |1376 x 768       |
 
+
+
+
+### TESTING RECORDINGS
+- **TEST no. 1**
+  
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/5f1c6c03-7f47-48ad-b709-76652da5e571
 
 
 
