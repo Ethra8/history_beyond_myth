@@ -585,8 +585,7 @@
  }
 
  #arthur_genealogy.background_image {
-     background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 488px top -400px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 976px top -600px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 1464px top fixed repeat;
-     /* margin: 0; */
+     background: url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left top -180px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.png') left top -180px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 488px top -400px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.png') left 488px top -400px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 976px top -600px fixed repeat-y, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.avif') left 1464px top fixed repeat, url('../images/arthur_i_bg_img_ms_14_b_vi_f006_roll_chronicle_genealogy_kings_england_full_488x1340px.png') left 1464px top fixed repeat;
      overflow: hidden;
  }
 
