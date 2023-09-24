@@ -108,11 +108,6 @@ EDNA TORRES MUNILL
         + [Icons](#icons)
         + [Interactive Map](#interactive-map)
         + [Form](#form)
-
-    * [Wireframes](#wireframes)
-        + [Mobile Wireframes](#mobile-wireframes)
-        + [Tablet Wireframes](#tablet-wireframes)
-        + [Desktop Wireframes](#desktop-wireframes)
    
 - [FEATURES](#features)
 
@@ -923,14 +918,6 @@ Provides the user with an error page that follows the same line of design as the
 
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4df633b3-20da-431e-a6a6-8ae1d93cf291)
 
-
-## Wireframes
-
-### Mobile Wireframes
-
-### Tablet Wireframes
-
-### Desktop Wireframes
 
 # FEATURES
 ## IMPLEMENTED FEATURES
