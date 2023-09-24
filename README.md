@@ -1122,7 +1122,7 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 16.0        |360 x 780                     |
 | 5       | BrowserStack       | iPhone 13            | Safari             | iOS 17.0        |390 x 844                     |
 | 6       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
-| 7       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1376 x 768                    |
+| 7       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
 | 8       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
 | 9       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
 
