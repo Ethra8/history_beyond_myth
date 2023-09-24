@@ -171,8 +171,6 @@ EDNA TORRES MUNILL
 
     * [Forking the Repository](#forking-the-repository)
 
-    * [Run Locally with Github](#run-locally-with-github)
-
 - [CREDITS](#credits)
 
     * [Content](#content)
@@ -1507,11 +1505,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
 
 ## FORKING THE REPOSITORY
-In case you wish to use the code, it will be a pleasure, but **please fork the repository, do not clone it**. Thank you!
-
-## RUN LOCALLY WITH VISUAL STUDIO CODE
-1. Be sure that your IDE is hooked to Github.
-2. 
+In case you wish to use the code, it will be a pleasure, but *please fork the repository, do not clone it*. Thank you!
 
 # CREDITS
 
