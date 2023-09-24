@@ -397,7 +397,8 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
       
   * **Montserrat** is used for all paragraphs' content to ensure optimal readability of the site.
 
-     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9cbd0c75-55ac-4adb-b6b0-04f94c2d65a3)
+     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7b634bdb-bfd9-4b93-b151-25c1721c0603)
+
 
 
 ## IMAGERY
