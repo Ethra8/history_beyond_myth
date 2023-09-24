@@ -1120,9 +1120,9 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 2       | BrowserStack       | Samsung Galaxy S22   | Chrome             |Android 12.0     |360 x 780                     |
 | 3       | BrowserStack       | Samsung Galaxy S22   | Edge               |Android 12.0     |360 x 780                     |
 | 4       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
-| 5       | Real Laptop Device |PC Notebook HP -15-bs013ns| Chrome 117     |Windows 10 -64bit|1376 x 768                    |
-| 6       | BrowserStack       |Asus ZenBook UX305    | Edge               |Windows 11       |1920 x 1080                   |
-| 7       | BrowserStack       |Asus ZenBook UX305    | Firefox 117        |Windows 11       |1920 x 1080                   |
+| 5       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1376 x 768                    |
+| 6       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
+| 7       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
 
 
 
@@ -1142,6 +1142,7 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
 - **TEST no. 3**
 
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/5057ed10-2db5-4996-a0b1-b770c917e04d
 
 
 - **TEST no. 4**
@@ -1151,10 +1152,7 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fbf33e0c-7156-4dc6-abb4-b6fb2eb20f4f)
 
-
-
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
-
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
 
 - **TEST no. 5**
 
@@ -1166,8 +1164,6 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
 
 - **TEST no. 7**
-
-  
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
