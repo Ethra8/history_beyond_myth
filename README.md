@@ -498,7 +498,8 @@ The images of this section change, depending on the size of the screen, as follo
 
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/a13807f7-000e-400d-a298-0a788ae3a9bf
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/3ea858c8-ebbc-46f0-9341-7f44cb900f04
+
 
 
   
