@@ -682,8 +682,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/aa075010-1918-46af
 
   
 
-
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/a52700a2-843e-48e4-bc9a-3a90745b67bc
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/fc31ebfe-5c82-477a-a584-89e98c70004b
 
 
 
