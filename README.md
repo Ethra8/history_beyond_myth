@@ -589,7 +589,11 @@ The image of this section remains the same in all screen sizes, adapting its wid
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1335f343-4301-4de4-8d8a-056d15a61629)
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/998d995a-4e85-450b-bd9e-80bc1d86d2d3
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/364e7f3e-6fab-485b-86e1-42edc664076b
+
+
 
 
 ### SIGN-UP PAGE - IMAGERY  
