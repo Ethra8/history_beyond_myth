@@ -227,7 +227,7 @@ You will find in the points stated below a brief study aiming at providing the u
 
 **3. As member**
 * I want to know if any new curious coincidences have been found between academically recognised history fact and the Arthurian mythos.
-* I want to know if there is any interesting cultural or social event around Europe related to early middle ages, or the Arthurian legends.
+* I want to know if there are any future interesting cultural or social events around Europe related to early middle ages, or the Arthurian legends before I receive the monthly newsletter.
 * I want to check if they have uploaded any new information on future visits to emblematic places related to the investigation.
 * I want to share some new finding of my own, and have another opinion on this new finding, eventually adding up to this site content.
 
