@@ -348,7 +348,7 @@
  }
 
  #index .site_description {
-     background: url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.avif') repeat-x center top -100px fixed, url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.png') repeat-x center top -100px fixed;
+     background: url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.avif') repeat-x repeat-y center top -100px fixed, url('../images/index_site_description_bg_img_les_grandes_chroniques_de_france_royal_ms_16_g_vi_f361v_full.png') repeat-x repeat-y center top -100px fixed;
      margin: 0 auto;
      font-family: 'Montserrat', 'Verdana', sans-serif;
      font-weight: 500;
@@ -1011,7 +1011,7 @@
  }
 
  #sign_up .bg_img {
-     background: url('../images/sign_up_bg_img_castle_1920x1278.jpg') center center fixed;
+     background: url('../images/sign_up_bg_img_castle_1920x1278.jpg') center center fixed repeat-y;
  }
 
  #sign_up .black_transparency {
@@ -1329,7 +1329,7 @@
 
      /*** SIGN UP ***/
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat;
      }
 
      #social_events>div,
@@ -1493,7 +1493,7 @@
 
      /*** SIGN-UP ***/
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x repeat-y;
          background-size: cover;
      }
 
@@ -1847,7 +1847,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /*** SIGN-UP ***/
 
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left top fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left top fixed repeat-x repeat-y;
      }
 
      #sign_up_flex {
@@ -2134,7 +2134,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left 0 top 20px fixed repeat-x;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left 0 top 20px fixed repeat-x repeat-y;
      }
 
      #sign_up_flex {
