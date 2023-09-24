@@ -469,9 +469,6 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b4832de-4208-4ac8
 
 
 
-
-
-
 #### ARTHUR I PAGE - BACKGROUND IMAGE
 Fixed to the top left, the [6th membrane of the roll Chronicle of the Kings of England](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r), dated 1300-1340. The caption shows King Henry II to John Lacklang. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)  
 
@@ -510,7 +507,9 @@ The image of this section is responsive. While the figure it's placed in takes 1
 
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b18df55-8ccc-4676-977c-79d7c35bf24e
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/9be94c0e-fc90-451f-873d-746db61ba024
+
 
 
 
