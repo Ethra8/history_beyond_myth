@@ -1846,7 +1846,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      /*** SIGN-UP ***/
 
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left top fixed repeat-x repeat-y;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left top fixed repeat;
      }
 
      #sign_up_flex {
@@ -2133,7 +2133,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left 0 top 20px fixed repeat-x repeat-y;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') left 0 top 20px fixed repeat;
      }
 
      #sign_up_flex {
