@@ -520,12 +520,14 @@ The image of this section is the **Hero Image**, which remains the same in all s
 
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/35f7f0b6-c132-4f9d-bd4c-4e1c0eac5bf3
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/c710cca1-4b01-4c5a-8bc4-2993b076575c
+
 
 
 
 #### SECTION 4 - TWO KINGS ONE THRONE  
-**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Duke Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported his claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Duke Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported Arthur's claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their Breton King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_section_4_arthur_le_rois_de_bretaigne_les_chroniques_de_france_royal_ms_16_g_vi_f361v.avif)
 
