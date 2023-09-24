@@ -74,7 +74,7 @@ EDNA TORRES MUNILL
             5. [Section 7 - Mists of Guernsey](#section-7---mists-of-guernsey)
         + [Sign-up Page - Imagery](#sign-up-page---imagery)
             1. [Sign-up Page - Background Image](#sign-up-page---background-image)
-            2. [Events Section - Imagery](#events-section---imagery)
+            2. [Events - Imagery](#events---imagery)
         + [404 Page - Imagery](#404-page---imagery)
             1. [404 Page - Background Image](#404-page---background-image)
 
@@ -602,12 +602,14 @@ The image of this section remains the same in all screen sizes, but in different
    
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/sign_up_bg_img_castle_1280x852px.jpg)  
 
-#### EVENTS SECTION - IMAGERY  
-The images of this section remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site.
+#### EVENTS - IMAGERY  
+The images of this sections remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site. Nethertheless, these don't display in phones (width smaller than 576px)
 
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fdbe18dc-50f8-4d4f-a883-faf53c33bbb4)
+
+- ***Cultural Events***: [Marie of France](https://commons.wikimedia.org/wiki/File:Marie_de_France_1.tif), source is the *Bibliothèque nationale de France* (National Library of France): BnF, Arsenal Library, [Ms. 3142 fol. 256](https://essentiels.bnf.fr/fr/image/1743062b-2eb5-42bb-8b7f-e26691f374f1-recueil-pieces-versifiees-en-ancien-francais-comprenant-fables-marie-france).
 
 
 - ***Sight Seeing***: [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
