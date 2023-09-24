@@ -2097,7 +2097,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          width: 150px;
      }
 
-     #abalone_frenchPronunciation audio a {
+     #abalone_frenchPronunciation a audio {
          text-decoration: none;
          color: whitesmoke;
      }
