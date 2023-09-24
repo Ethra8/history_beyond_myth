@@ -1121,12 +1121,13 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 3       | BrowserStack       | Samsung Galaxy S22   | Edge               |Android 12.0     |360 x 780                     |
 | 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 16.0        |360 x 780                     |
 | 5       | Blisk              | iPhone SE 2022       | Chrome             | iOS             |375 x 667                     |
-| 6       | BrowserStack       | iPhone 13            | Safari             | iOS 17.0        |390 x 844                     |
-| 7       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
-| 8       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
-| 9       | Blisk              | MacBook Pro          | Chrome 117         | macOS           |1440 x 900                    |
-| 10      | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
-| 11      | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
+| 6       | REAL mobile device | Samsung Galaxy A22 5G| Chrome             | Android 13.0    |384 x 857                     |
+| 7       | BrowserStack       | iPhone 13            | Safari             | iOS 17.0        |390 x 844                     |
+| 8       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
+| 9       | REAL Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
+| 10      | Blisk              | MacBook Pro          | Chrome 117         | macOS           |1440 x 900                    |
+| 11      | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
+| 12      | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
 
 
 
@@ -1160,19 +1161,19 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/d1f4368f-bff3-45ab-a5e9-3189798a21ba
 
-  
 - **TEST no. 6**
-    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.17.0, this does not reflect the latter update, as can be seen on the following video recording:
 
-    
-
-  https://github.com/Ethra8/history_beyond_myth/assets/80659091/89fb1d20-f26c-487e-ad7d-8ae7d831e986
-
-
-
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/0c057ede-22ec-4c49-801e-ddbfda9dccc7
 
 
 - **TEST no. 7**
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.17.0, this does not reflect the latter update, as can be seen on the following video recording:
+
+    
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/89fb1d20-f26c-487e-ad7d-8ae7d831e986
+
+
+- **TEST no. 8**
     * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.16.3, this does not reflect the latter update, as can be seen on the following video recording:
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7d1c3c75-e619-4df2-b138-f40e63a6033d)
 
@@ -1181,11 +1182,11 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
 
-- **TEST no. 8**
+- **TEST no. 9**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
-- **TEST no. 9**
+- **TEST no. 10**
 
   
 
@@ -1194,12 +1195,12 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/67e5e7cb-6735-4610
 
 
 
-- **TEST no. 10**
+- **TEST no. 11**
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6f7697b8-e207-4b16-8671-cfdf4e08a07b)
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
 
-- **TEST no. 11**
+- **TEST no. 12**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
@@ -1435,6 +1436,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + [Yesviz](https://yesviz.com/) - To check real device viewport when testing compatitivity & responsiveness.
   + [ScreenSiz](https://screensiz.es/) - To find devices to test depending on their screen size.
   + [Blisk](https://blisk.io/) - Used for Compatibility ans Responsiveness testing purposes.
+  + [XRecorder](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder&hl=es_419&gl=US&pli=1) - Downloaded the mobile app, used for screen recording, for compatibility and responsive testing.
 
 
 # DEPLOYMENT
