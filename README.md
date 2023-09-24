@@ -603,7 +603,7 @@ The image of this section remains the same in all screen sizes, but in different
     ![image](https://englishgrows.com/history_beyond_myth/assets/images/sign_up_bg_img_castle_1280x852px.jpg)  
 
 #### EVENTS - IMAGERY  
-The images of this sections remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site. Nethertheless, these don't display in phones (width smaller than 576px)
+The images of these 3 sections remain the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness to the site. Nethertheless, these don't display in phones (width smaller than 576px)
 
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 
@@ -611,6 +611,7 @@ The images of this sections remain the same in all screen sizes, adapting its wi
 
 - ***Cultural Events***: [Marie of France](https://commons.wikimedia.org/wiki/File:Marie_de_France_1.tif), source is the *Bibliothèque nationale de France* (National Library of France): BnF, Arsenal Library, [Ms. 3142 fol. 256](https://essentiels.bnf.fr/fr/image/1743062b-2eb5-42bb-8b7f-e26691f374f1-recueil-pieces-versifiees-en-ancien-francais-comprenant-fables-marie-france).
 
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f6c1777e-d9e6-4549-9cc6-0ac919e29c2e)
 
 - ***Sight Seeing***: [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
