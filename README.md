@@ -812,8 +812,8 @@ Acting as the *landing page*, it has the following structure:
           2. Become part of our vibrant community, and attend *cultural and social events* around Europe, such as expositions, lectures, and conferences.
           3. *Share users' new findings* with the site administration.
           4. Attend *organized visits* to emblematic sights related to the curious coincidences found between history and myth.
-
-      4. **FOOTER**
+  
+  5. **FOOTER**
 
 ### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) - STRUCTURE
 States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Count Arthur I of Brittany his heir, when this latter was only 3 years old. Count Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur when he was 16 years old, and was supported by most of the continental territories who had been ruled by Richard. These facts are ordered in the following sections, each containing a caption on the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display on hover:
