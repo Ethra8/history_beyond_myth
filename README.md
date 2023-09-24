@@ -1119,10 +1119,11 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 1       | Chrome Dev emulator| Samsung Galaxy S20   | Chrome 117         |Windows 10       |360 x 800                     | 
 | 2       | BrowserStack       | Samsung Galaxy S22   | Chrome             |Android 12.0     |360 x 780                     |
 | 3       | BrowserStack       | Samsung Galaxy S22   | Edge               |Android 12.0     |360 x 780                     |
-| 4       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
-| 5       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1376 x 768                    |
-| 6       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
-| 7       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
+| 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 16.0        |360 x 780
+| 5       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
+| 6       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1376 x 768                    |
+| 7       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
+| 8       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
 
 
 
@@ -1145,7 +1146,15 @@ Please find the correspondent **compatibility and responsive testing** reflected
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/5057ed10-2db5-4996-a0b1-b770c917e04d
 
 
-- **TEST no. 4**
+- **TEST no. 4**  
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.16.0, this does not reflect the latter update, as can be seen on the following video recording:
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/84e7d83d-1fd1-49e8-b693-7df6bad75767
+
+
+
+- **TEST no. 5**
     * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.16.3, this does not reflect the latter update, as can be seen on the following video recording:
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7d1c3c75-e619-4df2-b138-f40e63a6033d)
 
@@ -1154,16 +1163,16 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
 
-- **TEST no. 5**
+- **TEST no. 6**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
-- **TEST no. 6**
+- **TEST no. 7**
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6f7697b8-e207-4b16-8671-cfdf4e08a07b)
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
 
-- **TEST no. 7**
+- **TEST no. 8**
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
