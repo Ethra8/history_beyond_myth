@@ -586,8 +586,7 @@ The image of this section remains the same in all screen sizes, adapting its wid
 The image of this section remains the same in all screen sizes, adapting its width and size accordingly, bringing responsiveness  to the site.  
 - [Seascape in Guernsey during sunset](https://www.freepik.com/free-photo/long-exposure-shot-seascape-guernsey-during-sunset_13291205.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)  
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/2f75da77-d78b-4a0c-8e60-7e11f6c34af4)
-
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1335f343-4301-4de4-8d8a-056d15a61629)
 
 
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/998d995a-4e85-450b-bd9e-80bc1d86d2d3
