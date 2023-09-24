@@ -1029,7 +1029,9 @@
      margin-bottom: 0;
  }
 
- #social_events>div {
+ #social_events>div,
+ #cultural_events>div,
+ #share_findings>div {
      /*vertically align*/
      display: flex;
      justify-content: center;
@@ -1047,8 +1049,8 @@
  }
 
  #social_events .text,
- #cultural_events .text {
-     display: inline;
+ #cultural_events .text,
+ #sightseeing_events .text {
      background-color: whitesmoke;
      height: 300px;
      border-top-right-radius: 10px;
@@ -1061,7 +1063,8 @@
  }
 
  #social_events .picture,
- #cultural_events .picture {
+ #cultural_events .picture,
+ #sightseeing_events .picture {
      background-color: whitesmoke;
      width: 240px;
      height: 300px;
@@ -1070,7 +1073,8 @@
  }
 
  #social_events h2,
- #cultural_events h2 {
+ #cultural_events h2,
+ #sightseeing_events h2 {
      text-align: left;
      font-size: 2.5rem;
      line-height: 1;
@@ -1081,7 +1085,8 @@
  }
 
  #social_events p,
- #cultural_events p {
+ #cultural_events p,
+ #sightseeing_events p {
      text-align: left;
      padding: 0 35px 0 0;
      margin-top: 0;
@@ -1096,7 +1101,8 @@
  }
 
  #social_events figure,
- #cultural_events figure {
+ #cultural_events figure,
+ #sightseeing_events figure {
      margin-left: 0;
      z-index: 899;
      position: relative;
@@ -1114,7 +1120,8 @@
  }
 
  #social_events figcaption,
- #cultural_events figcaption {
+ #cultural_events figcaption,
+ #sightseeing_events figcaption {
      width: 186px;
      margin-left: 0;
      margin-top: -3em;
@@ -1124,7 +1131,8 @@
      border-bottom-left-radius: 10px;
  }
 
- #cultural_events>div {
+
+ #sightseeing_events>div {
      position: relative;
      background-color: whitesmoke;
      /*vertically align*/
@@ -1141,7 +1149,8 @@
      border-width: 1px;
  }
 
- #cultural_events img {
+ #cultural_events img,
+ #sightseeing_events img {
      box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.4);
      z-index: -1;
      position: relative;
@@ -1156,7 +1165,7 @@
  #sign_up_form {
      width: 45%;
      position: relative;
-     display: flex;
+     /* display: flex; */
      padding: 0 60px;
  }
 
@@ -1323,11 +1332,12 @@
          background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x;
      }
 
-     #social_events>div {
+     #social_events>div,
+     #cultural_events>div {
          margin: 0 auto 90px 30px;
      }
 
-     #cultural_events>div {
+     #sightseeing_events>div {
          margin: 0 auto 0 30px;
      }
 
@@ -1500,11 +1510,12 @@
          padding: 0;
      }
 
-     #social_events>div {
+     #social_events>div,
+     #cultural_events>div {
          margin: 0 auto 90px 0;
      }
 
-     #cultural_events>div {
+     #sightseeing_events>div {
          margin: 0 auto 0 0;
      }
 
@@ -1845,12 +1856,13 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          flex-direction: column-reverse;
      }
 
-     #social_events>div {
+     #social_events>div,
+     #cultural_events>div {
          margin: 0 auto 90px;
          padding-left: 0;
      }
 
-     #cultural_events>div {
+     #sightseeing_events>div {
          margin: 0 auto;
          padding-left: 0;
      }
@@ -2146,7 +2158,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #social_events .picture,
-     #cultural_events .picture {
+     #cultural_events .picture,
+     #sightseeing_events .picture {
          display: none;
      }
 
@@ -2156,11 +2169,13 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #social_events,
-     #cultural_events {
+     #cultural_events,
+     #sightseeing_events {
          width: fit-content;
      }
 
-     #social_events>div {
+     #social_events>div,
+     #cultural_events>div {
          width: 100%;
          min-width: fit-content;
          margin: 0 auto 70px;
@@ -2169,7 +2184,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          height: 320px;
      }
 
-     #cultural_events>div {
+     #sightseeing_events>div {
          width: 100%;
          min-width: fit-content;
          margin: 0 auto;
@@ -2179,7 +2194,8 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #social_events .text,
-     #cultural_events .text {
+     #cultural_events .text,
+     #sightseeing_events .text {
          /* align vertically*/
          display: flex;
          justify-content: center;
@@ -2193,8 +2209,10 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      #social_events h2,
      #cultural_events h2,
+     #sightseeing_events h2,
      #social_events p,
-     #cultural_events p {
+     #cultural_events p,
+     #sightseeing_events p {
          margin-bottom: 0;
          padding: 15px 5% 10px;
      }
