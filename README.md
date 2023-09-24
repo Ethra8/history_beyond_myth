@@ -424,7 +424,7 @@ All images in this section are related to the Arthurian mythos, and taken from d
 
 2. Early medieval [map of Britain](https://www.bl.uk/collection-items/matthew-paris-map-of-britain) dated 1250, from author Matthew Paris, from his work *Historiae Anglorum*. Original source is manuscript *Cotton MS Claudius D VI*, kept in the National British Library, but as it is stated in the original Cotton MS Claudius D VI manuscript [description](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi), the map was removed in year 1929, and now kept separately.
 
-3. [Portrait of Count Arthur I of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+3. [Portrait of Arthur I Duke of Brittany](https://commons.wikimedia.org/wiki/File:Artur_of_Brittany.jpg) first found in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), heir to Richard I "the Lionheart" by birth right. Its original source is the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340, kept in the National British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
 4. [Depiction of Arthur I in his castle, wearing a crown after Richard I's death, receiving Philip II of France](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v) who is visiting him. Arthur is giving homage to Philip in return for his support to his claim to the throne of England. This depiction's original source and description is page f.361v of the illuminated manuscript dated 1332-1350, kept in the National British Library, called "Les Grandes Chroniques de France" [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi).
 
@@ -434,7 +434,7 @@ All images in this section are related to the Arthurian mythos, and taken from d
 
 7. [Depiction of King Richard "the Lionheart"](https://en.wikipedia.org/wiki/File:Richard_I_of_England_in_the_Brief_Abridgement_of_the_Chronicles_of_England.jpg), found in Wikimedia Commons. Its original source being page [f.9v](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi_f009v) from manuscript *"Brief Abridgement of the Chronicles of England"* attributed to Matthew Paris, dated 1255-1259 kept in the British Library as manuscript [Cotton MS Claudius D VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_claudius_d_vi).
 
-8. [Portrait of Count Geoffrey II of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
+8. [Portrait of Geoffrey II Duke of Brittany](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r). Its original source is the 6th membrane of the *roll chronicle of the Genealogy of the Kings of England* dated 1300-1340, kept in the British Library, as manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi)
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b2049757-b613-4172-906a-e9c8377c3cbd)
 
@@ -452,7 +452,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/84ccc130-2667-4f58
 Find the images displayed in this page, depending on the screen size:  
 
 #### ARTHUR I PAGE - HEADER IMAGE
-Portrait of young Count Arthur I of Brittany, son of Geeoffrey II of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Count Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
+Portrait of young Arthur I Duke of Brittany, son of Geoffrey II Duke of Brittany, rightful heir to King Richard "the Lionheart", extracted from the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the *roll chronicle of the Genealogy of the Kings of Britain* dated 1300-1340. The membrane depicts Henry II's sons and grandsons, one of his grandsons being Duke Arthur I of Brittany. Source from the British Library, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi).  
 
   * **TABLETS AND DESKTOPS** (min. 578px width): 150px width, 175px height  
 
@@ -488,7 +488,7 @@ The images of this section change, depending on the size of the screen, as follo
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/king_richard_lionheart_royal_ms_14_b_vi_f006v_223x275px.avif)
 
-  2. **Portrait of Count Geoffrey II of Brittany**: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
+  2. **Portrait of Geoffrey II Duke of Brittany**: Its original source is the exact same as the latter, the [6th membrane](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi_f006r) of the roll chronicle of Britain Genealogy dated 1300-1340 as one of King Henry's sons, being Richard's younger brother, and Arthur's father, manuscript [Royal MS 14 B VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_14_b_vi), British Library.  
 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/geoffrey_ii_count_of_brittany_royal_ms_14_b_vi_f006v_223x275px.avif)   
 
@@ -521,7 +521,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/35f7f0b6-c132-4f9d
 
 
 #### SECTION 4 - TWO KINGS ONE THRONE  
-**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Count Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported his claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
+**Caption of the original text** from the page where the **hero image** has been taken - page [f.361v, lines 10-11](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_f361v), from the illuminated manuscript *Les Grandes Chroniques de France* dated 1332-1350. The text names Duke Arthur as ***Arthur King of Brittany*** *("Arthus Rois de bretaigne")*, referring to the facts that happened after King Richard's death, as Philip Augustus, King of France, supported his claim to the throne, or at least to separate the French Plantagenet territories from Britain, and become their King. The original source is manuscript [Royal MS 16 G VI](https://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi), f.361v, lines 10-11, British Library.  
 
 ![image](https://englishgrows.com/history_beyond_myth/assets/images/arthur_i_section_4_arthur_le_rois_de_bretaigne_les_chroniques_de_france_royal_ms_16_g_vi_f361v.avif)
 
