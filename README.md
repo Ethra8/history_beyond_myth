@@ -607,7 +607,8 @@ The images of these 3 sections remain the same in all screen sizes, adapting its
 
 - ***Social Events***: [Man posing as a medieval soldier](https://www.freepik.com/free-photo/medium-shot-man-posing-as-medieval-soldier_57313566.htm#page=2&query=medieval%20joust&position=27&from_view=search&track=ais) by Freepik, at [Freepik.com](https://www.freepik.com/)  
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fdbe18dc-50f8-4d4f-a883-faf53c33bbb4)
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/877686ae-e1bc-4b12-b114-cac31a2aa831)
+
 
 - ***Cultural Events***: [Marie of France](https://commons.wikimedia.org/wiki/File:Marie_de_France_1.tif), source is the *Bibliothèque nationale de France* (National Library of France): BnF, Arsenal Library, [Ms. 3142 fol. 256](https://essentiels.bnf.fr/fr/image/1743062b-2eb5-42bb-8b7f-e26691f374f1-recueil-pieces-versifiees-en-ancien-francais-comprenant-fables-marie-france).
 
