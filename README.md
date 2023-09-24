@@ -1425,11 +1425,15 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/51530428-8d93-480a
 
 
 ### CHROME VOX READER
-As it shows in the following video, after downloading the ***Chrome Vox Reader extension*** on the browser, the user can navigate and interact with each and every feature in all pages, as one can see in the following video:
+***Chrome Vox Reader extension*** has been downloaded on the browser, to test accesibility, and the user can successfully navigate and interact with each and every feature in all pages, as one can see part of the test in the following video:
 
 
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db-a75d-b7794c8f7ae5
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd-8ccb-0ae16f05caee
+
+
 
 
 
