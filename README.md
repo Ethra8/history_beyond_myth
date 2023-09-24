@@ -1121,10 +1121,11 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 3       | BrowserStack       | Samsung Galaxy S22   | Edge               |Android 12.0     |360 x 780                     |
 | 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 16.0        |360 x 780                     |
 | 5       | BrowserStack       | iPhone 13            | Safari             | iOS 17.0        |390 x 844                     |
-| 6       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
-| 7       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
-| 8       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
-| 9       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
+| 6       | Blisk              | iPhone SE 2022       | Chrome             | iOS             |375 x 667                     |
+| 7       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
+| 8       | Real Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
+| 9       | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
+| 10       | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
 
 
 
@@ -1161,9 +1162,14 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/89fb1d20-f26c-487e-ad7d-8ae7d831e986
 
-
-
 - **TEST no. 6**
+
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/d1f4368f-bff3-45ab-a5e9-3189798a21ba
+
+
+
+- **TEST no. 7**
     * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.16.3, this does not reflect the latter update, as can be seen on the following video recording:
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7d1c3c75-e619-4df2-b138-f40e63a6033d)
 
@@ -1172,16 +1178,16 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
 
-- **TEST no. 7**
+- **TEST no. 8**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
-- **TEST no. 8**
+- **TEST no. 9**
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6f7697b8-e207-4b16-8671-cfdf4e08a07b)
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
 
-- **TEST no. 9**
+- **TEST no. 10**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
@@ -1416,6 +1422,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/96f5c91b-d83a-45db
   + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
   + [Yesviz](https://yesviz.com/) - To check real device viewport when testing compatitivity & responsiveness.
   + [ScreenSiz](https://screensiz.es/) - To find devices to test depending on their screen size.
+  + [Blisk](https://blisk.io/) - Used for Compatibility ans Responsiveness testing purposes.
 
 
 # DEPLOYMENT
