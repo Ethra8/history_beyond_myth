@@ -360,7 +360,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
       * The remaining text in headings use **Metamorphous** (upper case).
       * All headers' extra text (p) use **Jim Nightshade**.
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b94b29a8-8fdf-48eb-97d3-4e7a49b46f00)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d067a53a-4ab2-4c5b-8e39-c3cee54c73c8)
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/b1e9a9e2-f688-4aa5-956b-53a253c449ec)
 
 
