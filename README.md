@@ -141,7 +141,7 @@ EDNA TORRES MUNILL
     * [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
         + [Preselecting Testing Targets](#preselecting-testing-targets)
         + [Testing Targets Table](#testing-targets-table)
-        + [Test Recordings](#test-recordings)
+        + [Test Recordings and Results](#test-recordings-and-results)
 
     * [Manual Testing](#manual-testing)
         + [Sign-up Form](#sign-up-form)
@@ -1084,17 +1084,20 @@ Following all the above information, compatibility and responsive testing has be
 
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
-| TEST no.| TOOL/ DEVICE                              | BROWSER            | OS              | VIEWPORT width x height (px) |
-|---------|-------------------------------------------|--------------------|-----------------|------------------------------|
-| 1       | Chrome Dev emulator/ Samsung S20          | Chrome 117         |Windows 10       |360 x 800                     | 
-| 2       | BrowserStack/ Samsung S22                 | Chrome             |Android 12.0     |360 x 780                     |
-| 3       | Real Laptop/ PC Notebook HP - 15-bs013ns  | Chrome 117         |Windows 10 -64bit|1376 x 768                    |
-| 4       | Asus ZenBook UX305                        | Edge               |Windows 11       |1920 x 1080                   |
+| TEST no.| TOOL               | DEVICE               | BROWSER            | OS              | VIEWPORT width x height (px) |
+|---------|--------------------|----------------------|--------------------|-----------------|------------------------------|
+| 1       | Chrome Dev emulator| Samsung S20          | Chrome 117         |Windows 10       |360 x 800                     | 
+| 2       | BrowserStack       | Samsung S22          | Chrome             |Android 12.0     |360 x 780                     |
+| 3       | BrowserStack       | Samsung S22          | Edge               |
+| 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 14.2        | 360 x 780                    |
+| 5       | Real Laptop Device |PC Notebook HP -15-bs013ns| Chrome 117     |Windows 10 -64bit|1376 x 768                    |
+| 6       | BrowserStack       |Asus ZenBook UX305    | Edge               |Windows 11       |1920 x 1080                   |
+| 7       | BrowserStack       |Asus ZenBook UX305    | Firefox 117        |Windows 11       |1920 x 1080                   |
 
 
 
 
-### TEST RECORDINGS
+### TEST RECORDINGS and RESULTS
 - **TEST no. 1**
   
 
@@ -1106,16 +1109,30 @@ Please find the correspondent **compatibility and responsive testing** reflected
   
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/72480de0-c99e-46ff-b95f-e366e8939fea
 
+
 - **TEST no. 3**
+
+
+- **TEST no. 4**
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack v.15.0, does not reflect this latter update
+
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fbf33e0c-7156-4dc6-abb4-b6fb2eb20f4f)
+
+
+- **TEST no. 5**
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
-- **TEST no. 4**
+- **TEST no. 6**
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/6f7697b8-e207-4b16-8671-cfdf4e08a07b)
 
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
 
+- **TEST no. 7**
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ec2d15-7b08-436a-a868-964576e697ec
+  
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
 
 
