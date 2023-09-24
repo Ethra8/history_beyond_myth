@@ -618,7 +618,8 @@ The images of these 3 sections remain the same in all screen sizes, adapting its
 
 - ***Cultural Events***: [Marie of France](https://commons.wikimedia.org/wiki/File:Marie_de_France_1.tif), source is the *Bibliothèque nationale de France* (National Library of France): BnF, Arsenal Library, [Ms. 3142 fol. 256](https://essentiels.bnf.fr/fr/image/1743062b-2eb5-42bb-8b7f-e26691f374f1-recueil-pieces-versifiees-en-ancien-francais-comprenant-fables-marie-france).
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f6c1777e-d9e6-4549-9cc6-0ac919e29c2e)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ad7c0b66-2e25-4943-8b82-7fea10814cb8)
+
 
 - ***Sight Seeing***: [seascape in Guernsey during sunset](https://www.freepik.com/free-photo/vertical-long-exposure-shot-seascape-guernsey-during-sunset_13382109.htm) by [wirestock](https://www.freepik.com/author/wirestock) at [Freepik.com](https://www.freepik.com/)
 
