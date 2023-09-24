@@ -464,7 +464,11 @@ Portrait of young Arthur I Duke of Brittany, son of Geoffrey II Duke of Brittany
 
     
 
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/b34f6747-5ddd-4168-82d3-770238aa0cc8
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/6b4832de-4208-4ac8-9ab2-6d47d181ef11
+
+
+
 
 
 
