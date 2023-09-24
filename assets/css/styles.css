@@ -1493,7 +1493,7 @@
 
      /*** SIGN-UP ***/
      #sign_up .bg_img {
-         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat-x repeat-y;
+         background: url('../images/sign_up_bg_img_castle_1280x852px.jpg') right top fixed repeat;
          background-size: cover;
      }
 
@@ -1655,7 +1655,6 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      #philip_castle figcaption {
          position: relative;
          width: 100%;
-         min-width: none;
          max-width: fit-content;
          margin: -4px auto 0;
      }
