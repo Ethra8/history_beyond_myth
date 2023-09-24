@@ -1362,7 +1362,7 @@ This site has been tested to be ADA compliant, and has achieved **WCAG 2.1 valid
 Find below the audits from ***EqualWeb Accessibility Checker*** and ***Lighthouse*** from Chrome Dev tools' reports, which have all achieved positive results:
 
 #### WCAG 2.1 VALIDATION
-The *Chrome extension* of **EqualWeb Accessibility Tool**, and has been used to check the accessibility of this site regarding **CONTRAST** and **GENERAL** issues.  
+The *Chrome extension* of **EqualWeb Accessibility Tool** has been used to check **CONTRAST** and **GENERAL ACCESSIBILITY** issues.  
 It is stated in the description of the tool that *"The EqualWeb Web Accessibility Checker is a free automated **auditing tool for WCAG 2.1 validation**. The Checker analyzes the website and provides visual accessibility scores about the site’s accessibility issues and errors. The Checker can scan one page at a time. To use the Web Accessibility Checker, download and install the tool from the Google Chrome extension store. Next, enter the URL of the website you wish to scan. Now, activate the EqualWeb icon on your Chrome browser and start scanning. The checker will flag static and dynamic accessibility issues on your HTML pages filtered by the WCAG 2.1 A/AA/AAA conformance level. EqualWeb is the only company recognized by the World Wide Web"*.  
 
 As seen in the following screeshot taken, no **general errors** nor **contrast errors** were found for each of the following pages:
