@@ -248,19 +248,19 @@ You will find in the points stated below a brief study aiming at providing the u
 
 # UI
 
-## UI - FIXED NAVIGATION  BAR
+### UI - FIXED NAVIGATION  BAR
 - The user is able to interact with the fixed navigation bar, even when scrolling through pages, and navigate throughout all the site's pages easily, as it is fixed on the top of all pages, including the *404* error page.
 
-## UI - FOOTER
+### UI - FOOTER
 - Included at the bottom of each page, including the *404* error page, it allows the user to interact and instantly, and seemlessly, send an email to the administration of the site, as well as visit (or follow) the social media profiles of the site.
 
-## UI - HOME PAGE
+### UI - HOME PAGE
 - Includes a site description section, with *reasons to sign-up* that allow the user to interact with a button-like link that redirects the user to the sign-up page.
 
-## UI - CONTENT PAGES
+### UI - CONTENT PAGES
 - Content pages **Arthur I** and **Avalon** include ***tooltips*** linked to the source used for every information included in the text on every section, to allow for user interaction to check the sources, which open in a new tabs. **Links** to the images source are also included, so that the user can interact by directly clicking on each image, and checking the original source, which will open in a new tab.
 
-## UI - SIGN-UP FORM
+### UI - SIGN-UP FORM
 - Included in the **sign-up page**, the sign-up form allows the user to interact, and send the sign-up form, which also allows to include a file stored in the user's device, which the user can easily browse and include.
 
 
