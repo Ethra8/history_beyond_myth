@@ -862,11 +862,17 @@ This page' structure is as follows:
     * **Social Events**: Brief description of the kind of social events that the user will be informed of, after deciding to sign-up.
     * **Cultural Events**: Brief description of the kind of cultural events that the user will be informed of, after deciding to sign-up.
     * **Sight Seeing**: Brief description of the organised visits that the user will be informed of, after deciding to sign-up.
-    
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/653a0b50-b100-4ff5-91de-fa33e732db62)
+5. **FOOTER**    
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/0cfb6b1a-dce8-4795-b0f4-0f538f609ad9)
+
 
 ### [404 PAGE](https://englishgrows.com/history_beyond_myth/404.html) - STRUCTURE
-Provides the user with an error page that follows the same line of design as the rest of the site, adding a ***note of humour*** to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected, and as a fixed image there is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
+Provides the user with an error page that follows the same line of design as the rest of the site, adding a ***note of humour*** to relieve some possible frustration that an error could cause in case something goes wrong. The imagery has been carefully selected. The fixed background image is a medieval thinker taken from the *Codex Manesse*, dated around 1250.
+
+1. **NAVIGATION BAR**
+2. **HEADER**
+3. **FOOTER**
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
