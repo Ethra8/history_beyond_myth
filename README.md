@@ -153,8 +153,8 @@ EDNA TORRES MUNILL
     
     * [Accessibility Testing](#accessibility-testing)
         + [Accessibility Audits](#accessibility-audits)
-            - [EqualWeb Accessibility Checker](#equalweb-accessibility-checker)
-            - [Lighthouse Reports - Accessibility](#lighthouse-reports---accessibility)
+            - [WCAG 2.1 Validation](#wcag-2.1-validation)
+            - [General Accessibility Reports](#general-accessibility-reports)
         + [Keyboard Navigation](#keyboard-navigation)
         + [Chrome Vox Reader](#chrome-vox-reader)
   
@@ -1182,13 +1182,9 @@ As reflected in the test recordings below, the only issue that has been found ac
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/91758e03-adc5-466f-927e-a89d6ff35e5a
 
-- **TEST no. 10**
+- **TEST no. 10**  
 
-  
-
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/67e5e7cb-6735-4610-b0aa-d084986e78ee
-
-
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/67e5e7cb-6735-4610-b0aa-d084986e78ee
 
 
 - **TEST no. 11**
@@ -1360,21 +1356,51 @@ This feature from *Chrome Dev tools* has been used to check the **CORE WEB VITAL
 
 
 ## ACCESSIBILITY TESTING
+This site has been tested to be ADA compliant, and has achieved **WCAG 2.1 validation** using the Chrome extension of ***EqualWeb Accessibility Checker***.
 
 ### ACCESSIBILITY AUDITS
+Find below the audits from ***EqualWeb Accessibility Checker*** and ***Lighthouse*** from Chrome Dev tools' reports, which have all achieved positive results:
 
-#### EQUALWEB ACCESSIBILITY CHECKER
-The free version of this tool has been downloaded as a *Chrome extension*, and has been used to check the accessibility of this site.
-It is stated in the description of the tool that ***"The EqualWeb Web Accessibility Checker is a free automated auditing tool for WCAG 2.1 validation. The Checker analyzes the website and provides visual accessibility scores about the site’s accessibility issues and errors. The Checker can scan one page at a time. To use the Web Accessibility Checker, download and install the tool from the Google Chrome extension store. Next, enter the URL of the website you wish to scan. Now, activate the EqualWeb icon on your Chrome browser and start scanning. The checker will flag static and dynamic accessibility issues on your HTML pages filtered by the WCAG 2.1 A/AA/AAA conformance level. EqualWeb is the only company recognized by the World Wide Web"***.  
+#### WCAG 2.1 VALIDATION
+The *Chrome extension* of **EqualWeb Accessibility Tool**, and has been used to check the accessibility of this site regarding **CONTRAST** and **GENERAL** issues.  
+It is stated in the description of the tool that *"The EqualWeb Web Accessibility Checker is a free automated **auditing tool for WCAG 2.1 validation**. The Checker analyzes the website and provides visual accessibility scores about the site’s accessibility issues and errors. The Checker can scan one page at a time. To use the Web Accessibility Checker, download and install the tool from the Google Chrome extension store. Next, enter the URL of the website you wish to scan. Now, activate the EqualWeb icon on your Chrome browser and start scanning. The checker will flag static and dynamic accessibility issues on your HTML pages filtered by the WCAG 2.1 A/AA/AAA conformance level. EqualWeb is the only company recognized by the World Wide Web"*.  
 
 As seen in the following screeshot taken, no **general errors** nor **contrast errors** were found for each of the following pages:
 
 - **HOME PAGE**  
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/845df6f5-96be-4d62-9b74-531718a457ae)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/845df6f5-96be-4d62-9b74-531718a457ae)
 
+- **ARTHUR I PAGE**
 
-#### LIGHTHOUSE REPORTS - ACCESSIBILITY
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d751e605-53ef-4d4f-a6cb-64a17223329b)
+
+- **AVALON PAGE**
+  * First found 1 *contrast* issue, and 1 *general issue*, as follows:
+      + ***General issue*** as a *title* attribute was missing on the interactive Google Map iframe:  
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c3f06d17-f119-45a8-b7e0-1aa9c18e9ea6)
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/598c37c8-ed9f-4534-aa0f-40b01e58aea4)
+
+      + ***Contrast issue*** on the audio>a text that would only appear in the rare case a browser wouldn't recognize the audio controls element, and in substitution of the latter:
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e19905ba-3812-467a-aaa0-eabf6e4c610b)
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9be9f285-cf11-4ad5-92b7-9064e02cc601)
+
+  * **Fixed both issues stated above**, and test result came without errors, as follows:
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/88d219f3-22d6-4f2b-82e1-3bb402e61833)
+    
+
+- **SIGN-UP PAGE**
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8f2e36d8-a46b-4616-b5ab-2fcd5a936f02)
+
+- **404 ERROR PAGE**
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4a377073-6a48-45e0-9e30-7041b674a57e)
+
+  
+#### GENERAL ACCESSIBILITY REPORTS
+For general accessibility testing, the *Chrome Dev tool **LIGHTHOUSE*** has been used, and no errors have been found, as is reflected on the following reports:
 
 - **HOME PAGE**
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a702dc6f-f000-41c7-b3a8-8319bd7c4ea4)
