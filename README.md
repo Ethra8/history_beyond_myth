@@ -1112,17 +1112,23 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 16.0        |360 x 780                     |
 | 5       | Blisk              | iPhone SE 2022       | Chrome             | iOS             |375 x 667                     |
 | 6       | REAL mobile device | Samsung Galaxy A22 5G| Chrome             | Android 13.0    |384 x 857                     |
-| 7       | BrowserStack       | iPhone 13            | Safari             | iOS 17.0        |390 x 844                     |
-| 8       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.3        |393 x 852                     |
+| 7       | BrowserStack       | iPhone 13            | Safari 17.0        | iOS             |390 x 844                     |
+| 8       | BrowserStack       | iPhone 14 Pro        | Safari 16.3        | iOS             |393 x 852                     |
 | 9       | REAL Laptop Device | PC Notebook HP -15-bs013ns| Chrome 117    |Windows 10 -64bit|1366 x 768                    |
 | 10      | Blisk              | MacBook Pro          | Chrome 117         | macOS           |1440 x 900                    |
 | 11      | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
 | 12      | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
+| 13      | BrowserStack       |                      | Safari 16.5        | OS X Ventura    |1920 x 1080                   |
 
 
 
 
 ### TEST RECORDINGS and RESULTS
+As reflected in the test recordings below, the only issue that has been found across the different browsers and OS, is the *background-attachment:fixed* which fixes the background image in all pages. The issue has solely been found on ***Safari*** browser in ***iOS***, and as has been checked in [caniuse.com](https://caniuse.com/?search=background-attachment), as well as in Mozilla Dev, Safari in iOS does not support this property due to a bug that persists even on the newest versions (as seen in TEST 7 & TEST 8). Note that ***Safari*** on ***macOS*** does not have this bug, and background images display perfectly fixed (as seen in TEST 13) :
+
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7be10831-07db-4f51-8a5c-0ed22d632a81)
+
+
 - **TEST no. 1**
   
 
@@ -1194,6 +1200,10 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/67e5e7cb-6735-4610
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8b1af01-4590-488c-a006-8d1172a50677
 
+- **TEST no. 13**
+
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/2b209bc0-617e-4c6d-b9be-5b8dc561260a
 
 
 ## MANUAL TESTING
