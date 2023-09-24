@@ -1110,7 +1110,7 @@ The following testing has been successful with code validation.
    
 
 ### TESTING TARGETS TABLE
-Following all the above information, compatibility and responsive testing has been done on the 3 most common *browser versions*, *OS*, and *screen resolution* combinations, by using [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension, which has been downloaded. 
+Following all the above information, compatibility and responsive testing has been done on the most common *browser versions*, *OS*, and *screen resolution* combinations, by using [Browser Stack](https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb) Chrome extension, which has been downloaded, the *Chrome Dev tool's emulator*, and real devices owned by me. 
 
 Please find the correspondent **compatibility and responsive testing** reflected in the following table:
 
@@ -1119,7 +1119,7 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 1       | Chrome Dev emulator| Samsung S20          | Chrome 117         |Windows 10       |360 x 800                     | 
 | 2       | BrowserStack       | Samsung S22          | Chrome             |Android 12.0     |360 x 780                     |
 | 3       | BrowserStack       | Samsung S22          | Edge               |
-| 4       | BrowserStack       | iPhone 12 Mini       | Safari             | iOS 14.2        | 360 x 780                    |
+| 4       | BrowserStack       | iPhone 14 Pro        | Safari             | iOS 16.0        |393 x 852                     |
 | 5       | Real Laptop Device |PC Notebook HP -15-bs013ns| Chrome 117     |Windows 10 -64bit|1376 x 768                    |
 | 6       | BrowserStack       |Asus ZenBook UX305    | Edge               |Windows 11       |1920 x 1080                   |
 | 7       | BrowserStack       |Asus ZenBook UX305    | Firefox 117        |Windows 11       |1920 x 1080                   |
@@ -1144,9 +1144,15 @@ Please find the correspondent **compatibility and responsive testing** reflected
 
 
 - **TEST no. 4**
-    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack v.15.0, does not reflect this latter update
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack v.16.3, does not reflect this latter update, s can be seen on the following video recording:
+      ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7d1c3c75-e619-4df2-b138-f40e63a6033d)
+
 
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fbf33e0c-7156-4dc6-abb4-b6fb2eb20f4f)
+
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/70348e72-92cd-4d94-a46e-11800145bdf3
 
 
 - **TEST no. 5**
