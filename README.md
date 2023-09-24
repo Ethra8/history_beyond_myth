@@ -692,7 +692,10 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/fc31ebfe-5c82-477a
 
     * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:  
 
-  https://github.com/Ethra8/history_beyond_myth/assets/80659091/6e453f64-d00e-4617-b253-3ef382df8ae4
+  
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/88337735-c8e8-43c9-be26-5cc18776d0ad
+
 
 
 #### FOOTER ICONS - HOVER  
