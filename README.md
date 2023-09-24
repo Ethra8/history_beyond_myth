@@ -181,6 +181,8 @@ EDNA TORRES MUNILL
 - [CREDITS](#credits)
 
     * [Content](#content)
+        * [Arthur I Page](#arthur-i-page---content)
+        * [Avalon Page](#avalon-page---content)
 
     * [Media](#media)
         + [Home Page](#home-page---media)
@@ -1398,9 +1400,40 @@ In case you wish to use the code, it will be a pleasure, but **please fork the r
 
 ### ARTHUR I - CREDITS
 
-- 
+- **SECTION 1: Heir to King Richard I "the Lionheart"**  
+    * [***Arthur I, Duke of Brittany***](https://www.britannica.com/biography/Arthur-I), from [Encyclopaedia Britannica](https://www.britannica.com/)
+
+- **SECTION 2: Retained by the King of France**  
+    * [***Arthur I, Duke of Brittany***](https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany#:~:text=In%201196%2C%20Constance%20had%20the%20young%20Arthur%20proclaimed%20Duke%20of%20Brittany%20and%20her%20co%2Druler%20as%20a%20child%20of%20nine%20years.), from [Wikipedia](https://en.wikipedia.org/)
+    * [***Brittany and the Angevins, Province and Empire 1158–1203***](https://www.cambridge.org/core/books/brittany-and-the-angevins/05F5F8917259C466846139DC7BC03E50) from **J.A. Everard**, Cambridge *Fitzwilliam College*, published by [Cambridge University Press](https://www.cambridge.org/)
+    * [***Arthur I, Duke of Brittany***](https://www.britannica.com/biography/Arthur-I), from [Encyclopaedia Britannica](https://www.britannica.com/)
+    * [***Palais de la Cité***](https://en.wikipedia.org/wiki/Palais_de_la_Cit%C3%A9#:~:text=located%20on%20the%20%C3%8Ele%20de%20la%20Cit%C3%A9%20in%20the%20Seine%20River%20in%20the%20centre%20of%20Paris%2C%20is%20a%20major%20historic%20building%20that%20was%20the%20residence%20of%20the%20Kings%20of%20France%20from%20the%20sixth%20century%20until%20the%2014th%20century%2C%20and%20has%20been%20the%20center%20of%20the%20French%20justice%20system%20ever%20since), at [Wikipedia](https://en.wikipedia.org/)
+
+- **SECTION 3: Death of King Richard I**
+    * [***Richard I of England***](https://en.wikipedia.org/wiki/Richard_I_of_England#:~:text=He%20also%20ruled%20as%20Duke%20of%20Normandy%2C%20Aquitaine%20and%20Gascony%3B%20Lord%20of%20Cyprus%3B%20Count%20of%20Poitiers%2C%20Anjou%2C%20Maine%2C%20and%20Nantes%3B) at [Wikipedia](https://en.wikipedia.org/)
+    * [***The Plantagenets: The Warrior Kings and Queens Who Made England***](https://en.wikipedia.org/wiki/Richard_I_of_England#:~:text=His%20French%20territories%2C%20with%20the%20exception%20of%20Rouen%2C%20initially%20rejected%20John%20as%20a%20successor%2C%20preferring%20his%20nephew%20Arthur.) by author **Dan Jones** (2014). Penguin Books. ISBN 978-0-1431-2492-4.
+
+- **SECTION 4: Two Kings, One Throne**
+    * [***Arthur I, Duke of Brittany***]([https://www.britannica.com/biography/Arthur-I](https://www.britannica.com/biography/Arthur-I#:~:text=Philip%2C%20however%2C%20recognized%20Arthur%E2%80%99s%20right%20to%20Brittany%2C%20Anjou%2C%20Aquitaine%2C%20and%20Maine)), at [Encyclopaedia Britannica](https://www.britannica.com/)
+    * [***The Real King Arthur? - The Plantagenet King that Never Reigned***](https://www.historyhit.com/the-real-king-arthur-the-plantagenet-king-who-never-reigned/#:~:text=He%20then%20used%20this%20as%20an%20excuse%20to%20take%20control%20of%20the%20towns%20and%20fortifications%20in%20those%20areas%20while%20keeping%20Arthur%20in%20Paris.%20Meanwhile%2C%20Constance%20was%20indefatigable%20as%20she%20worked%20on%20her%20son%E2%80%99s%20behalf%2C%20negotiating%20with%20barons%20and%20offering%20lands%20and%20patronage%20in%20return%20for%20their%20continuing%20support.), article from [HIstory Hit](https://www.historyhit.com/), referrenced in [Lost Heirs of the Medieval Crown](https://www.pen-and-sword.co.uk/Lost-Heirs-of-the-Medieval-Crown-Hardback/p/16791), by author **J F Andrews** (2019), Pen & Sword History. ISBN 9781526736512
+
 
 ### AVALON - CREDITS
+- **SECTION 1: England's Kings Were French**
+    * [***John, King of England***](https://www.britannica.com/biography/John-king-of-England/Quarrel-with-the-church#:~:text=He%20was%20the%20first%20king%20of%20England%20since%20the%20Norman%20Conquest%20who%20could%20speak%20English) at [Encyclopaedia Britannica](https://www.britannica.com/)
+
+- **SECTION 2: The Value of Abalones**
+    * [***Ormers***](https://www.collinsdictionary.com/dictionary/english/ormer), a type of abalones, at [Collins Dictionary](https://www.collinsdictionary.com/)
+    * [***Investigative Conservation of Anglo-Saxon finds from Bloodmoore Hill, Carlton Colville, Suffolk](https://historicengland.org.uk/research/results/reports/5446/InvestigativeConservationofAnglo-SaxonFindsfromBloodmoorHillCarltonColvilleSuffolk) p.10, lines 13-14 - at [Historic England](https://historicengland.org.uk/)
+    * [***Our Ormers, the Truffles of the Sea***](https://www.abalonebretagne.com/english/our-ormers-the-truffles-of-the-sea/) at [France Haliotis](https://www.abalonebretagne.com/), Abalone Bretagne.
+    * [***Guernsey Abalone Shellfish***](https://www.tasteatlas.com/guernsey-ormers#:~:text=Considered%20a%20quintessential%20delicacy%20in%20the%20Channel%20Island%20of%20Guernsey%2C%20Guernsey%20ormers%20are%20a%20type%20of%20shellfish%2C%20a%20gastropod%20mollusk%20that%27s%20been%20traditionally%20collected%20on%20the%20island%20for%20centuries.%20This%20native%20shellfish%20(also%20known%20as%20European%20abalone)) at [Taste Atlas](https://www.tasteatlas.com/)
+
+- **SECTION 3: Medieval Jewelry**
+    * [***Frankrish brooch with mother-of-pearl***](https://www.metmuseum.org/art/collection/search/465810#:~:text=Gold%3B%20garnet%3B%20red%2C%20pale%2C%20amber%20and%20blue%20glass%3B%20mother%2Dof%2Dpearl) made of gold, dated mid-600, from [the Met Museum - Art Collection](https://www.metmuseum.org/art/collection)
+
+- **SECTION 4: Abalones, the Sea Truffles**
+    * [***In search of Britain’s forgotten seafood delicacy***](https://www.deliciousmagazine.co.uk/in-search-of-britains-forgotten-seafood-delicacy/#:~:text=Collecting%20ormers%20is%20a%20wintertime%20tradition%20in%20Guernsey) *Collecting ormers is a wintertime tradition in Guernsey*, at [Delicious Magazine](https://www.deliciousmagazine.co.uk/)
+    * [***L'ormeau, la truffe des mers***](https://www.passionsante.be/article/alimentation/lormeau-la-truffe-des-mers-26126#:~:text=en%20Bretagne%20et%20en%20Normandie.%20L%27esp%C3%A8ce%20europ%C3%A9enne%20la%20plus%20connue%20est%20l%27Haliatis%20tuberculata) *abalone, the sea truffle*, at [Passion Santé](https://www.passionsante.be/)
 
 
 ## MEDIA
