@@ -1477,7 +1477,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
   + [Coolors](https://coolors.co) - To insert colors selected previously directly through visual studio code, but used this tool to display the palette beautifully, and insert it in this readme file.
   + [Amiresponsive](https://ui.dev/amiresponsive) - To display the site in all types of devices simultaneously.
   + **Paint** - For resizing imgs and improve the site performance on load
-  + [Convertio](https://convertio.co/) - To cenvert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
+  + [Convertio](https://convertio.co/) - To convert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
   + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for a optimal accessibility.
   + **Chrome Vox Reader** - Used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
   + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
