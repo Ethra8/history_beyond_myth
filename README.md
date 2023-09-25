@@ -97,6 +97,8 @@ EDNA TORRES MUNILL
             - [Footer Icons Animation](#footer-icons-animation)
 
     * [Site Structure](#site-structure)
+        + [Navigation Bar - Structure](#navigation-bar---structure)
+        + [Footer - Structure](#footer---structure)
         + [Home Page - Structure](#home-page---structure)
         + [Arthur I Page - Structure](#arthur-i-page---structure)
         + [Avalon Page - Structure](#avalon-page---structure)
@@ -798,11 +800,18 @@ A ***zoom in*** animation has been implemented on hover to the media icons of th
 ## SITE STRUCTURE
 The site contains 4 pages navigable pages, and a 404 error page, each of the pages including the following:  
 
-- **NAVIGATION BAR**: Contains the logo, and links to all the site's pages, including the 'about' section of the home page. It's ***fully responsive***, as its links to the other pages are uncollapsed in tablets and desktops, but collapsed in phones, when users still can see the ***logo*** placed on the left, and a ***bars icon*** placed on the right, which they can click to uncollapse the content. It is fixed to the top of each page (also in the *404* error page), to allow the user for an easy navigation through the site even when scrolling down.
+### NAVIGATION BAR - STRUCTURE
+- Contains the ***logo*** on the left, and the ***links to all the site's pages*** and the ***'about'*** section, aligned to the right.
+- It's ***fully responsive***, as its links to the other pages are *uncollapsed in tablets and desktops*, but *collapsed in phones*, where users still can see the *logo** placed on the left, and a *bars icon* placed on the right, which they can click to uncollapse the content.
+- It is ***fixed to the top of each page*** (also in the *404* error page), to allow the user for an easy navigation through the site even when scrolling down.
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8ec55b4-4761-4d2f-bcc7-3fcea5650f7a
 
-- **FOOTER**: Placed at the bottom of every page, it contains icons that link to the site's social media profiles (*Instagram*, *Twitter*, and *Facebook), which open on a different tab when clicked, for an improved user experience. It also includes an *envelope* icon which enables the user to send an email to the site administrator directly by clicking on it.
+### FOOTER - STRUCTURE
+- Placed at the bottom of every page, it allows for *user interaction*.
+- Contains the written email of the site's administration, which the user can ***interact*** with, by clicking and directly opening the email app to seamlessly send an email.
+- Contains icons that link to the site's ***social media profiles*** (*Instagram*, *Twitter*, and *Facebook*), which open on a different tab when clicked, for an improved user experience.
+- It also includes an *envelope* icon which enables the user to ***send an email to the site administration*** directly by clicking on it.
 
 ### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html) - STRUCTURE
 Acting as the ***landing page***, it has the following structure:
