@@ -80,6 +80,8 @@ EDNA TORRES MUNILL
             1. [404 Page - Background Image](#404-page---background-image)
 
     * [Animations and Transitions](#animations-and-transitions)
+        + [Focus](#focus)
+            - [Sign-up Form - Focus](#sign-up-form---focus)
         + [Hover](#hover)
             - [Navigation Bar - Hover](#navigation-bar---hover)
             - [Home Page Description - Hover](#home-page-description---hover)
@@ -640,13 +642,19 @@ The image remains the same in all screen sizes, and repeats itself both through 
   ![image](https://englishgrows.com/history_beyond_myth/assets/images/404_thinker_codex_manesse.avif)
 
 
-
-
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2-b946-a761c3b7663f
 
 
 
 ## ANIMATIONS AND TRANSITIONS   
+
+### FOCUS
+
+#### SIGN-UP FORM - FOCUS
+The *text*, *email* and *textarea* inputs on the form change their background color from *whitesmoke* to a light grey *#D6D6D6* when the focus is on them. The text input correspondent to the First name has an autofocus attribute as well, so that when the page is loaded, the user can directly type in:
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/b10fc3eb-d6eb-490c-9df8-2ce81fa559b7
+
 
 ### HOVER  
 
