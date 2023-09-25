@@ -215,7 +215,7 @@
      color: #B30502;
  }
 
- nav .avalon {
+ nav .about {
      margin-right: 60px;
  }
 
@@ -1567,7 +1567,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
      }
 
      #menuToggle:checked~ul.nav-item {
-         height: 200px;
+         height: fit-content;
      }
 
      .menu {
@@ -1594,10 +1594,11 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          align-content: center;
          margin-left: 1.2rem;
          margin-bottom: 15px;
+         padding-top: 10px;
      }
 
      /***Adapted code by me*/
-     nav .avalon {
+     nav .about {
          margin: 0;
      }
 
@@ -1644,7 +1645,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
  @media only screen and (min-width: 577px) and (max-width: 767px) {
 
      nav a,
-     nav a .avalon {
+     nav a .about {
          margin: 0 0 0 20px;
      }
 
@@ -1858,7 +1859,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
 
      /*** NAVBAR ***/
      nav a,
-     nav a .avalon {
+     nav a .about {
          margin: 0 0 0 20px;
      }
 
