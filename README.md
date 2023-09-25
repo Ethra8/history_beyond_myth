@@ -112,6 +112,7 @@ EDNA TORRES MUNILL
 - [FEATURES](#features)
 
     * [Implemented Features](#implemented-features)
+        + [Responsiveness](#responsiveness)
         + [Navigation Bar Features](#navigation-bar-features)
         + [Header Features](#header-features)
         + [Footer Features](#footer-features)
@@ -921,7 +922,12 @@ Provides the user with an error page that follows the same line of design as the
 
 
 # FEATURES
+
 ## IMPLEMENTED FEATURES
+
+### RESPONSIVENESS
+This site is fully responsive on all device sizes.
+
 ### NAVIGATION BAR FEATURES
 - It is **featured on all pages**, including the error page, allowing easy navigation through all the site, preventing the user to having to use the 'back' button on the browser to revert back to previous pages.
 - It **includes links** to all pages (*Home Page*, *Arthur*, *Avalon*, *Sign-up*). The  *Logo* links to the *Home Page*, as some users will prefer to click on it, instead of clicking on the corresponding link.
