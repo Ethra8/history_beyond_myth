@@ -1664,8 +1664,8 @@ You can download the code to your computer, making a copy of the code at the exa
 ## ACKNOWLEDGEMENTS
 
 - **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by [this coding explanation and example](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
-- [W3C](): I have their documentation when wanting to implement new features or animations.
-- [Mozilla Developer](): I have chacked theri documentation to clear some doubts along the way.
+- [W3Schools](https://www.w3schools.com/): Their documentation has been very useful when wanting to implement new features or animations.
+- [Mozilla Web Docs](https://developer.mozilla.org/en-US/): Their documentation has been checked to clear some doubts along the way.
 
 
 
