@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1039498c-4536-46c8-b5c9-de5ebde786ca)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/505f9457-30ba-4347-82e8-cdcf2ef25fa2)
+
 
 
 - History Beyond Myth is a website that aims at providing the reader with curious coincidences between academically recognised historical facts and some of the aspects of a well-known myth, such as the Arthurian cycle. The historical investigation exposed in this site has been going on for many years, and will continue to go on, updating whatever new coincidences are found on this matter.
@@ -243,16 +244,21 @@ You will find in the points stated below a brief study aiming at providing the u
 # UI
 
 ### UI - FIXED NAVIGATION  BAR
-- The user is able to interact with the fixed navigation bar, even when scrolling through pages, and navigate throughout all the site's pages easily, as it is fixed on the top of all pages, including the *404* error page.
+- The user is able to interact with the ***responsive*** navigation bar, fixed to the top of every page, icluding the *404* error page. So, even when scrolling down, the user can navigate throughout all the site's pages easily. The navigation bar also includes the 'about' section from the home page.
 
 ### UI - FOOTER
-- Included at the bottom of each page, including the *404* error page, it allows the user to interact and instantly, and seemlessly, send an email to the administration of the site, as well as visit (or follow) the social media profiles of the site.
+- Included at the bottom of each page, and also included in the *404* error page, it allows the user to interact, and visit (or follow) the social media profiles of the site by clicking on the correspondent social media icon. The user can also instantly and seemlessly send an email to the administration of the site, by clicking on the envelope icon, or on the written email.
 
 ### UI - HOME PAGE
-- Includes a site description section, with *reasons to sign-up* that allow the user to interact with a button-like link that redirects the user to the sign-up page.
+- Includes a ***site description section***, which contains 3 subsections (*About section*, *Keeping it Real*, and *Reasons to sign-up*).
+    * ***Subsection: Reasons to sign-up*** allows the user to ***interact with a button-like link**** that redirects the user to the ***sign-up page***.
 
 ### UI - CONTENT PAGES
-- Content pages **Arthur I** and **Avalon** include ***tooltips*** linked to the source used for every information included in the text on every section, to allow for user interaction to check the sources, which open in a new tabs. **Links** to the images source are also included, so that the user can interact by directly clicking on each image, and checking the original source, which will open in a new tab.
+- Content pages **Arthur I** and **Avalon** include:
+    1. ***Tooltips*** on every section that become visible on hover, containing references of the content, and are linked to the source of every information included. These allow for user interaction, being able to check the sources, which open in a new tab.
+    2. ***Images linked*** to their source, so that the user can interact by clicking on each image, and checking its original source, which will open in a new tab.
+    3. ***Accordions*** on each image caption allow for user interaction, unfolding on click, to provide detailed information on each image added up to the summary, visible when the accordion is folded.
+    4. ***Button-like link*** fixed at the bottom-left of *Arthur I* page allows for user interaction to check the original source of the digitalized manuscript placed as a fixed background image.
 
 ### UI - SIGN-UP FORM
 - Included in the **sign-up page**, the sign-up form allows the user to interact, and send the sign-up form, which also allows to include a file stored in the user's device, which the user can easily browse and include.
@@ -376,7 +382,7 @@ I have created the color palette myself, and the [Coolor.co](https://coolors.co/
 
   *Use of **Metamorphous** in capital letters, which gives a very readable medieval style to the site.
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/bd336a72-a4d7-471c-b3bd-60cfa170a935)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f4b750c4-53de-4fd0-9750-2337c45ee786)
 
 
 - **SECTION HEADINGS** (h2):
@@ -434,7 +440,8 @@ All images in this section are related to the Arthurian mythos, and taken from d
 
 
 
-![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/14d1c86e-e61d-44eb-9dee-c8f378a15ebf)
+![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/48a76a34-f80d-4ad7-9fe2-b546108a4365)
+
 
 
 
@@ -791,29 +798,30 @@ A ***zoom in*** animation has been implemented on hover to the media icons of th
 ## SITE STRUCTURE
 The site contains 4 pages navigable pages, and a 404 error page, each of the pages including the following:  
 
-- **NAVIGATION BAR**: Fixed on the top to allow the user for an easy navigation through the pages, even when scrolling down.
-- **FOOTER**: At the bottom of every page, contains icons that link to the site's main social media profiles, opening on a different tab when clicked, for an improved user experience. The *envelope* icon enables the user to send an email to the site administrator directly by clicking on it.
+- **NAVIGATION BAR**: Contains the logo, and links to all the site's pages, including the 'about' section of the home page. It's ***fully responsive***, as its links to the other pages are uncollapsed in tablets and desktops, but collapsed in phones, when users still can see the ***logo*** placed on the left, and a ***bars icon*** placed on the right, which they can click to uncollapse the content. It is fixed to the top of each page (also in the *404* error page), to allow the user for an easy navigation through the site even when scrolling down.
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/e8ec55b4-4761-4d2f-bcc7-3fcea5650f7a
+
+- **FOOTER**: Placed at the bottom of every page, it contains icons that link to the site's social media profiles (*Instagram*, *Twitter*, and *Facebook), which open on a different tab when clicked, for an improved user experience. It also includes an *envelope* icon which enables the user to send an email to the site administrator directly by clicking on it.
 
 ### [HOME PAGE](https://englishgrows.com/history_beyond_myth/index.html) - STRUCTURE
-Acting as the *landing page*, it has the following structure:
+Acting as the ***landing page***, it has the following structure:
   1. **NAVIGATION BAR**
   2. **HEADER**: Containing the title of the site.
   3. **ROW OF IMAGES**: Placed Underneath the header, all taken from medieval manuscripts, and related to the site's investigation and theories on the Arthur mythos.
   4. **SITE SDESCRIPTION**: Contains *3 sections*:
       1. **ABOUT US** - Site dedicated to state curious coincidences between academically recognised historical facts, and the Arthurian cycle, found during years of investigations.
-
       2. **KEEPING IT REAL** - Highlights the fact that the site administrators in no case expose these findings as an ultimate truth behind the myth, but only as they are, just some curious coincidences.
-
       3. **REASONS TO SIGN UP** - Numbers 4 different reasons a user might find interesting to sign up. This section includes a button-like anchor tag on the bottom that links to the *sign-up page*. The 4 reasons given relate to the target audience, the user profiles and profiles, and are the following:
           1. Receive a *monthly newsletter*.
           2. Become part of our vibrant community, and attend *cultural and social events* around Europe, such as expositions, lectures, and conferences.
           3. *Share users' new findings* with the site administration.
           4. Attend *organized visits* to emblematic sights related to the curious coincidences found between history and myth.
-  
   5. **FOOTER**
 
 ### [ARTHUR I PAGE](https://englishgrows.com/history_beyond_myth/arthur_I.html) - STRUCTURE
-States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Arthur I Duke of Brittany his heir, when this latter was only 3 years old. Duke Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'* after he captured and supposedly murdered Arthur aged 16, as he had been supported by most of the continental territories' nobility who had formerly been ruled by Richard, and didn't support John's claim. These facts are ordered in the following sections, each containing a caption at the bottom of the section, from medieval manuscripts related to the investigation which are all referenced through tiptools that display when the user hovers through the numbers in superior position placed whithin the text:
+States the curious coincidences found between the legendary King Arthur, and the nephew of the childless King Richard "the Lionheart", who had formally named Arthur I Duke of Brittany his heir, when this latter was only 3 years old. Duke Arthur also had a tragic and fatal ending when he fought against the man who was to become *King John 'Lackland'*, when this latter captured and supposedly murdered Arthur aged 16. Arthur had been supported by most of the continental territories' nobles who had formerly been ruled by Richard, and didn't support John's claim.  
+These facts are ordered in the following ***sections***, each section containing a ***caption*** placed at the bottom related to its content. All captions are taken from ***medieval manuscripts related to the investigation***, and ***referenced*** through ***tiptools*** that display when the user hovers through the numbers placed in a superior position whithin the text:
 
 1. **NAVIGATION BAR**
 2. **HEADER**
