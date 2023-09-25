@@ -1441,8 +1441,8 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
 
 ## LANGUAGES
 - To code this project the following languages have been used:
-  + HTML
-  + CSS
+  + [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  + [CSS3](https://en.wikipedia.org/wiki/CSS#CSS_3)
  
 ## FRAMEWORKS, LIBRARIES AND PROGRAMS USED
 - The following have been used:
