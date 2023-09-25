@@ -976,7 +976,7 @@ Provides the user with an error page that follows the same line of design as the
 ### HOME PAGE - WIREFRAMES
 #### HOME PAGE - MOBILE AND TABLET PORTRAIT
 
-![Home Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fb063733-355c-49b3-9ccc-b56e94786242)
+![Home Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac94e2c1-15c6-4de8-81dc-3836919ec8b3)
 
 #### HOME PAGE - DESKTOP AND TABLET LANDSCAPE
 
