@@ -656,9 +656,11 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
 
-- ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into *whitesmoke* *#F3F1F1*:  
+- ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into the same color as the icon *#8F0303*, its font color to *whitesmoke*:  
 
-   https://github.com/Ethra8/history_beyond_myth/assets/80659091/da7d550e-c2bc-408f-a189-75b24bd9f74c
+    https://github.com/Ethra8/history_beyond_myth/assets/80659091/16dc8f7f-e2dc-4778-9b4e-ffe030a0b93d
+
+
 
 - ***Collapsed Navigation Bar: Bars Icon***: On **phones** and **portrait tablets** (max. width of 768px), when the responsive navigation is collapsed, the icon bar that triggers the navigation bar to uncollapse when clicked, changes color from #D6D6D6 to #B30502, and its parent container, which is transparent with a border in #D6D6D6, changes the color of its border to *whitesmoke* on hover:
 
