@@ -1478,14 +1478,14 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
   + [Amiresponsive](https://ui.dev/amiresponsive) - To display the site in all types of devices simultaneously.
   + **Paint** - For resizing imgs and improve the site performance on load
   + [Convertio](https://convertio.co/) - To convert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
-  + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for a optimal accessibility.
-  + **Chrome Vox Reader** - Used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
-  + [Browser Stack](https://browserstack.com) - Used for Compatibility ans Responsiveness testing purposes.
-  + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used to check which browsers are most widely used, to select those for testing purposes.
+  + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for optimal accessibility.
+  + **Chrome Vox Reader** - This Chrome extension has been downloaded and used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
+  + [Browser Stack](https://browserstack.com) - Used for compatibility ans responsiveness testing purposes.
+  + [Stat Counter](https://gs.statcounter.com/browser-market-share/all/europe) - Used for a meaningful selection of targets for *compatibility and responsive* testing purposes. Checked which *browsers, browser versions, devices, viewports, and OS* are most widely used worldwide.
   + [Yesviz](https://yesviz.com/) - To check real device viewport when testing compatitivity & responsiveness.
-  + [ScreenSiz](https://screensiz.es/) - To find devices to test depending on their screen size.
-  + [Blisk](https://blisk.io/) - Used for Compatibility ans Responsiveness testing purposes.
-  + [XRecorder](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder&hl=es_419&gl=US&pli=1) - Downloaded the mobile app, used for screen recording, for compatibility and responsive testing.
+  + [ScreenSiz](https://screensiz.es/) - To find devices to test depending on their viewport.
+  + [Blisk](https://blisk.io/) - Used for *compatibility ans responsiveness testing* purposes.
+  + [XRecorder](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder&hl=es_419&gl=US&pli=1) - Downloaded the mobile app on my personal mobile device, to record navigation throughout the site, for *compatibility and responsive testing* purposes.
 
 
 # DEPLOYMENT
