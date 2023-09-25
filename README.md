@@ -98,7 +98,16 @@ EDNA TORRES MUNILL
             - [Navigation Bar Animation](#navigation-bar-animation)
             - [Footer Icons Animation](#footer-icons-animation)
 
-    * [Site Structure](#site-structure)
+    * [Design Elements](#design-elements)
+        + [Audio](#audio)
+        + [Video](#video)
+        + [Icons](#icons)
+        + [Interactive Map](#interactive-map)
+        + [Form](#form)
+
+- [STRUCTURE](#structure)
+    
+    * [Structure of Pages]
         + [Navigation Bar - Structure](#navigation-bar---structure)
         + [Footer - Structure](#footer---structure)
         + [Home Page - Structure](#home-page---structure)
@@ -106,14 +115,21 @@ EDNA TORRES MUNILL
         + [Avalon Page - Structure](#avalon-page---structure)
         + [Sign-up Page - Structure](#sign-up-page---structure)
         + [404 Page - Structure](#404-page---structure)
-
-    * [Design Elements](#design-elements)
-        + [Audio](#audio)
-        + [Video](#video)
-        + [Icons](#icons)
-        + [Interactive Map](#interactive-map)
-        + [Form](#form)
    
+    * [Wireframes](#wireframes)
+        + [Home Page](#home-page---wireframes)
+            - [Mobile and Tablet Portrait](#home-page---mobile-and-tablet-portrait)
+            - [Desktop and Tablet Landscape](#home-page---desktop-and-tblet-landscape)
+        + [Arthur I Page](#arthur-i-page---wireframes)
+            - [Mobile and Tablet Portrait](#arthur-i-page---mobile-and-tablet-portrait)
+            - [Desktop and Tablet Landscape](#arthur-i-page---desktop-and-tblet-landscape)
+        + [Avalon Page](#avalon-page---wireframes)
+            - [Mobile and Tablet Portrait](#avalon-page---mobile-and-tablet-portrait)
+            - [Desktop and Tablet Landscape](#avalon-page---desktop-and-tblet-landscape)
+        + [Sign-up Page](#sign-up-page---wireframes)
+            - [Mobile and Tablet Portrait](#sign-up-page---mobile-and-tablet-portrait)
+            - [Desktop and Tablet Landscape](#sign-up-page---desktop-and-tblet-landscape)
+
 - [FEATURES](#features)
 
     * [Implemented Features](#implemented-features)
@@ -811,8 +827,58 @@ Two animations have been implemented on the media icons of the footer:
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/463def0a-4fa1-4f5a-8aac-832de6f371bf
 
 
-## SITE STRUCTURE
+## DESIGN ELEMENTS
+
+### AUDIO
+
+- **AVALON PAGE**:
+    * **SECTION 1: FRENCH PRONUNCIATION OF ABALONE**  
+    Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8f72db7-c4a0-452f-84b5-86f8ad9923cf)
+
+
+### VIDEO 
+
+- **AVALON PAGE**: there are two *Youtube* videos embedded:
+    
+    1. **SECTION 2: ENGLAND'S KINGS WERE FRENCH**  
+    [***"Ja Nuns Hons Pris"***: Song written by King Richard "The Lionheart" in old French dialect](https://www.youtube.com/watch?v=-1BG1UEACHs), provides the user with an entertaining evidence of the predominance of French language whithin the Plantagenet dynasty ruling England during the 12th-13th centuries. It also aims to link to the supposition that *abalone* might be the etymology of *Avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, as the European reference place where they naturally grew.
+    
+    2. **SECTION 5: ABALONES, THE SEA TRUFFLES**  
+    [***Two Michellin starred chef preparing and cooking abalones***](https://youtu.be/o5VPONMX19Q) evidences that abalones are still very much valued as a luxury product nowadays, considered the *sea truffles* by the French.
+
+### ICONS 
+
+- **FOOTER**: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/acdf235f-e61d-4b3d-bf91-3099465f983e)
+
+
+### INTERACTIVE MAP
+
+- **AVALON PAGE**: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embedded showing the exact location of the Isle of Guernsey.
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c4fc659-b653-4175-a5cf-c57b7e26382c)
+
+
+### FORM
+
+- **SIGN-UP FORM**: The form is placed in the sing-up page, and includes the following ***inputs***:
+    * ***2 Inputs type=text required*** - The user must include First name, and Last Name to be able to send the form.
+    * ***Input type=email required*** - The user must include an email to be able to send the form.
+    * ***Input type=radio required*** - The user must select 1 of 3 options, on whether he/she likes sight seeing. This field is requested, to help the site administrators decide on the frequency to organize seight seeing visits to emblematic places related to the investigation.
+    * ***Input type=file optional*** - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
+    * ***Textarea optional*** - The user can include a message, if he/she wants to share some thoughts.
+
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b6e84e5-c6cb-4451-bb22-9bdaf2e100f9)
+
+
+
+# STRUCTURE
 The site contains 4 navigable pages, and a 404 error page, each of the pages including the following:  
+
+## STRUCTURE OF PAGES
 
 ### NAVIGATION BAR - STRUCTURE
 - Contains the ***logo*** on the left, and the ***links to all the site's pages*** and the ***'about'*** section, aligned to the right.
@@ -856,7 +922,7 @@ These facts are ordered in the following ***sections***, each section containing
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/db025a4a-91da-4c96-8c1d-7e96bcbaeb8b)
 
-### [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html) - STRUCTURE
+##3 [AVALON PAGE](https://englishgrows.com/history_beyond_myth/avalon.html) - STRUCTURE
 States the curious coincidences found between the legendary Island of Avalon, and the Island of Guernsey, which was highly valued for having the best *European Abalones*, and for its strategic location. Could the *Island of Avalon* be a derivation from *Isle of Abalones*, considering the French pronunciation of the word?.  
 This page is divided into sections, each containing a picture, a video, or an interactive map on the left, and some related text on the right. The ***sections are responsive***, and change their layout on smaller devices as tablets or phones, where the text goes on the top, and the image, map or video related to the bottom of its section. The sections are the following:
 
@@ -905,51 +971,8 @@ Provides the user with an error page that follows the same line of design as the
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
 
-## DESIGN ELEMENTS
-
-### AUDIO
-
-- **AVALON PAGE**:
-    * **SECTION 1: FRENCH PRONUNCIATION OF ABALONE**  
-    Audio tag with controls allows the user to listen to the French Pronunciation of the word *abalone*. The source of the audio file is the French [Laurousse Dictionary](https://voix.larousse.fr/francais/322395fra2.mp3)
-
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c8f72db7-c4a0-452f-84b5-86f8ad9923cf)
 
 
-### VIDEO 
-
-- **AVALON PAGE**: there are two *Youtube* videos embedded:
-    
-    1. **SECTION 2: ENGLAND'S KINGS WERE FRENCH**  
-    [***"Ja Nuns Hons Pris"***: Song written by King Richard "The Lionheart" in old French dialect](https://www.youtube.com/watch?v=-1BG1UEACHs), provides the user with an entertaining evidence of the predominance of French language whithin the Plantagenet dynasty ruling England during the 12th-13th centuries. It also aims to link to the supposition that *abalone* might be the etymology of *Avalon*, as Guernsey might as well have been commonly nicknamed as the *Isle of Abalones*, being famous for them, as the European reference place where they naturally grew.
-    
-    2. **SECTION 5: ABALONES, THE SEA TRUFFLES**  
-    [***Two Michellin starred chef preparing and cooking abalones***](https://youtu.be/o5VPONMX19Q) evidences that abalones are still very much valued as a luxury product nowadays, considered the *sea truffles* by the French.
-
-### ICONS 
-
-- **FOOTER**: Fixed at the bottom of each page, it contains 4 icons. 3 are from social media (Instagram, Twitter, Facebook), and the 4th is an *envelope* icon from which the user can seamlessly send an email to the administrators of the site.   
-
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/acdf235f-e61d-4b3d-bf91-3099465f983e)
-
-
-### INTERACTIVE MAP
-
-- **AVALON PAGE**: Included in the *Strategic Location* section, there is an interactive **Google Maps** map embedded showing the exact location of the Isle of Guernsey.
-
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c4fc659-b653-4175-a5cf-c57b7e26382c)
-
-
-### FORM
-
-- **SIGN-UP FORM**: The form is placed in the sing-up page, and includes the following ***inputs***:
-    * ***2 Inputs type=text required*** - The user must include First name, and Last Name to be able to send the form.
-    * ***Input type=email required*** - The user must include an email to be able to send the form.
-    * ***Input type=radio required*** - The user must select 1 of 3 options, on whether he/she likes sight seeing. This field is requested, to help the site administrators decide on the frequency to organize seight seeing visits to emblematic places related to the investigation.
-    * ***Input type=file optional*** - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
-    * ***Textarea optional*** - The user can include a message, if he/she wants to share some thoughts.
-
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b6e84e5-c6cb-4451-bb22-9bdaf2e100f9)
 
 
 # FEATURES
