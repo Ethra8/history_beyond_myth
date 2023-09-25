@@ -656,7 +656,7 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/49ceaa56-d6d3-4567-8336-73ca22ccbd26
 
-- ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* into the same color as the icon *#8F0303*, its font color to *whitesmoke*:  
+- ***Sign-up link***: Styled as a button, when the user hovers through it, its background color turns from *#D6D6D6* to *#8F0303*, and its font color to *whitesmoke*, the same colors as the icon, and of the form itself:  
 
     https://github.com/Ethra8/history_beyond_myth/assets/80659091/16dc8f7f-e2dc-4778-9b4e-ffe030a0b93d
 
@@ -678,31 +678,22 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/79b25b66-5147-47a2
 
 - The content text of all sections include ***tooltips***, triggered by smaller numbers placed in a superior position, referencing the information given. When the user hovers on the said numbers, the font weight changes from normal to bold, and the tooltips display.
 
-
-
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/aa075010-1918-46af-b93c-1286d6647945
-
 
 
 - **ARTHUR I PAGE**
   Includes transparent containers shaped as circles with black double borders, and positioned as to circle the main charactersto whom the text relates, on the fixed genealogy image: *Arthur I of Brittany*, *King Richard the Lionheart*, and *John Lackland*. Once the user ***hovers on top of each, the transparent circle border goes from black to reddish color:
-
   
-
 https://github.com/Ethra8/history_beyond_myth/assets/80659091/fc31ebfe-5c82-477a-a584-89e98c70004b
-
 
 
 #### SIGN-UP FORM - HOVER  
 
 - ***Sign-up Form***
 
-    * **Button**: Styled the same as the *sign-up* link on the navigation bar for design purposes, its background color also turns from *#D6D6D6* into *whitesmoke* *#F3F1F1* when the user hovers through it, and as the *home page descriton link*, changes also from having a box-shadow to having no box-shadow, to give the optical illusion of perspective, feeling that the button has been pushed downwards on hover:  
+    * **Button**: On hover, its background color also turns from a dark-shadow grey *#2e2e2e* to a light grey *#D6D6D6*, and its font color from *whitesmoke* to *#2e2e2e*, and also from having a box-shadow to having no box-shadow, to give the optical illusion of *perspective and volume*, feeling that the button has phisically been pushed downwards on hover:  
 
-  
-
-https://github.com/Ethra8/history_beyond_myth/assets/80659091/88337735-c8e8-43c9-be26-5cc18776d0ad
-
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/c77114a7-2ea4-42a8-96a3-7fdc897234e6
 
 
 #### FOOTER ICONS - HOVER  
@@ -732,7 +723,11 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
          transition: all 0.5s linear;
   
-    https://github.com/Ethra8/history_beyond_myth/assets/80659091/b4ec4d88-1575-4366-9f86-a6aa49639b83
+    
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/ef7b02ba-fe9b-4097-8f18-2c61bc459937
+
+
 
 - **PHONES & PORTRAIT TABLETS - COLLAPSED NAVIGATION BAR** (max. 767px) - When the user click the bars icon which triggers the display of the navigation bar downwards, the following transitions have been implementes to improve visuals and user experience::
 
@@ -743,14 +738,14 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/663c7706-f190-4eaa-9e29-b0f9b8ca8dec
 
 
-   * To give a slight effect of fade to items in navbar when collapsing or displaying:
+  * To give a slight effect of fade to items in navbar when collapsing or displaying:
 
            transition: all 0.7s linear;
 
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/3b2e04c4-5f55-4acd-8f34-e75fb24629a3
 
 
-   * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
+  * On the toggle item (class=toggle), so that when page is loaded, the item appears less abruptly:
 
            transition: all 0.1s linear
 
@@ -765,6 +760,7 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
        transition: all 0.5s linear;
 
+
 #### HOME PAGE - TRANSITIONS
 
 - **SITE DESCRIPTION - SECTION 3: REASONS TO SIGN-UP**: When the user hovers the mouse through the button-like link to the *sign-up page*, the background color changes progressively, and the box-shadow also dissapears progressively, giving the visual illusion that the button-like element has been pushed down, giving a 3D impression:
@@ -773,9 +769,12 @@ Info email included in the footer changes font color from #F3F1F1 to #D6D6D6 whe
 
 #### SIGN-UP PAGE - TRANSITIONS
 
-- **SIGN-UP FORM - BUTTON**: When the user hovers through the button, the change of the background color and the disappearance of the box-shadow are progressive, giving the visual illusion of dimension, and that the button has been pressed down, provising a 3D impression of volume:
+- **SIGN-UP FORM - BUTTON**: When the user hovers through the button, the change of the background color, the font color, and the disappearance of the box-shadow are progressive, giving the visual illusion of dimension and volume, as if the button has been phpisically pressed down:
 
        transition: all 0.2s linear;
+
+
+https://github.com/Ethra8/history_beyond_myth/assets/80659091/212692ea-69ce-4ae3-80de-f3f4f14eb622
 
 
 ### ANIMATIONS
@@ -791,11 +790,17 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/537f072e-88af-4437
 
 
 #### FOOTER ICONS ANIMATION
-A ***zoom in*** animation has been implemented on hover to the media icons of the footer section:
+Two animations have been implemented on the media icons of the footer:
+1. ***Zoom in*** animation makes the icons bigger on hover:
 
-  https://github.com/Ethra8/history_beyond_myth/assets/80659091/400ce6d3-2f8a-48b7-ba4c-f209ea963b80
+     transform: scale(1.3);
 
-     transform: scale(1.1);
+2. ***Rotate*** animation makes the icons rotate 7 degrees to the right on hover:
+
+     rotate: 7deg;
+
+
+  https://github.com/Ethra8/history_beyond_myth/assets/80659091/463def0a-4fa1-4f5a-8aac-832de6f371bf
 
 
 ## SITE STRUCTURE
@@ -1659,6 +1664,8 @@ You can download the code to your computer, making a copy of the code at the exa
 ## ACKNOWLEDGEMENTS
 
 - **Collapsible Navigation Bar**: The code has been implemented, greatly inspired by [this coding explanation and example](https://codepen.io/maliahavlicek/details/LYeBwNY) by [Malia Havlicek](https://codepen.io/maliahavlicek/) through [Code Pen](https://codepen.io/)
+- [W3C](): I have their documentation when wanting to implement new features or animations.
+- [Mozilla Developer](): I have chacked theri documentation to clear some doubts along the way.
 
 
 
