@@ -797,7 +797,7 @@ A ***zoom in*** animation has been implemented on hover to the media icons of th
 
 
 ## SITE STRUCTURE
-The site contains 4 pages navigable pages, and a 404 error page, each of the pages including the following:  
+The site contains 4 navigable pages, and a 404 error page, each of the pages including the following:  
 
 ### NAVIGATION BAR - STRUCTURE
 - Contains the ***logo*** on the left, and the ***links to all the site's pages*** and the ***'about'*** section, aligned to the right.
