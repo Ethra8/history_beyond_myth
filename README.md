@@ -1539,11 +1539,12 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
   + [Favicon](https://favicon.io/) - To create the logo, and the icon on the title included in each page of this site
   + [Font Awesome](https://fontawesome.com/) - For the icons used
   + [Google Fonts](https://fonts.google.com/) - To select fonts and implement them in the site
-  + [Github](https://github.com) - To deploy the site online, and GIthub desktop app to link *Visual Studio Code* to Github.com
+  + [Github](https://github.com) - To deploy the site online, and Github desktop app to link *Visual Studio Code* to Github.com
   + [Coolors](https://coolors.co) - To insert colors selected previously directly through visual studio code, but used this tool to display the palette beautifully, and insert it in this readme file.
   + [Amiresponsive](https://ui.dev/amiresponsive) - To display the site in all types of devices simultaneously.
   + **Paint** - For resizing imgs and improve the site performance on load
   + [Convertio](https://convertio.co/) - To convert image files from PNG or JPG to lighter AVIF, and improve the site performance on load
+  + [Balsamiq](https://balsamiq.com/wireframes/desktop/#) - To created wireframes reflecting each page's structure, on all devices.
   + [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg/related?utm_source=chrome-ntp-icon) - Google Chrome extension to check general errors and contract errors for optimal accessibility.
   + **Chrome Vox Reader** - This Chrome extension has been downloaded and used for accessibility testing, and to be sure all users are able to use the site, regardless of their current situations.
   + [Browser Stack](https://browserstack.com) - Used for compatibility ans responsiveness testing purposes.
