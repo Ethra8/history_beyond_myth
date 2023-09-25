@@ -1448,7 +1448,6 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
 - The following have been used:
   + [Visual Studio Code](https://code.visualstudio.com/) - To begin coding the site from scratch. I already had VScode installed previously, due to a previous personal freelance project called englishgrows.com, and I think is a great tool for coding.
   + **Chrome Dev Tools** - To inspect the elements, and be able to spot what element was having an unexpected behaviour, and correct it more efficiently. Also have used ***Lighthouse*** reports to check and improve core web vitals, including accessibility issues.
-  + [Balsamiq](https://balsamiq.com/wireframes/) - To create wireframes
   + [Favicon](https://favicon.io/) - To create the logo, and the icon on the title included in each page of this site
   + [Font Awesome](https://fontawesome.com/) - For the icons used
   + [Google Fonts](https://fonts.google.com/) - To select fonts and implement them in the site
@@ -1509,8 +1508,28 @@ https://github.com/Ethra8/history_beyond_myth/assets/80659091/c805723d-1d12-40bd
        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/70549e6e-6ebb-4ee8-9412-85bbc267d050)
 
 ## FORKING THE REPOSITORY
-In case you wish to use the code, it will be a pleasure, but *please fork the repository, do not clone it*. Thank you!
+In case you wish to use the code, you can easily fork it. This will make a copy of this current repository at the precise time of the fork, and store it in your own Github account, in case you want to have it handy to review it or to make any changes you wish. This, without affecting the original repository. To do so:  
+1. Copy the link to this repository (browser url)
+2. Sign in to your Github account
+3. Above the repository options, click on the **Fork** button, on the top-right, just below Github navigation bar
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/429ddfc1-5c3b-48ff-a838-5d88f7b57ecf)
+4. A copy of the repository will be directly included in your own account.
 
+
+## MAKING A LOCAL CLONE
+You can download the code to your computer, making a copy of the code at the exact time of the clone, and make a *pull request* in case you want to upgrade it in the future, and contribute to the project. To do so:  
+1. Copy the link to this repository (browser url)
+2. Sign in to your Github account
+3. Click on the green button "Code", and the below options will appear:
+   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e6277e74-e356-470f-b46a-a4c79362b4e1)
+  - **Local**
+     1. HTTPS: Copy link to use Git or checkout with SVN using the web URL.
+     2. GitHUb CLI: Copy the command to insert in your CLI
+     3. Open with GitHub Desktop app
+     4. Download as a ZIP
+  - **Codespaces**
+     1. You will be requested to be signed in to Codespaces, and once you are, the repository will be cloned on your Codespaces account.
+    
 # CREDITS
 
 ## CONTENT
