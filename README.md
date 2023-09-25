@@ -162,14 +162,14 @@ EDNA TORRES MUNILL
 
     * [Languages](#languages)
 
-    * [Frameworks, Libraries and Programs Used](#frameworks,-libraries-and-programs-used)
+    * [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
     
 - [DEPLOYMENT](#deployment)
 
     * [Deploy to Github Pages](#deploy-to-github-pages)
         + [Production](#production)
-
     * [Forking the Repository](#forking-the-repository)
+    * [Cloning the Repository](#cloning-the-repository)
 
 - [CREDITS](#credits)
 
@@ -1379,11 +1379,12 @@ As seen in the following screeshot taken, no **general errors** nor **contrast e
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c3f06d17-f119-45a8-b7e0-1aa9c18e9ea6)
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/598c37c8-ed9f-4534-aa0f-40b01e58aea4)
 
-      + ***Contrast issue*** on the audio>a text that would only appear in the rare case a browser wouldn't recognize the audio controls element, and in substitution of the latter:
+      + ***Contrast issue*** on the audio>a text that would only appear in the rare case a browser wouldn't recognize the audio controls element, and the text would be visible only then, in substitution of the audio element:
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e19905ba-3812-467a-aaa0-eabf6e4c610b)
+
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/9be9f285-cf11-4ad5-92b7-9064e02cc601)
 
-  * **Fixed both issues stated above**, and test result came without errors, as follows:
+  * **Fixed both issues stated above**, and test result came without errors, as follows:  
 
   ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/88d219f3-22d6-4f2b-82e1-3bb402e61833)
     
@@ -1516,7 +1517,7 @@ In case you wish to use the code, you can easily fork it. This will make a copy 
 4. A copy of the repository will be directly included in your own account.
 
 
-## MAKING A LOCAL CLONE
+## CLONING THE REPOSITORY
 You can download the code to your computer, making a copy of the code at the exact time of the clone, and make a *pull request* in case you want to upgrade it in the future, and contribute to the project. To do so:  
 1. Copy the link to this repository (browser url)
 2. Sign in to your Github account
