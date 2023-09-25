@@ -1186,6 +1186,12 @@
      font-family: 'Montserrat', 'Verdana', sans-serif;
  }
 
+ #sign_up_form input[type=text]:focus,
+ #sign_up_form input[type=email]:focus,
+ #sign_up_form textarea:focus {
+     background-color: #D6D6D6;
+ }
+
  #sign_up_form input[type=radio] {
      width: 15px;
      height: 1rem;
