@@ -976,39 +976,38 @@ Provides the user with an error page that follows the same line of design as the
 ### HOME PAGE - WIREFRAMES
 #### HOME PAGE - MOBILE AND TABLET PORTRAIT
 
-![Home Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ac94e2c1-15c6-4de8-81dc-3836919ec8b3)
+![Home Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5691b4e8-612b-49f2-9402-c1f8e035e1b2)
 
 #### HOME PAGE - DESKTOP AND TABLET LANDSCAPE
 
-![Home Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/254cff4d-37ab-4677-82eb-d8fcdf863e50)
+![Home Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/34e3b58e-7109-4856-bbfe-54a5979351c8)
 
 ### ARTHUR I PAGE - WIREFRAMES
 #### ARTHUR I PAGE - MOBILE AND TABLET PORTRAIT
 
-![Arthur I Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/720bab3f-f0ee-4c65-94e2-b54ea6295400)
+![Arthur I Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5590520-8372-4b86-a55d-08e2c4d313c6)
 
 #### ARTHUR I PAGE - DESKTOP AND TABLET LANDSCAPE
 
-![Arthur I Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3e16055a-9e02-4b37-80fc-07a330d3b51f)
+![Arthur I Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c060dd21-4773-4125-82ad-b1a7ed9ac50f)
 
 ### AVALON PAGE - WIREFRAMES
 #### AVALON PAGE - MOBILE AND TABLET PORTRAIT
 
-![Avalon Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/11cd1476-49c3-490f-bc87-c1135126f340)
+![Avalon Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c0fb69be-125b-4bfd-a1a9-40218dc1f421)
 
 #### AVALON PAGE - DESKTOP AND TABLET LANDSCAPE
 
-![Avalon Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25857640-1d85-4291-8644-66d1ccb056d3)
+![Avalon Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25084921-28da-4e84-888b-37940ef4f1c4)
 
 ### SIGN-UP PAGE - WIREFRAMES
 #### SIGN-UP PAGE - MOBILE AND TABLET PORTRAIT
 
-![Sign-up Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4fe824fc-8e75-4100-a008-61caa87be745)
+![Sign-up Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/eeaa7f5c-d82a-4ca6-8698-47fdf505b433)
 
 #### SIGN-UP PAGE - DESKTOP AND TABLET LANDSCAPE
 
-![Sign-up Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cc746c68-48af-4a8b-8194-f17165c06da5)
-
+![Sign-up Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/36526959-b8b5-40da-ae43-164a36f0de94)
 
 
 # FEATURES
