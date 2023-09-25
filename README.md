@@ -934,7 +934,7 @@ Provides the user with an error page that follows the same line of design as the
     * ***Input type=file optional*** - The user can include a file from his/her device, and send it together with the form. This option is meant for the user that has found a new curious coincidence and wants to share it.
     * ***Textarea optional*** - The user can include a message, if he/she wants to share some thoughts.
 
-  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4df633b3-20da-431e-a6a6-8ae1d93cf291)
+  ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/1b6e84e5-c6cb-4451-bb22-9bdaf2e100f9)
 
 
 # FEATURES
@@ -987,10 +987,6 @@ This page provides the user with details from academically recognised historical
 - **Footer** (features aforementioned applies to this page)
 
   
-
-
-
-
 ### AVALON PAGE - FEATURES
 This page provides the user with relevant and curious information on the Island of Guernsey, and each section is aimed at one specific aspect of why it could be the mythical Island of Avalon.
 - **Navigation Bar** (features aforementioned)
@@ -1138,13 +1134,13 @@ Please find the correspondent **compatibility and responsive testing** reflected
 | 10      | Blisk              | MacBook Pro          | Chrome 117         | macOS           |1440 x 900                    |
 | 11      | BrowserStack       | Asus ZenBook UX305   | Edge               |Windows 11       |1920 x 1080                   |
 | 12      | BrowserStack       | Asus ZenBook UX305   | Firefox 117        |Windows 11       |1920 x 1080                   |
-| 13      | BrowserStack       |                      | Safari 16.5        | OS X Ventura    |1920 x 1080                   |
+| 13      | BrowserStack       | MacBook              | Safari 16.5        | OS X Ventura    |1920 x 1080                   |
 
 
 
 
 ### TEST RECORDINGS and RESULTS
-As reflected in the test recordings below, the only issue that has been found across the different browsers and OS, is the *background-attachment:fixed* which fixes the background image in all pages. The issue has solely been found on ***Safari*** browser in ***iOS***, and as has been checked in [caniuse.com](https://caniuse.com/?search=background-attachment), as well as in Mozilla Dev, Safari in iOS does not support this property due to a bug that persists even on the newest versions (as seen in TEST 7 & TEST 8). Note that ***Safari*** on ***macOS*** does not have this bug, and background images display perfectly fixed (as seen in TEST 13) :
+As reflected in the test recordings below, the only issue that has been found across the different browsers and OS, is the *background-attachment:fixed* which fixes the background image in all pages. The issue has solely been found on ***Safari*** browser in ***iOS***, and as has been checked in [caniuse.com](https://caniuse.com/?search=background-attachment), as well as in Mozilla Dev, and both state that ***Safari in iOS does not support this property*** due to a ***bug*** that persists even on the newest versions (as seen in TEST 7 & TEST 8). Note that ***Safari*** on ***macOS*** does not have this bug, and background images display perfectly fixed (as seen in TEST 13) :
 
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7be10831-07db-4f51-8a5c-0ed22d632a81)
 
@@ -1183,14 +1179,14 @@ As reflected in the test recordings below, the only issue that has been found ac
 
 
 - **TEST no. 7**
-    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.17.0, this does not reflect the latter update, as can be seen on the following video recording:
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property ***background-attachment fixed is not supported by Safary iOS***:
 
     
   https://github.com/Ethra8/history_beyond_myth/assets/80659091/89fb1d20-f26c-487e-ad7d-8ae7d831e986
 
 
 - **TEST no. 8**
-    * Fixed background images in all pages do not display fixed, and scroll down. - the property background-attachment fixed is not supported by Safary, and even though Mozilla Dev Tools states that the property is supported since v.15.4, the truth is that testing with BrowserStack iOS v.16.3, this does not reflect the latter update, as can be seen on the following video recording:
+    * Fixed background images in all pages do not display fixed, and scroll down. - the property ***background-attachment fixed is not supported by Safary iOS***:
       ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/7d1c3c75-e619-4df2-b138-f40e63a6033d)
 
 
@@ -1248,23 +1244,18 @@ For any scenarios that have not been automated, tested the user stories and feat
 
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/f138bcba-2192-4d97-a9d2-435546975be6)
-
-    
+   
     * [x] **Try to submit the form with all inputs valid and verify no console errors appear**:  
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cdf6d89d-526d-4a7d-9745-6bad913b9246)
 
-
     * [x] **Submit goes to code institute data dump page in new tab**:  
 
     ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/953d2900-7dc1-4250-bd13-007fbc2757c8)
-
-   
+  
     * [x] **Looks good on mobile**:  
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ab54c65d-1b95-4163-a77b-83d064e27b7e)  
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8c419c12-a9de-4adc-97d6-67b8d86d5f12)
-
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/e986f0c2-5679-4590-8bf8-18ee1c90f59a)
 
     * [x] **Looks good on tablet**:  
 
@@ -1272,17 +1263,18 @@ For any scenarios that have not been automated, tested the user stories and feat
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/c59a6e7c-0a6c-4801-97f3-881dfa448ad7)
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/ad4ca3a2-38f4-4817-972b-6b4f4520ecc2)
         ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/d9358877-141d-4df4-866c-e9511336a2ca)
-        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/72d04e8e-8af2-4565-8e6b-fbac50de0668)
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/8b259ca0-df3f-412f-bde5-a9fa906626bb)
+
 
 
         + **Vertical Layout**
 
-        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a5486dbb-b2cb-47d1-854d-e56b0b085341)
+        ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/eb14a32c-3a77-42f9-9ab6-386026148546)
 
-  
     * [x] **looks good on desktop**:
 
-    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/5dd380a7-685b-4bf2-9bfd-970ba47d23b8)
+    ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/a78598ef-3ff2-4dac-ba09-3fcd7fedc124)
+
 
 
 ## DEFECT TRACKING  
