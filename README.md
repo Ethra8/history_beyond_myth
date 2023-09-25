@@ -107,7 +107,7 @@ EDNA TORRES MUNILL
 
 - [STRUCTURE](#structure)
     
-    * [Structure of Pages]
+    * [Content Structure](#content-structure)
         + [Navigation Bar - Structure](#navigation-bar---structure)
         + [Footer - Structure](#footer---structure)
         + [Home Page - Structure](#home-page---structure)
@@ -878,7 +878,7 @@ Two animations have been implemented on the media icons of the footer:
 # STRUCTURE
 The site contains 4 navigable pages, and a 404 error page, each of the pages including the following:  
 
-## STRUCTURE OF PAGES
+## CONTENT STRUCTURE
 
 ### NAVIGATION BAR - STRUCTURE
 - Contains the ***logo*** on the left, and the ***links to all the site's pages*** and the ***'about'*** section, aligned to the right.
@@ -971,7 +971,43 @@ Provides the user with an error page that follows the same line of design as the
 ![image](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fac98c2d-966e-4aa8-ae17-90b963d36247)
 
 
+## WIREFRAMES
 
+### HOME PAGE - WIREFRAMES
+#### HOME PAGE - MOBILE AND TABLET PORTRAIT
+
+![Home Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/fb063733-355c-49b3-9ccc-b56e94786242)
+
+#### HOME PAGE - DESKTOP AND TABLET LANDSCAPE
+
+![Home Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/254cff4d-37ab-4677-82eb-d8fcdf863e50)
+
+### ARTHUR I PAGE - WIREFRAMES
+#### ARTHUR I PAGE - MOBILE AND TABLET PORTRAIT
+
+![Arthur I Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/720bab3f-f0ee-4c65-94e2-b54ea6295400)
+
+#### ARTHUR I PAGE - DESKTOP AND TABLET LANDSCAPE
+
+![Arthur I Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/3e16055a-9e02-4b37-80fc-07a330d3b51f)
+
+### AVALON PAGE - WIREFRAMES
+#### AVALON PAGE - MOBILE AND TABLET PORTRAIT
+
+![Avalon Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/11cd1476-49c3-490f-bc87-c1135126f340)
+
+#### AVALON PAGE - DESKTOP AND TABLET LANDSCAPE
+
+![Avalon Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/25857640-1d85-4291-8644-66d1ccb056d3)
+
+### SIGN-UP PAGE - WIREFRAMES
+#### SIGN-UP PAGE - MOBILE AND TABLET PORTRAIT
+
+![Sign-up Page - Mobile wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/4fe824fc-8e75-4100-a008-61caa87be745)
+
+#### SIGN-UP PAGE - DESKTOP AND TABLET LANDSCAPE
+
+![Sign-up Page - Desktop wireframe](https://github.com/Ethra8/history_beyond_myth/assets/80659091/cc746c68-48af-4a8b-8194-f17165c06da5)
 
 
 
