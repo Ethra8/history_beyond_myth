@@ -255,7 +255,7 @@
  }
 
  #menuToggle,
- .show-mobile,
+ .show_mobile,
  .toggle {
      display: none;
  }
@@ -391,7 +391,7 @@
      text-align: justify;
  }
 
- #reasons-to-sign-up {
+ #reasons_to_sign_up {
      padding-bottom: 0;
  }
 
@@ -844,7 +844,7 @@
      rotate: 7deg;
  }
 
- footer .social-media {
+ footer ._ {
      display: flex;
      flex-wrap: wrap;
      justify-content: center;
@@ -1525,14 +1525,10 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          padding: 15px 3% 9px;
      }
 
-     a.show-mobile {
+     a.show_mobile {
          text-decoration: none;
          color: #595959;
          display: inline-block;
-     }
-
-     #logo.hide-mobile {
-         display: none;
      }
 
      nav #logo1 {
@@ -1566,13 +1562,13 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          transition: all 1s linear;
      }
 
-     #menuToggle:checked~ul.nav-item li {
+     #menuToggle:checked~ul.nav_item li {
          opacity: 1;
          visibility: visible;
          transition: all .7s linear;
      }
 
-     #menuToggle:checked~ul.nav-item {
+     #menuToggle:checked~ul.nav_item {
          height: fit-content;
      }
 
@@ -1985,7 +1981,7 @@ attribution to: Responsive Navigation based on Malia Havlicek's codepen: https:/
          display: none;
      }
 
-     footer .social-media {
+     footer .social_media {
          flex-direction: column;
      }
 
