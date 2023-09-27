@@ -844,7 +844,7 @@
      rotate: 7deg;
  }
 
- footer ._ {
+ footer .social_media {
      display: flex;
      flex-wrap: wrap;
      justify-content: center;
